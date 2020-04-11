@@ -1,14 +1,15 @@
-XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List:
+ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List:
 
-            Software Version:   V10.07  Date : 4.5th.2020
-           Supported Devices:   16115 pcs
+            Software Version:   V10.08  Date : 4.11th.2020
+           Supported Devices:   16166 pcs
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
 
-  [ ACE ]     
+
+ [ ACE ]     
 
       ACE24AC02                         ACE24AC02 @SOIC8                  ACE24AC02 @TSSOP8                 ACE24AC04                         
       ACE24AC04 @SOIC8                  ACE24AC04 @TSSOP8                 ACE24AC08                         ACE24AC08 @SOIC8                  
@@ -792,9 +793,10 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
       24C04 @SOIC8                      24C04 @TSSOP8                     24C08                             24C08 @SOIC8                      
       24C08 @TSSOP8                     24C16                             24C16 @SOIC8                      24C16 @TSSOP8                     
       24C32                             24C32 @SOIC8                      24C32 @TSSOP8                     24C64                             
-      24C64 @SOIC8                      24C64 @TSSOP8                     
+      24C64 @SOIC8                      24C64 @TSSOP8                     AC39LV080  @TSOP40                AC39LV088  @TSOP48                
+      AC39VF080  @TSOP40                AC39VF088  @TSOP48                
 
-         IC Support: 18 PCS
+         IC Support: 22 PCS
 
  [ BRIGHT ]     
 
@@ -1004,16 +1006,22 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
       EN29F040   @PLCC32                EN29F040   @TSOP32                EN29F040A  @DIP32                 EN29F040A  @PLCC32                
       EN29F040A  @TSOP32                EN29F800B  @TSOP48                EN29F800T  @TSOP48                EN29LV010  @PLCC32                
       EN29LV010  @TSOP32                EN29LV040  @PLCC32                EN29LV040  @TSOP32                EN29LV040A @DIP32                 
-      EN29LV040A @PLCC32                EN29LV040A @TSOP32                EN29LV400T  @TSOP48               EN29LV400B  @TSOP48               
-      EN29LV400AT @TSOP48               EN29LV400AB @TSOP48               EN29LV800T  @TSOP48               EN29LV800B  @TSOP48               
-      EN29LV800AT @TSOP48               EN29LV800AB @TSOP48               EN29LV800BT @TSOP48               EN29LV800BB @TSOP48               
+      EN29LV040A @PLCC32                EN29LV040A @TSOP32                EN39LV010  @PLCC32                EN39LV010  @TSOP32                
+      EN29LV400T  @TSOP48               EN29LV400B  @TSOP48               EN29LV400AT @TSOP48               EN29LV400AB @TSOP48               
+      EN29LV400BT @TSOP48               EN29LV400BB @TSOP48               EN29LV400JT @TSOP48               EN29LV400JB @TSOP48               
+      EN29LV800T  @TSOP48               EN29LV800B  @TSOP48               EN29LV800AT @TSOP48               EN29LV800AB @TSOP48               
+      EN29LV800BT @TSOP48               EN29LV800BB @TSOP48               EN29LV800JT @TSOP48               EN29LV800JB @TSOP48               
       EN29LV160T  @TSOP48               EN29LV160B  @TSOP48               EN29LV160AT @TSOP48               EN29LV160AB @TSOP48               
+      EN29LV160BT @TSOP48               EN29LV160BB @TSOP48               EN29LV160CT @TSOP48               EN29LV160CB @TSOP48               
       EN29LV160JT @TSOP48               EN29LV160JB @TSOP48               EN29LV320T  @TSOP48               EN29LV320B  @TSOP48               
+      EN29LV320AT  @TSOP48              EN29LV320AB  @TSOP48              EN29LV320BT  @TSOP48              EN29LV320BB  @TSOP48              
+      EN29LV320CT  @TSOP48              EN29LV320CB  @TSOP48              EN29LV640AB @TSOP48               EN29LV640AT @TSOP48               
       EN29LV640B  @TSOP48               EN29LV640H  @TSOP48               EN29LV640L  @TSOP48               EN29LV640T  @TSOP48               
-      EN29LV641H  @TSOP48               EN29LV641L  @TSOP48               EN29LV641U  @TSOP48               EN39LV010  @PLCC32                
-      EN39LV010  @TSOP32                EN39SL800  @TSOP48                EN39SL160H @TSOP48                EN39SL160L @TSOP48                
+      EN29LV641H  @TSOP48               EN29LV641L  @TSOP48               EN29LV641U  @TSOP48               EN29SL400T  @TSOP48               
+      EN29SL400B  @TSOP48               EN29SL800T  @TSOP48               EN29SL800B  @TSOP48               EN29SL160T  @TSOP48               
+      EN29SL160B  @TSOP48               
 
-         IC Support: 296 PCS
+         IC Support: 317 PCS
 
  [ CHINGIS ]     
 
@@ -1307,9 +1315,11 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
       F25L64Q                           F25L64Q @SOP8                     F49L004U @PLCC32                  F49L004U @TSOP40                  
       F49L004B @PLCC32                  F49L004B @TSOP40                  F49L040A @PLCC32                  F49L040A @TSOP32                  
       F49L400UA @TSOP48                 F49L400BA @TSOP48                 F49L800UA @TSOP48                 F49L800BA @TSOP48                 
-      F49L160UA @TSOP48                 F49L160BA @TSOP48                 
+      F49L160UA @TSOP48                 F49L160BA @TSOP48                 F49L320UA @TSOP48                 F49L320BA @TSOP48                 
+      F59L1G81A @TSOP48                 F59L1G81MA @TSOP48                F59L2G81A @TSOP48                 F59L4G81A @TSOP48                 
+      F59L512M81A @TSOP48               
 
-         IC Support: 38 PCS
+         IC Support: 45 PCS
 
  [ ESTEK ]     
 
@@ -1327,15 +1337,15 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
       ES25P16 @SOIC8                    ES25P32 @SOIC8                    ES25M40A                          ES25M40A @SOIC8                   
       ES25M40A @WSON8                   ES25M40A @SOP16                   ES25M80A                          ES25M80A @SOIC8                   
       ES25M80A @WSON8                   ES25M80A @SOP16                   ES25M16A                          ES25M16A @SOIC8                   
-      ES25M16A @WSON8                   ES25M16A @SOP16                   ES29LV400DB @TSOP48               ES29LV400DT @TSOP48               
-      ES29LV400EB @TSOP48               ES29LV400ET @TSOP48               ES29LV400FB @TSOP48               ES29LV400FT @TSOP48               
-      ES29LV800DB @TSOP48               ES29LV800DT @TSOP48               ES29LV800EB @TSOP48               ES29LV800ET @TSOP48               
-      ES29LV800FB @TSOP48               ES29LV800FT @TSOP48               ES29LV160DB @TSOP48               ES29LV160DT @TSOP48               
-      ES29LV160EB @TSOP48               ES29LV160ET @TSOP48               ES29LV160FB @TSOP48               ES29LV160FT @TSOP48               
-      ES29LV320DB @TSOP48               ES29LV320DT @TSOP48               ES29LV320EB @TSOP48               ES29LV320ET @TSOP48               
-      ES29LV320FB @TSOP48               ES29LV320FT @TSOP48               
+      ES25M16A @WSON8                   ES25M16A @SOP16                   ES29DL320B @TSOP48                ES29DL320T @TSOP48                
+      ES29LV400DB @TSOP48               ES29LV400DT @TSOP48               ES29LV400EB @TSOP48               ES29LV400ET @TSOP48               
+      ES29LV400FB @TSOP48               ES29LV400FT @TSOP48               ES29LV800DB @TSOP48               ES29LV800DT @TSOP48               
+      ES29LV800EB @TSOP48               ES29LV800ET @TSOP48               ES29LV800FB @TSOP48               ES29LV800FT @TSOP48               
+      ES29LV160DB @TSOP48               ES29LV160DT @TSOP48               ES29LV160EB @TSOP48               ES29LV160ET @TSOP48               
+      ES29LV160FB @TSOP48               ES29LV160FT @TSOP48               ES29LV320DB @TSOP48               ES29LV320DT @TSOP48               
+      ES29LV320EB @TSOP48               ES29LV320ET @TSOP48               ES29LV320FB @TSOP48               ES29LV320FT @TSOP48               
 
-         IC Support: 42 PCS
+         IC Support: 44 PCS
 
  [ EXEL ]     
 
@@ -1460,10 +1470,10 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
       FM25M64A(1.8V)                    FM25M64A(1.8V) @SOP8              FM25M64A(1.8V) @WSON8             FM25M64A(1.8V) @SOP16             
       FM25M64C(1.8V)                    FM25M64C(1.8V) @SOP8              FM25M64C(1.8V) @WSON8             FM25M64C(1.8V) @SOP16             
       FM25M4AA(1.8V)                    FM25M4AA(1.8V) @SOP8              FM25M4AA(1.8V) @WSON8             FM25M4AA(1.8V) @SOP16             
-      FM25M4SA(1.8V) @SOIC8             FM25M4SA(1.8V) @SOIC16            FMND1G08U3D  @TSOP48              FMND1G08U3J  @TSOP48              
-      FMND2G08U3D  @TSOP48              FMND2G08U3J  @TSOP48              
+      FM25M4SA(1.8V) @SOIC8             FM25M4SA(1.8V) @SOIC16            FMND1G08U3A @TSOP48               FMND1G08U3B @TSOP48               
+      FMND1G08U3D @TSOP48               FMND1G08U3J @TSOP48               FMND2G08U3B @TSOP48               FMND2G08U3J @TSOP48               
 
-         IC Support: 62 PCS
+         IC Support: 64 PCS
 
  [ FIRST-RANK ]     
 
@@ -3751,15 +3761,17 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
 
  [ SHARP ]     
 
-      LH28F004SC @TSOP40                LH28F008SA @TSOP40                LH28F008SC @TSOP40                LH28F016SC @TSOP40                
-      LH28F160BJE-B @TSOP48             LH28F160BJE-T @TSOP48             LH28F320BJE-PB @TSOP48            LH28F320BJE-PT @TSOP48            
-      LH28F400SU @TSOP48                LH28F400SU @SOP44                 LH28F400BVE @TSOP48               LH28F400BGE-B @TSOP48             
-      LH28F400BGE-T @TSOP48             LH28F400BGHE-B @TSOP48            LH28F400BGHE-T @TSOP48            LH28F400BVHE-B @TSOP48            
-      LH28F400BVHE-T @TSOP48            LH28F640BFE-PB @TSOP48            LH28F640BFE-PT @TSOP48            LH28F640BFHE-PB @TSOP48           
-      LH28F640BFHE-PT @TSOP48           LH28F800BGE-B @TSOP48             LH28F800BGE-T @TSOP48             LH28F800BGHE-B @TSOP48            
-      LH28F800BGHE-T @TSOP48            LH28F800BVHE-BTL @TSOP48          LH28F800BVHE-TTL @TSOP48          
+      LH28F002SCHT @TSOP40              LH28F002SCT @TSOP40               LH28F004SCHT @TSOP40              LH28F004SCT @TSOP40               
+      LH28F004SUT-L @TSOP40             LH28F004SUT-N @TSOP40             LH28F008BJT-BTLZ @TSOP40          LH28F008BJT-TTLZ @TSOP40          
+      LH28F008SA @TSOP40                LH28F008SC @TSOP40                LH28F016SC @TSOP40                LH28F160BJE-B @TSOP48             
+      LH28F160BJE-T @TSOP48             LH28F320BJE-PB @TSOP48            LH28F320BJE-PT @TSOP48            LH28F400SU @TSOP48                
+      LH28F400SU @SOP44                 LH28F400BVE @TSOP48               LH28F400BGE-B @TSOP48             LH28F400BGE-T @TSOP48             
+      LH28F400BGHE-B @TSOP48            LH28F400BGHE-T @TSOP48            LH28F400BVHE-B @TSOP48            LH28F400BVHE-T @TSOP48            
+      LH28F640BFE-PB @TSOP48            LH28F640BFE-PT @TSOP48            LH28F640BFHE-PB @TSOP48           LH28F640BFHE-PT @TSOP48           
+      LH28F800BGE-B @TSOP48             LH28F800BGE-T @TSOP48             LH28F800BGHE-B @TSOP48            LH28F800BGHE-T @TSOP48            
+      LH28F800BVHE-BTL @TSOP48          LH28F800BVHE-TTL @TSOP48          
 
-         IC Support: 27 PCS
+         IC Support: 34 PCS
 
  [ SIEMENS ]     
 
@@ -4326,9 +4338,11 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
       ST93CS46 @SOIC8                   ST93CS47                          ST93CS47 @SOIC8                   ST93CS56                          
       ST93CS56 @SOIC8                   ST93CS57                          ST93CS57 @SOIC8                   ST93CS66                          
       ST93CS66 @SOIC8                   ST93CS66 @SOIC14                  ST93CS67                          ST93CS67 @SOIC8                   
-      ST93CS67 @SOIC14                  TS27C256 @DIP28                   TS27C64A @DIP28                   TS27C64A @PLCC32                  
+      ST93CS67 @SOIC14                  ST95P02                           ST95P02 @SOIC8                    ST95P04                           
+      ST95P04 @SOIC8                    ST95P08                           ST95P08 @SOIC8                    TS27C256 @DIP28                   
+      TS27C64A @DIP28                   TS27C64A @PLCC32                  
 
-         IC Support: 844 PCS
+         IC Support: 850 PCS
 
  [ SUMMIT ]     
 
@@ -4869,4 +4883,4 @@ XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List
          IC Support: 168 PCS
 
 
-   Total: 16115 PCS
+   Total: 16166 PCS

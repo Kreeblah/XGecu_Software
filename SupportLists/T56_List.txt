@@ -1,25 +1,24 @@
-XGecu T56 Universal Programmer Device Support List:
+ XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V10.07  Date : 4.5th.2020
-           Supported Devices:   22387 pcs 
+            Software Version:   V10.08  Date : 4.11th.2020
+           Supported Devices:   22651 pcs 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================  
- 
 
- [ AUTO ]     
+[ AUTO ]     
 
-      AUTO EMMC(ISP)_4B_3.3V            AUTO EMMC(ISP)_4B_1.8V            AUTO EMMC(ISP)_1B_3.3V            AUTO EMMC(ISP)_1B_1.8V            
-      AUTO EMMC_8B_3.3V @BGA100         AUTO EMMC_8B_1.8V @BGA100         AUTO EMMC_4B_3.3V @BGA100         AUTO EMMC_4B_1.8V @BGA100         
-      AUTO EMMC_1B_3.3V @BGA100         AUTO EMMC_1B_1.8V @BGA100         AUTO EMMC_8B_3.3V @BGA153         AUTO EMMC_8B_1.8V @BGA153         
-      AUTO EMMC_4B_3.3V @BGA153         AUTO EMMC_4B_1.8V @BGA153         AUTO EMMC_1B_3.3V @BGA153         AUTO EMMC_1B_1.8V @BGA153         
-      AUTO EMMC_8B_3.3V @BGA162         AUTO EMMC_8B_1.8V @BGA162         AUTO EMMC_4B_3.3V @BGA162         AUTO EMMC_4B_1.8V @BGA162         
-      AUTO EMMC_1B_3.3V @BGA162         AUTO EMMC_1B_1.8V @BGA162         AUTO EMMC_8B_3.3V @BGA169         AUTO EMMC_8B_1.8V @BGA169         
-      AUTO EMMC_4B_3.3V @BGA169         AUTO EMMC_4B_1.8V @BGA169         AUTO EMMC_1B_3.3V @BGA169         AUTO EMMC_1B_1.8V @BGA169         
-      AUTO EMMC_8B_3.3V @BGA221         AUTO EMMC_8B_1.8V @BGA221         AUTO EMMC_4B_3.3V @BGA221         AUTO EMMC_4B_1.8V @BGA221         
-      AUTO EMMC_1B_3.3V @BGA221         AUTO EMMC_1B_1.8V @BGA221         
+      AUTO EMMC(ISP)_1B_1.8V(recommend) AUTO EMMC(ISP)_1B_3.3V            AUTO EMMC(ISP)_4B_1.8V            AUTO EMMC(ISP)_4B_3.3V            
+      AUTO EMMC_8B_1.8V @BGA100(recommend)AUTO EMMC_8B_3.3V @BGA100         AUTO EMMC_4B_1.8V @BGA100         AUTO EMMC_4B_3.3V @BGA100         
+      AUTO EMMC_1B_1.8V @BGA100         AUTO EMMC_1B_3.3V @BGA100         AUTO EMMC_8B_1.8V @BGA153(recommend)AUTO EMMC_8B_3.3V @BGA153         
+      AUTO EMMC_4B_1.8V @BGA153         AUTO EMMC_4B_3.3V @BGA153         AUTO EMMC_1B_1.8V @BGA153         AUTO EMMC_1B_3.3V @BGA153         
+      AUTO EMMC_8B_1.8V @BGA162(recommend)AUTO EMMC_8B_3.3V @BGA162         AUTO EMMC_4B_1.8V @BGA162         AUTO EMMC_4B_3.3V @BGA162         
+      AUTO EMMC_1B_1.8V @BGA162         AUTO EMMC_1B_3.3V @BGA162         AUTO EMMC_8B_1.8V @BGA169(recommend)AUTO EMMC_8B_3.3V @BGA169         
+      AUTO EMMC_4B_1.8V @BGA169         AUTO EMMC_4B_3.3V @BGA169         AUTO EMMC_1B_1.8V @BGA169         AUTO EMMC_1B_3.3V @BGA169         
+      AUTO EMMC_8B_1.8V @BGA221(recommend)AUTO EMMC_8B_3.3V @BGA221         AUTO EMMC_4B_1.8V @BGA221         AUTO EMMC_4B_3.3V @BGA221         
+      AUTO EMMC_1B_1.8V @BGA221         AUTO EMMC_1B_3.3V @BGA221         
 
          IC Support: 34 PCS
 
@@ -456,7 +455,7 @@ XGecu T56 Universal Programmer Device Support List:
       AS29LV400T @SOP44                 AS29LV400T @BGA48                 AS29LV800B @TSOP48                AS29LV800B @SOP44                 
       AS29LV800B @BGA48                 AS29LV800T @TSOP48                AS29LV800T @SOP44                 AS29LV800T @BGA48                 
       AS28F128J3ARG @TSOP56             AS28F128J3APBG @EBGA64            AS28F128J3MRG @TSOP56             AS28F128J3MPBG @EBGA64            
-      AM29F016  @TSOP48                 AM29F016B @TSOP48                 AM29F016D @TSOP48                 
+      AS29F016  @TSOP48                 AS29F016B @TSOP48                 AS29F016D @TSOP48                 
 
          IC Support: 43 PCS
 
@@ -837,9 +836,10 @@ XGecu T56 Universal Programmer Device Support List:
       24C04 @SOIC8                      24C04 @TSSOP8                     24C08                             24C08 @SOIC8                      
       24C08 @TSSOP8                     24C16                             24C16 @SOIC8                      24C16 @TSSOP8                     
       24C32                             24C32 @SOIC8                      24C32 @TSSOP8                     24C64                             
-      24C64 @SOIC8                      24C64 @TSSOP8                     
+      24C64 @SOIC8                      24C64 @TSSOP8                     AC39LV080  @TSOP40                AC39LV088  @TSOP48                
+      AC39VF080  @TSOP40                AC39VF088  @TSOP48                
 
-         IC Support: 18 PCS
+         IC Support: 22 PCS
 
  [ BRIGHT ]     
 
@@ -1049,18 +1049,43 @@ XGecu T56 Universal Programmer Device Support List:
       EN29F040   @PLCC32                EN29F040   @TSOP32                EN29F040A  @DIP32                 EN29F040A  @PLCC32                
       EN29F040A  @TSOP32                EN29F800B  @TSOP48                EN29F800T  @TSOP48                EN29LV010  @PLCC32                
       EN29LV010  @TSOP32                EN29LV040  @PLCC32                EN29LV040  @TSOP32                EN29LV040A @DIP32                 
-      EN29LV040A @PLCC32                EN29LV040A @TSOP32                EN29GL032H @TSOP56                EN29GL032L @TSOP56                
-      EN29GL064H @TSOP56                EN29GL064L @TSOP56                EN29GL128H @TSOP56                EN29GL128L @TSOP56                
-      EN29GL256H @TSOP56                EN29GL256L @TSOP56                EN29LV400T  @TSOP48               EN29LV400B  @TSOP48               
-      EN29LV400AT @TSOP48               EN29LV400AB @TSOP48               EN29LV800T  @TSOP48               EN29LV800B  @TSOP48               
-      EN29LV800AT @TSOP48               EN29LV800AB @TSOP48               EN29LV800BT @TSOP48               EN29LV800BB @TSOP48               
-      EN29LV160T  @TSOP48               EN29LV160B  @TSOP48               EN29LV160AT @TSOP48               EN29LV160AB @TSOP48               
-      EN29LV160JT @TSOP48               EN29LV160JB @TSOP48               EN29LV320T  @TSOP48               EN29LV320B  @TSOP48               
-      EN29LV640B  @TSOP48               EN29LV640H  @TSOP48               EN29LV640L  @TSOP48               EN29LV640T  @TSOP48               
-      EN29LV641H  @TSOP48               EN29LV641L  @TSOP48               EN29LV641U  @TSOP48               EN39LV010  @PLCC32                
-      EN39LV010  @TSOP32                EN39SL800  @TSOP48                EN39SL160H @TSOP48                EN39SL160L @TSOP48                
+      EN29LV040A @PLCC32                EN29LV040A @TSOP32                EN29GL032  @TSOP48                EN29GL032  @BGA8                  
+      EN29GL032  @TSOP56                EN29GL064AB @TSOP48               EN29GL064AB @BGA48                EN29GL064AT @TSOP48               
+      EN29GL064AT @BGA48                EN29GL064B @TSOP48                EN29GL064B @TSOP56                EN29GL064B @BGA48                 
+      EN29GL064B @BGA64                 EN29GL064H @TSOP56                EN29GL064H @BGA48                 EN29GL064H @BGA64                 
+      EN29GL064L @TSOP56                EN29GL064L @BGA48                 EN29GL064L @BGA64                 EN29GL064T @TSOP48                
+      EN29GL064T @TSOP56                EN29GL064T @BGA48                 EN29GL064T @BGA64                 EN29GL128H @TSOP56                
+      EN29GL128H @BGA64                 EN29GL128L @TSOP56                EN29GL128L @BGA64                 EN29GL256H @TSOP56                
+      EN29GL256H @BGA64                 EN29GL256L @TSOP56                EN29GL256L @BGA64                 EN39LV010  @PLCC32                
+      EN39LV010  @TSOP32                EN29LV400T  @TSOP48               EN29LV400T  @BGA48                EN29LV400B  @TSOP48               
+      EN29LV400B  @BGA48                EN29LV400AT @TSOP48               EN29LV400AT @BGA48                EN29LV400AB @TSOP48               
+      EN29LV400AB @BGA48                EN29LV400BT @TSOP48               EN29LV400BT @BGA48                EN29LV400BB @TSOP48               
+      EN29LV400BB @BGA48                EN29LV400JT @TSOP48               EN29LV400JB @TSOP48               EN29LV800T  @TSOP48               
+      EN29LV800T  @BGA48                EN29LV800B  @TSOP48               EN29LV800B  @BGA48                EN29LV800AT @TSOP48               
+      EN29LV800AT @BGA48                EN29LV800AB @TSOP48               EN29LV800AB @BGA48                EN29LV800BT @TSOP48               
+      EN29LV800BT @BGA48                EN29LV800BB @TSOP48               EN29LV800BB @BGA48                EN29LV800JT @TSOP48               
+      EN29LV800JB @TSOP48               EN29LV160T  @TSOP48               EN29LV160T  @BGA48                EN29LV160B  @TSOP48               
+      EN29LV160B  @BGA48                EN29LV160AT @TSOP48               EN29LV160AT @BGA48                EN29LV160AB @TSOP48               
+      EN29LV160AB @BGA48                EN29LV160BT @TSOP48               EN29LV160BT @BGA48                EN29LV160BB @TSOP48               
+      EN29LV160BB @BGA48                EN29LV160CT @TSOP48               EN29LV160CT @BGA48                EN29LV160CB @TSOP48               
+      EN29LV160CB @BGA48                EN29LV160JT @TSOP48               EN29LV160JB @TSOP48               EN29LV320T  @TSOP48               
+      EN29LV320T  @BGA48                EN29LV320B  @TSOP48               EN29LV320B  @BGA48                EN29LV320AT  @TSOP48              
+      EN29LV320AT  @BGA48               EN29LV320AB  @TSOP48              EN29LV320AB  @BGA48               EN29LV320BT  @TSOP48              
+      EN29LV320BT  @BGA48               EN29LV320BB  @TSOP48              EN29LV320BB  @BGA48               EN29LV320CT  @TSOP48              
+      EN29LV320CT  @BGA48               EN29LV320CB  @TSOP48              EN29LV320CB  @BGA48               EN29LV640AB @TSOP48               
+      EN29LV640AB @BGA48                EN29LV640AT @TSOP48               EN29LV640AT  @BGA48               EN29LV640B  @TSOP48               
+      EN29LV640B  @BGA48                EN29LV640H  @TSOP48               EN29LV640H  @BGA48                EN29LV640L  @TSOP48               
+      EN29LV640L  @BGA48                EN29LV640T  @TSOP48               EN29LV640T  @BGA48                EN29LV641H  @TSOP48               
+      EN29LV641H  @BGA48                EN29LV641L  @TSOP48               EN29LV641L  @BGA48                EN29LV641U  @TSOP48               
+      EN29LV641U  @BGA48                EN29PL320 @TSOP48                 EN29PL320A @TSOP48                EN29PL640 @TSOP48                 
+      EN29SL400T  @TSOP48               EN29SL400T  @BGA48                EN29SL400B  @TSOP48               EN29SL400B  @BGA48                
+      EN29SL800T  @TSOP48               EN29SL800T  @BGA48                EN29SL800B  @TSOP48               EN29SL800B  @BGA48                
+      EN29SL160T  @TSOP48               EN29SL160T  @BGA48                EN29SL160B  @TSOP48               EN29SL160B  @BGA48                
+      EN39SL800  @TSOP48                EN39SL800  @BGA48                 EN39SL160AH @TSOP48               EN39SL160AH @BGA48                
+      EN39SL160AL @TSOP48               EN39SL160AL @BGA48                EN39SL160H @TSOP48                EN39SL160H @BGA48                 
+      EN39SL160L @TSOP48                EN39SL160L @BGA48                 
 
-         IC Support: 304 PCS
+         IC Support: 402 PCS
 
  [ CHINGIS ]     
 
@@ -1166,44 +1191,55 @@ XGecu T56 Universal Programmer Device Support List:
       CY27C128 @PLCC32                  CY27C256 @DIP28                   CY27C256 @PLCC32                  CY27C512 @DIP28                   
       CY27C512 @PLCC32                  CY27H010 @DIP32                   CY27H010 @PLCC32                  CY27H010 @TSOP32                  
       CY27H256 @DIP28                   CY27H256 @PLCC32                  CY27H512 @DIP28                   CY27H512 @PLCC32                  
-      S29GL01GPxxTxx01 @TSOP56          S29GL01GPxxTxx02 @TSOP56          S29GL01GPxxTxxR1 @TSOP56          S29GL01GPxxTxxR2 @TSOP56          
-      S29GL01GPxxTxxV1 @TSOP56          S29GL01GPxxTxxV2 @TSOP56          S29GL01GSxxTFx01 @TSOP56          S29GL01GSxxTFx02 @TSOP56          
-      S29GL01GSxxTFxV1 @TSOP56          S29GL01GSxxTFxV2 @TSOP56          S29GL01GTxxTFx01 @TSOP56          S29GL01GTxxTFx02 @TSOP56          
-      S29GL01GTxxTFxV1 @TSOP56          S29GL01GTxxTFxV2 @TSOP56          S29GL032NxxTxx01 @TSOP56          S29GL032NxxTxx02 @TSOP56          
-      S29GL032NxxTxxR1 @TSOP56          S29GL032NxxTxxR2 @TSOP56          S29GL032NxxTxxV1 @TSOP56          S29GL032NxxTxxV2 @TSOP56          
-      S29GL064NxxTxx01 @TSOP56          S29GL064NxxTxx02 @TSOP56          S29GL064NxxTxxR1 @TSOP56          S29GL064NxxTxxR2 @TSOP56          
-      S29GL064NxxTxxV1 @TSOP56          S29GL064NxxTxxV2 @TSOP56          S29GL064SxxTxx01 @TSOP56          S29GL064SxxTxx02 @TSOP56          
-      S29GL064SxxTxxV1 @TSOP56          S29GL064SxxTxxV2 @TSOP56          S29GL128NxxTAx01 @TSOP56          S29GL128NxxTAx02 @TSOP56          
-      S29GL128NxxTAxR1 @TSOP56          S29GL128NxxTAxR2 @TSOP56          S29GL128NxxTAxV1 @TSOP56          S29GL128NxxTAxV2 @TSOP56          
-      S29GL128NxxTFx01 @TSOP56          S29GL128NxxTFx02 @TSOP56          S29GL128NxxTFxR1 @TSOP56          S29GL128NxxTFxR2 @TSOP56          
-      S29GL128NxxTFxV1 @TSOP56          S29GL128NxxTFxV2 @TSOP56          S29GL128PxxTxx01 @TSOP56          S29GL128PxxTxx02 @TSOP56          
-      S29GL128PxxTxxR1 @TSOP56          S29GL128PxxTxxR2 @TSOP56          S29GL128PxxTxxV1 @TSOP56          S29GL128PxxTxxV2 @TSOP56          
-      S29GL128SxxTFx01 @TSOP56          S29GL128SxxTFx02 @TSOP56          S29GL128SxxTFxV1 @TSOP56          S29GL128SxxTFxV2 @TSOP56          
-      S29GL256NxxTAx01 @TSOP56          S29GL256NxxTAx02 @TSOP56          S29GL256NxxTAxR1 @TSOP56          S29GL256NxxTAxR2 @TSOP56          
-      S29GL256NxxTAxV1 @TSOP56          S29GL256NxxTAxV2 @TSOP56          S29GL256NxxTFx01 @TSOP56          S29GL256NxxTFx02 @TSOP56          
-      S29GL256NxxTFxR1 @TSOP56          S29GL256NxxTFxR2 @TSOP56          S29GL256NxxTFxV1 @TSOP56          S29GL256NxxTFxV2 @TSOP56          
-      S29GL256PxxTxx01 @TSOP56          S29GL256PxxTxx02 @TSOP56          S29GL256PxxTxxR1 @TSOP56          S29GL256PxxTxxR2 @TSOP56          
-      S29GL256PxxTxxV1 @TSOP56          S29GL256PxxTxxV2 @TSOP56          S29GL256SxxTFx01 @TSOP56          S29GL256SxxTFx02 @TSOP56          
-      S29GL256SxxTFxV1 @TSOP56          S29GL256SxxTFxV2 @TSOP56          S29GL512NxxTAx01 @TSOP56          S29GL512NxxTAx02 @TSOP56          
-      S29GL512NxxTAxR1 @TSOP56          S29GL512NxxTAxR2 @TSOP56          S29GL512NxxTAxV1 @TSOP56          S29GL512NxxTAxV2 @TSOP56          
-      S29GL512NxxTFx01 @TSOP56          S29GL512NxxTFx02 @TSOP56          S29GL512NxxTFxR1 @TSOP56          S29GL512NxxTFxR2 @TSOP56          
-      S29GL512NxxTFxV1 @TSOP56          S29GL512NxxTFxV2 @TSOP56          S29GL512PxxTxx01 @TSOP56          S29GL512PxxTxx02 @TSOP56          
-      S29GL512PxxTxxR1 @TSOP56          S29GL512PxxTxxR2 @TSOP56          S29GL512PxxTxxV1 @TSOP56          S29GL512PxxTxxV2 @TSOP56          
-      S29GL512SxxTFx01 @TSOP56          S29GL512SxxTFx02 @TSOP56          S29GL512SxxTFxV1 @TSOP56          S29GL512SxxTFxV2 @TSOP56          
-      S29GL512TxxTFx01 @TSOP56          S29GL512TxxTFx02 @TSOP56          S29GL512TxxTFxV1 @TSOP56          S29GL512TxxTFxV2 @TSOP56          
-      S30ML512P30Txx00 @TSOP48          S30ML512P30Txx50 @TSOP48          S30ML512P50Txx01 @TSOP48          S30ML512P50Txx51 @TSOP48          
-      S30ML01GP30Txx00 @TSOP48          S30ML01GP30Txx50 @TSOP48          S30ML01GP50Txx01 @TSOP48          S30ML01GP50Txx51 @TSOP48          
-      S30ML02GP30Txx00 @TSOP48          S30ML02GP30Txx50 @TSOP48          S30ML02GP50Txx01 @TSOP48          S30ML02GP50Txx51 @TSOP48          
-      S30MS512P25Txx00 @TSOP48          S30MS512P25Txx01 @TSOP48          S30MS512P25Txx50 @TSOP48          S30MS512P25Txx51 @TSOP48          
-      S30MS512R25Txx00 @TSOP48          S30MS512R25Txx01 @TSOP48          S30MS512R25Txx10 @TSOP48          S30MS512R25Txx11 @TSOP48          
-      S30MS512R25Txx20 @TSOP48          S30MS512R25Txx21 @TSOP48          S30MS01GP25Txx00 @TSOP48          S30MS01GP25Txx01 @TSOP48          
-      S30MS01GP25Txx50 @TSOP48          S30MS01GP25Txx51 @TSOP48          S30MS01GR25Txx00 @TSOP48          S30MS01GR25Txx01 @TSOP48          
-      S30MS01GR25Txx10 @TSOP48          S30MS01GR25Txx11 @TSOP48          S30MS01GR25Txx20 @TSOP48          S30MS01GR25Txx21 @TSOP48          
-      S30MS02GR25Txx00 @TSOP48          S30MS02GR25Txx01 @TSOP48          S30MS02GR25Txx10 @TSOP48          S30MS02GR25Txx11 @TSOP48          
-      S30MS02GR25Txx20 @TSOP48          S30MS02GR25Txx21 @TSOP48          S30MS04GR25Txx00 @TSOP48          S30MS04GR25Txx01 @TSOP48          
-      S30MS04GR25Txx10 @TSOP48          S30MS04GR25Txx11 @TSOP48          S30MS04GR25Txx20 @TSOP48          S30MS04GR25Txx21 @TSOP48          
-      S34ML02G104TFI01 @TSOP48          S34ML02G104BHI01 @VFBGA63         S34ML01G1 @TSOP48                 S34ML01G2 @TSOP48                 
-      S34ML02G1 @TSOP48                 S34ML02G2 @TSOP48                 S34ML04G1 @TSOP48                 S34ML04G2 @TSOP48                 
+      S29AS008J70BFI03 @FBGA48          S29AS008J70BFI04 @FBGA48          S29AS008J70BHI03 @FBGA48          S29AS008J70BHI04 @FBGA48          
+      S29AS008J70TFI01 @TSOP48          S29AS008J70TFI02 @TSOP48          S29AS008J70TFI03 @TSOP48          S29AS008J70TFI04 @TSOP48          
+      S29AS016J70BFI01 @FBGA48          S29AS016J70BFI02 @FBGA48          S29AS016J70BFI03 @FBGA48          S29AS016J70BFI04 @FBGA48          
+      S29AS016J70BFV03 @FBGA48          S29AS016J70BFV04 @FBGA48          S29AS016J70BHI01 @FBGA48          S29AS016J70BHI02 @FBGA48          
+      S29AS016J70BHI03 @FBGA48          S29AS016J70BHI04 @FBGA48          S29AS016J70BHIF3 @FBGA48          S29AS016J70BHIF4 @FBGA48          
+      S29AS016J70BHV03 @FBGA48          S29AS016J70BHV04 @FBGA48          S29AS016J70TFI01 @TSOP48          S29AS016J70TFI02 @TSOP48          
+      S29AS016J70TFI03 @TSOP48          S29AS016J70TFI04 @TSOP48          S29AS016J90BFV03 @FBGA48          S29AS016J90BFV04 @FBGA48          
+      S29AS016J90BHV03 @FBGA48          S29AS016J90BHV04 @FBGA48          S29GL01GPxxTxx01 @TSOP56          S29GL01GPxxTxx02 @TSOP56          
+      S29GL01GPxxTxxR1 @TSOP56          S29GL01GPxxTxxR2 @TSOP56          S29GL01GPxxTxxV1 @TSOP56          S29GL01GPxxTxxV2 @TSOP56          
+      S29GL01GSxxTFx01 @TSOP56          S29GL01GSxxTFx02 @TSOP56          S29GL01GSxxTFxV1 @TSOP56          S29GL01GSxxTFxV2 @TSOP56          
+      S29GL01GTxxTFx01 @TSOP56          S29GL01GTxxTFx02 @TSOP56          S29GL01GTxxTFxV1 @TSOP56          S29GL01GTxxTFxV2 @TSOP56          
+      S29GL032NxxTxx01 @TSOP56          S29GL032NxxTxx02 @TSOP56          S29GL032NxxTxxR1 @TSOP56          S29GL032NxxTxxR2 @TSOP56          
+      S29GL032NxxTxxV1 @TSOP56          S29GL032NxxTxxV2 @TSOP56          S29GL064NxxTxx01 @TSOP56          S29GL064NxxTxx02 @TSOP56          
+      S29GL064NxxTxxR1 @TSOP56          S29GL064NxxTxxR2 @TSOP56          S29GL064NxxTxxV1 @TSOP56          S29GL064NxxTxxV2 @TSOP56          
+      S29GL064SxxTxx01 @TSOP56          S29GL064SxxTxx02 @TSOP56          S29GL064SxxTxxV1 @TSOP56          S29GL064SxxTxxV2 @TSOP56          
+      S29GL128NxxTAx01 @TSOP56          S29GL128NxxTAx02 @TSOP56          S29GL128NxxTAxR1 @TSOP56          S29GL128NxxTAxR2 @TSOP56          
+      S29GL128NxxTAxV1 @TSOP56          S29GL128NxxTAxV2 @TSOP56          S29GL128NxxTFx01 @TSOP56          S29GL128NxxTFx02 @TSOP56          
+      S29GL128NxxTFxR1 @TSOP56          S29GL128NxxTFxR2 @TSOP56          S29GL128NxxTFxV1 @TSOP56          S29GL128NxxTFxV2 @TSOP56          
+      S29GL128PxxTxx01 @TSOP56          S29GL128PxxTxx02 @TSOP56          S29GL128PxxTxxR1 @TSOP56          S29GL128PxxTxxR2 @TSOP56          
+      S29GL128PxxTxxV1 @TSOP56          S29GL128PxxTxxV2 @TSOP56          S29GL128SxxTFx01 @TSOP56          S29GL128SxxTFx02 @TSOP56          
+      S29GL128SxxTFxV1 @TSOP56          S29GL128SxxTFxV2 @TSOP56          S29GL256NxxTAx01 @TSOP56          S29GL256NxxTAx02 @TSOP56          
+      S29GL256NxxTAxR1 @TSOP56          S29GL256NxxTAxR2 @TSOP56          S29GL256NxxTAxV1 @TSOP56          S29GL256NxxTAxV2 @TSOP56          
+      S29GL256NxxTFx01 @TSOP56          S29GL256NxxTFx02 @TSOP56          S29GL256NxxTFxR1 @TSOP56          S29GL256NxxTFxR2 @TSOP56          
+      S29GL256NxxTFxV1 @TSOP56          S29GL256NxxTFxV2 @TSOP56          S29GL256PxxTxx01 @TSOP56          S29GL256PxxTxx02 @TSOP56          
+      S29GL256PxxTxxR1 @TSOP56          S29GL256PxxTxxR2 @TSOP56          S29GL256PxxTxxV1 @TSOP56          S29GL256PxxTxxV2 @TSOP56          
+      S29GL256SxxTFx01 @TSOP56          S29GL256SxxTFx02 @TSOP56          S29GL256SxxTFxV1 @TSOP56          S29GL256SxxTFxV2 @TSOP56          
+      S29GL512NxxTAx01 @TSOP56          S29GL512NxxTAx02 @TSOP56          S29GL512NxxTAxR1 @TSOP56          S29GL512NxxTAxR2 @TSOP56          
+      S29GL512NxxTAxV1 @TSOP56          S29GL512NxxTAxV2 @TSOP56          S29GL512NxxTFx01 @TSOP56          S29GL512NxxTFx02 @TSOP56          
+      S29GL512NxxTFxR1 @TSOP56          S29GL512NxxTFxR2 @TSOP56          S29GL512NxxTFxV1 @TSOP56          S29GL512NxxTFxV2 @TSOP56          
+      S29GL512PxxTxx01 @TSOP56          S29GL512PxxTxx02 @TSOP56          S29GL512PxxTxxR1 @TSOP56          S29GL512PxxTxxR2 @TSOP56          
+      S29GL512PxxTxxV1 @TSOP56          S29GL512PxxTxxV2 @TSOP56          S29GL512SxxTFx01 @TSOP56          S29GL512SxxTFx02 @TSOP56          
+      S29GL512SxxTFxV1 @TSOP56          S29GL512SxxTFxV2 @TSOP56          S29GL512TxxTFx01 @TSOP56          S29GL512TxxTFx02 @TSOP56          
+      S29GL512TxxTFxV1 @TSOP56          S29GL512TxxTFxV2 @TSOP56          S29PL032J55BAI12 @BGA48           S29PL032J55BAW12 @BGA48           
+      S29PL032J60BAI12 @BGA48           S29PL032J60BAW12 @BGA48           S29PL032J70BAI12 @BGA48           S29PL032J70BAW12 @BGA48           
+      S29PL064J55BAI12 @BGA48           S29PL064J55BAW12 @BGA48           S29PL064J60BAI12 @BGA48           S29PL064J60BAW12 @BGA48           
+      S29PL064J70BAI12 @BGA48           S29PL064J70BAW12 @BGA48           S30ML512P30Txx00 @TSOP48          S30ML512P30Txx50 @TSOP48          
+      S30ML512P50Txx01 @TSOP48          S30ML512P50Txx51 @TSOP48          S30ML01GP30Txx00 @TSOP48          S30ML01GP30Txx50 @TSOP48          
+      S30ML01GP50Txx01 @TSOP48          S30ML01GP50Txx51 @TSOP48          S30ML02GP30Txx00 @TSOP48          S30ML02GP30Txx50 @TSOP48          
+      S30ML02GP50Txx01 @TSOP48          S30ML02GP50Txx51 @TSOP48          S30MS512P25Txx00 @TSOP48          S30MS512P25Txx01 @TSOP48          
+      S30MS512P25Txx50 @TSOP48          S30MS512P25Txx51 @TSOP48          S30MS512R25Txx00 @TSOP48          S30MS512R25Txx01 @TSOP48          
+      S30MS512R25Txx10 @TSOP48          S30MS512R25Txx11 @TSOP48          S30MS512R25Txx20 @TSOP48          S30MS512R25Txx21 @TSOP48          
+      S30MS01GP25Txx00 @TSOP48          S30MS01GP25Txx01 @TSOP48          S30MS01GP25Txx50 @TSOP48          S30MS01GP25Txx51 @TSOP48          
+      S30MS01GR25Txx00 @TSOP48          S30MS01GR25Txx01 @TSOP48          S30MS01GR25Txx10 @TSOP48          S30MS01GR25Txx11 @TSOP48          
+      S30MS01GR25Txx20 @TSOP48          S30MS01GR25Txx21 @TSOP48          S30MS02GR25Txx00 @TSOP48          S30MS02GR25Txx01 @TSOP48          
+      S30MS02GR25Txx10 @TSOP48          S30MS02GR25Txx11 @TSOP48          S30MS02GR25Txx20 @TSOP48          S30MS02GR25Txx21 @TSOP48          
+      S30MS04GR25Txx00 @TSOP48          S30MS04GR25Txx01 @TSOP48          S30MS04GR25Txx10 @TSOP48          S30MS04GR25Txx11 @TSOP48          
+      S30MS04GR25Txx20 @TSOP48          S30MS04GR25Txx21 @TSOP48          S34ML02G104TFI01 @TSOP48          S34ML02G104BHI01 @VFBGA63         
+      S34ML01G1 @TSOP48                 S34ML01G2 @TSOP48                 S34ML02G1 @TSOP48                 S34ML02G2 @TSOP48                 
+      S34ML04G1 @TSOP48                 S34ML04G2 @TSOP48                 S34ML01G100Bxx00(1.8V) @BGA63     S34ML01G100Txx00(1.8V) @TSOP48    
       S34ML01G100Bxx00 @BGA63           S34ML01G100Txx00 @TSOP48          S34ML01G200Bxx00 @BGA63           S34ML01G200Txx00 @TSOP48          
       S34ML01G204Bxx01 @BGA63           S34ML01G204Txx01 @TSOP48          S34MS01G100Bxx00 @BGA63           S34MS01G100Txx00 @TSOP48          
       S34MS01G104Bxx01 @BGA63           S34MS01G104Txx01 @TSOP48          S34MS01G200Bxx00 @BGA63           S34MS01G200Txx00 @TSOP48          
@@ -1224,7 +1260,7 @@ XGecu T56 Universal Programmer Device Support List:
       S40410081B1B2X01_8Bit @BGA100     S40410081B1B2X01_4Bit @BGA100     S40410081B1B2X01_1Bit @BGA100     S40410081B1B2X01(ISP)_4Bit        
       S40410081B1B2X01(ISP)_1Bit        
 
-         IC Support: 277 PCS
+         IC Support: 321 PCS
 
  [ DALLAS ]     
 
@@ -1406,9 +1442,15 @@ XGecu T56 Universal Programmer Device Support List:
       F25L64Q                           F25L64Q @SOP8                     F49L004U @PLCC32                  F49L004U @TSOP40                  
       F49L004B @PLCC32                  F49L004B @TSOP40                  F49L040A @PLCC32                  F49L040A @TSOP32                  
       F49L400UA @TSOP48                 F49L400BA @TSOP48                 F49L800UA @TSOP48                 F49L800BA @TSOP48                 
-      F49L160UA @TSOP48                 F49L160BA @TSOP48                 
+      F49L160UA @TSOP48                 F49L160BA @TSOP48                 F49L320UA @TSOP48                 F49L320BA @TSOP48                 
+      F59D1G161A @TSOP48                F59D1G161A @BGA63                 F59D1G81A @TSOP48                 F59D1G81A @BGA63                  
+      F59D2G81A @TSOP48                 F59D2G81A @FBGA63                 F59D2G161A @TSOP48                F59D2G161A @FBGA63                
+      F59D4G81A @TSOP48                 F59D4G81A @FBGA63                 F59D4G161A @TSOP48                F59D4G161A @FBGA63                
+      F59L1G81A @TSOP48                 F59L1G81A @BGA63                  F59L1G81MA @TSOP48                F59L1G81MA @BGA63                 
+      F59L2G81A @TSOP48                 F59L2G81A @BGA63                  F59L4G81A @TSOP48                 F59L4G81A @BGA63                  
+      F59L512M81A @TSOP48               
 
-         IC Support: 38 PCS
+         IC Support: 61 PCS
 
  [ ESTEK ]     
 
@@ -1426,15 +1468,22 @@ XGecu T56 Universal Programmer Device Support List:
       ES25P16 @SOIC8                    ES25P32 @SOIC8                    ES25M40A                          ES25M40A @SOIC8                   
       ES25M40A @WSON8                   ES25M40A @SOP16                   ES25M80A                          ES25M80A @SOIC8                   
       ES25M80A @WSON8                   ES25M80A @SOP16                   ES25M16A                          ES25M16A @SOIC8                   
-      ES25M16A @WSON8                   ES25M16A @SOP16                   ES29LV400DB @TSOP48               ES29LV400DT @TSOP48               
-      ES29LV400EB @TSOP48               ES29LV400ET @TSOP48               ES29LV400FB @TSOP48               ES29LV400FT @TSOP48               
-      ES29LV800DB @TSOP48               ES29LV800DT @TSOP48               ES29LV800EB @TSOP48               ES29LV800ET @TSOP48               
-      ES29LV800FB @TSOP48               ES29LV800FT @TSOP48               ES29LV160DB @TSOP48               ES29LV160DT @TSOP48               
-      ES29LV160EB @TSOP48               ES29LV160ET @TSOP48               ES29LV160FB @TSOP48               ES29LV160FT @TSOP48               
-      ES29LV320DB @TSOP48               ES29LV320DT @TSOP48               ES29LV320EB @TSOP48               ES29LV320ET @TSOP48               
-      ES29LV320FB @TSOP48               ES29LV320FT @TSOP48               
+      ES25M16A @WSON8                   ES25M16A @SOP16                   ES29DL320B @TSOP48                ES29DL320B @BGA48                 
+      ES29DL320T @TSOP48                ES29DL320T @BGA48                 ES29LV400DB @TSOP48               ES29LV400DB @FBGA48               
+      ES29LV400DT @TSOP48               ES29LV400DT @FBGA48               ES29LV400EB @TSOP48               ES29LV400EB @FBGA48               
+      ES29LV400ET @TSOP48               ES29LV400ET @FBGA48               ES29LV400FB @TSOP48               ES29LV400FB @FBGA48               
+      ES29LV400FT @TSOP48               ES29LV400FT @FBGA48               ES29LV800DB @TSOP48               ES29LV800DB @FBGA48               
+      ES29LV800DT @TSOP48               ES29LV800DT @FBGA48               ES29LV800EB @TSOP48               ES29LV800EB @FBGA48               
+      ES29LV800ET @TSOP48               ES29LV800ET @FBGA48               ES29LV800FB @TSOP48               ES29LV800FB @FBGA48               
+      ES29LV800FT @TSOP48               ES29LV800FT @FBGA48               ES29LV160DB @TSOP48               ES29LV160DB @FBGA48               
+      ES29LV160DT @TSOP48               ES29LV160DT @FBGA48               ES29LV160EB @TSOP48               ES29LV160EB @FBGA48               
+      ES29LV160ET @TSOP48               ES29LV160ET @FBGA48               ES29LV160FB @TSOP48               ES29LV160FB @FBGA48               
+      ES29LV160FT @TSOP48               ES29LV160FT @FBGA48               ES29LV320DB @TSOP48               ES29LV320DB @FBGA48               
+      ES29LV320DT @TSOP48               ES29LV320DT @FBGA48               ES29LV320EB @TSOP48               ES29LV320EB @FBGA48               
+      ES29LV320ET @TSOP48               ES29LV320ET @FBGA48               ES29LV320FB @TSOP48               ES29LV320FB @FBGA48               
+      ES29LV320FT @TSOP48               ES29LV320FT @FBGA48               
 
-         IC Support: 42 PCS
+         IC Support: 70 PCS
 
  [ EXEL ]     
 
@@ -1560,10 +1609,11 @@ XGecu T56 Universal Programmer Device Support List:
       FM25M64A(1.8V)                    FM25M64A(1.8V) @SOP8              FM25M64A(1.8V) @WSON8             FM25M64A(1.8V) @SOP16             
       FM25M64C(1.8V)                    FM25M64C(1.8V) @SOP8              FM25M64C(1.8V) @WSON8             FM25M64C(1.8V) @SOP16             
       FM25M4AA(1.8V)                    FM25M4AA(1.8V) @SOP8              FM25M4AA(1.8V) @WSON8             FM25M4AA(1.8V) @SOP16             
-      FM25M4SA(1.8V) @SOIC8             FM25M4SA(1.8V) @SOIC16            FMND1G08U3D  @TSOP48              FMND1G08U3J  @TSOP48              
-      FMND2G08U3D  @TSOP48              FMND2G08U3J  @TSOP48              
+      FM25M4SA(1.8V) @SOIC8             FM25M4SA(1.8V) @SOIC16            FMND1G08U3A @TSOP48               FMND1G08U3B @BGA63                
+      FMND1G08U3B @TSOP48               FMND1G08U3D @BGA63                FMND1G08U3D @TSOP48               FMND1G08U3J @TSOP48               
+      FMND2G08U3B @BGA63                FMND2G08U3B @TSOP48               FMND2G08U3J @TSOP48               
 
-         IC Support: 62 PCS
+         IC Support: 67 PCS
 
  [ FIRST-RANK ]     
 
@@ -4984,15 +5034,20 @@ XGecu T56 Universal Programmer Device Support List:
 
  [ SHARP ]     
 
-      LH28F004SC @TSOP40                LH28F008SA @TSOP40                LH28F008SC @TSOP40                LH28F016SC @TSOP40                
-      LH28F160BJE-B @TSOP48             LH28F160BJE-T @TSOP48             LH28F320BJE-PB @TSOP48            LH28F320BJE-PT @TSOP48            
-      LH28F400SU @TSOP48                LH28F400SU @SOP44                 LH28F400BVE @TSOP48               LH28F400BGE-B @TSOP48             
-      LH28F400BGE-T @TSOP48             LH28F400BGHE-B @TSOP48            LH28F400BGHE-T @TSOP48            LH28F400BVHE-B @TSOP48            
-      LH28F400BVHE-T @TSOP48            LH28F640BFE-PB @TSOP48            LH28F640BFE-PT @TSOP48            LH28F640BFHE-PB @TSOP48           
-      LH28F640BFHE-PT @TSOP48           LH28F800BGE-B @TSOP48             LH28F800BGE-T @TSOP48             LH28F800BGHE-B @TSOP48            
-      LH28F800BGHE-T @TSOP48            LH28F800BVHE-BTL @TSOP48          LH28F800BVHE-TTL @TSOP48          
+      LH28F002SCHT @TSOP40              LH28F002SCT @TSOP40               LH28F004SCHT @TSOP40              LH28F004SCT @TSOP40               
+      LH28F004SUT-L @TSOP40             LH28F004SUT-N @TSOP40             LH28F008BJT-BTLZ @TSOP40          LH28F008BJT-TTLZ @TSOP40          
+      LH28F008SA @TSOP40                LH28F008SC @TSOP40                LH28F016SAT @TSOP56               LH28F016SUHT @TSOP56              
+      LH28F016SUT  @TSOP56              LH28F016SC @TSOP40                LH28F032SKTD  @TSOP56             LH28F032SUTD  @TSOP56             
+      LH28F128BFHT - PWTL @TSOP56       LH28F128BFHT - PBLF @TSOP56       LH28F128BFHT - PBTL @TSOP56       LH28F128BFHT - PTLF @TSOP56       
+      LH28F128BFHT - PTTL @TSOP56       LH28F128SPHT  @TSOP56             LH28F128SPHTD @TSOP56             LH28F256BFHT - PTTL @TSOP56       
+      LH28F256BFHT - PTSL @TSOP56       LH28F160BJE-B @TSOP48             LH28F160BJE-T @TSOP48             LH28F320BJE-PB @TSOP48            
+      LH28F320BJE-PT @TSOP48            LH28F400SU @TSOP48                LH28F400SU @SOP44                 LH28F400BVE @TSOP48               
+      LH28F400BGE-B @TSOP48             LH28F400BGE-T @TSOP48             LH28F400BGHE-B @TSOP48            LH28F400BGHE-T @TSOP48            
+      LH28F400BVHE-B @TSOP48            LH28F400BVHE-T @TSOP48            LH28F640BFE-PB @TSOP48            LH28F640BFE-PT @TSOP48            
+      LH28F640BFHE-PB @TSOP48           LH28F640BFHE-PT @TSOP48           LH28F800BGE-B @TSOP48             LH28F800BGE-T @TSOP48             
+      LH28F800BGHE-B @TSOP48            LH28F800BGHE-T @TSOP48            LH28F800BVHE-BTL @TSOP48          LH28F800BVHE-TTL @TSOP48          
 
-         IC Support: 27 PCS
+         IC Support: 48 PCS
 
  [ SIEMENS ]     
 
@@ -5272,136 +5327,144 @@ XGecu T56 Universal Programmer Device Support List:
       S29AL032D90BFI03 @BGA48           S29AL032D90BFI04 @BGA48           S29AL032D90BFN03 @BGA48           S29AL032D90BFN04 @BGA48           
       S29AL032D90TAI03 @TSOP48          S29AL032D90TAI04 @TSOP48          S29AL032D90TAN03 @TSOP48          S29AL032D90TAN04 @TSOP48          
       S29AL032D90TFI03 @TSOP48          S29AL032D90TFI04 @TSOP48          S29AL032D90TFN03 @TSOP48          S29AL032D90TFN04 @TSOP48          
-      S29GL01GP11FAIR1 @BGA64           S29GL01GP11FAIR2 @BGA64           S29GL01GP11FFIR1 @BGA64           S29GL01GP11FFIR2 @BGA64           
-      S29GL01GP11TAIR1 @TSOP56          S29GL01GP11TAIR2 @TSOP56          S29GL01GP11TFIR1 @TSOP56          S29GL01GP11TFIR2 @TSOP56          
-      S29GL01GP12FAI01 @BGA64           S29GL01GP12FAI02 @BGA64           S29GL01GP12FFI01 @BGA64           S29GL01GP12FFI02 @BGA64           
-      S29GL01GP12TAI01 @TSOP56          S29GL01GP12TAI02 @TSOP56          S29GL01GP12TFI01 @TSOP56          S29GL01GP12TFI02 @TSOP56          
-      S29GL01GP13FAIV1 @BGA64           S29GL01GP13FAIV2 @BGA64           S29GL01GP13FFIV1 @BGA64           S29GL01GP13FFIV2 @BGA64           
-      S29GL01GP13TAIV1 @TSOP56          S29GL01GP13TAIV2 @TSOP56          S29GL01GP13TFIV1 @TSOP56          S29GL01GP13TFIV2 @TSOP56          
-      S29GL01GS10DHI01 @BGA64           S29GL01GS10DHI02 @BGA64           S29GL01GS10TFI01 @TSOP56          S29GL01GS10TFI02 @TSOP56          
-      S29GL01GS11DHI01 @BGA64           S29GL01GS11DHI02 @BGA64           S29GL01GS11DHIV1 @BGA64           S29GL01GS11DHIV2 @BGA64           
-      S29GL01GS11TAI01 @TSOP56          S29GL01GS11TAI02 @TSOP56          S29GL01GS11TAIV1 @TSOP56          S29GL01GS11TAIV2 @TSOP56          
-      S29GL01GS11TFI01 @TSOP56          S29GL01GS11TFI02 @TSOP56          S29GL01GS11TFIV1 @TSOP56          S29GL01GS11TFIV2 @TSOP56          
-      S29GL01GS12DHIV1 @BGA64           S29GL01GS12DHIV2 @BGA64           S29GL01GS12TFIV1 @TSOP56          S29GL01GS12TFIV2 @TSOP56          
-      S29GL016A10BAI01 @BGA48           S29GL016A10BAI02 @BGA48           S29GL016A10BAIR1 @BGA48           S29GL016A10BAIR2 @BGA48           
-      S29GL016A10BFI01 @BGA48           S29GL016A10BFI02 @BGA48           S29GL016A10BFIR1 @BGA48           S29GL016A10BFIR2 @BGA48           
-      S29GL016A10FAI01 @BGA64           S29GL016A10FAI02 @BGA64           S29GL016A10FAIR1 @BGA64           S29GL016A10FAIR2 @BGA64           
-      S29GL016A10FFI01 @BGA64           S29GL016A10FFI02 @BGA64           S29GL016A10FFIR1 @BGA64           S29GL016A10FFIR2 @BGA64           
-      S29GL016A10TAI01 @TSOP48          S29GL016A10TAI02 @TSOP48          S29GL016A10TAIR1 @TSOP48          S29GL016A10TAIR2 @TSOP48          
-      S29GL016A10TFI01 @TSOP48          S29GL016A10TFI02 @TSOP48          S29GL016A10TFIR1 @TSOP48          S29GL016A10TFIR2 @TSOP48          
-      S29GL016A90BAIR1 @BGA48           S29GL016A90BAIR2 @BGA48           S29GL016A90BFIR1 @BGA48           S29GL016A90BFIR2 @BGA48           
-      S29GL016A90FAIR1 @BGA64           S29GL016A90FAIR2 @BGA64           S29GL016A90FFIR1 @BGA64           S29GL016A90FFIR2 @BGA64           
-      S29GL016A90TAIR1 @TSOP48          S29GL016A90TAIR2 @TSOP48          S29GL016A90TFIR1 @TSOP48          S29GL016A90TFIR2 @TSOP48          
-      S29GL032A10BAIR3 @BGA48           S29GL032A10BAIR4 @BGA48           S29GL032A10BFIR3 @BGA48           S29GL032A10BFIR4 @BGA48           
-      S29GL032A10FAIR1 @BGA64           S29GL032A10FAIR2 @BGA64           S29GL032A10FAIR3 @BGA64           S29GL032A10FAIR4 @BGA64           
-      S29GL032A10FFIR1 @BGA64           S29GL032A10FFIR2 @BGA64           S29GL032A10FFIR3 @BGA64           S29GL032A10FFIR4 @BGA64           
-      S29GL032A10TAIR1 @TSOP56          S29GL032A10TAIR2 @TSOP56          S29GL032A10TAIR3 @TSOP48          S29GL032A10TAIR4 @TSOP48          
-      S29GL032A10TFIR1 @TSOP56          S29GL032A10TFIR2 @TSOP56          S29GL032A10TFIR3 @TSOP48          S29GL032A10TFIR4 @TSOP48          
-      S29GL032A11BAIR3 @BGA48           S29GL032A11BAIR4 @BGA48           S29GL032A11BFIR3 @BGA48           S29GL032A11BFIR4 @BGA48           
-      S29GL032A11FAIR1 @BGA64           S29GL032A11FAIR2 @BGA64           S29GL032A11FAIR3 @BGA64           S29GL032A11FAIR4 @BGA64           
-      S29GL032A11FFIR1 @BGA64           S29GL032A11FFIR2 @BGA64           S29GL032A11FFIR3 @BGA64           S29GL032A11FFIR4 @BGA64           
-      S29GL032A11TAIR1 @TSOP56          S29GL032A11TAIR2 @TSOP56          S29GL032A11TAIR3 @TSOP48          S29GL032A11TAIR4 @TSOP48          
-      S29GL032A11TFIR1 @TSOP56          S29GL032A11TFIR2 @TSOP56          S29GL032A11TFIR3 @TSOP48          S29GL032A11TFIR4 @TSOP48          
-      S29GL032A90BAIR3 @BGA48           S29GL032A90BAIR4 @BGA48           S29GL032A90BFIR3 @BGA48           S29GL032A90BFIR4 @BGA48           
-      S29GL032A90FAIR1 @BGA64           S29GL032A90FAIR2 @BGA64           S29GL032A90FAIR3 @BGA64           S29GL032A90FAIR4 @BGA64           
-      S29GL032A90FFIR1 @BGA64           S29GL032A90FFIR2 @BGA64           S29GL032A90FFIR3 @BGA64           S29GL032A90FFIR4 @BGA64           
-      S29GL032A90TAIR1 @TSOP56          S29GL032A90TAIR2 @TSOP56          S29GL032A90TAIR3 @TSOP48          S29GL032A90TAIR4 @TSOP48          
-      S29GL032A90TFIR1 @TSOP56          S29GL032A90TFIR2 @TSOP56          S29GL032A90TFIR3 @TSOP48          S29GL032A90TFIR4 @TSOP48          
-      S29GL032M10TAIR0 @TSOP40          S29GL032M10TFIR0 @TSOP40          S29GL032M10BAIR3 @BGA48           S29GL032M10BAIR4 @BGA48           
-      S29GL032M10BBIR3 @BGA48           S29GL032M10BBIR4 @BGA48           S29GL032M10BCIR3 @BGA48           S29GL032M10BCIR4 @BGA48           
-      S29GL032M10BFIR3 @BGA48           S29GL032M10BFIR4 @BGA48           S29GL032M10FAIR1 @BGA64           S29GL032M10FAIR2 @BGA64           
-      S29GL032M10FAIR3 @BGA64           S29GL032M10FAIR4 @BGA64           S29GL032M10FFIR1 @BGA64           S29GL032M10FFIR2 @BGA64           
-      S29GL032M10FFIR3 @BGA64           S29GL032M10FFIR4 @BGA64           S29GL032M10TAIR1 @TSOP56          S29GL032M10TAIR2 @TSOP56          
-      S29GL032M10TAIR3 @TSOP48          S29GL032M10TAIR4 @TSOP48          S29GL032M10TBIR3 @TSOP48          S29GL032M10TBIR4 @TSOP48          
-      S29GL032M10TCIR3 @TSOP48          S29GL032M10TCIR4 @TSOP48          S29GL032M10TFIR1 @TSOP56          S29GL032M10TFIR2 @TSOP56          
-      S29GL032M10TFIR3 @TSOP48          S29GL032M10TFIR4 @TSOP48          S29GL032M11TAIR0 @TSOP40          S29GL032M11TFIR0 @TSOP40          
-      S29GL032M11BAIR3 @BGA48           S29GL032M11BAIR4 @BGA48           S29GL032M11BBIR3 @BGA48           S29GL032M11BBIR4 @BGA48           
-      S29GL032M11BCIR3 @BGA48           S29GL032M11BCIR4 @BGA48           S29GL032M11BFIR3 @BGA48           S29GL032M11BFIR4 @BGA48           
-      S29GL032M11FAIR1 @BGA64           S29GL032M11FAIR2 @BGA64           S29GL032M11FAIR3 @BGA64           S29GL032M11FAIR4 @BGA64           
-      S29GL032M11FFIR1 @BGA64           S29GL032M11FFIR2 @BGA64           S29GL032M11FFIR3 @BGA64           S29GL032M11FFIR4 @BGA64           
-      S29GL032M11TAIR1 @TSOP56          S29GL032M11TAIR2 @TSOP56          S29GL032M11TAIR3 @TSOP48          S29GL032M11TAIR4 @TSOP48          
-      S29GL032M11TBIR3 @TSOP48          S29GL032M11TBIR4 @TSOP48          S29GL032M11TCIR3 @TSOP48          S29GL032M11TCIR4 @TSOP48          
-      S29GL032M11TFIR1 @TSOP56          S29GL032M11TFIR2 @TSOP56          S29GL032M11TFIR3 @TSOP48          S29GL032M11TFIR4 @TSOP48          
-      S29GL032M90TACR0 @TSOP40          S29GL032M90TAIR0 @TSOP40          S29GL032M90TFCR0 @TSOP40          S29GL032M90TFIR0 @TSOP40          
-      S29GL032M90BACR3 @BGA48           S29GL032M90BACR4 @BGA48           S29GL032M90BAIR3 @BGA48           S29GL032M90BAIR4 @BGA48           
-      S29GL032M90BBIR3 @BGA48           S29GL032M90BBIR4 @BGA48           S29GL032M90BCIR3 @BGA48           S29GL032M90BCIR4 @BGA48           
-      S29GL032M90BFCR3 @BGA48           S29GL032M90BFCR4 @BGA48           S29GL032M90BFIR3 @BGA48           S29GL032M90BFIR4 @BGA48           
-      S29GL032M90FACR1 @BGA64           S29GL032M90FACR2 @BGA64           S29GL032M90FACR3 @BGA64           S29GL032M90FACR4 @BGA64           
-      S29GL032M90FAIR1 @BGA64           S29GL032M90FAIR2 @BGA64           S29GL032M90FAIR3 @BGA64           S29GL032M90FAIR4 @BGA64           
-      S29GL032M90FFCR1 @BGA64           S29GL032M90FFCR2 @BGA64           S29GL032M90FFCR3 @BGA64           S29GL032M90FFCR4 @BGA64           
-      S29GL032M90FFIR1 @BGA64           S29GL032M90FFIR2 @BGA64           S29GL032M90FFIR3 @BGA64           S29GL032M90FFIR4 @BGA64           
-      S29GL032M90TACR1 @TSOP56          S29GL032M90TACR2 @TSOP56          S29GL032M90TACR3 @TSOP48          S29GL032M90TACR4 @TSOP48          
-      S29GL032M90TAIR1 @TSOP56          S29GL032M90TAIR2 @TSOP56          S29GL032M90TAIR3 @TSOP48          S29GL032M90TAIR4 @TSOP48          
-      S29GL032M90TBIR3 @TSOP48          S29GL032M90TBIR4 @TSOP48          S29GL032M90TCIR3 @TSOP48          S29GL032M90TCIR4 @TSOP48          
-      S29GL032M90TFCR1 @TSOP56          S29GL032M90TFCR2 @TSOP56          S29GL032M90TFCR3 @TSOP48          S29GL032M90TFCR4 @TSOP48          
-      S29GL032M90TFIR1 @TSOP56          S29GL032M90TFIR2 @TSOP56          S29GL032M90TFIR3 @TSOP48          S29GL032M90TFIR4 @TSOP48          
-      S29GL032N11FFIS2 @BGA64           S29GL032N11FFIV1 @BGA64           S29GL032N11FFIV2 @BGA64           S29GL032N11TFIV1 @TSOP56          
-      S29GL032N11TFIV2 @TSOP56          S29GL032N70BAI03 @BGA48           S29GL032N70BAI04 @BGA48           S29GL032N70BAIR3 @BGA48           
-      S29GL032N70BAIR4 @BGA48           S29GL032N70BFI03 @BGA48           S29GL032N70BFI04 @BGA48           S29GL032N70BFIR3 @BGA48           
-      S29GL032N70BFIR4 @BGA48           S29GL032N70TAI03 @TSOP48          S29GL032N70TAI04 @TSOP48          S29GL032N70TAIR3 @TSOP48          
-      S29GL032N70TAIR4 @TSOP48          S29GL032N70TFI03 @TSOP48          S29GL032N70TFI04 @TSOP48          S29GL032N70TFIR3 @TSOP48          
-      S29GL032N70TFIR4 @TSOP48          S29GL032N90BAI03 @BGA48           S29GL032N90BAI04 @BGA48           S29GL032N90BAIR3 @BGA48           
-      S29GL032N90BAIR4 @BGA48           S29GL032N90BFI03 @BGA48           S29GL032N90BFI04 @BGA48           S29GL032N90BFIR3 @BGA48           
-      S29GL032N90BFIR4 @BGA48           S29GL032N90FFI01 @BGA64           S29GL032N90FFI02 @BGA64           S29GL032N90FFI03 @BGA64           
-      S29GL032N90FFI04 @BGA64           S29GL032N90FFIS2 @BGA64           S29GL032N90FFIS3 @BGA64           S29GL032N90TAI03 @TSOP48          
-      S29GL032N90TAI04 @TSOP48          S29GL032N90TAIR3 @TSOP48          S29GL032N90TAIR4 @TSOP48          S29GL032N90TFI01 @TSOP56          
-      S29GL032N90TFI02 @TSOP56          S29GL032N90TFI03 @TSOP48          S29GL032N90TFI04 @TSOP48          S29GL032N90TFIR3 @TSOP48          
-      S29GL032N90TFIR4 @TSOP48          S29GL064A10FAIR1 @BGA64           S29GL064A10FAIR2 @BGA64           S29GL064A10FAIR3 @BGA64           
-      S29GL064A10FAIR4 @BGA64           S29GL064A10FAIR5 @BGA64           S29GL064A10FFIR1 @BGA64           S29GL064A10FFIR2 @BGA64           
-      S29GL064A10FFIR3 @BGA64           S29GL064A10FFIR4 @BGA64           S29GL064A10FFIR5 @BGA64           S29GL064A10BAIR3 @BGA48           
-      S29GL064A10BAIR4 @BGA48           S29GL064A10BAIR5 @BGA48           S29GL064A10BFIR3 @BGA48           S29GL064A10BFIR4 @BGA48           
-      S29GL064A10BFIR5 @BGA48           S29GL064A10TAIR1 @TSOP56          S29GL064A10TAIR2 @TSOP56          S29GL064A10TAIR3 @TSOP48          
-      S29GL064A10TAIR4 @TSOP48          S29GL064A10TAIR6 @TSOP48          S29GL064A10TAIR7 @TSOP48          S29GL064A10TAIR8 @TSOP48          
-      S29GL064A10TAIR9 @TSOP48          S29GL064A10TFIR1 @TSOP56          S29GL064A10TFIR2 @TSOP56          S29GL064A10TFIR3 @TSOP48          
-      S29GL064A10TFIR4 @TSOP48          S29GL064A10TFIR6 @TSOP48          S29GL064A10TFIR7 @TSOP48          S29GL064A10TFIR8 @TSOP48          
-      S29GL064A10TFIR9 @TSOP48          S29GL064A11BAIR3 @BGA48           S29GL064A11BAIR4 @BGA48           S29GL064A11BAIR5 @BGA48           
-      S29GL064A11BFIR3 @BGA48           S29GL064A11BFIR4 @BGA48           S29GL064A11BFIR5 @BGA48           S29GL064A11FAIR1 @BGA64           
-      S29GL064A11FAIR2 @BGA64           S29GL064A11FAIR3 @BGA64           S29GL064A11FAIR4 @BGA64           S29GL064A11FAIR5 @BGA64           
-      S29GL064A11FFIR1 @BGA64           S29GL064A11FFIR2 @BGA64           S29GL064A11FFIR3 @BGA64           S29GL064A11FFIR4 @BGA64           
-      S29GL064A11FFIR5 @BGA64           S29GL064A11FFIS2 @BGA64           S29GL064A11TAIR1 @TSOP56          S29GL064A11TAIR2 @TSOP56          
-      S29GL064A11TAIR3 @TSOP48          S29GL064A11TAIR4 @TSOP48          S29GL064A11TAIR6 @TSOP48          S29GL064A11TAIR7 @TSOP48          
-      S29GL064A11TAIR8 @TSOP48          S29GL064A11TAIR9 @TSOP48          S29GL064A11TFIR1 @TSOP56          S29GL064A11TFIR2 @TSOP56          
-      S29GL064A11TFIR3 @TSOP48          S29GL064A11TFIR4 @TSOP48          S29GL064A11TFIR6 @TSOP48          S29GL064A11TFIR7 @TSOP48          
-      S29GL064A11TFIR8 @TSOP48          S29GL064A11TFIR9 @TSOP48          S29GL064A90BAIR3 @BGA48           S29GL064A90BAIR4 @BGA48           
-      S29GL064A90BAIR5 @BGA48           S29GL064A90BFIR3 @BGA48           S29GL064A90BFIR4 @BGA48           S29GL064A90BFIR5 @BGA48           
-      S29GL064A90FAIR1 @BGA64           S29GL064A90FAIR2 @BGA64           S29GL064A90FAIR3 @BGA64           S29GL064A90FAIR4 @BGA64           
-      S29GL064A90FAIR5 @BGA64           S29GL064A90FFIR1 @BGA64           S29GL064A90FFIR2 @BGA64           S29GL064A90FFIR3 @BGA64           
-      S29GL064A90FFIR4 @BGA64           S29GL064A90FFIR5 @BGA64           S29GL064A90TAIR1 @TSOP56          S29GL064A90TAIR2 @TSOP56          
-      S29GL064A90TAIR3 @TSOP48          S29GL064A90TAIR4 @TSOP48          S29GL064A90TAIR6 @TSOP48          S29GL064A90TAIR7 @TSOP48          
-      S29GL064A90TAIR8 @TSOP48          S29GL064A90TAIR9 @TSOP48          S29GL064A90TFIR1 @TSOP56          S29GL064A90TFIR2 @TSOP56          
-      S29GL064A90TFIR3 @TSOP48          S29GL064A90TFIR4 @TSOP48          S29GL064A90TFIR6 @TSOP48          S29GL064A90TFIR7 @TSOP48          
-      S29GL064A90TFIR8 @TSOP48          S29GL064A90TFIR9 @TSOP48          S29GL064M10BAIR3 @BGA63           S29GL064M10BAIR4 @BGA63           
-      S29GL064M10BAIR5 @BGA63           S29GL064M10BFIR3 @BGA63           S29GL064M10BFIR4 @BGA63           S29GL064M10BFIR5 @BGA63           
-      S29GL064M10FAIR1 @BGA64           S29GL064M10FAIR2 @BGA64           S29GL064M10FAIR3 @BGA64           S29GL064M10FAIR4 @BGA64           
-      S29GL064M10FAIR5 @BGA64           S29GL064M10FFIR1 @BGA64           S29GL064M10FFIR2 @BGA64           S29GL064M10FFIR3 @BGA64           
-      S29GL064M10FFIR4 @BGA64           S29GL064M10FFIR5 @BGA64           S29GL064M10TAIR1 @TSOP56          S29GL064M10TAIR2 @TSOP56          
-      S29GL064M10TAIR3 @TSOP48          S29GL064M10TAIR4 @TSOP48          S29GL064M10TAIR6 @TSOP48          S29GL064M10TAIR7 @TSOP48          
-      S29GL064M10TBIR2 @TSOP48          S29GL064M10TBIR7 @TSOP48          S29GL064M10TCIR2 @TSOP48          S29GL064M10TCIR7 @TSOP48          
-      S29GL064M10TFIR1 @TSOP56          S29GL064M10TFIR2 @TSOP56          S29GL064M10TFIR3 @TSOP48          S29GL064M10TFIR4 @TSOP48          
-      S29GL064M10TFIR6 @TSOP48          S29GL064M10TFIR7 @TSOP48          S29GL064M11BAIR3 @BGA63           S29GL064M11BAIR4 @BGA63           
-      S29GL064M11BAIR5 @BGA63           S29GL064M11BFIR3 @BGA63           S29GL064M11BFIR4 @BGA63           S29GL064M11BFIR5 @BGA63           
-      S29GL064M11FAIR1 @BGA64           S29GL064M11FAIR2 @BGA64           S29GL064M11FAIR3 @BGA64           S29GL064M11FAIR4 @BGA64           
-      S29GL064M11FAIR5 @BGA64           S29GL064M11FFIR1 @BGA64           S29GL064M11FFIR2 @BGA64           S29GL064M11FFIR3 @BGA64           
-      S29GL064M11FFIR4 @BGA64           S29GL064M11FFIR5 @BGA64           S29GL064M11TAIR1 @TSOP56          S29GL064M11TAIR2 @TSOP56          
-      S29GL064M11TAIR3 @TSOP48          S29GL064M11TAIR4 @TSOP48          S29GL064M11TAIR6 @TSOP48          S29GL064M11TAIR7 @TSOP48          
-      S29GL064M11TBIR2 @TSOP48          S29GL064M11TBIR7 @TSOP48          S29GL064M11TCIR2 @TSOP48          S29GL064M11TCIR7 @TSOP48          
-      S29GL064M11TFIR1 @TSOP56          S29GL064M11TFIR2 @TSOP56          S29GL064M11TFIR3 @TSOP48          S29GL064M11TFIR4 @TSOP48          
-      S29GL064M11TFIR6 @TSOP48          S29GL064M11TFIR7 @TSOP48          S29GL064M90BAIR3 @BGA63           S29GL064M90BAIR4 @BGA63           
-      S29GL064M90BAIR5 @BGA63           S29GL064M90BFIR3 @BGA63           S29GL064M90BFIR4 @BGA63           S29GL064M90BFIR5 @BGA63           
-      S29GL064M90FAIR1 @BGA64           S29GL064M90FAIR2 @BGA64           S29GL064M90FAIR3 @BGA64           S29GL064M90FAIR4 @BGA64           
-      S29GL064M90FAIR5 @BGA64           S29GL064M90FFIR1 @BGA64           S29GL064M90FFIR2 @BGA64           S29GL064M90FFIR3 @BGA64           
-      S29GL064M90FFIR4 @BGA64           S29GL064M90FFIR5 @BGA64           S29GL064M90TAIR1 @TSOP56          S29GL064M90TAIR2 @TSOP56          
-      S29GL064M90TAIR3 @TSOP48          S29GL064M90TAIR4 @TSOP48          S29GL064M90TAIR6 @TSOP48          S29GL064M90TAIR7 @TSOP48          
-      S29GL064M90TBIR2 @TSOP48          S29GL064M90TBIR7 @TSOP48          S29GL064M90TCIR2 @TSOP48          S29GL064M90TCIR7 @TSOP48          
-      S29GL064M90TFIR1 @TSOP56          S29GL064M90TFIR2 @TSOP56          S29GL064M90TFIR3 @TSOP48          S29GL064M90TFIR4 @TSOP48          
-      S29GL064M90TFIR6 @TSOP48          S29GL064M90TFIR7 @TSOP48          S29GL064N11FFIV1 @BGA64           S29GL064N11FFIV2 @BGA64           
-      S29GL064N11FFIV6 @BGA64           S29GL064N11FFIV7 @BGA64           S29GL064N11TAIV6 @TSOP48          S29GL064N11TAIV7 @TSOP48          
-      S29GL064N11TFIV1 @TSOP56          S29GL064N11TFIV2 @TSOP56          S29GL064N11TFIV6 @TSOP48          S29GL064N11TFIV7 @TSOP48          
-      S29GL064N70TAI03 @TSOP48          S29GL064N70TAI04 @TSOP48          S29GL064N70TAI06 @TSOP48          S29GL064N70TAI07 @TSOP48          
-      S29GL064N70TAIR3 @TSOP48          S29GL064N70TAIR4 @TSOP48          S29GL064N70TAIR6 @TSOP48          S29GL064N70TAIR7 @TSOP48          
-      S29GL064N70TFI01 @TSOP56          S29GL064N70TFI02 @TSOP56          S29GL064N70TFI03 @TSOP48          S29GL064N70TFI04 @TSOP48          
-      S29GL064N70TFI06 @TSOP48          S29GL064N70TFI07 @TSOP48          S29GL064N70TFIR3 @TSOP48          S29GL064N70TFIR4 @TSOP48          
-      S29GL064N70TFIR6 @TSOP48          S29GL064N70TFIR7 @TSOP48          S29GL064N90BAI03 @BGA48           S29GL064N90BAI04 @BGA48           
+      S29AS008J70BFI03 @FBGA48          S29AS008J70BFI04 @FBGA48          S29AS008J70BHI03 @FBGA48          S29AS008J70BHI04 @FBGA48          
+      S29AS008J70TFI01 @TSOP48          S29AS008J70TFI02 @TSOP48          S29AS008J70TFI03 @TSOP48          S29AS008J70TFI04 @TSOP48          
+      S29AS016J70BFI01 @FBGA48          S29AS016J70BFI02 @FBGA48          S29AS016J70BFI03 @FBGA48          S29AS016J70BFI04 @FBGA48          
+      S29AS016J70BFV03 @FBGA48          S29AS016J70BFV04 @FBGA48          S29AS016J70BHI01 @FBGA48          S29AS016J70BHI02 @FBGA48          
+      S29AS016J70BHI03 @FBGA48          S29AS016J70BHI04 @FBGA48          S29AS016J70BHIF3 @FBGA48          S29AS016J70BHIF4 @FBGA48          
+      S29AS016J70BHV03 @FBGA48          S29AS016J70BHV04 @FBGA48          S29AS016J70TFI01 @TSOP48          S29AS016J70TFI02 @TSOP48          
+      S29AS016J70TFI03 @TSOP48          S29AS016J70TFI04 @TSOP48          S29AS016J90BFV03 @FBGA48          S29AS016J90BFV04 @FBGA48          
+      S29AS016J90BHV03 @FBGA48          S29AS016J90BHV04 @FBGA48          S29GL01GP11FAIR1 @BGA64           S29GL01GP11FAIR2 @BGA64           
+      S29GL01GP11FFIR1 @BGA64           S29GL01GP11FFIR2 @BGA64           S29GL01GP11TAIR1 @TSOP56          S29GL01GP11TAIR2 @TSOP56          
+      S29GL01GP11TFIR1 @TSOP56          S29GL01GP11TFIR2 @TSOP56          S29GL01GP12FAI01 @BGA64           S29GL01GP12FAI02 @BGA64           
+      S29GL01GP12FFI01 @BGA64           S29GL01GP12FFI02 @BGA64           S29GL01GP12TAI01 @TSOP56          S29GL01GP12TAI02 @TSOP56          
+      S29GL01GP12TFI01 @TSOP56          S29GL01GP12TFI02 @TSOP56          S29GL01GP13FAIV1 @BGA64           S29GL01GP13FAIV2 @BGA64           
+      S29GL01GP13FFIV1 @BGA64           S29GL01GP13FFIV2 @BGA64           S29GL01GP13TAIV1 @TSOP56          S29GL01GP13TAIV2 @TSOP56          
+      S29GL01GP13TFIV1 @TSOP56          S29GL01GP13TFIV2 @TSOP56          S29GL01GS10DHI01 @BGA64           S29GL01GS10DHI02 @BGA64           
+      S29GL01GS10TFI01 @TSOP56          S29GL01GS10TFI02 @TSOP56          S29GL01GS11DHI01 @BGA64           S29GL01GS11DHI02 @BGA64           
+      S29GL01GS11DHIV1 @BGA64           S29GL01GS11DHIV2 @BGA64           S29GL01GS11TAI01 @TSOP56          S29GL01GS11TAI02 @TSOP56          
+      S29GL01GS11TAIV1 @TSOP56          S29GL01GS11TAIV2 @TSOP56          S29GL01GS11TFI01 @TSOP56          S29GL01GS11TFI02 @TSOP56          
+      S29GL01GS11TFIV1 @TSOP56          S29GL01GS11TFIV2 @TSOP56          S29GL01GS12DHIV1 @BGA64           S29GL01GS12DHIV2 @BGA64           
+      S29GL01GS12TFIV1 @TSOP56          S29GL01GS12TFIV2 @TSOP56          S29GL016A10BAI01 @BGA48           S29GL016A10BAI02 @BGA48           
+      S29GL016A10BAIR1 @BGA48           S29GL016A10BAIR2 @BGA48           S29GL016A10BFI01 @BGA48           S29GL016A10BFI02 @BGA48           
+      S29GL016A10BFIR1 @BGA48           S29GL016A10BFIR2 @BGA48           S29GL016A10FAI01 @BGA64           S29GL016A10FAI02 @BGA64           
+      S29GL016A10FAIR1 @BGA64           S29GL016A10FAIR2 @BGA64           S29GL016A10FFI01 @BGA64           S29GL016A10FFI02 @BGA64           
+      S29GL016A10FFIR1 @BGA64           S29GL016A10FFIR2 @BGA64           S29GL016A10TAI01 @TSOP48          S29GL016A10TAI02 @TSOP48          
+      S29GL016A10TAIR1 @TSOP48          S29GL016A10TAIR2 @TSOP48          S29GL016A10TFI01 @TSOP48          S29GL016A10TFI02 @TSOP48          
+      S29GL016A10TFIR1 @TSOP48          S29GL016A10TFIR2 @TSOP48          S29GL016A90BAIR1 @BGA48           S29GL016A90BAIR2 @BGA48           
+      S29GL016A90BFIR1 @BGA48           S29GL016A90BFIR2 @BGA48           S29GL016A90FAIR1 @BGA64           S29GL016A90FAIR2 @BGA64           
+      S29GL016A90FFIR1 @BGA64           S29GL016A90FFIR2 @BGA64           S29GL016A90TAIR1 @TSOP48          S29GL016A90TAIR2 @TSOP48          
+      S29GL016A90TFIR1 @TSOP48          S29GL016A90TFIR2 @TSOP48          S29GL032A10BAIR3 @BGA48           S29GL032A10BAIR4 @BGA48           
+      S29GL032A10BFIR3 @BGA48           S29GL032A10BFIR4 @BGA48           S29GL032A10FAIR1 @BGA64           S29GL032A10FAIR2 @BGA64           
+      S29GL032A10FAIR3 @BGA64           S29GL032A10FAIR4 @BGA64           S29GL032A10FFIR1 @BGA64           S29GL032A10FFIR2 @BGA64           
+      S29GL032A10FFIR3 @BGA64           S29GL032A10FFIR4 @BGA64           S29GL032A10TAIR1 @TSOP56          S29GL032A10TAIR2 @TSOP56          
+      S29GL032A10TAIR3 @TSOP48          S29GL032A10TAIR4 @TSOP48          S29GL032A10TFIR1 @TSOP56          S29GL032A10TFIR2 @TSOP56          
+      S29GL032A10TFIR3 @TSOP48          S29GL032A10TFIR4 @TSOP48          S29GL032A11BAIR3 @BGA48           S29GL032A11BAIR4 @BGA48           
+      S29GL032A11BFIR3 @BGA48           S29GL032A11BFIR4 @BGA48           S29GL032A11FAIR1 @BGA64           S29GL032A11FAIR2 @BGA64           
+      S29GL032A11FAIR3 @BGA64           S29GL032A11FAIR4 @BGA64           S29GL032A11FFIR1 @BGA64           S29GL032A11FFIR2 @BGA64           
+      S29GL032A11FFIR3 @BGA64           S29GL032A11FFIR4 @BGA64           S29GL032A11TAIR1 @TSOP56          S29GL032A11TAIR2 @TSOP56          
+      S29GL032A11TAIR3 @TSOP48          S29GL032A11TAIR4 @TSOP48          S29GL032A11TFIR1 @TSOP56          S29GL032A11TFIR2 @TSOP56          
+      S29GL032A11TFIR3 @TSOP48          S29GL032A11TFIR4 @TSOP48          S29GL032A90BAIR3 @BGA48           S29GL032A90BAIR4 @BGA48           
+      S29GL032A90BFIR3 @BGA48           S29GL032A90BFIR4 @BGA48           S29GL032A90FAIR1 @BGA64           S29GL032A90FAIR2 @BGA64           
+      S29GL032A90FAIR3 @BGA64           S29GL032A90FAIR4 @BGA64           S29GL032A90FFIR1 @BGA64           S29GL032A90FFIR2 @BGA64           
+      S29GL032A90FFIR3 @BGA64           S29GL032A90FFIR4 @BGA64           S29GL032A90TAIR1 @TSOP56          S29GL032A90TAIR2 @TSOP56          
+      S29GL032A90TAIR3 @TSOP48          S29GL032A90TAIR4 @TSOP48          S29GL032A90TFIR1 @TSOP56          S29GL032A90TFIR2 @TSOP56          
+      S29GL032A90TFIR3 @TSOP48          S29GL032A90TFIR4 @TSOP48          S29GL032M10TAIR0 @TSOP40          S29GL032M10TFIR0 @TSOP40          
+      S29GL032M10BAIR3 @BGA48           S29GL032M10BAIR4 @BGA48           S29GL032M10BBIR3 @BGA48           S29GL032M10BBIR4 @BGA48           
+      S29GL032M10BCIR3 @BGA48           S29GL032M10BCIR4 @BGA48           S29GL032M10BFIR3 @BGA48           S29GL032M10BFIR4 @BGA48           
+      S29GL032M10FAIR1 @BGA64           S29GL032M10FAIR2 @BGA64           S29GL032M10FAIR3 @BGA64           S29GL032M10FAIR4 @BGA64           
+      S29GL032M10FFIR1 @BGA64           S29GL032M10FFIR2 @BGA64           S29GL032M10FFIR3 @BGA64           S29GL032M10FFIR4 @BGA64           
+      S29GL032M10TAIR1 @TSOP56          S29GL032M10TAIR2 @TSOP56          S29GL032M10TAIR3 @TSOP48          S29GL032M10TAIR4 @TSOP48          
+      S29GL032M10TBIR3 @TSOP48          S29GL032M10TBIR4 @TSOP48          S29GL032M10TCIR3 @TSOP48          S29GL032M10TCIR4 @TSOP48          
+      S29GL032M10TFIR1 @TSOP56          S29GL032M10TFIR2 @TSOP56          S29GL032M10TFIR3 @TSOP48          S29GL032M10TFIR4 @TSOP48          
+      S29GL032M11TAIR0 @TSOP40          S29GL032M11TFIR0 @TSOP40          S29GL032M11BAIR3 @BGA48           S29GL032M11BAIR4 @BGA48           
+      S29GL032M11BBIR3 @BGA48           S29GL032M11BBIR4 @BGA48           S29GL032M11BCIR3 @BGA48           S29GL032M11BCIR4 @BGA48           
+      S29GL032M11BFIR3 @BGA48           S29GL032M11BFIR4 @BGA48           S29GL032M11FAIR1 @BGA64           S29GL032M11FAIR2 @BGA64           
+      S29GL032M11FAIR3 @BGA64           S29GL032M11FAIR4 @BGA64           S29GL032M11FFIR1 @BGA64           S29GL032M11FFIR2 @BGA64           
+      S29GL032M11FFIR3 @BGA64           S29GL032M11FFIR4 @BGA64           S29GL032M11TAIR1 @TSOP56          S29GL032M11TAIR2 @TSOP56          
+      S29GL032M11TAIR3 @TSOP48          S29GL032M11TAIR4 @TSOP48          S29GL032M11TBIR3 @TSOP48          S29GL032M11TBIR4 @TSOP48          
+      S29GL032M11TCIR3 @TSOP48          S29GL032M11TCIR4 @TSOP48          S29GL032M11TFIR1 @TSOP56          S29GL032M11TFIR2 @TSOP56          
+      S29GL032M11TFIR3 @TSOP48          S29GL032M11TFIR4 @TSOP48          S29GL032M90TACR0 @TSOP40          S29GL032M90TAIR0 @TSOP40          
+      S29GL032M90TFCR0 @TSOP40          S29GL032M90TFIR0 @TSOP40          S29GL032M90BACR3 @BGA48           S29GL032M90BACR4 @BGA48           
+      S29GL032M90BAIR3 @BGA48           S29GL032M90BAIR4 @BGA48           S29GL032M90BBIR3 @BGA48           S29GL032M90BBIR4 @BGA48           
+      S29GL032M90BCIR3 @BGA48           S29GL032M90BCIR4 @BGA48           S29GL032M90BFCR3 @BGA48           S29GL032M90BFCR4 @BGA48           
+      S29GL032M90BFIR3 @BGA48           S29GL032M90BFIR4 @BGA48           S29GL032M90FACR1 @BGA64           S29GL032M90FACR2 @BGA64           
+      S29GL032M90FACR3 @BGA64           S29GL032M90FACR4 @BGA64           S29GL032M90FAIR1 @BGA64           S29GL032M90FAIR2 @BGA64           
+      S29GL032M90FAIR3 @BGA64           S29GL032M90FAIR4 @BGA64           S29GL032M90FFCR1 @BGA64           S29GL032M90FFCR2 @BGA64           
+      S29GL032M90FFCR3 @BGA64           S29GL032M90FFCR4 @BGA64           S29GL032M90FFIR1 @BGA64           S29GL032M90FFIR2 @BGA64           
+      S29GL032M90FFIR3 @BGA64           S29GL032M90FFIR4 @BGA64           S29GL032M90TACR1 @TSOP56          S29GL032M90TACR2 @TSOP56          
+      S29GL032M90TACR3 @TSOP48          S29GL032M90TACR4 @TSOP48          S29GL032M90TAIR1 @TSOP56          S29GL032M90TAIR2 @TSOP56          
+      S29GL032M90TAIR3 @TSOP48          S29GL032M90TAIR4 @TSOP48          S29GL032M90TBIR3 @TSOP48          S29GL032M90TBIR4 @TSOP48          
+      S29GL032M90TCIR3 @TSOP48          S29GL032M90TCIR4 @TSOP48          S29GL032M90TFCR1 @TSOP56          S29GL032M90TFCR2 @TSOP56          
+      S29GL032M90TFCR3 @TSOP48          S29GL032M90TFCR4 @TSOP48          S29GL032M90TFIR1 @TSOP56          S29GL032M90TFIR2 @TSOP56          
+      S29GL032M90TFIR3 @TSOP48          S29GL032M90TFIR4 @TSOP48          S29GL032N11FFIS2 @BGA64           S29GL032N11FFIV1 @BGA64           
+      S29GL032N11FFIV2 @BGA64           S29GL032N11TFIV1 @TSOP56          S29GL032N11TFIV2 @TSOP56          S29GL032N70BAI03 @BGA48           
+      S29GL032N70BAI04 @BGA48           S29GL032N70BAIR3 @BGA48           S29GL032N70BAIR4 @BGA48           S29GL032N70BFI03 @BGA48           
+      S29GL032N70BFI04 @BGA48           S29GL032N70BFIR3 @BGA48           S29GL032N70BFIR4 @BGA48           S29GL032N70TAI03 @TSOP48          
+      S29GL032N70TAI04 @TSOP48          S29GL032N70TAIR3 @TSOP48          S29GL032N70TAIR4 @TSOP48          S29GL032N70TFI03 @TSOP48          
+      S29GL032N70TFI04 @TSOP48          S29GL032N70TFIR3 @TSOP48          S29GL032N70TFIR4 @TSOP48          S29GL032N90BAI03 @BGA48           
+      S29GL032N90BAI04 @BGA48           S29GL032N90BAIR3 @BGA48           S29GL032N90BAIR4 @BGA48           S29GL032N90BFI03 @BGA48           
+      S29GL032N90BFI04 @BGA48           S29GL032N90BFIR3 @BGA48           S29GL032N90BFIR4 @BGA48           S29GL032N90FFI01 @BGA64           
+      S29GL032N90FFI02 @BGA64           S29GL032N90FFI03 @BGA64           S29GL032N90FFI04 @BGA64           S29GL032N90FFIS2 @BGA64           
+      S29GL032N90FFIS3 @BGA64           S29GL032N90TAI03 @TSOP48          S29GL032N90TAI04 @TSOP48          S29GL032N90TAIR3 @TSOP48          
+      S29GL032N90TAIR4 @TSOP48          S29GL032N90TFI01 @TSOP56          S29GL032N90TFI02 @TSOP56          S29GL032N90TFI03 @TSOP48          
+      S29GL032N90TFI04 @TSOP48          S29GL032N90TFIR3 @TSOP48          S29GL032N90TFIR4 @TSOP48          S29GL064A10FAIR1 @BGA64           
+      S29GL064A10FAIR2 @BGA64           S29GL064A10FAIR3 @BGA64           S29GL064A10FAIR4 @BGA64           S29GL064A10FAIR5 @BGA64           
+      S29GL064A10FFIR1 @BGA64           S29GL064A10FFIR2 @BGA64           S29GL064A10FFIR3 @BGA64           S29GL064A10FFIR4 @BGA64           
+      S29GL064A10FFIR5 @BGA64           S29GL064A10BAIR3 @BGA48           S29GL064A10BAIR4 @BGA48           S29GL064A10BAIR5 @BGA48           
+      S29GL064A10BFIR3 @BGA48           S29GL064A10BFIR4 @BGA48           S29GL064A10BFIR5 @BGA48           S29GL064A10TAIR1 @TSOP56          
+      S29GL064A10TAIR2 @TSOP56          S29GL064A10TAIR3 @TSOP48          S29GL064A10TAIR4 @TSOP48          S29GL064A10TAIR6 @TSOP48          
+      S29GL064A10TAIR7 @TSOP48          S29GL064A10TAIR8 @TSOP48          S29GL064A10TAIR9 @TSOP48          S29GL064A10TFIR1 @TSOP56          
+      S29GL064A10TFIR2 @TSOP56          S29GL064A10TFIR3 @TSOP48          S29GL064A10TFIR4 @TSOP48          S29GL064A10TFIR6 @TSOP48          
+      S29GL064A10TFIR7 @TSOP48          S29GL064A10TFIR8 @TSOP48          S29GL064A10TFIR9 @TSOP48          S29GL064A11BAIR3 @BGA48           
+      S29GL064A11BAIR4 @BGA48           S29GL064A11BAIR5 @BGA48           S29GL064A11BFIR3 @BGA48           S29GL064A11BFIR4 @BGA48           
+      S29GL064A11BFIR5 @BGA48           S29GL064A11FAIR1 @BGA64           S29GL064A11FAIR2 @BGA64           S29GL064A11FAIR3 @BGA64           
+      S29GL064A11FAIR4 @BGA64           S29GL064A11FAIR5 @BGA64           S29GL064A11FFIR1 @BGA64           S29GL064A11FFIR2 @BGA64           
+      S29GL064A11FFIR3 @BGA64           S29GL064A11FFIR4 @BGA64           S29GL064A11FFIR5 @BGA64           S29GL064A11FFIS2 @BGA64           
+      S29GL064A11TAIR1 @TSOP56          S29GL064A11TAIR2 @TSOP56          S29GL064A11TAIR3 @TSOP48          S29GL064A11TAIR4 @TSOP48          
+      S29GL064A11TAIR6 @TSOP48          S29GL064A11TAIR7 @TSOP48          S29GL064A11TAIR8 @TSOP48          S29GL064A11TAIR9 @TSOP48          
+      S29GL064A11TFIR1 @TSOP56          S29GL064A11TFIR2 @TSOP56          S29GL064A11TFIR3 @TSOP48          S29GL064A11TFIR4 @TSOP48          
+      S29GL064A11TFIR6 @TSOP48          S29GL064A11TFIR7 @TSOP48          S29GL064A11TFIR8 @TSOP48          S29GL064A11TFIR9 @TSOP48          
+      S29GL064A90BAIR3 @BGA48           S29GL064A90BAIR4 @BGA48           S29GL064A90BAIR5 @BGA48           S29GL064A90BFIR3 @BGA48           
+      S29GL064A90BFIR4 @BGA48           S29GL064A90BFIR5 @BGA48           S29GL064A90FAIR1 @BGA64           S29GL064A90FAIR2 @BGA64           
+      S29GL064A90FAIR3 @BGA64           S29GL064A90FAIR4 @BGA64           S29GL064A90FAIR5 @BGA64           S29GL064A90FFIR1 @BGA64           
+      S29GL064A90FFIR2 @BGA64           S29GL064A90FFIR3 @BGA64           S29GL064A90FFIR4 @BGA64           S29GL064A90FFIR5 @BGA64           
+      S29GL064A90TAIR1 @TSOP56          S29GL064A90TAIR2 @TSOP56          S29GL064A90TAIR3 @TSOP48          S29GL064A90TAIR4 @TSOP48          
+      S29GL064A90TAIR6 @TSOP48          S29GL064A90TAIR7 @TSOP48          S29GL064A90TAIR8 @TSOP48          S29GL064A90TAIR9 @TSOP48          
+      S29GL064A90TFIR1 @TSOP56          S29GL064A90TFIR2 @TSOP56          S29GL064A90TFIR3 @TSOP48          S29GL064A90TFIR4 @TSOP48          
+      S29GL064A90TFIR6 @TSOP48          S29GL064A90TFIR7 @TSOP48          S29GL064A90TFIR8 @TSOP48          S29GL064A90TFIR9 @TSOP48          
+      S29GL064M10BAIR3 @BGA63           S29GL064M10BAIR4 @BGA63           S29GL064M10BAIR5 @BGA63           S29GL064M10BFIR3 @BGA63           
+      S29GL064M10BFIR4 @BGA63           S29GL064M10BFIR5 @BGA63           S29GL064M10FAIR1 @BGA64           S29GL064M10FAIR2 @BGA64           
+      S29GL064M10FAIR3 @BGA64           S29GL064M10FAIR4 @BGA64           S29GL064M10FAIR5 @BGA64           S29GL064M10FFIR1 @BGA64           
+      S29GL064M10FFIR2 @BGA64           S29GL064M10FFIR3 @BGA64           S29GL064M10FFIR4 @BGA64           S29GL064M10FFIR5 @BGA64           
+      S29GL064M10TAIR1 @TSOP56          S29GL064M10TAIR2 @TSOP56          S29GL064M10TAIR3 @TSOP48          S29GL064M10TAIR4 @TSOP48          
+      S29GL064M10TAIR6 @TSOP48          S29GL064M10TAIR7 @TSOP48          S29GL064M10TBIR2 @TSOP48          S29GL064M10TBIR7 @TSOP48          
+      S29GL064M10TCIR2 @TSOP48          S29GL064M10TCIR7 @TSOP48          S29GL064M10TFIR1 @TSOP56          S29GL064M10TFIR2 @TSOP56          
+      S29GL064M10TFIR3 @TSOP48          S29GL064M10TFIR4 @TSOP48          S29GL064M10TFIR6 @TSOP48          S29GL064M10TFIR7 @TSOP48          
+      S29GL064M11BAIR3 @BGA63           S29GL064M11BAIR4 @BGA63           S29GL064M11BAIR5 @BGA63           S29GL064M11BFIR3 @BGA63           
+      S29GL064M11BFIR4 @BGA63           S29GL064M11BFIR5 @BGA63           S29GL064M11FAIR1 @BGA64           S29GL064M11FAIR2 @BGA64           
+      S29GL064M11FAIR3 @BGA64           S29GL064M11FAIR4 @BGA64           S29GL064M11FAIR5 @BGA64           S29GL064M11FFIR1 @BGA64           
+      S29GL064M11FFIR2 @BGA64           S29GL064M11FFIR3 @BGA64           S29GL064M11FFIR4 @BGA64           S29GL064M11FFIR5 @BGA64           
+      S29GL064M11TAIR1 @TSOP56          S29GL064M11TAIR2 @TSOP56          S29GL064M11TAIR3 @TSOP48          S29GL064M11TAIR4 @TSOP48          
+      S29GL064M11TAIR6 @TSOP48          S29GL064M11TAIR7 @TSOP48          S29GL064M11TBIR2 @TSOP48          S29GL064M11TBIR7 @TSOP48          
+      S29GL064M11TCIR2 @TSOP48          S29GL064M11TCIR7 @TSOP48          S29GL064M11TFIR1 @TSOP56          S29GL064M11TFIR2 @TSOP56          
+      S29GL064M11TFIR3 @TSOP48          S29GL064M11TFIR4 @TSOP48          S29GL064M11TFIR6 @TSOP48          S29GL064M11TFIR7 @TSOP48          
+      S29GL064M90BAIR3 @BGA63           S29GL064M90BAIR4 @BGA63           S29GL064M90BAIR5 @BGA63           S29GL064M90BFIR3 @BGA63           
+      S29GL064M90BFIR4 @BGA63           S29GL064M90BFIR5 @BGA63           S29GL064M90FAIR1 @BGA64           S29GL064M90FAIR2 @BGA64           
+      S29GL064M90FAIR3 @BGA64           S29GL064M90FAIR4 @BGA64           S29GL064M90FAIR5 @BGA64           S29GL064M90FFIR1 @BGA64           
+      S29GL064M90FFIR2 @BGA64           S29GL064M90FFIR3 @BGA64           S29GL064M90FFIR4 @BGA64           S29GL064M90FFIR5 @BGA64           
+      S29GL064M90TAIR1 @TSOP56          S29GL064M90TAIR2 @TSOP56          S29GL064M90TAIR3 @TSOP48          S29GL064M90TAIR4 @TSOP48          
+      S29GL064M90TAIR6 @TSOP48          S29GL064M90TAIR7 @TSOP48          S29GL064M90TBIR2 @TSOP48          S29GL064M90TBIR7 @TSOP48          
+      S29GL064M90TCIR2 @TSOP48          S29GL064M90TCIR7 @TSOP48          S29GL064M90TFIR1 @TSOP56          S29GL064M90TFIR2 @TSOP56          
+      S29GL064M90TFIR3 @TSOP48          S29GL064M90TFIR4 @TSOP48          S29GL064M90TFIR6 @TSOP48          S29GL064M90TFIR7 @TSOP48          
+      S29GL064N11FFIV1 @BGA64           S29GL064N11FFIV2 @BGA64           S29GL064N11FFIV6 @BGA64           S29GL064N11FFIV7 @BGA64           
+      S29GL064N11TAIV6 @TSOP48          S29GL064N11TAIV7 @TSOP48          S29GL064N11TFIV1 @TSOP56          S29GL064N11TFIV2 @TSOP56          
+      S29GL064N11TFIV6 @TSOP48          S29GL064N11TFIV7 @TSOP48          S29GL064N70TAI03 @TSOP48          S29GL064N70TAI04 @TSOP48          
+      S29GL064N70TAI06 @TSOP48          S29GL064N70TAI07 @TSOP48          S29GL064N70TAIR3 @TSOP48          S29GL064N70TAIR4 @TSOP48          
+      S29GL064N70TAIR6 @TSOP48          S29GL064N70TAIR7 @TSOP48          S29GL064N70TFI01 @TSOP56          S29GL064N70TFI02 @TSOP56          
+      S29GL064N70TFI03 @TSOP48          S29GL064N70TFI04 @TSOP48          S29GL064N70TFI06 @TSOP48          S29GL064N70TFI07 @TSOP48          
+      S29GL064N70TFIR3 @TSOP48          S29GL064N70TFIR4 @TSOP48          S29GL064N70TFIR6 @TSOP48          S29GL064N70TFIR7 @TSOP48          
+      S29GL064N90BAI03 @BGA48           S29GL064N90BAI04 @BGA48           S29GL064N90BFI03 @BGA48           S29GL064N90BFI04 @BGA48           
       S29GL064N90FFI01 @BGA64           S29GL064N90FFI02 @BGA64           S29GL064N90FFI03 @BGA64           S29GL064N90FFI04 @BGA64           
       S29GL064N90FFI06 @BGA64           S29GL064N90FFI07 @BGA64           S29GL064N90FFIS1 @BGA64           S29GL064N90FFIS2 @BGA64           
       S29GL064N90FFIS3 @BGA64           S29GL064N90TAI01 @TSOP56          S29GL064N90TAI02 @TSOP56          S29GL064N90TAI03 @TSOP48          
@@ -5512,9 +5575,12 @@ XGecu T56 Universal Programmer Device Support List:
       S29JL064H60TAI00 @TSOP48          S29JL064H60TFI00 @TSOP48          S29JL064H70BAI03 @BGA48           S29JL064H70BFI04 @BGA48           
       S29JL064H70TAI00 @TSOP48          S29JL064H70TFI00 @TSOP48          S29JL064H90BAI03 @BGA48           S29JL064H90BFI04 @BGA48           
       S29JL064H90TAI00 @TSOP48          S29JL064H90TFI00 @TSOP48          S29JL064J55TFI00 @TSOP48          S29JL064J60TFI00 @TSOP48          
-      S29JL064J70TFI00 @TSOP48          
+      S29JL064J70TFI00 @TSOP48          S29PL032J55BAI12 @BGA48           S29PL032J55BAW12 @BGA48           S29PL032J60BAI12 @BGA48           
+      S29PL032J60BAW12 @BGA48           S29PL032J70BAI12 @BGA48           S29PL032J70BAW12 @BGA48           S29PL064J55BAI12 @BGA48           
+      S29PL064J55BAW12 @BGA48           S29PL064J60BAI12 @BGA48           S29PL064J60BAW12 @BGA48           S29PL064J70BAI12 @BGA48           
+      S29PL064J70BAW12 @BGA48           
 
-         IC Support: 1941 PCS
+         IC Support: 1985 PCS
 
  [ SPANSION(2) ]     
 
@@ -5888,9 +5954,11 @@ XGecu T56 Universal Programmer Device Support List:
       ST93CS47                          ST93CS47 @SOIC8                   ST93CS56                          ST93CS56 @SOIC8                   
       ST93CS57                          ST93CS57 @SOIC8                   ST93CS66                          ST93CS66 @SOIC8                   
       ST93CS66 @SOIC14                  ST93CS67                          ST93CS67 @SOIC8                   ST93CS67 @SOIC14                  
-      TS27C256 @DIP28                   TS27C64A @DIP28                   TS27C64A @PLCC32                  
+      ST95P02                           ST95P02 @SOIC8                    ST95P04                           ST95P04 @SOIC8                    
+      ST95P08                           ST95P08 @SOIC8                    TS27C256 @DIP28                   TS27C64A @DIP28                   
+      TS27C64A @PLCC32                  
 
-         IC Support: 1027 PCS
+         IC Support: 1033 PCS
 
  [ SUMMIT ]     
 
@@ -6435,5 +6503,6 @@ XGecu T56 Universal Programmer Device Support List:
 
          IC Support: 14 PCS
 
- 
-   Total: 22378 PCS
+
+
+   Total: 22651 PCS
