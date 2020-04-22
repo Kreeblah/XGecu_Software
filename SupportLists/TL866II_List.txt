@@ -1,12 +1,13 @@
  XGecu TL866II Plus High-Performance Universal USB Programmer Device Support List:
 
-            Software Version:   V10.09  Date : 4.16th.2020
-           Supported Devices:   16197 pcs
+            Software Version:   V10.11  Date : 4.22th.2020
+           Supported Devices:   16205 pcs
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
+ 
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -1738,9 +1739,10 @@
 
       GE24C01                             GE24C01 @SOIC8                      GE24C01 @TSSOP8                     GE24C02                             
       GE24C02 @SOIC8                      GE24C02 @TSSOP8                     GE24C04                             GE24C04 @SOIC8                      
-      GE24C04 @TSSOP8                     
+      GE24C04 @TSSOP8                     GLS36VF1601E @TSOP48                GLS36VF1601G @TSOP48                GLS36VF1602E @TSOP48                
+      GLS36VF3203 @TSOP48                 GLS36VF3204 @TSOP48                 
 
-         IC Support: 9 PCS
+         IC Support: 14 PCS
 
  [ GREENWICH ]     
 
@@ -2167,10 +2169,11 @@
       KH25L512A @SOP8                     KH25L8005                           KH25L8005 @SON8                     KH25L8005 @SOP8                     
       KH25L8036D                          KH25L8036D @WSON8                   KH25L8036D @SOP8                    KH25L8036D @SOP16                   
       KH29LV160CB @TSOP48                 KH29LV160CT @TSOP48                 KH29LV320DB @TSOP48                 KH29LV320DT @TSOP48                 
-      KH29LV400CB @TSOP48                 KH29LV400CB @SOP44                  KH29LV400CT @TSOP48                 KH29LV400CT @SOP44                  
-      KH29LV800CB @TSOP48                 KH29LV800CB @SOP44                  KH29LV800CT @TSOP48                 KH29LV800CT @SOP44                  
+      KH29LV320EB @TSOP48                 KH29LV320ET @TSOP48                 KH29LV400CB @TSOP48                 KH29LV400CB @SOP44                  
+      KH29LV400CT @TSOP48                 KH29LV400CT @SOP44                  KH29LV800CB @TSOP48                 KH29LV800CB @SOP44                  
+      KH29LV800CT @TSOP48                 KH29LV800CT @SOP44                  
 
-         IC Support: 40 PCS
+         IC Support: 42 PCS
 
  [ KINGSTON SOLUTIONS ]     
 
@@ -4485,20 +4488,21 @@
       TC54256AF @DIP28                    TC54256AF @SOIC28                   TC54256AP @DIP28                    TC54256AP @SOIC28                   
       TC57256D @DIP28                     TC57512AD @DIP28                    TC57512AD @PLCC32                   TC58DVM92A1FTI0 @TSOP48             
       TC58DVM92A5TA10 @TSOP48             TC58DVM92A5TA00 @TSOP48             TC58NVG0S3ETA00 @TSOP48             TC58NVG0S3ETAI0 @TSOP48             
-      TC58NVG0S3HTA00 @TSOP48             TC58NVG0S3AFT05 @TSOP48             TC58NVG1S3BFT00 @TSOP48             TC58NVG1S3ETA00 @TSOP48             
-      TC58NVG1S3 @TSOP48                  TC58NVG2S3 @TSOP48                  TC58BVG0S3HTA00 @TSOP48             TC58BVG0S3HTAI0 @TSOP48             
-      TC58BVG1S3HTA00 @TSOP48             TC58BVG1S3HTAI0 @TSOP48             TC58BVG2S0HTA00 @TSOP48             TC58BVG2S0HTAI0 @TSOP48             
-      TC58NVG0S3HTA00 @TSOP48             TC58NVG0S3HTAI0 @TSOP48             TC58NVG1S3HTA00 @TSOP48             TC58NVG1S3HTAI0 @TSOP48             
-      TC58NVG2S0HTA00 @TSOP48             TC58NVG2S0HTAI0 @TSOP48             TH58BVG3S0HTA00 @TSOP48             TH58BVG3S0HTAI0 @TSOP48             
-      TH58NVG3S0HTA00 @TSOP48             TH58NVG3S0HTAI0 @TSOP48             TC58FVB004 @TSOP40                  TC58FVB008 @TSOP40                  
-      TC58FVB016 @TSOP40                  TC58FVB160 @TSOP48                  TC58FVB321 @TSOP48                  TC58FVB400 @TSOP48                  
-      TC58FVB400 @SOP44                   TC58FVB641 @TSOP48                  TC58FVB800 @TSOP48                  TC58FVB800 @SOP44                   
-      TC58FVM5B2A @TSOP48                 TC58FVM5T2A @TSOP48                 TC58FVM5B3A @TSOP48                 TC58FVM5T3A @TSOP48                 
-      TC58FVM6B2A @TSOP48                 TC58FVM6T2A @TSOP48                 TC58FVT004 @TSOP40                  TC58FVT008 @TSOP40                  
-      TC58FVT016 @TSOP40                  TC58FVT160 @TSOP48                  TC58FVT321 @TSOP48                  TC58FVT400 @TSOP48                  
-      TC58FVT400 @SOP44                   TC58FVT641 @TSOP48                  TC58FVT800 @TSOP48                  TC58FVT800 @SOP44                   
+      TC58NVG0S3HTA00 @TSOP48             TC58NVG0S3AFT05 @TSOP48             TC58NVG0S3ATGL0 @TSOP48             TC58NVG1S3BFT00 @TSOP48             
+      TC58NVG1S3ETA00 @TSOP48             TC58NVG1S3 @TSOP48                  TC58NVG2S3 @TSOP48                  TC58BVG0S3HTA00 @TSOP48             
+      TC58BVG0S3HTAI0 @TSOP48             TC58BVG1S3HTA00 @TSOP48             TC58BVG1S3HTAI0 @TSOP48             TC58BVG2S0HTA00 @TSOP48             
+      TC58BVG2S0HTAI0 @TSOP48             TC58NVG0S3HTA00 @TSOP48             TC58NVG0S3HTAI0 @TSOP48             TC58NVG1S3HTA00 @TSOP48             
+      TC58NVG1S3HTAI0 @TSOP48             TC58NVG2S0HTA00 @TSOP48             TC58NVG2S0HTAI0 @TSOP48             TH58BVG3S0HTA00 @TSOP48             
+      TH58BVG3S0HTAI0 @TSOP48             TH58NVG3S0HTA00 @TSOP48             TH58NVG3S0HTAI0 @TSOP48             TC58FVB004 @TSOP40                  
+      TC58FVB008 @TSOP40                  TC58FVB016 @TSOP40                  TC58FVB160 @TSOP48                  TC58FVB321 @TSOP48                  
+      TC58FVB400 @TSOP48                  TC58FVB400 @SOP44                   TC58FVB641 @TSOP48                  TC58FVB800 @TSOP48                  
+      TC58FVB800 @SOP44                   TC58FVM5B2A @TSOP48                 TC58FVM5T2A @TSOP48                 TC58FVM5B3A @TSOP48                 
+      TC58FVM5T3A @TSOP48                 TC58FVM6B2A @TSOP48                 TC58FVM6T2A @TSOP48                 TC58FVT004 @TSOP40                  
+      TC58FVT008 @TSOP40                  TC58FVT016 @TSOP40                  TC58FVT160 @TSOP48                  TC58FVT321 @TSOP48                  
+      TC58FVT400 @TSOP48                  TC58FVT400 @SOP44                   TC58FVT641 @TSOP48                  TC58FVT800 @TSOP48                  
+      TC58FVT800 @SOP44                   
 
-         IC Support: 60 PCS
+         IC Support: 61 PCS
 
  [ TURBO IC ]     
 
@@ -4889,4 +4893,4 @@
          IC Support: 168 PCS
 
 
-   Total: 16197 PCS
+   Total: 16205 PCS
