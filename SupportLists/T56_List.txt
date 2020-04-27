@@ -1,7 +1,7 @@
  XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V10.11  Date : 4.22th.2020
-           Supported Devices:   22966 pcs 
+            Software Version:   V10.13  Date : 4.27th.2020
+           Supported Devices:   23141 pcs 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
@@ -2296,77 +2296,86 @@
       JS28F128M29EWH  @TSOP56             JS28F128M29EWL  @TSOP56             JS28F256M29EWH  @TSOP56             JS28F256M29EWL  @TSOP56             
       JS28F512M29AWH  @TSOP56             JS28F512M29AWL  @TSOP56             JS28F512M29EWH  @TSOP56             JS28F512M29EWL  @TSOP56             
       JS28F00AM29AWHA @TSOP56             JS28F00AM29AWLA @TSOP56             JS28F00AM29EWHA @TSOP56             JS28F00AM29EWLA @TSOP56             
-      JS28F128J3C @TSOP56                 JS28F128J3D @TSOP56                 JS28F128J3F @TSOP56                 JS28F160B3T @TSOP48                 
-      JS28F160B3B @TSOP48                 JS28F160C3T @TSOP48                 JS28F160C3B @TSOP48                 JS28F256J3C @TSOP56                 
-      JS28F256J3D @TSOP56                 JS28F256J3F @TSOP56                 JS28F320B3T @TSOP48                 JS28F320B3B @TSOP48                 
-      JS28F320C3T @TSOP48                 JS28F320C3B @TSOP48                 JS28F320J3C @TSOP56                 JS28F320J3D @TSOP56                 
-      JS28F320J3F @TSOP56                 JS28F640J3C @TSOP56                 JS28F640J3D @TSOP56                 JS28F640J3F @TSOP56                 
-      JS28F800B3T @TSOP48                 JS28F800B3B @TSOP48                 JS28F800C3T @TSOP48                 JS28F800C3B @TSOP48                 
-      JS29F02G08AANB3 @TSOP48             JS29F02G08ABC   @TSOP48             JS29F04G08AANB1 @TSOP48             JS29F04G08BANB3 @TSOP48             
-      JS29F08G08CANB1 @TSOP48             JS29F08G08FANB3 @TSOP48             JS29F16G08FANB1 @TSOP48*            JS29F32G08AAMDB @TSOP48*            
-      JS29F64G08CAMDB @TSOP48*            M29W640GB      @TSOP56              M29W640GB      @BGA64               M29W640GH      @TSOP56              
-      M29W640GH      @BGA64               M29W640GL      @TSOP56              M29W640GL      @BGA64               M29W640GSBxxNB @TSOP56              
-      M29W640GSBxxNB @BGA64               M29W640GSHxxNB @TSOP56              M29W640GSHxxNB @BGA64               M29W640GSLxxNB @TSOP56              
-      M29W640GSLxxNB @BGA64               M29W640GSTxxNB @TSOP56              M29W640GSTxxNB @BGA64               M29W640GT      @TSOP56              
-      M29W640GT      @BGA64               M29W128FHxxN   @TSOP56              M29W128FHxxN   @BGA64               M29W128FLxxN   @TSOP56              
-      M29W128FLxxN   @BGA64               M29W128GHxxN   @TSOP56              M29W128GHxxN   @BGA64               M29W128GLxxN   @TSOP56              
-      M29W128GLxxN   @BGA64               M29W128GSHxxN  @TSOP56              M29W128GSHxxN  @BGA64               M29W128GSLxxN  @TSOP56              
-      M29W128GSLxxN  @BGA64               M29W256GHxxN   @TSOP56              M29W256GHxxN   @BGA64               M29W256GLxxN   @TSOP56              
-      M29W256GLxxN   @BGA64               M29W512GHxxN   @TSOP56              M29W512GHxxN   @BGA64               MT28F128J3 @TSOP56                  
-      MT28F128J3 @EBGA64                  MT28F256J3 @TSOP56                  MT28F256J3 @EBGA64                  MT28F320J3 @TSOP56                  
-      MT28F320J3 @EBGA64                  MT28F640J3 @TSOP56                  MT28F640J3 @EBGA64                  P28F001BX-T @DIP32                  
-      P28F001BX-B @DIP32                  P28F256A    @DIP32                  P28F512     @DIP32                  P28F010     @DIP32                  
-      P28F020     @DIP32                  PA28F200B5T @SOP44                  PA28F200B5B @SOP44                  PA28F200BVT @SOP44                  
-      PA28F200BVB @SOP44                  PA28F400B5T @SOP44                  PA28F400B5B @SOP44                  PA28F400BVT @SOP44                  
-      PA28F400BVB @SOP44                  PA28F800B5T @SOP44                  PA28F800B5B @SOP44                  PC28F128J3C @BGA64                  
-      PC28F128J3D @BGA64                  PC28F128J3F @BGA64                  PC28F256J3C @BGA64                  PC28F256J3D @BGA64                  
-      PC28F256J3F @BGA64                  PC28F320J3C @BGA64                  PC28F320J3D @BGA64                  PC28F320J3F @BGA64                  
-      PC28F640J3C @BGA64                  PC28F640J3D @BGA64                  PC28F640J3F @BGA64                  PC28F064M29EWH  @BGA64              
-      PC28F064M29EWL  @BGA64              PC28F064M29EWB  @BGA64              PC28F064M29EWT  @BGA64              PC28F128M29EWH  @BGA64              
-      PC28F128M29EWL  @BGA64              PC28F256M29EWH  @BGA64              PC28F256M29EWL  @BGA64              PC28F512M29EWH  @BGA64              
-      PC28F512M29EWL  @BGA64              PC28F00AM29EWHA @BGA64              PC28F00AM29EWLA @BGA64              PZ28F032M29EWH  @BGA48              
-      PZ28F032M29EWL  @BGA48              PZ28F032M29EWB  @BGA48              PZ28F032M29EWT  @BGA48              PZ28F064M29EWH  @BGA48              
-      PZ28F064M29EWL  @BGA48              PZ28F064M29EWB  @BGA48              PZ28F064M29EWT  @BGA48              PZ28F064M29EWHX @BGA48              
-      PZ28F064M29EWLX @BGA48              PZ28F064M29EWBX @BGA48              PZ28F064M29EWTX @BGA48              QB25F016S33B @SOIC8                 
-      QB25F160S33B @SOP16                 QB25F320S33B @SOP16                 QB25F640S33B @SOP16                 QH25F016S33B @SOIC8                 
-      QH25F160S33B @SOP16                 QH25F320S33B @SOP16                 QH25F640S33B @SOP16                 N28F001BX-T @PLCC32                 
-      N28F001BX-B @PLCC32                 N28F256A    @PLCC32                 N28F512     @PLCC32                 N28F010     @PLCC32                 
-      N28F020     @PLCC32                 N82802AB @PLCC32                    N82802AC @PLCC32                    RC28F128J3A @BGA64                  
-      RC28F128J3C @BGA64                  RC28F128J3D @BGA64                  RC28F128J3F @BGA64                  RC28F256J3A @BGA64                  
-      RC28F256J3C @BGA64                  RC28F256J3D @BGA64                  RC28F256J3F @BGA64                  RC28F320J3A @BGA64                  
-      RC28F320J3C @BGA64                  RC28F320J3D @BGA64                  RC28F320J3F @BGA64                  RC28F640J3A @BGA64                  
-      RC28F640J3C @BGA64                  RC28F640J3D @BGA64                  RC28F640J3F @BGA64                  RC28F128M29EWH  @BGA64              
-      RC28F128M29EWL  @BGA64              RC28F256M29EWH  @BGA64              RC28F256M29EWL  @BGA64              RC28F512M29EWH  @BGA64              
-      RC28F512M29EWL  @BGA64              RC28F00AM29EWHA @BGA64              RC28F00AM29EWLA @BGA64              TB28F200B5T @SOP44                  
-      TB28F200B5B @SOP44                  TB28F200BVT @SOP44                  TB28F200BVB @SOP44                  TB28F400B5T @SOP44                  
-      TB28F400B5B @SOP44                  TB28F400BVT @SOP44                  TB28F400BVB @SOP44                  TB28F800B5T @SOP44                  
-      TB28F800B5B @SOP44                  TE28F002BVT @TSOP40                 TE28F002BVB @TSOP40                 TE28F002BET @TSOP40                 
-      TE28F002BEB @TSOP40                 TE28F002BXT @TSOP40                 TE28F002BXB @TSOP40                 TE28F004BVT @TSOP40                 
-      TE28F004BVB @TSOP40                 TE28F004BET @TSOP40                 TE28F004BEB @TSOP40                 TE28F004BXT @TSOP40                 
-      TE28F004BXB @TSOP40                 TE28F004S3  @TSOP40                 TE28F004S5  @TSOP40                 TE28F004SC  @TSOP40                 
-      TE28F008BVT @TSOP40                 TE28F008BVB @TSOP40                 TE28F008BET @TSOP40                 TE28F008BEB @TSOP40                 
-      TE28F008B3T @TSOP40                 TE28F008B3B @TSOP40                 TE28F008C3T @TSOP40                 TE28F008C3B @TSOP40                 
-      TE28F008S3  @TSOP40                 TE28F008S5  @TSOP40                 TE28F008SC  @TSOP40                 TE28F016B3T @TSOP40                 
-      TE28F016B3B @TSOP40                 TE28F016C3T @TSOP40                 TE28F016C3B @TSOP40                 TE28F016S3  @TSOP40                 
-      TE28F016S5  @TSOP40                 TE28F016SC  @TSOP40                 TE28F016SA @TSOP56                  TE28F016SV @TSOP56                  
-      TE28F032SA @TSOP56                  TE28F032SV @TSOP56                  TE28F128J3A @TSOP56                 TE28F128J3C @TSOP56                 
-      TE28F128J3D @TSOP56                 TE28F128J3F @TSOP56                 TE28F160B3T @TSOP48                 TE28F160B3B @TSOP48                 
-      TE28F160C3T @TSOP48                 TE28F160C3B @TSOP48                 TE28F160S3 @TSOP56                  TE28F160S5 @TSOP56                  
-      TE28F200B5T @TSOP48                 TE28F200B5B @TSOP48                 TE28F200BVB @TSOP56                 TE28F200BVT @TSOP56                 
-      TE28F200BLB @TSOP56                 TE28F200BLT @TSOP56                 TE28F200CVT @TSOP48                 TE28F200CVB @TSOP48                 
-      TE28F256J3A @TSOP56                 TE28F256J3C @TSOP56                 TE28F256J3D @TSOP56                 TE28F256J3F @TSOP56                 
-      TE28F320B3T @TSOP48                 TE28F320B3B @TSOP48                 TE28F320C3T @TSOP48                 TE28F320C3B @TSOP48                 
-      TE28F320J3A @TSOP56                 TE28F320J3C @TSOP56                 TE28F320J3D @TSOP56                 TE28F320J3F @TSOP56                 
-      TE28F320J5 @TSOP56                  TE28F320S3 @TSOP56                  TE28F320S5 @TSOP56                  TE28F400B3T @TSOP48                 
-      TE28F400B3B @TSOP48                 TE28F400B5T @TSOP48                 TE28F400B5B @TSOP48                 TE28F400BXB @TSOP56                 
-      TE28F400BXT @TSOP56                 TE28F400CVT @TSOP48                 TE28F400CVB @TSOP48                 TE28F400CET @TSOP48                 
-      TE28F400CEB @TSOP48                 TE28F640B3T @TSOP48                 TE28F640B3B @TSOP48                 TE28F640C3T @TSOP48                 
-      TE28F640C3B @TSOP48                 TE28F640J3A @TSOP56                 TE28F640J3C @TSOP56                 TE28F640J3D @TSOP56                 
-      TE28F640J3F @TSOP56                 TE28F640J5 @TSOP56                  TE28F800B3T @TSOP48                 TE28F800B3B @TSOP48                 
-      TE28F800B5T @TSOP48                 TE28F800B5B @TSOP48                 TE28F800CVT @TSOP48                 TE28F800CVB @TSOP48                 
-      TE28F800C3T @TSOP48                 TE28F800C3B @TSOP48                 
+      JS28F128J3C @TSOP56                 JS28F128J3D @TSOP56                 JS28F128J3F @TSOP56                 JS28F640P30B  @TSOP56               
+      JS28F640P30BF @TSOP56               JS28F640P30T  @TSOP56               JS28F640P30TF @TSOP56               JS28F128P30B  @TSOP56               
+      JS28F128P30BF @TSOP56               JS28F128P30T  @TSOP56               JS28F128P30TF @TSOP56               JS28F256P30B  @TSOP56               
+      JS28F256P30BF @TSOP56               JS28F256P30T  @TSOP56               JS28F256P30TF @TSOP56               JS28F512P30BF  @TSOP56              
+      JS28F512P30BTF @TSOP56              JS28F512P30TF  @TSOP56              JS28F512P30EF  @TSOP56              JS28F00AP30BF  @TSOP56              
+      JS28F00AP30BTF @TSOP56              JS28F00AP30TF  @TSOP56              JS28F00AP30EF  @TSOP56              JS28F640P33B  @TSOP56               
+      JS28F640P33BF @TSOP56               JS28F640P33T  @TSOP56               JS28F640P33TF @TSOP56               JS28F128P33B  @TSOP56               
+      JS28F128P33BF @TSOP56               JS28F128P33T  @TSOP56               JS28F128P33TF @TSOP56               JS28F256P33B  @TSOP56               
+      JS28F256P33BF @TSOP56               JS28F256P33T  @TSOP56               JS28F256P33TF @TSOP56               JS28F512P33BF  @TSOP56              
+      JS28F512P33TF  @TSOP56              JS28F512P33EF  @TSOP56              JS28F00AP33BF  @TSOP56              JS28F00AP33TF  @TSOP56              
+      JS28F00AP33EF  @TSOP56              JS28F160B3T @TSOP48                 JS28F160B3B @TSOP48                 JS28F160C3T @TSOP48                 
+      JS28F160C3B @TSOP48                 JS28F256J3C @TSOP56                 JS28F256J3D @TSOP56                 JS28F256J3F @TSOP56                 
+      JS28F320B3T @TSOP48                 JS28F320B3B @TSOP48                 JS28F320C3T @TSOP48                 JS28F320C3B @TSOP48                 
+      JS28F320J3C @TSOP56                 JS28F320J3D @TSOP56                 JS28F320J3F @TSOP56                 JS28F640J3C @TSOP56                 
+      JS28F640J3D @TSOP56                 JS28F640J3F @TSOP56                 JS28F800B3T @TSOP48                 JS28F800B3B @TSOP48                 
+      JS28F800C3T @TSOP48                 JS28F800C3B @TSOP48                 JS29F02G08AANB3 @TSOP48             JS29F02G08ABC   @TSOP48             
+      JS29F04G08AANB1 @TSOP48             JS29F04G08BANB3 @TSOP48             JS29F08G08CANB1 @TSOP48             JS29F08G08FANB3 @TSOP48             
+      JS29F16G08FANB1 @TSOP48*            JS29F32G08AAMDB @TSOP48*            JS29F64G08CAMDB @TSOP48*            M29W640GB      @TSOP56              
+      M29W640GB      @BGA64               M29W640GH      @TSOP56              M29W640GH      @BGA64               M29W640GL      @TSOP56              
+      M29W640GL      @BGA64               M29W640GSBxxNB @TSOP56              M29W640GSBxxNB @BGA64               M29W640GSHxxNB @TSOP56              
+      M29W640GSHxxNB @BGA64               M29W640GSLxxNB @TSOP56              M29W640GSLxxNB @BGA64               M29W640GSTxxNB @TSOP56              
+      M29W640GSTxxNB @BGA64               M29W640GT      @TSOP56              M29W640GT      @BGA64               M29W128FHxxN   @TSOP56              
+      M29W128FHxxN   @BGA64               M29W128FLxxN   @TSOP56              M29W128FLxxN   @BGA64               M29W128GHxxN   @TSOP56              
+      M29W128GHxxN   @BGA64               M29W128GLxxN   @TSOP56              M29W128GLxxN   @BGA64               M29W128GSHxxN  @TSOP56              
+      M29W128GSHxxN  @BGA64               M29W128GSLxxN  @TSOP56              M29W128GSLxxN  @BGA64               M29W256GHxxN   @TSOP56              
+      M29W256GHxxN   @BGA64               M29W256GLxxN   @TSOP56              M29W256GLxxN   @BGA64               M29W512GHxxN   @TSOP56              
+      M29W512GHxxN   @BGA64               MT28F128J3 @TSOP56                  MT28F128J3 @EBGA64                  MT28F256J3 @TSOP56                  
+      MT28F256J3 @EBGA64                  MT28F320J3 @TSOP56                  MT28F320J3 @EBGA64                  MT28F640J3 @TSOP56                  
+      MT28F640J3 @EBGA64                  P28F001BX-T @DIP32                  P28F001BX-B @DIP32                  P28F256A    @DIP32                  
+      P28F512     @DIP32                  P28F010     @DIP32                  P28F020     @DIP32                  PA28F200B5T @SOP44                  
+      PA28F200B5B @SOP44                  PA28F200BVT @SOP44                  PA28F200BVB @SOP44                  PA28F400B5T @SOP44                  
+      PA28F400B5B @SOP44                  PA28F400BVT @SOP44                  PA28F400BVB @SOP44                  PA28F800B5T @SOP44                  
+      PA28F800B5B @SOP44                  PC28F128J3C @BGA64                  PC28F128J3D @BGA64                  PC28F128J3F @BGA64                  
+      PC28F256J3C @BGA64                  PC28F256J3D @BGA64                  PC28F256J3F @BGA64                  PC28F320J3C @BGA64                  
+      PC28F320J3D @BGA64                  PC28F320J3F @BGA64                  PC28F640J3C @BGA64                  PC28F640J3D @BGA64                  
+      PC28F640J3F @BGA64                  PC28F064M29EWH  @BGA64              PC28F064M29EWL  @BGA64              PC28F064M29EWB  @BGA64              
+      PC28F064M29EWT  @BGA64              PC28F128M29EWH  @BGA64              PC28F128M29EWL  @BGA64              PC28F256M29EWH  @BGA64              
+      PC28F256M29EWL  @BGA64              PC28F512M29EWH  @BGA64              PC28F512M29EWL  @BGA64              PC28F00AM29EWHA @BGA64              
+      PC28F00AM29EWLA @BGA64              PZ28F032M29EWH  @BGA48              PZ28F032M29EWL  @BGA48              PZ28F032M29EWB  @BGA48              
+      PZ28F032M29EWT  @BGA48              PZ28F064M29EWH  @BGA48              PZ28F064M29EWL  @BGA48              PZ28F064M29EWB  @BGA48              
+      PZ28F064M29EWT  @BGA48              PZ28F064M29EWHX @BGA48              PZ28F064M29EWLX @BGA48              PZ28F064M29EWBX @BGA48              
+      PZ28F064M29EWTX @BGA48              QB25F016S33B @SOIC8                 QB25F160S33B @SOP16                 QB25F320S33B @SOP16                 
+      QB25F640S33B @SOP16                 QH25F016S33B @SOIC8                 QH25F160S33B @SOP16                 QH25F320S33B @SOP16                 
+      QH25F640S33B @SOP16                 N28F001BX-T @PLCC32                 N28F001BX-B @PLCC32                 N28F256A    @PLCC32                 
+      N28F512     @PLCC32                 N28F010     @PLCC32                 N28F020     @PLCC32                 N82802AB @PLCC32                    
+      N82802AC @PLCC32                    RC28F128J3A @BGA64                  RC28F128J3C @BGA64                  RC28F128J3D @BGA64                  
+      RC28F128J3F @BGA64                  RC28F256J3A @BGA64                  RC28F256J3C @BGA64                  RC28F256J3D @BGA64                  
+      RC28F256J3F @BGA64                  RC28F320J3A @BGA64                  RC28F320J3C @BGA64                  RC28F320J3D @BGA64                  
+      RC28F320J3F @BGA64                  RC28F640J3A @BGA64                  RC28F640J3C @BGA64                  RC28F640J3D @BGA64                  
+      RC28F640J3F @BGA64                  RC28F128M29EWH  @BGA64              RC28F128M29EWL  @BGA64              RC28F256M29EWH  @BGA64              
+      RC28F256M29EWL  @BGA64              RC28F512M29EWH  @BGA64              RC28F512M29EWL  @BGA64              RC28F00AM29EWHA @BGA64              
+      RC28F00AM29EWLA @BGA64              TB28F200B5T @SOP44                  TB28F200B5B @SOP44                  TB28F200BVT @SOP44                  
+      TB28F200BVB @SOP44                  TB28F400B5T @SOP44                  TB28F400B5B @SOP44                  TB28F400BVT @SOP44                  
+      TB28F400BVB @SOP44                  TB28F800B5T @SOP44                  TB28F800B5B @SOP44                  TE28F002BVT @TSOP40                 
+      TE28F002BVB @TSOP40                 TE28F002BET @TSOP40                 TE28F002BEB @TSOP40                 TE28F002BXT @TSOP40                 
+      TE28F002BXB @TSOP40                 TE28F004BVT @TSOP40                 TE28F004BVB @TSOP40                 TE28F004BET @TSOP40                 
+      TE28F004BEB @TSOP40                 TE28F004BXT @TSOP40                 TE28F004BXB @TSOP40                 TE28F004S3  @TSOP40                 
+      TE28F004S5  @TSOP40                 TE28F004SC  @TSOP40                 TE28F008BVT @TSOP40                 TE28F008BVB @TSOP40                 
+      TE28F008BET @TSOP40                 TE28F008BEB @TSOP40                 TE28F008B3T @TSOP40                 TE28F008B3B @TSOP40                 
+      TE28F008C3T @TSOP40                 TE28F008C3B @TSOP40                 TE28F008S3  @TSOP40                 TE28F008S5  @TSOP40                 
+      TE28F008SC  @TSOP40                 TE28F016B3T @TSOP40                 TE28F016B3B @TSOP40                 TE28F016C3T @TSOP40                 
+      TE28F016C3B @TSOP40                 TE28F016S3  @TSOP40                 TE28F016S5  @TSOP40                 TE28F016SC  @TSOP40                 
+      TE28F016SA @TSOP56                  TE28F016SV @TSOP56                  TE28F032SA @TSOP56                  TE28F032SV @TSOP56                  
+      TE28F128J3A @TSOP56                 TE28F128J3C @TSOP56                 TE28F128J3D @TSOP56                 TE28F128J3F @TSOP56                 
+      TE28F160B3T @TSOP48                 TE28F160B3B @TSOP48                 TE28F160C3T @TSOP48                 TE28F160C3B @TSOP48                 
+      TE28F160S3 @TSOP56                  TE28F160S5 @TSOP56                  TE28F200B5T @TSOP48                 TE28F200B5B @TSOP48                 
+      TE28F200BVB @TSOP56                 TE28F200BVT @TSOP56                 TE28F200BLB @TSOP56                 TE28F200BLT @TSOP56                 
+      TE28F200CVT @TSOP48                 TE28F200CVB @TSOP48                 TE28F256J3A @TSOP56                 TE28F256J3C @TSOP56                 
+      TE28F256J3D @TSOP56                 TE28F256J3F @TSOP56                 TE28F320B3T @TSOP48                 TE28F320B3B @TSOP48                 
+      TE28F320C3T @TSOP48                 TE28F320C3B @TSOP48                 TE28F320J3A @TSOP56                 TE28F320J3C @TSOP56                 
+      TE28F320J3D @TSOP56                 TE28F320J3F @TSOP56                 TE28F320J5 @TSOP56                  TE28F320S3 @TSOP56                  
+      TE28F320S5 @TSOP56                  TE28F400B3T @TSOP48                 TE28F400B3B @TSOP48                 TE28F400B5T @TSOP48                 
+      TE28F400B5B @TSOP48                 TE28F400BXB @TSOP56                 TE28F400BXT @TSOP56                 TE28F400CVT @TSOP48                 
+      TE28F400CVB @TSOP48                 TE28F400CET @TSOP48                 TE28F400CEB @TSOP48                 TE28F640B3T @TSOP48                 
+      TE28F640B3B @TSOP48                 TE28F640C3T @TSOP48                 TE28F640C3B @TSOP48                 TE28F640J3A @TSOP56                 
+      TE28F640J3C @TSOP56                 TE28F640J3D @TSOP56                 TE28F640J3F @TSOP56                 TE28F640J5 @TSOP56                  
+      TE28F800B3T @TSOP48                 TE28F800B3B @TSOP48                 TE28F800B5T @TSOP48                 TE28F800B5B @TSOP48                 
+      TE28F800CVT @TSOP48                 TE28F800CVB @TSOP48                 TE28F800C3T @TSOP48                 TE28F800C3B @TSOP48                 
 
-         IC Support: 450 PCS
+         IC Support: 488 PCS
 
  [ ISSI ]     
 
@@ -2915,33 +2924,7 @@
       MX29F400CB @TSOP48                  MX29F400CB @SOP44                   MX29F400CT @TSOP48                  MX29F400CT @SOP44                   
       MX29F400T @TSOP48                   MX29F400T @SOP44                    MX29F800B @TSOP48                   MX29F800B @SOP44                    
       MX29F800CB @TSOP48                  MX29F800CB @SOP44                   MX29F800CT @TSOP48                  MX29F800CT @SOP44                   
-      MX29F800T @TSOP48                   MX29F800T @SOP44                    MX29LA321MB @TSOP56                 MX29LA321MH @TSOP56                 
-      MX29LA321ML @TSOP56                 MX29LA321MT @TSOP56                 MX29LV002CB @PLCC32                 MX29LV002CB @TSOP32                 
-      MX29LV002NCB @PLCC32                MX29LV002NCB @TSOP32                MX29LV002NCT @PLCC32                MX29LV002NCT @TSOP32                
-      MX29LV002CT @PLCC32                 MX29LV002CT @TSOP32                 MX29LV004B @PLCC32                  MX29LV004B @TSOP32                  
-      MX29LV004B @TSOP40                  MX29LV004CB @TSOP40                 MX29LV004CT @TSOP40                 MX29LV004T @PLCC32                  
-      MX29LV004T @TSOP32                  MX29LV004T @TSOP40                  MX29LV008B @TSOP40                  MX29LV008BB @TSOP40                 
-      MX29LV008BT @TSOP40                 MX29LV008CB @TSOP40                 MX29LV008CT @TSOP40                 MX29LV008T @TSOP40                  
-      MX29LV017AT @TSOP40                 MX29LV017BT @TSOP40                 MX29LV040 @PLCC32                   MX29LV040 @TSOP32                   
-      MX29LV040C @PLCC32                  MX29LV040C @TSOP32                  MX29LV160B @TSOP48                  MX29LV160AB @TSOP48                 
-      MX29LV160AT @TSOP48                 MX29LV160BB @TSOP48                 MX29LV160BT @TSOP48                 MX29LV160CB @TSOP48                 
-      MX29LV160CT @TSOP48                 MX29LV160DB @TSOP48                 MX29LV160DT @TSOP48                 MX29LV160EB @TSOP48                 
-      MX29LV160ET @TSOP48                 MX29LV160T @TSOP48                  MX29LV160T @SOP44                   MX29LV320AB @TSOP48                 
-      MX29LV320AT @TSOP48                 MX29LV320B  @TSOP48                 MX29LV320BB @TSOP48                 MX29LV320BT @TSOP48                 
-      MX29LV320CB @TSOP48                 MX29LV320CT @TSOP48                 MX29LV320DB @TSOP48                 MX29LV320DT @TSOP48                 
-      MX29LV320EB @TSOP48                 MX29LV320ET @TSOP48                 MX29LV320MB @TSOP48                 MX29LV320MT @TSOP48                 
-      MX29LV320T  @TSOP48                 MX29LV400B @TSOP48                  MX29LV400B @SOP44                   MX29LV400BB @TSOP48                 
-      MX29LV400BB @SOP44                  MX29LV400BT @TSOP48                 MX29LV400BT @SOP44                  MX29LV400CB @TSOP48                 
-      MX29LV400CB @SOP44                  MX29LV400CT @TSOP48                 MX29LV400CT @SOP44                  MX29LV400T @TSOP48                  
-      MX29LV400T @SOP44                   MX29LV640BB @TSOP48                 MX29LV640BT @TSOP48                 MX29LV640EB @TSOP48                 
-      MX29LV640ET @TSOP48                 MX29LV640MB @TSOP48                 MX29LV640MT @TSOP48                 MX29LV640MH @TSOP56                 
-      MX29LV640ML @TSOP56                 MX29LV800B @TSOP48                  MX29LV800B @SOP44                   MX29LV800BB @TSOP48                 
-      MX29LV800BB @SOP44                  MX29LV800BT @TSOP48                 MX29LV800BT @SOP44                  MX29LV800CB @TSOP48                 
-      MX29LV800CB @SOP44                  MX29LV800CT @TSOP48                 MX29LV800CT @SOP44                  MX29LV800T @TSOP48                  
-      MX29LV800T @SOP44                   AM29LV128ML-123REI @TSOP56          MX29LV320EB @BGA48                  MX29LV320EB @BGA63                  
-      MX29LV320MH @TSOP48                 MX29LV320ML @TSOP48                 MX29LV320MH @TSOP56                 MX29LV320ML @TSOP56                 
-      MX29LV128DB @TSOP56                 MX29LV128DT @TSOP56                 MX29LV128MB @TSOP56                 MX29LV128MH @TSOP56                 
-      MX29LV128ML @TSOP56                 MX29LV128MT @TSOP56                 MX29BL128DB @TSOP56                 MX29BL128DT @TSOP56                 
+      MX29F800T @TSOP48                   MX29F800T @SOP44                    MX29BL128DB @TSOP56                 MX29BL128DT @TSOP56                 
       MX29GL320EH @TSOP56                 MX29GL320EL @TSOP56                 MX29GL640EH @TSOP56                 MX29GL640EL @TSOP56                 
       MX29GL128ED @TSOP56                 MX29GL128EH @TSOP56                 MX29GL128EL @TSOP56                 MX29GL128EU @TSOP56                 
       MX29GL128FD @TSOP56                 MX29GL128FH @TSOP56                 MX29GL128FL @TSOP56                 MX29GL128FU @TSOP56                 
@@ -2950,13 +2933,51 @@
       MX29GL256FD @TSOP56                 MX29GL256FH @TSOP56                 MX29GL256FL @TSOP56                 MX29GL256FU @TSOP56                 
       MX29GL512EH @TSOP56                 MX29GL512EL @TSOP56                 MX29GL512FD @TSOP56                 MX29GL512FH @TSOP56                 
       MX29GL512FL @TSOP56                 MX29GL512FU @TSOP56                 MX29GL512GD @TSOP56                 MX29GL512GH @TSOP56                 
-      MX29GL512GL @TSOP56                 MX29GL512GU @TSOP56                 MX30LF1208AA    @TSOP48             MX30LF1G08AA    @TSOP48             
-      MX30LF1G18AC    @TSOP48             MX30LF1GE8AB    @TSOP48             MX30LF2G18AB    @TSOP48             MX30LF2G18AC    @TSOP48             
-      MX30LF2G28AB    @TSOP48             MX30LF2G28AC    @TSOP48             MX30LF2GE8AB    @TSOP48             MX30LF4G18AB    @TSOP48             
-      MX30LF4G18AC    @TSOP48             MX30LF4G28AB    @TSOP48             MX30LF4G28AC    @TSOP48             MX30LF4GE8AB    @TSOP48             
-      MX60LF8G18AC    @TSOP48             MX60LF8G28AB    @TSOP48             MX60LF8G28AC    @TSOP48             
+      MX29GL512GL @TSOP56                 MX29GL512GU @TSOP56                 MX29GL320EH @BGA64                  MX29GL320EL @BGA64                  
+      MX29GL640EH @BGA64                  MX29GL640EL @BGA64                  MX29GL128ED @BGA64                  MX29GL128EH @BGA64                  
+      MX29GL128EL @BGA64                  MX29GL128EU @BGA64                  MX29GL128FD @BGA64                  MX29GL128FH @BGA64                  
+      MX29GL128FL @BGA64                  MX29GL128FU @BGA64                  MX29GL128GD @BGA64                  MX29GL128GH @BGA64                  
+      MX29GL128GL @BGA64                  MX29GL128GU @BGA64                  MX29GL256ED @BGA64                  MX29GL256EH @BGA64                  
+      MX29GL256EL @BGA64                  MX29GL256EU @BGA64                  MX29GL256FD @BGA64                  MX29GL256FH @BGA64                  
+      MX29GL256FL @BGA64                  MX29GL256FU @BGA64                  MX29GL512EH @BGA64                  MX29GL512EL @BGA64                  
+      MX29GL512FD @BGA64                  MX29GL512FH @BGA64                  MX29GL512FL @BGA64                  MX29GL512FU @BGA64                  
+      MX29GL512GD @BGA64                  MX29GL512GH @BGA64                  MX29GL512GL @BGA64                  MX29GL512GU @BGA64                  
+      MX29LV002CB @PLCC32                 MX29LV002CB @TSOP32                 MX29LV002NCB @PLCC32                MX29LV002NCB @TSOP32                
+      MX29LV002NCT @PLCC32                MX29LV002NCT @TSOP32                MX29LV002CT @PLCC32                 MX29LV002CT @TSOP32                 
+      MX29LV004B @PLCC32                  MX29LV004B @TSOP32                  MX29LV004B @TSOP40                  MX29LV004CB @TSOP40                 
+      MX29LV004CT @TSOP40                 MX29LV004T @PLCC32                  MX29LV004T @TSOP32                  MX29LV004T @TSOP40                  
+      MX29LV008B @TSOP40                  MX29LV008BB @TSOP40                 MX29LV008BT @TSOP40                 MX29LV008CB @TSOP40                 
+      MX29LV008CT @TSOP40                 MX29LV008T @TSOP40                  MX29LV017AT @TSOP40                 MX29LV017BT @TSOP40                 
+      MX29LV040 @PLCC32                   MX29LV040 @TSOP32                   MX29LV040C @PLCC32                  MX29LV040C @TSOP32                  
+      MX29LV160B @TSOP48                  MX29LV160AB @TSOP48                 MX29LV160AT @TSOP48                 MX29LV160BB @TSOP48                 
+      MX29LV160BT @TSOP48                 MX29LV160CB @TSOP48                 MX29LV160CT @TSOP48                 MX29LV160DB @TSOP48                 
+      MX29LV160DT @TSOP48                 MX29LV160EB @TSOP48                 MX29LV160ET @TSOP48                 MX29LV160T @TSOP48                  
+      MX29LV160T @SOP44                   MX29LV320AB @TSOP48                 MX29LV320AT @TSOP48                 MX29LV320B  @TSOP48                 
+      MX29LV320BB @TSOP48                 MX29LV320BT @TSOP48                 MX29LV320CB @TSOP48                 MX29LV320CT @TSOP48                 
+      MX29LV320DB @TSOP48                 MX29LV320DT @TSOP48                 MX29LV320EB @TSOP48                 MX29LV320ET @TSOP48                 
+      MX29LV320MB @TSOP48                 MX29LV320MT @TSOP48                 MX29LV320T  @TSOP48                 MX29LV400B @TSOP48                  
+      MX29LV400B @SOP44                   MX29LV400BB @TSOP48                 MX29LV400BB @SOP44                  MX29LV400BT @TSOP48                 
+      MX29LV400BT @SOP44                  MX29LV400CB @TSOP48                 MX29LV400CB @SOP44                  MX29LV400CT @TSOP48                 
+      MX29LV400CT @SOP44                  MX29LV400T @TSOP48                  MX29LV400T @SOP44                   MX29LV640BB @TSOP48                 
+      MX29LV640BT @TSOP48                 MX29LV640EB @TSOP48                 MX29LV640ET @TSOP48                 MX29LV640MB @TSOP48                 
+      MX29LV640MT @TSOP48                 MX29LV640MH @TSOP56                 MX29LV640ML @TSOP56                 MX29LV800B @TSOP48                  
+      MX29LV800B @SOP44                   MX29LV800BB @TSOP48                 MX29LV800BB @SOP44                  MX29LV800BT @TSOP48                 
+      MX29LV800BT @SOP44                  MX29LV800CB @TSOP48                 MX29LV800CB @SOP44                  MX29LV800CT @TSOP48                 
+      MX29LV800CT @SOP44                  MX29LV800T @TSOP48                  MX29LV800T @SOP44                   AM29LV128ML-123REI @TSOP56          
+      MX29LV320EB @BGA48                  MX29LV320EB @BGA63                  MX29LV320MH @TSOP48                 MX29LV320ML @TSOP48                 
+      MX29LV320MH @TSOP56                 MX29LV320ML @TSOP56                 MX29LV128DB @TSOP56                 MX29LV128DT @TSOP56                 
+      MX29LV128MB @TSOP56                 MX29LV128MH @TSOP56                 MX29LV128ML @TSOP56                 MX29LV128MT @TSOP56                 
+      MX30LF1208AA    @TSOP48             MX30LF1G08AA    @TSOP48             MX30LF1G18AC    @TSOP48             MX30LF1GE8AB    @TSOP48             
+      MX30LF2G18AB    @TSOP48             MX30LF2G18AC    @TSOP48             MX30LF2G28AB    @TSOP48             MX30LF2G28AC    @TSOP48             
+      MX30LF2GE8AB    @TSOP48             MX30LF4G18AB    @TSOP48             MX30LF4G18AC    @TSOP48             MX30LF4G28AB    @TSOP48             
+      MX30LF4G28AC    @TSOP48             MX30LF4GE8AB    @TSOP48             MX60LF8G18AC    @TSOP48             MX60LF8G28AB    @TSOP48             
+      MX60LF8G28AC    @TSOP48             MX30LF1208AA    @BGA63              MX30LF1G08AA    @BGA63              MX30LF1G18AC    @BGA63              
+      MX30LF1GE8AB    @BGA63              MX30LF2G18AB    @BGA63              MX30LF2G18AC    @BGA63              MX30LF2G28AB    @BGA63              
+      MX30LF2G28AC    @BGA63              MX30LF2GE8AB    @BGA63              MX30LF4G18AB    @BGA63              MX30LF4G18AC    @BGA63              
+      MX30LF4G28AB    @BGA63              MX30LF4G28AC    @BGA63              MX30LF4GE8AB    @BGA63              MX60LF8G18AC    @BGA63              
+      MX60LF8G28AB    @BGA63              MX60LF8G28AC    @BGA63              
 
-         IC Support: 1031 PCS
+         IC Support: 1078 PCS
 
  [ MAXCOM ]     
 
@@ -3391,157 +3412,167 @@
       JS28F128M29EWH  @TSOP56             JS28F128M29EWL  @TSOP56             JS28F256M29EWH  @TSOP56             JS28F256M29EWL  @TSOP56             
       JS28F512M29AWH  @TSOP56             JS28F512M29AWL  @TSOP56             JS28F512M29EWH  @TSOP56             JS28F512M29EWL  @TSOP56             
       JS28F00AM29AWHA @TSOP56             JS28F00AM29AWLA @TSOP56             JS28F00AM29EWHA @TSOP56             JS28F00AM29EWLA @TSOP56             
-      M25P05                              M25P05 @SOIC8                       M25P05A @SOIC8                      M25P05A @TSSOP8                     
-      M25P10                              M25P10 @SOIC8                       M25P10A @QFN8                       M25P10A @SOIC8                      
-      M25P20 @QFN8                        M25P20 @SOIC8                       M25P40 @QFN8                        M25P40 @SOIC8                       
-      M25P80 @QFN8                        M25P80 @SOIC8                       M25P80 @SOP16                       M25P16 @QFN8                        
-      M25P16 @SOIC8                       M25P16 @SOP16                       M25P32 @QFN8                        M25P32 @SOIC8                       
-      M25P32 @SOP16                       M25P64 @SOIC8                       M25P64 @SOIC16                      M25P128 @FPN8                       
-      M25P128 @SOP16                      M25PE10 @QFN8                       M25PE10 @SOIC8                      M25PE20 @QFN8                       
-      M25PE20 @SOIC8                      M25PE40 @QFN8                       M25PE40 @SOIC8                      M25PE80 @QFN8                       
-      M25PE80 @SOIC8                      M25PE16 @QFN8                       M25PE16 @SOIC8                      M25PX80 @QFN8                       
-      M25PX80 @SOIC8                      M25PX80 @SOP16                      M25PX16 @QFN8                       M25PX16 @SOIC8                      
-      M25PX16 @SOP16                      M25PX32 @QFN8                       M25PX32 @SOIC8                      M25PX32 @SOP16                      
-      M25PX64 @SOIC8                      M25PX64 @SOIC16                     M28W160BB @TSOP48                   M28W160BT @TSOP48                   
-      M28W160CB @TSOP48                   M28W160CT @TSOP48                   M28W320BB @TSOP48                   M28W320BT @TSOP48                   
-      M28W320CB @TSOP48                   M28W320CT @TSOP48                   M28W640CB @TSOP48                   M28W640CT @TSOP48                   
-      M28W640ECB @TSOP48                  M28W640ECT @TSOP48                  M29DW127G @TSOP56                   M29DW128F @TSOP56                   
-      M29DW128G @TSOP56                   M29DW256G @TSOP56                   M29W800AT @TSOP48                   M29W800AT @SOP44                    
-      M29W800AT @BGA48                    M29W800AB @TSOP48                   M29W800AB @SOP44                    M29W800AB @BGA48                    
-      M29W800DT @TSOP48                   M29W800DT @SOP44                    M29W800DT @BGA48                    M29W800DB @TSOP48                   
-      M29W800DB @SOP44                    M29W800DB @BGA48                    M29W800FT @TSOP48                   M29W800FT @BGA48                    
-      M29W800FB @TSOP48                   M29W800FB @BGA48                    M29W160BB @TSOP48                   M29W160BB @BGA48                    
-      M29W160BB @BGA64                    M29W160BT @TSOP48                   M29W160BT @BGA48                    M29W160BT @BGA64                    
-      M29W160DB @TSOP48                   M29W160DB @BGA48                    M29W160DB @BGA64                    M29W160DT @TSOP48                   
-      M29W160DT @BGA48                    M29W160DT @BGA64                    M29W160EB @TSOP48                   M29W160EB @BGA48                    
-      M29W160EB @BGA64                    M29W160ET @TSOP48                   M29W160ET @BGA48                    M29W160ET @BGA64                    
-      M29W320DB @TSOP48                   M29W320DB @BGA48                    M29W320DB @BGA64                    M29W320DT @TSOP48                   
-      M29W320DT @BGA48                    M29W320DT @BGA64                    M29W320EB @TSOP48                   M29W320EB @BGA48                    
-      M29W320EB @BGA64                    M29W320ET @TSOP48                   M29W320ET @BGA48                    M29W320ET @BGA64                    
-      M29W640GB      @TSOP56              M29W640GB      @BGA64               M29W640GH      @TSOP56              M29W640GH      @BGA64               
-      M29W640GL      @TSOP56              M29W640GL      @BGA64               M29W640GSBxxNB @TSOP56              M29W640GSBxxNB @BGA64               
-      M29W640GSHxxNB @TSOP56              M29W640GSHxxNB @BGA64               M29W640GSLxxNB @TSOP56              M29W640GSLxxNB @BGA64               
-      M29W640GSTxxNB @TSOP56              M29W640GSTxxNB @BGA64               M29W640GT      @TSOP56              M29W640GT      @BGA64               
-      M29W128FHxxN   @TSOP56              M29W128FHxxN   @BGA64               M29W128FLxxN   @TSOP56              M29W128FLxxN   @BGA64               
-      M29W128GHxxN   @TSOP56              M29W128GHxxN   @BGA64               M29W128GLxxN   @TSOP56              M29W128GLxxN   @BGA64               
-      M29W128GSHxxN  @TSOP56              M29W128GSHxxN  @BGA64               M29W128GSLxxN  @TSOP56              M29W128GSLxxN  @BGA64               
-      M29W256GHxxN   @TSOP56              M29W256GHxxN   @BGA64               M29W256GLxxN   @TSOP56              M29W256GLxxN   @BGA64               
-      M29W512GHxxN   @TSOP56              M29W512GHxxN   @BGA64               MT25QL64AB @SOIC8                   MT25QL64AB @SOIC16                  
-      MT25QL128AB @SOIC8                  MT25QL128AB @SOIC16                 MT25QL256AB @SOIC8                  MT25QL256AB @SOIC16                 
-      MT25QL512AB @SOIC8                  MT25QL512AB @SOIC16                 MT25QU64AB @SOIC8                   MT25QU64AB @SOIC16                  
-      MT25QU128AB @SOIC8                  MT25QU128AB @SOIC16                 MT25QU256AB @SOIC8                  MT25QU256AB @SOIC16                 
-      MT25QU512AB @SOIC8                  MT25QU512AB @SOIC16                 MT25TL128BB @SOIC8                  MT25TL128BB @SOIC16                 
-      MT25TL256BB @SOIC8                  MT25TL256BB @SOIC16                 MT25TL512BB @SOIC8                  MT25TL512BB @SOIC16                 
-      MT25TU128HB @SOIC8                  MT25TU128HB @SOIC16                 MT25TU256HB @SOIC8                  MT25TU256HB @SOIC16                 
-      MT25TU512HB @SOIC8                  MT25TU512HB @SOIC16                 MT28F002B1   @TSOP40                MT28F002B3-T @TSOP40                
-      MT28F002B3-B @TSOP40                MT28F002B5-T @TSOP40                MT28F002B5-B @TSOP40                MT28F004B3-T @TSOP40                
-      MT28F004B3-B @TSOP40                MT28F004B5-T @TSOP40                MT28F004B5-B @TSOP40                MT28F008B3-T @TSOP40                
-      MT28F008B3-B @TSOP40                MT28F008B5-T @TSOP40                MT28F008B5-B @TSOP40                MT28F016S3   @TSOP40                
-      MT28F016S5   @TSOP40                MT28F200B3-T @TSOP48                MT28F200B3-T @SOP44                 MT28F200B3-B @TSOP48                
-      MT28F200B3-B @SOP44                 MT28F200B5-T @TSOP48                MT28F200B5-T @SOP44                 MT28F200B5-B @TSOP48                
-      MT28F200B5-B @SOP44                 MT28F400B3-T @TSOP48                MT28F400B3-T @SOP44                 MT28F400B3-B @TSOP48                
-      MT28F400B3-B @SOP44                 MT28F400B5-T @TSOP48                MT28F400B5-T @SOP44                 MT28F400B5-B @TSOP48                
-      MT28F400B5-B @SOP44                 MT28F800B3-T @TSOP48                MT28F800B3-T @SOP44                 MT28F800B3-B @TSOP48                
-      MT28F800B3-B @SOP44                 MT28F800B5-T @TSOP48                MT28F800B5-T @SOP44                 MT28F800B5-B @TSOP48                
-      MT28F800B5-B @SOP44                 MT28F128J3 @TSOP56                  MT28F128J3 @EBGA64                  MT28F256J3 @TSOP56                  
-      MT28F256J3 @EBGA64                  MT28F320J3 @TSOP56                  MT28F320J3 @EBGA64                  MT28F640J3 @TSOP56                  
-      MT28F640J3 @EBGA64                  MT28EW128ABA1HJS0 @TSOP56           MT28EW128ABA1HPC0 @BGA64            MT28EW128ABA1LJS0 @TSOP56           
-      MT28EW128ABA1LPC0 @BGA64            MT28EW256ABA1HJS0 @TSOP56           MT28EW256ABA1HPC0 @BGA64            MT28EW256ABA1LJS0 @TSOP56           
-      MT28EW256ABA1LPC0 @BGA64            MT28EW512ABA1HJS0 @TSOP56           MT28EW512ABA1HPC0 @BGA64            MT28EW512ABA1HPC1 @BGA64            
-      MT28EW512ABA1LJS0 @TSOP56           MT28EW512ABA1LPC0 @BGA64            MT28EW512ABA1LPC1 @BGA64            MT28EW01GABA1HJS0 @TSOP56           
-      MT28EW01GABA1HPC0 @BGA64            MT28EW01GABA1HPC1 @BGA64            MT28EW01GABA1LJS0 @TSOP56           MT28EW01GABA1LPC0 @BGA64            
-      MT28FW512ABA1HJS0 @TSOP56           MT28FW512ABA1HPC0 @BGA64            MT28FW512ABA1LJS0 @TSOP56           MT28FW512ABA1LPC0 @BGA64            
-      MT28FW01GABA1HJS0 @TSOP56           MT28FW01GABA1HPC0 @BGA64            MT28FW01GABA1LJS0 @TSOP56           MT28FW01GABA1LPC0 @BGA64            
-      MT28GU128AxA1EGC @BGA64             MT28GU128AxA1EGC @BGA64             MT28GU256AxA1EGC @BGA64             MT28GU256AxA1EGC @BGA64             
-      MT28GU512AxA1EGC @BGA64             MT28GU512AxA1EGC @BGA64             MT28GU01GAxA1EGC @BGA64             MT28GU01GAxA1EGC @BGA64             
-      MT29F1G08AACH4C        @VFBGA63(NW240)MT29F1G08AACH4-ETC     @VFBGA63(NW241)MT29F1G08AACH4-ESC     @VFBGA63(NX240)MT29F1G08AACH4-ETESC   @VFBGA63(NX241)
-      MT29F1G08AACWP         @TSOP48      MT29F1G08AACWP-ET      @TSOP48      MT29F1G08ABADAH4-ITD   @VFBGA63(NQ277)MT29F1G08ABADAH4-ED    @VFBGA63(NQ352)
-      MT29F1G08ABADAH4D      @VFBGA63(NW301)MT29F1G08ABADAH4-ITESD @VFBGA63(NW319)MT29F1G08ABADAH4-ITED  @VFBGA63(NW339)MT29F1G08ABADAH4-ESD   @VFBGA63(NX300)
-      MT29F1G08ABADAH4-EESD  @VFBGA63(NX368)MT29F1G08ABADAH4-ITEESD@VFBGA63(NX369)MT29F1G08ABADAWP       @TSOP48      MT29F1G08ABADAWP-E     @TSOP48      
-      MT29F1G08ABADAWP-IT    @TSOP48      MT29F1G08ABADAWP-ITE   @TSOP48      MT29F1G08ABADAWP-ITX   @TSOP48      MT29F1G08ABAEAH4-ITE   @VFBGA63(NQ403)
-      MT29F1G08ABAEAH4-ITXE  @VFBGA63(NQ427)MT29F1G08ABAEAH4-E     @VFBGA63(NW361)MT29F1G08ABAEAH4-ITESE @VFBGA63(NX422)MT29F1G08ABAEAH4-ESE   @VFBGA63(NX424)
-      MT29F1G08ABAEAWP       @TSOP48      MT29F1G08ABAEAWP-IT    @TSOP48      MT29F1G08ABAEAWP-ITX   @TSOP48      MT29F1G08ABAFAH4-ITE   @VFBGA63     
-      MT29F1G08ABAFAWP-ITE   @TSOP48      MT29F1G08ABAHCA        @VFBGA63(FW258)MT29F1G08ABAHCA-ETA    @VFBGA63(FW259)MT29F1G08ABAHC-ESA     @VFBGA63(FX258)
-      MT29F1G08ABBDAH4-ITD   @VFBGA63(NQ278)MT29F1G08ABBDAH4D      @VFBGA63(NW302)MT29F1G08ABBDAH4-ESD   @VFBGA63(NX301)MT29F1G08ABBDAH4-TESD  @VFBGA63(NW315)
-      MT29F1G08ABBDAHC-ITD   @VFBGA63(NQ279)MT29F1G08ABBDAHCD      @VFBGA63(NW303)MT29F1G08ABBDAHCESD    @VFBGA63(NX302)MT29F1G08ABBDAHC-ITESD @VFBGA63(NW316)
-      MT29F1G08ABBEAH4-ITE   @VFBGA63(NQ404)MT29F1G08ABBEAH4-ITXE  @VFBGA63(NQ428)MT29F1G08ABBEAH4-E     @VFBGA63(NW360)MT29F1G08ABBEAH4-ITESE @VFBGA63(NX423)
-      MT29F1G08ABBEAH4-ESE   @VFBGA63(NX421)MT29F1G08ABBEAHC-ITE   @VFBGA63(NQ406)MT29F1G08ABBEAHC-E     @VFBGA63(NW363)MT29F1G08ABBEAHC-ESE   @VFBGA63(NX427)
-      MT29F1G08ABBEAHC-ITESE @VFBGA63(NX428)MT29F1G08ABBHCB        @VFBGA63(FW219)MT29F1G08ABBHC-ETB     @VFBGA63(FW263)MT29F1G08ABBHC-ETESB   @VFBGA63(FX219)
-      MT29F1G08ABCH4C        @VFBGA63(NW221)MT29F1G08ABCH4-ETC     @VFBGA63(NW222)MT29F1G08ABCH4-ESC     @VFBGA63(NX221)MT29F1G08ABCH4-ETESC   @VFBGA63(NX222)
-      MT29F1G08ABCHC-QSC     @VFBGA63(NQ139)MT29F1G08ABCHC-ETQSC   @VFBGA63(NQ140)MT29F1G08ABCHCC        @VFBGA63(NW139)MT29F1G08ABCHC-ETC     @VFBGA63(NW140)
-      MT29F1G08ABCHC-ESC     @VFBGA63(NX139)MT29F1G08ABCHC-ETESC   @VFBGA63(NX140)MT29F1G16ABAHCA        @VFBGA63(FW260)MT29F1G16ABAHCA-ETA    @VFBGA63(FW261)
-      MT29F1G16ABAHC-ESA     @VFBGA63(FX260)MT29F1G16ABBDAH4-ITD   @VFBGA63(NQ280)MT29F1G16ABBDAH4D      @VFBGA63(NW304)MT29F1G16ABBDAH4-ITESD @VFBGA63(NW313)
-      MT29F1G16ABBDAH4-ESD   @VFBGA63(NX303)MT29F1G16ABBDAHC-ITD   @VFBGA63(NQ281)MT29F1G16ABBDAHCD      @VFBGA63(NW305)MT29F1G16ABBDAHC-ESD   @VFBGA63(NX304)
-      MT29F1G16ABBDAHC-ITESD @VFBGA63(NW314)MT29F1G16ABBEAH4-IT    @VFBGA63(NQ405)MT29F1G16ABBEAH4-ITX   @VFBGA63(NQ429)MT29F1G16ABBHCB        @VFBGA63(FW265)
-      MT29F1G16ABBHC-ETB     @VFBGA63(FW267)MT29F1G16ABBHC-ESB     @VFBGA63(FX265)MT29F1G16ABBHC-ETESB   @VFBGA63(FX270)MT29F1G16ABCH4C        @VFBGA63(NW223)
-      MT29F1G16ABCH4-ETC     @VFBGA63(NW224)MT29F1G16ABCH4-ESC     @VFBGA63(NX223)MT29F1G16ABCH4-ETESC   @VFBGA63(NX224)MT29F1G16ABCHC-QSC     @VFBGA63(NQ141)
-      MT29F1G16ABCHC-ETQSC   @VFBGA63(NQ142)MT29F1G16ABCHCC        @VFBGA63(NW141)MT29F1G16ABCHC-ETC     @VFBGA63(NW142)MT29F1G16ABCHC-ESC     @VFBGA63(NX141)
-      MT29F1G16ABCHC-ETESC   @VFBGA63(NX142)MT29F2G08AABWP          @TSOP48     MT29F2G08AABWP-ET       @TSOP48     MT29F2G08AACWP          @TSOP48     
-      MT29F2G08AACWP-ET       @TSOP48     MT29F2G08AADWP          @TSOP48     MT29F2G08AADWP-ET       @TSOP48     MT29F2G08ABAEAH4-ITE    @VFBGA63(NQ283)
-      MT29F2G08ABAEAH4-EE     @VFBGA63(NQ353)MT29F2G08ABAEAH4-E      @VFBGA63(NW312)MT29F2G08ABAEAH4-ITEE   @VFBGA63(NW340)MT29F2G08ABAEAH4-ITESE  @VFBGA63(NX306)
-      MT29F2G08ABAEAH4-ESE    @VFBGA63(NX307)MT29F2G08ABAEAH4-EESE   @VFBGA63(NX370)MT29F2G08ABAEAH4-ITEESE @VFBGA63(NX371)MT29F2G08ABAEAWP        @TSOP48     
-      MT29F2G08ABAEAWP        @TSOP48     MT29F2G08ABAEAWP-E      @TSOP48     MT29F2G08ABAEAWP-IT     @TSOP48     MT29F2G08ABAEAWP-ITX    @TSOP48     
-      MT29F2G08ABAFAH4-F      @VFBGA63(NW373)MT29F2G08ABAFAH4-SF     @VFBGA63(NW402)MT29F2G08ABAFAH4-ITF    @VFBGA63(NQ413)MT29F2G08ABAFAH4-ITFS   @VFBGA63(NQ422)
-      MT29F2G08ABAFAH4-ITESF  @VFBGA63(NX417)MT29F2G08ABAFAH4-ESF    @VFBGA63(NX418)MT29F2G08ABAFAWP        @TSOP48     MT29F2G08ABAFAWP-IT     @TSOP48     
-      MT29F2G08ABAGAH4-IT(2048+64)  @VFBGA63MT29F2G08ABAGAWP-IT(2048+64)  @TSOP48MT29F2G08ABAGAH4-IT(2048+128) @VFBGA63MT29F2G08ABAGAWP-IT(2048+128) @TSOP48
-      MT29F2G08ABBEAH4-ITE    @VFBGA63(NQ264)MT29F2G08ABBEAH4-ITESE  @VFBGA63(NQ265)MT29F2G08ABBEAH4E       @VFBGA63(NW264)MT29F2G08ABBEAHC-ITE    @VFBGA63(NQ282)
-      MT29F2G08ABBEAHC-E      @VFBGA63(NW311)MT29F2G08ABBEAHC-ITESE  @VFBGA63(NX312)MT29F2G08ABBEAHC-ESE    @VFBGA63(NX313)MT29F2G08ABBFAH4-ESE    @VFBGA63(NX264)
-      MT29F2G08ABBFAH4        @VFBGA63    MT29F2G08ABBGAH4        @VFBGA63    MT29F2G08ABCWP          @TSOP48     MT29F2G08ABDHC          @VFBGA63    
-      MT29F2G08ABDHC-ET       @VFBGA63    MT29F2G08ABDWP          @TSOP48     MT29F2G08ABDWP-ET       @TSOP48     MT29F2G16AABWP         @TSOP48      
-      MT29F2G16AABWP-ET      @TSOP48      MT29F2G16AACWP         @TSOP48      MT29F2G16AADWP         @TSOP48      MT29F2G16AADWP-ET      @TSOP48      
-      MT29F2G16ABAEAWP       @TSOP48      MT29F2G16ABAEAWP-IT    @TSOP48      MT29F2G16ABAFAWP       @TSOP48      MT29F2G16ABAFAWP-IT    @TSOP48      
-      MT29F2G16ABBEAH4-E     @VFBGA63(NW265)MT29F2G16ABBEAH4-ITE   @VFBGA63(NQ266)MT29F2G16ABBEAH4-ESE   @VFBGA63(NX265)MT29F2G16ABBEAH4-ITESE @VFBGA63(NX266)
-      MT29F2G16ABBEAHC-E     @VFBGA63(NW266)MT29F2G16ABBEAHC-ITE   @VFBGA63(NW267)MT29F2G16ABBEAHC-ESE   @VFBGA63(NX267)MT29F2G16ABBEAHC-ITESE @VFBGA63(NQ267)
-      MT29F2G16ABBFAH4       @VFBGA63     MT29F2G16ABBFAH4-IT    @VFBGA63     MT29F2G16ABCWP         @TSOP48      MT29F2G16ABCWP-ET      @TSOP48      
-      MT29F2G16ABDHC         @VFBGA63     MT29F2G16ABDHC-ET      @VFBGA63     MT29F4G08AAAWP          @TSOP48     MT29F4G08AAAWP-ET       @TSOP48     
-      MT29F4G08AACHC          @VFBGA63    MT29F4G08AACHC-ET       @VFBGA63    MT29F4G08AACWC          @TSOP48     MT29F4G08AACWC-ET       @TSOP48     
-      MT29F4G08ABADAH4-ED     @VFBGA63(NQ354)MT29F4G08ABADAH4-ITESD  @VFBGA63(NW161)MT29F4G08ABADAH4-ITD    @VFBGA63(NW164)MT29F4G08ABADAH4-ITED   @VFBGA63(NW341)
-      MT29F4G08ABADAH4ES-D    @VFBGA63(NX161)MT29F4G08ABADAH4-D      @VFBGA63(NX164)MT29F4G08ABADAH4-EESD   @VFBGA63(NX372)MT29F4G08ABADAH4-ITEESD @VFBGA63(NX373)
-      MT29F4G08ABADAWP        @TSOP48     MT29F4G08ABAEAH4-ITE    @VFBGA63(NQ418)MT29F4G08ABAEAH4-ITSE   @VFBGA63(NQ424)MT29F4G08ABAEAH4-E      @VFBGA63(NW358)
-      MT29F4G08ABAEAH4-SE     @VFBGA63(NW400)MT29F4G08ABAEAWP        @TSOP48     MT29F4G08ABAEAWP-IT     @TSOP48     MT29F4G08ABAFAWP        @TSOP48     
-      MT29F4G08ABAFAWP-IT     @TSOP48     MT29F4G08ABBDAH4-ITED   @VFBGA63(NQ414)MT29F4G08ABBDAH4-ITXD   @VFBGA63(NQ438)MT29F4G08ABBDAH4-D      @VFBGA63(NQ189)
-      MT29F4G08ABBDAH4-ITD    @VFBGA63(NQ190)MT29F4G08ABBDAH4ES-D    @VFBGA63(NX194)MT29F4G08ABBDAH4-ITESD  @VFBGA63(NX195)MT29F4G08ABBDAH4-ITEESD @VFBGA63(NX453)
-      MT29F4G08ABBDAHC-D      @VFBGA63(NW162)MT29F4G08ABBDAHC-ITD    @VFBGA63(NW193)MT29F4G08ABBDAHC-ITESD  @VFBGA63(NX196)MT29F4G08ABBDAHCES-D    @VFBGA63(NX162)
-      MT29F4G08ABCHC          @VFBGA63    MT29F4G08ABCHC- ET      @VFBGA63    MT29F4G08ABCWC          @TSOP48     MT29F4G08ABCWC- ET      @TSOP48     
-      MT29F4G08BABWP          @TSOP48     MT29F4G08BABWP- ET      @TSOP48     MT29F4G16AACWC         @TSOP48      MT29F4G16AACWC-ET      @TSOP48      
-      MT29F4G16ABADAH4-AITD  @VFBGA63(NQ446)MT29F4G16ABADAH4-D     @VFBGA63(NW197)MT29F4G16ABADAH4-ITD   @VFBGA63(NW199)MT29F4G16ABADAH4ES-D   @VFBGA63(NX200)
-      MT29F4G16ABADAH4-ITESD @VFBGA63(NX201)MT29F4G16ABADAWP       @TSOP48      MT29F4G16ABADAWP-IT    @TSOP48      MT29F4G16ABAEAH4       @VFBGA63     
-      MT29F4G16ABAEAH4-IT    @VFBGA63     MT29F4G16ABAEAWP       @TSOP48      MT29F4G16ABAEAWP-IT    @TSOP48      MT29F4G16ABBDAH4-D     @VFBGA63(NW194)
-      MT29F4G16ABBDAH4-ITD   @VFBGA63(NW195)MT29F4G16ABBDAH4-ITESD @VFBGA63(NW198)MT29F4G16ABBDAH4ES-D   @VFBGA63(NX197)MT29F4G16ABBDAHC-D     @VFBGA63(NW163)
-      MT29F4G16ABBDAHC-ITD   @VFBGA63(NW196)MT29F4G16ABBDAHC-ITESD @VFBGA63(NX199)MT29F4G16ABBDAHCES-D   @VFBGA63(NX163)MT29F4G16ABBEAH4-ITD   @VFBGA63     
-      MT29F4G16ABBEAH4-IT    @VFBGA63     MT29F4G16ABCHC         @VFBGA63     MT29F4G16ABCHC- T      @VFBGA63     MT29F4G16ABCWC         @TSOP48      
-      MT29F4G16ABCWC-ET      @TSOP48      MT29F4G16BABWP         @TSOP48      MT29F8G08ABABAWP        @TSOP48     MT29F8G08ABACAH4-C	     @VFBGA63(NQ328)
-      MT29F8G08ABACAH4-IT     @VFBGA63(NQ327)MT29F8G08ABACAH4-ITESC  @VFBGA63(NW334)MT29F8G08ABACAH4-ITSC   @VFBGA63(NQ425)MT29F8G08ABACAH4-SC     @VFBGA63(NW401)
-      MT29F8G08ABACAH4-ESC    @VFBGA63(NX337)MT29F8G08ABACAWP        @TSOP48     MT29F8G08ABACAWP-IT     @TSOP48     MT29F8G08ABBCAH4-C      @VFBGA63(NQ300)
-      MT29F8G08ABBCAH4-IT     @VFBGA63(NQ299)MT29F8G08ABBCAH4-ITESC  @VFBGA63(NW325)MT29F8G08ABBCAWP        @TSOP48     MT29F8G08ABBCAH4-ESC    @VFBGA63(NX322)
-      MT29F8G08ADADAH4-ED     @VFBGA63(NQ355)MT29F8G08ADADAH4-ITD    @VFBGA63(NW225)MT29F8G08ADADAH4-D	     @VFBGA63(NW226)MT29F8G08ADADAH4-ITED   @VFBGA63(NW342)
-      MT29F8G08ADADAH4-ITESD  @VFBGA63(NX225)MT29F8G08ADADAH4ES-D    @VFBGA63(NX226)MT29F8G08ADADAH4-CESD   @VFBGA63(NX374)MT29F8G08ADADAH4-ITCESD @VFBGA63(NX375)
-      MT29F8G08ADBDAH4-D      @VFBGA63(NW228)MT29F8G08ADBDAH4-ITD    @VFBGA63(NW227)MT29F8G08ADBDAH4-ITESD  @VFBGA63(NX227)MT29F8G08ADBDAH4ES-D    @VFBGA63(NX228)
-      MT29F8G08BAAWP          @TSOP48     MT29F8G08DAAWP          @TSOP48     MT29F8G08FABWP          @TSOP48     MT29F8G08FACWP          @TSOP48     
-      MT29F8G16ABABAWP        @TSOP48     MT29F8G16ABACAH4-C      @VFBGA63(NQ331)MT29F8G16ABACAH4-IT     @VFBGA63(NQ330)MT29F8G16ABACAH4-ITESC  @VFBGA63(NW336)
-      MT29F8G16ABACAH4-ESC    @VFBGA63(NX340)MT29F8G16ABACAWP        @TSOP48     MT29F8G16ABACAWP-IT     @TSOP48     MT29F8G16ABBCAWP        @TSOP48     
-      MT29F8G16ABBCAWP-IT     @TSOP48     MT29F8G16ABBCAH4-C      @VFBGA63(NQ302)MT29F8G16ABBCAH4-IT     @VFBGA63(NQ301)MT29F8G16ABBCAH4-ITESC  @VFBGA63(NW326)
-      MT29F8G16ABBCAH4-ESC    @VFBGA63(NX323)MT29F8G16ADADAH4-ITD    @VFBGA63(NW229)MT29F8G16ADADAH4-D      @VFBGA63(NW230)MT29F8G16ADADAH4-ITESD  @VFBGA63(NX229)
-      MT29F8G16ADADAH4ES-D    @VFBGA63(NX230)MT29F8G16ADBDAH4-D      @VFBGA63(NW237)MT29F8G16ADBDAH4-IT     @VFBGA63(NW238)MT29F8G16ADBDAH4ES-D    @VFBGA63(NX237)
-      MT29F8G16ADBDAH4-ITESD  @VFBGA63(NX238)MT29F16G08ABABA @TSOP48             MT29F16G08ABCBB @TSOP48             MT29F32G08ABAAA @TSOP48             
-      MT29F32G08AFABA @TSOP48             MT29F32G08AECBB @TSOP48             MT29F32G08CBAAA @TSOP48             MT29F32G08CBABA @TSOP48             
-      MT29F32G08CBACA @TSOP48             MT29F32G08CBADA @TSOP48             MT29F32G08CBADB @TSOP48             MT29F32G08CFACA @TSOP48             
-      MT29F64G08AJABA @TSOP48             MT29F64G08AKABA @TSOP48             MT29F64G08AKCBB @TSOP48             MT29F64G08AFAAA @TSOP48             
-      MT29F64G08AJABA @TSOP48             MT29F64G08CBAAA @TSOP48             MT29F64G08CBAAB @TSOP48             MT29F64G08CBABA @TSOP48             
-      N25Q032A @SOIC8                     N25Q032A @SOIC16                    N25Q064A @SOIC8                     N25Q064A @SOIC16                    
-      N25Q128A @SOIC8                     N25Q128A @SOIC16                    N25Q256A @SOIC8                     N25Q256A @SOIC16                    
-      N25Q512A @SOIC8                     N25Q512A @SOIC16                    N25W032A @SOIC8                     N25W032A @SOIC16                    
-      N25W064A @SOIC8                     N25W064A @SOIC16                    N25W128A @SOIC8                     N25W128A @SOIC16                    
-      PC28F064M29EWH  @BGA64              PC28F064M29EWL  @BGA64              PC28F064M29EWB  @BGA64              PC28F064M29EWT  @BGA64              
-      PC28F128M29EWH  @BGA64              PC28F128M29EWL  @BGA64              PC28F256M29EWH  @BGA64              PC28F256M29EWL  @BGA64              
-      PC28F512M29EWH  @BGA64              PC28F512M29EWL  @BGA64              PC28F00AM29EWHA @BGA64              PC28F00AM29EWLA @BGA64              
-      PZ28F032M29EWH  @BGA48              PZ28F032M29EWL  @BGA48              PZ28F032M29EWB  @BGA48              PZ28F032M29EWT  @BGA48              
-      PZ28F064M29EWH  @BGA48              PZ28F064M29EWL  @BGA48              PZ28F064M29EWB  @BGA48              PZ28F064M29EWT  @BGA48              
-      PZ28F064M29EWHX @BGA48              PZ28F064M29EWLX @BGA48              PZ28F064M29EWBX @BGA48              PZ28F064M29EWTX @BGA48              
-      RC28F128M29EWH  @BGA64              RC28F128M29EWL  @BGA64              RC28F256M29EWH  @BGA64              RC28F256M29EWL  @BGA64              
-      RC28F512M29EWH  @BGA64              RC28F512M29EWL  @BGA64              RC28F00AM29EWHA @BGA64              RC28F00AM29EWLA @BGA64              
+      JS28F640P30B  @TSOP56               JS28F640P30BF @TSOP56               JS28F640P30T  @TSOP56               JS28F640P30TF @TSOP56               
+      JS28F128P30B  @TSOP56               JS28F128P30BF @TSOP56               JS28F128P30T  @TSOP56               JS28F128P30TF @TSOP56               
+      JS28F256P30B  @TSOP56               JS28F256P30BF @TSOP56               JS28F256P30T  @TSOP56               JS28F256P30TF @TSOP56               
+      JS28F512P30BF  @TSOP56              JS28F512P30BTF @TSOP56              JS28F512P30TF  @TSOP56              JS28F512P30EF  @TSOP56              
+      JS28F00AP30BF  @TSOP56              JS28F00AP30BTF @TSOP56              JS28F00AP30TF  @TSOP56              JS28F00AP30EF  @TSOP56              
+      JS28F640P33B  @TSOP56               JS28F640P33BF @TSOP56               JS28F640P33T  @TSOP56               JS28F640P33TF @TSOP56               
+      JS28F128P33B  @TSOP56               JS28F128P33BF @TSOP56               JS28F128P33T  @TSOP56               JS28F128P33TF @TSOP56               
+      JS28F256P33B  @TSOP56               JS28F256P33BF @TSOP56               JS28F256P33T  @TSOP56               JS28F256P33TF @TSOP56               
+      JS28F512P33BF  @TSOP56              JS28F512P33TF  @TSOP56              JS28F512P33EF  @TSOP56              JS28F00AP33BF  @TSOP56              
+      JS28F00AP33TF  @TSOP56              JS28F00AP33EF  @TSOP56              M25P05                              M25P05 @SOIC8                       
+      M25P05A @SOIC8                      M25P05A @TSSOP8                     M25P10                              M25P10 @SOIC8                       
+      M25P10A @QFN8                       M25P10A @SOIC8                      M25P20 @QFN8                        M25P20 @SOIC8                       
+      M25P40 @QFN8                        M25P40 @SOIC8                       M25P80 @QFN8                        M25P80 @SOIC8                       
+      M25P80 @SOP16                       M25P16 @QFN8                        M25P16 @SOIC8                       M25P16 @SOP16                       
+      M25P32 @QFN8                        M25P32 @SOIC8                       M25P32 @SOP16                       M25P64 @SOIC8                       
+      M25P64 @SOIC16                      M25P128 @FPN8                       M25P128 @SOP16                      M25PE10 @QFN8                       
+      M25PE10 @SOIC8                      M25PE20 @QFN8                       M25PE20 @SOIC8                      M25PE40 @QFN8                       
+      M25PE40 @SOIC8                      M25PE80 @QFN8                       M25PE80 @SOIC8                      M25PE16 @QFN8                       
+      M25PE16 @SOIC8                      M25PX80 @QFN8                       M25PX80 @SOIC8                      M25PX80 @SOP16                      
+      M25PX16 @QFN8                       M25PX16 @SOIC8                      M25PX16 @SOP16                      M25PX32 @QFN8                       
+      M25PX32 @SOIC8                      M25PX32 @SOP16                      M25PX64 @SOIC8                      M25PX64 @SOIC16                     
+      M28W160BB @TSOP48                   M28W160BT @TSOP48                   M28W160CB @TSOP48                   M28W160CT @TSOP48                   
+      M28W320BB @TSOP48                   M28W320BT @TSOP48                   M28W320CB @TSOP48                   M28W320CT @TSOP48                   
+      M28W640CB @TSOP48                   M28W640CT @TSOP48                   M28W640ECB @TSOP48                  M28W640ECT @TSOP48                  
+      M29DW127G @TSOP56                   M29DW128F @TSOP56                   M29DW128G @TSOP56                   M29DW256G @TSOP56                   
+      M29W800AT @TSOP48                   M29W800AT @SOP44                    M29W800AT @BGA48                    M29W800AB @TSOP48                   
+      M29W800AB @SOP44                    M29W800AB @BGA48                    M29W800DT @TSOP48                   M29W800DT @SOP44                    
+      M29W800DT @BGA48                    M29W800DB @TSOP48                   M29W800DB @SOP44                    M29W800DB @BGA48                    
+      M29W800FT @TSOP48                   M29W800FT @BGA48                    M29W800FB @TSOP48                   M29W800FB @BGA48                    
+      M29W160BB @TSOP48                   M29W160BB @BGA48                    M29W160BB @BGA64                    M29W160BT @TSOP48                   
+      M29W160BT @BGA48                    M29W160BT @BGA64                    M29W160DB @TSOP48                   M29W160DB @BGA48                    
+      M29W160DB @BGA64                    M29W160DT @TSOP48                   M29W160DT @BGA48                    M29W160DT @BGA64                    
+      M29W160EB @TSOP48                   M29W160EB @BGA48                    M29W160EB @BGA64                    M29W160ET @TSOP48                   
+      M29W160ET @BGA48                    M29W160ET @BGA64                    M29W320DB @TSOP48                   M29W320DB @BGA48                    
+      M29W320DB @BGA64                    M29W320DT @TSOP48                   M29W320DT @BGA48                    M29W320DT @BGA64                    
+      M29W320EB @TSOP48                   M29W320EB @BGA48                    M29W320EB @BGA64                    M29W320ET @TSOP48                   
+      M29W320ET @BGA48                    M29W320ET @BGA64                    M29W640GB      @TSOP56              M29W640GB      @BGA64               
+      M29W640GH      @TSOP56              M29W640GH      @BGA64               M29W640GL      @TSOP56              M29W640GL      @BGA64               
+      M29W640GSBxxNB @TSOP56              M29W640GSBxxNB @BGA64               M29W640GSHxxNB @TSOP56              M29W640GSHxxNB @BGA64               
+      M29W640GSLxxNB @TSOP56              M29W640GSLxxNB @BGA64               M29W640GSTxxNB @TSOP56              M29W640GSTxxNB @BGA64               
+      M29W640GT      @TSOP56              M29W640GT      @BGA64               M29W128FHxxN   @TSOP56              M29W128FHxxN   @BGA64               
+      M29W128FLxxN   @TSOP56              M29W128FLxxN   @BGA64               M29W128GHxxN   @TSOP56              M29W128GHxxN   @BGA64               
+      M29W128GLxxN   @TSOP56              M29W128GLxxN   @BGA64               M29W128GSHxxN  @TSOP56              M29W128GSHxxN  @BGA64               
+      M29W128GSLxxN  @TSOP56              M29W128GSLxxN  @BGA64               M29W256GHxxN   @TSOP56              M29W256GHxxN   @BGA64               
+      M29W256GLxxN   @TSOP56              M29W256GLxxN   @BGA64               M29W512GHxxN   @TSOP56              M29W512GHxxN   @BGA64               
+      MT25QL64AB @SOIC8                   MT25QL64AB @SOIC16                  MT25QL128AB @SOIC8                  MT25QL128AB @SOIC16                 
+      MT25QL256AB @SOIC8                  MT25QL256AB @SOIC16                 MT25QL512AB @SOIC8                  MT25QL512AB @SOIC16                 
+      MT25QU64AB @SOIC8                   MT25QU64AB @SOIC16                  MT25QU128AB @SOIC8                  MT25QU128AB @SOIC16                 
+      MT25QU256AB @SOIC8                  MT25QU256AB @SOIC16                 MT25QU512AB @SOIC8                  MT25QU512AB @SOIC16                 
+      MT25TL128BB @SOIC8                  MT25TL128BB @SOIC16                 MT25TL256BB @SOIC8                  MT25TL256BB @SOIC16                 
+      MT25TL512BB @SOIC8                  MT25TL512BB @SOIC16                 MT25TU128HB @SOIC8                  MT25TU128HB @SOIC16                 
+      MT25TU256HB @SOIC8                  MT25TU256HB @SOIC16                 MT25TU512HB @SOIC8                  MT25TU512HB @SOIC16                 
+      MT28F002B1   @TSOP40                MT28F002B3-T @TSOP40                MT28F002B3-B @TSOP40                MT28F002B5-T @TSOP40                
+      MT28F002B5-B @TSOP40                MT28F004B3-T @TSOP40                MT28F004B3-B @TSOP40                MT28F004B5-T @TSOP40                
+      MT28F004B5-B @TSOP40                MT28F008B3-T @TSOP40                MT28F008B3-B @TSOP40                MT28F008B5-T @TSOP40                
+      MT28F008B5-B @TSOP40                MT28F016S3   @TSOP40                MT28F016S5   @TSOP40                MT28F200B3-T @TSOP48                
+      MT28F200B3-T @SOP44                 MT28F200B3-B @TSOP48                MT28F200B3-B @SOP44                 MT28F200B5-T @TSOP48                
+      MT28F200B5-T @SOP44                 MT28F200B5-B @TSOP48                MT28F200B5-B @SOP44                 MT28F400B3-T @TSOP48                
+      MT28F400B3-T @SOP44                 MT28F400B3-B @TSOP48                MT28F400B3-B @SOP44                 MT28F400B5-T @TSOP48                
+      MT28F400B5-T @SOP44                 MT28F400B5-B @TSOP48                MT28F400B5-B @SOP44                 MT28F800B3-T @TSOP48                
+      MT28F800B3-T @SOP44                 MT28F800B3-B @TSOP48                MT28F800B3-B @SOP44                 MT28F800B5-T @TSOP48                
+      MT28F800B5-T @SOP44                 MT28F800B5-B @TSOP48                MT28F800B5-B @SOP44                 MT28F128J3 @TSOP56                  
+      MT28F128J3 @EBGA64                  MT28F256J3 @TSOP56                  MT28F256J3 @EBGA64                  MT28F320J3 @TSOP56                  
+      MT28F320J3 @EBGA64                  MT28F640J3 @TSOP56                  MT28F640J3 @EBGA64                  MT28EW128ABA1HJS0 @TSOP56           
+      MT28EW128ABA1HPC0 @BGA64            MT28EW128ABA1LJS0 @TSOP56           MT28EW128ABA1LPC0 @BGA64            MT28EW256ABA1HJS0 @TSOP56           
+      MT28EW256ABA1HPC0 @BGA64            MT28EW256ABA1LJS0 @TSOP56           MT28EW256ABA1LPC0 @BGA64            MT28EW512ABA1HJS0 @TSOP56           
+      MT28EW512ABA1HPC0 @BGA64            MT28EW512ABA1HPC1 @BGA64            MT28EW512ABA1LJS0 @TSOP56           MT28EW512ABA1LPC0 @BGA64            
+      MT28EW512ABA1LPC1 @BGA64            MT28EW01GABA1HJS0 @TSOP56           MT28EW01GABA1HPC0 @BGA64            MT28EW01GABA1HPC1 @BGA64            
+      MT28EW01GABA1LJS0 @TSOP56           MT28EW01GABA1LPC0 @BGA64            MT28FW512ABA1HJS0 @TSOP56           MT28FW512ABA1HPC0 @BGA64            
+      MT28FW512ABA1LJS0 @TSOP56           MT28FW512ABA1LPC0 @BGA64            MT28FW01GABA1HJS0 @TSOP56           MT28FW01GABA1HPC0 @BGA64            
+      MT28FW01GABA1LJS0 @TSOP56           MT28FW01GABA1LPC0 @BGA64            MT28GU128AxA1EGC @BGA64             MT28GU128AxA1EGC @BGA64             
+      MT28GU256AxA1EGC @BGA64             MT28GU256AxA1EGC @BGA64             MT28GU512AxA1EGC @BGA64             MT28GU512AxA1EGC @BGA64             
+      MT28GU01GAxA1EGC @BGA64             MT28GU01GAxA1EGC @BGA64             MT29F1G08AACH4C        @VFBGA63(NW240)MT29F1G08AACH4-ETC     @VFBGA63(NW241)
+      MT29F1G08AACH4-ESC     @VFBGA63(NX240)MT29F1G08AACH4-ETESC   @VFBGA63(NX241)MT29F1G08AACWP         @TSOP48      MT29F1G08AACWP-ET      @TSOP48      
+      MT29F1G08ABADAH4-ITD   @VFBGA63(NQ277)MT29F1G08ABADAH4-ED    @VFBGA63(NQ352)MT29F1G08ABADAH4D      @VFBGA63(NW301)MT29F1G08ABADAH4-ITESD @VFBGA63(NW319)
+      MT29F1G08ABADAH4-ITED  @VFBGA63(NW339)MT29F1G08ABADAH4-ESD   @VFBGA63(NX300)MT29F1G08ABADAH4-EESD  @VFBGA63(NX368)MT29F1G08ABADAH4-ITEESD@VFBGA63(NX369)
+      MT29F1G08ABADAWP       @TSOP48      MT29F1G08ABADAWP-E     @TSOP48      MT29F1G08ABADAWP-IT    @TSOP48      MT29F1G08ABADAWP-ITE   @TSOP48      
+      MT29F1G08ABADAWP-ITX   @TSOP48      MT29F1G08ABAEAH4-ITE   @VFBGA63(NQ403)MT29F1G08ABAEAH4-ITXE  @VFBGA63(NQ427)MT29F1G08ABAEAH4-E     @VFBGA63(NW361)
+      MT29F1G08ABAEAH4-ITESE @VFBGA63(NX422)MT29F1G08ABAEAH4-ESE   @VFBGA63(NX424)MT29F1G08ABAEAWP       @TSOP48      MT29F1G08ABAEAWP-IT    @TSOP48      
+      MT29F1G08ABAEAWP-ITX   @TSOP48      MT29F1G08ABAFAH4-ITE   @VFBGA63     MT29F1G08ABAFAWP-ITE   @TSOP48      MT29F1G08ABAHCA        @VFBGA63(FW258)
+      MT29F1G08ABAHCA-ETA    @VFBGA63(FW259)MT29F1G08ABAHC-ESA     @VFBGA63(FX258)MT29F1G08ABBDAH4-ITD   @VFBGA63(NQ278)MT29F1G08ABBDAH4D      @VFBGA63(NW302)
+      MT29F1G08ABBDAH4-ESD   @VFBGA63(NX301)MT29F1G08ABBDAH4-TESD  @VFBGA63(NW315)MT29F1G08ABBDAHC-ITD   @VFBGA63(NQ279)MT29F1G08ABBDAHCD      @VFBGA63(NW303)
+      MT29F1G08ABBDAHCESD    @VFBGA63(NX302)MT29F1G08ABBDAHC-ITESD @VFBGA63(NW316)MT29F1G08ABBEAH4-ITE   @VFBGA63(NQ404)MT29F1G08ABBEAH4-ITXE  @VFBGA63(NQ428)
+      MT29F1G08ABBEAH4-E     @VFBGA63(NW360)MT29F1G08ABBEAH4-ITESE @VFBGA63(NX423)MT29F1G08ABBEAH4-ESE   @VFBGA63(NX421)MT29F1G08ABBEAHC-ITE   @VFBGA63(NQ406)
+      MT29F1G08ABBEAHC-E     @VFBGA63(NW363)MT29F1G08ABBEAHC-ESE   @VFBGA63(NX427)MT29F1G08ABBEAHC-ITESE @VFBGA63(NX428)MT29F1G08ABBHCB        @VFBGA63(FW219)
+      MT29F1G08ABBHC-ETB     @VFBGA63(FW263)MT29F1G08ABBHC-ETESB   @VFBGA63(FX219)MT29F1G08ABCH4C        @VFBGA63(NW221)MT29F1G08ABCH4-ETC     @VFBGA63(NW222)
+      MT29F1G08ABCH4-ESC     @VFBGA63(NX221)MT29F1G08ABCH4-ETESC   @VFBGA63(NX222)MT29F1G08ABCHC-QSC     @VFBGA63(NQ139)MT29F1G08ABCHC-ETQSC   @VFBGA63(NQ140)
+      MT29F1G08ABCHCC        @VFBGA63(NW139)MT29F1G08ABCHC-ETC     @VFBGA63(NW140)MT29F1G08ABCHC-ESC     @VFBGA63(NX139)MT29F1G08ABCHC-ETESC   @VFBGA63(NX140)
+      MT29F1G16ABAHCA        @VFBGA63(FW260)MT29F1G16ABAHCA-ETA    @VFBGA63(FW261)MT29F1G16ABAHC-ESA     @VFBGA63(FX260)MT29F1G16ABBDAH4-ITD   @VFBGA63(NQ280)
+      MT29F1G16ABBDAH4D      @VFBGA63(NW304)MT29F1G16ABBDAH4-ITESD @VFBGA63(NW313)MT29F1G16ABBDAH4-ESD   @VFBGA63(NX303)MT29F1G16ABBDAHC-ITD   @VFBGA63(NQ281)
+      MT29F1G16ABBDAHCD      @VFBGA63(NW305)MT29F1G16ABBDAHC-ESD   @VFBGA63(NX304)MT29F1G16ABBDAHC-ITESD @VFBGA63(NW314)MT29F1G16ABBEAH4-IT    @VFBGA63(NQ405)
+      MT29F1G16ABBEAH4-ITX   @VFBGA63(NQ429)MT29F1G16ABBHCB        @VFBGA63(FW265)MT29F1G16ABBHC-ETB     @VFBGA63(FW267)MT29F1G16ABBHC-ESB     @VFBGA63(FX265)
+      MT29F1G16ABBHC-ETESB   @VFBGA63(FX270)MT29F1G16ABCH4C        @VFBGA63(NW223)MT29F1G16ABCH4-ETC     @VFBGA63(NW224)MT29F1G16ABCH4-ESC     @VFBGA63(NX223)
+      MT29F1G16ABCH4-ETESC   @VFBGA63(NX224)MT29F1G16ABCHC-QSC     @VFBGA63(NQ141)MT29F1G16ABCHC-ETQSC   @VFBGA63(NQ142)MT29F1G16ABCHCC        @VFBGA63(NW141)
+      MT29F1G16ABCHC-ETC     @VFBGA63(NW142)MT29F1G16ABCHC-ESC     @VFBGA63(NX141)MT29F1G16ABCHC-ETESC   @VFBGA63(NX142)MT29F2G08AABWP          @TSOP48     
+      MT29F2G08AABWP-ET       @TSOP48     MT29F2G08AACWP          @TSOP48     MT29F2G08AACWP-ET       @TSOP48     MT29F2G08AADWP          @TSOP48     
+      MT29F2G08AADWP-ET       @TSOP48     MT29F2G08ABAEAH4-ITE    @VFBGA63(NQ283)MT29F2G08ABAEAH4-EE     @VFBGA63(NQ353)MT29F2G08ABAEAH4-E      @VFBGA63(NW312)
+      MT29F2G08ABAEAH4-ITEE   @VFBGA63(NW340)MT29F2G08ABAEAH4-ITESE  @VFBGA63(NX306)MT29F2G08ABAEAH4-ESE    @VFBGA63(NX307)MT29F2G08ABAEAH4-EESE   @VFBGA63(NX370)
+      MT29F2G08ABAEAH4-ITEESE @VFBGA63(NX371)MT29F2G08ABAEAWP        @TSOP48     MT29F2G08ABAEAWP        @TSOP48     MT29F2G08ABAEAWP-E      @TSOP48     
+      MT29F2G08ABAEAWP-IT     @TSOP48     MT29F2G08ABAEAWP-ITX    @TSOP48     MT29F2G08ABAFAH4-F      @VFBGA63(NW373)MT29F2G08ABAFAH4-SF     @VFBGA63(NW402)
+      MT29F2G08ABAFAH4-ITF    @VFBGA63(NQ413)MT29F2G08ABAFAH4-ITFS   @VFBGA63(NQ422)MT29F2G08ABAFAH4-ITESF  @VFBGA63(NX417)MT29F2G08ABAFAH4-ESF    @VFBGA63(NX418)
+      MT29F2G08ABAFAWP        @TSOP48     MT29F2G08ABAFAWP-IT     @TSOP48     MT29F2G08ABAGAH4-IT(2048+64)  @VFBGA63MT29F2G08ABAGAWP-IT(2048+64)  @TSOP48
+      MT29F2G08ABAGAH4-IT(2048+128) @VFBGA63MT29F2G08ABAGAWP-IT(2048+128) @TSOP48MT29F2G08ABBEAH4-ITE    @VFBGA63(NQ264)MT29F2G08ABBEAH4-ITESE  @VFBGA63(NQ265)
+      MT29F2G08ABBEAH4E       @VFBGA63(NW264)MT29F2G08ABBEAHC-ITE    @VFBGA63(NQ282)MT29F2G08ABBEAHC-E      @VFBGA63(NW311)MT29F2G08ABBEAHC-ITESE  @VFBGA63(NX312)
+      MT29F2G08ABBEAHC-ESE    @VFBGA63(NX313)MT29F2G08ABBFAH4-ESE    @VFBGA63(NX264)MT29F2G08ABBFAH4        @VFBGA63    MT29F2G08ABBGAH4        @VFBGA63    
+      MT29F2G08ABCWP          @TSOP48     MT29F2G08ABDHC          @VFBGA63    MT29F2G08ABDHC-ET       @VFBGA63    MT29F2G08ABDWP          @TSOP48     
+      MT29F2G08ABDWP-ET       @TSOP48     MT29F2G16AABWP         @TSOP48      MT29F2G16AABWP-ET      @TSOP48      MT29F2G16AACWP         @TSOP48      
+      MT29F2G16AADWP         @TSOP48      MT29F2G16AADWP-ET      @TSOP48      MT29F2G16ABAEAWP       @TSOP48      MT29F2G16ABAEAWP-IT    @TSOP48      
+      MT29F2G16ABAFAWP       @TSOP48      MT29F2G16ABAFAWP-IT    @TSOP48      MT29F2G16ABBEAH4-E     @VFBGA63(NW265)MT29F2G16ABBEAH4-ITE   @VFBGA63(NQ266)
+      MT29F2G16ABBEAH4-ESE   @VFBGA63(NX265)MT29F2G16ABBEAH4-ITESE @VFBGA63(NX266)MT29F2G16ABBEAHC-E     @VFBGA63(NW266)MT29F2G16ABBEAHC-ITE   @VFBGA63(NW267)
+      MT29F2G16ABBEAHC-ESE   @VFBGA63(NX267)MT29F2G16ABBEAHC-ITESE @VFBGA63(NQ267)MT29F2G16ABBFAH4       @VFBGA63     MT29F2G16ABBFAH4-IT    @VFBGA63     
+      MT29F2G16ABCWP         @TSOP48      MT29F2G16ABCWP-ET      @TSOP48      MT29F2G16ABDHC         @VFBGA63     MT29F2G16ABDHC-ET      @VFBGA63     
+      MT29F4G08AAAWP          @TSOP48     MT29F4G08AAAWP-ET       @TSOP48     MT29F4G08AACHC          @VFBGA63    MT29F4G08AACHC-ET       @VFBGA63    
+      MT29F4G08AACWC          @TSOP48     MT29F4G08AACWC-ET       @TSOP48     MT29F4G08ABADAH4-ED     @VFBGA63(NQ354)MT29F4G08ABADAH4-ITESD  @VFBGA63(NW161)
+      MT29F4G08ABADAH4-ITD    @VFBGA63(NW164)MT29F4G08ABADAH4-ITED   @VFBGA63(NW341)MT29F4G08ABADAH4ES-D    @VFBGA63(NX161)MT29F4G08ABADAH4-D      @VFBGA63(NX164)
+      MT29F4G08ABADAH4-EESD   @VFBGA63(NX372)MT29F4G08ABADAH4-ITEESD @VFBGA63(NX373)MT29F4G08ABADAWP        @TSOP48     MT29F4G08ABAEAH4-ITE    @VFBGA63(NQ418)
+      MT29F4G08ABAEAH4-ITSE   @VFBGA63(NQ424)MT29F4G08ABAEAH4-E      @VFBGA63(NW358)MT29F4G08ABAEAH4-SE     @VFBGA63(NW400)MT29F4G08ABAEAWP        @TSOP48     
+      MT29F4G08ABAEAWP-IT     @TSOP48     MT29F4G08ABAFAWP        @TSOP48     MT29F4G08ABAFAWP-IT     @TSOP48     MT29F4G08ABBDAH4-ITED   @VFBGA63(NQ414)
+      MT29F4G08ABBDAH4-ITXD   @VFBGA63(NQ438)MT29F4G08ABBDAH4-D      @VFBGA63(NQ189)MT29F4G08ABBDAH4-ITD    @VFBGA63(NQ190)MT29F4G08ABBDAH4ES-D    @VFBGA63(NX194)
+      MT29F4G08ABBDAH4-ITESD  @VFBGA63(NX195)MT29F4G08ABBDAH4-ITEESD @VFBGA63(NX453)MT29F4G08ABBDAHC-D      @VFBGA63(NW162)MT29F4G08ABBDAHC-ITD    @VFBGA63(NW193)
+      MT29F4G08ABBDAHC-ITESD  @VFBGA63(NX196)MT29F4G08ABBDAHCES-D    @VFBGA63(NX162)MT29F4G08ABCHC          @VFBGA63    MT29F4G08ABCHC- ET      @VFBGA63    
+      MT29F4G08ABCWC          @TSOP48     MT29F4G08ABCWC- ET      @TSOP48     MT29F4G08BABWP          @TSOP48     MT29F4G08BABWP- ET      @TSOP48     
+      MT29F4G16AACWC         @TSOP48      MT29F4G16AACWC-ET      @TSOP48      MT29F4G16ABADAH4-AITD  @VFBGA63(NQ446)MT29F4G16ABADAH4-D     @VFBGA63(NW197)
+      MT29F4G16ABADAH4-ITD   @VFBGA63(NW199)MT29F4G16ABADAH4ES-D   @VFBGA63(NX200)MT29F4G16ABADAH4-ITESD @VFBGA63(NX201)MT29F4G16ABADAWP       @TSOP48      
+      MT29F4G16ABADAWP-IT    @TSOP48      MT29F4G16ABAEAH4       @VFBGA63     MT29F4G16ABAEAH4-IT    @VFBGA63     MT29F4G16ABAEAWP       @TSOP48      
+      MT29F4G16ABAEAWP-IT    @TSOP48      MT29F4G16ABBDAH4-D     @VFBGA63(NW194)MT29F4G16ABBDAH4-ITD   @VFBGA63(NW195)MT29F4G16ABBDAH4-ITESD @VFBGA63(NW198)
+      MT29F4G16ABBDAH4ES-D   @VFBGA63(NX197)MT29F4G16ABBDAHC-D     @VFBGA63(NW163)MT29F4G16ABBDAHC-ITD   @VFBGA63(NW196)MT29F4G16ABBDAHC-ITESD @VFBGA63(NX199)
+      MT29F4G16ABBDAHCES-D   @VFBGA63(NX163)MT29F4G16ABBEAH4-ITD   @VFBGA63     MT29F4G16ABBEAH4-IT    @VFBGA63     MT29F4G16ABCHC         @VFBGA63     
+      MT29F4G16ABCHC- T      @VFBGA63     MT29F4G16ABCWC         @TSOP48      MT29F4G16ABCWC-ET      @TSOP48      MT29F4G16BABWP         @TSOP48      
+      MT29F8G08ABABAWP        @TSOP48     MT29F8G08ABACAH4-C	     @VFBGA63(NQ328)MT29F8G08ABACAH4-IT     @VFBGA63(NQ327)MT29F8G08ABACAH4-ITESC  @VFBGA63(NW334)
+      MT29F8G08ABACAH4-ITSC   @VFBGA63(NQ425)MT29F8G08ABACAH4-SC     @VFBGA63(NW401)MT29F8G08ABACAH4-ESC    @VFBGA63(NX337)MT29F8G08ABACAWP        @TSOP48     
+      MT29F8G08ABACAWP-IT     @TSOP48     MT29F8G08ABBCAH4-C      @VFBGA63(NQ300)MT29F8G08ABBCAH4-IT     @VFBGA63(NQ299)MT29F8G08ABBCAH4-ITESC  @VFBGA63(NW325)
+      MT29F8G08ABBCAWP        @TSOP48     MT29F8G08ABBCAH4-ESC    @VFBGA63(NX322)MT29F8G08ADADAH4-ED     @VFBGA63(NQ355)MT29F8G08ADADAH4-ITD    @VFBGA63(NW225)
+      MT29F8G08ADADAH4-D	     @VFBGA63(NW226)MT29F8G08ADADAH4-ITED   @VFBGA63(NW342)MT29F8G08ADADAH4-ITESD  @VFBGA63(NX225)MT29F8G08ADADAH4ES-D    @VFBGA63(NX226)
+      MT29F8G08ADADAH4-CESD   @VFBGA63(NX374)MT29F8G08ADADAH4-ITCESD @VFBGA63(NX375)MT29F8G08ADBDAH4-D      @VFBGA63(NW228)MT29F8G08ADBDAH4-ITD    @VFBGA63(NW227)
+      MT29F8G08ADBDAH4-ITESD  @VFBGA63(NX227)MT29F8G08ADBDAH4ES-D    @VFBGA63(NX228)MT29F8G08BAAWP          @TSOP48     MT29F8G08DAAWP          @TSOP48     
+      MT29F8G08FABWP          @TSOP48     MT29F8G08FACWP          @TSOP48     MT29F8G16ABABAWP        @TSOP48     MT29F8G16ABACAH4-C      @VFBGA63(NQ331)
+      MT29F8G16ABACAH4-IT     @VFBGA63(NQ330)MT29F8G16ABACAH4-ITESC  @VFBGA63(NW336)MT29F8G16ABACAH4-ESC    @VFBGA63(NX340)MT29F8G16ABACAWP        @TSOP48     
+      MT29F8G16ABACAWP-IT     @TSOP48     MT29F8G16ABBCAWP        @TSOP48     MT29F8G16ABBCAWP-IT     @TSOP48     MT29F8G16ABBCAH4-C      @VFBGA63(NQ302)
+      MT29F8G16ABBCAH4-IT     @VFBGA63(NQ301)MT29F8G16ABBCAH4-ITESC  @VFBGA63(NW326)MT29F8G16ABBCAH4-ESC    @VFBGA63(NX323)MT29F8G16ADADAH4-ITD    @VFBGA63(NW229)
+      MT29F8G16ADADAH4-D      @VFBGA63(NW230)MT29F8G16ADADAH4-ITESD  @VFBGA63(NX229)MT29F8G16ADADAH4ES-D    @VFBGA63(NX230)MT29F8G16ADBDAH4-D      @VFBGA63(NW237)
+      MT29F8G16ADBDAH4-IT     @VFBGA63(NW238)MT29F8G16ADBDAH4ES-D    @VFBGA63(NX237)MT29F8G16ADBDAH4-ITESD  @VFBGA63(NX238)MT29F16G08ABABA @TSOP48             
+      MT29F16G08ABCBB @TSOP48             MT29F32G08ABAAA @TSOP48             MT29F32G08AFABA @TSOP48             MT29F32G08AECBB @TSOP48             
+      MT29F32G08CBAAA @TSOP48             MT29F32G08CBABA @TSOP48             MT29F32G08CBACA @TSOP48             MT29F32G08CBADA @TSOP48             
+      MT29F32G08CBADB @TSOP48             MT29F32G08CFACA @TSOP48             MT29F64G08AJABA @TSOP48             MT29F64G08AKABA @TSOP48             
+      MT29F64G08AKCBB @TSOP48             MT29F64G08AFAAA @TSOP48             MT29F64G08AJABA @TSOP48             MT29F64G08CBAAA @TSOP48             
+      MT29F64G08CBAAB @TSOP48             MT29F64G08CBABA @TSOP48             N25Q032A @SOIC8                     N25Q032A @SOIC16                    
+      N25Q064A @SOIC8                     N25Q064A @SOIC16                    N25Q128A @SOIC8                     N25Q128A @SOIC16                    
+      N25Q256A @SOIC8                     N25Q256A @SOIC16                    N25Q512A @SOIC8                     N25Q512A @SOIC16                    
+      N25W032A @SOIC8                     N25W032A @SOIC16                    N25W064A @SOIC8                     N25W064A @SOIC16                    
+      N25W128A @SOIC8                     N25W128A @SOIC16                    PC28F064M29EWH  @BGA64              PC28F064M29EWL  @BGA64              
+      PC28F064M29EWB  @BGA64              PC28F064M29EWT  @BGA64              PC28F128M29EWH  @BGA64              PC28F128M29EWL  @BGA64              
+      PC28F256M29EWH  @BGA64              PC28F256M29EWL  @BGA64              PC28F512M29EWH  @BGA64              PC28F512M29EWL  @BGA64              
+      PC28F00AM29EWHA @BGA64              PC28F00AM29EWLA @BGA64              PZ28F032M29EWH  @BGA48              PZ28F032M29EWL  @BGA48              
+      PZ28F032M29EWB  @BGA48              PZ28F032M29EWT  @BGA48              PZ28F064M29EWH  @BGA48              PZ28F064M29EWL  @BGA48              
+      PZ28F064M29EWB  @BGA48              PZ28F064M29EWT  @BGA48              PZ28F064M29EWHX @BGA48              PZ28F064M29EWLX @BGA48              
+      PZ28F064M29EWBX @BGA48              PZ28F064M29EWTX @BGA48              RC28F128M29EWH  @BGA64              RC28F128M29EWL  @BGA64              
+      RC28F256M29EWH  @BGA64              RC28F256M29EWL  @BGA64              RC28F512M29EWH  @BGA64              RC28F512M29EWL  @BGA64              
+      RC28F00AM29EWHA @BGA64              RC28F00AM29EWLA @BGA64              
 
-         IC Support: 620 PCS
+         IC Support: 658 PCS
 
  [ MICRON_EMMC(1) ]     
 
@@ -4243,82 +4274,92 @@
       JS28F128M29EWH  @TSOP56             JS28F128M29EWL  @TSOP56             JS28F256M29EWH  @TSOP56             JS28F256M29EWL  @TSOP56             
       JS28F512M29AWH  @TSOP56             JS28F512M29AWL  @TSOP56             JS28F512M29EWH  @TSOP56             JS28F512M29EWL  @TSOP56             
       JS28F00AM29AWHA @TSOP56             JS28F00AM29AWLA @TSOP56             JS28F00AM29EWHA @TSOP56             JS28F00AM29EWLA @TSOP56             
-      M25P05                              M25P05 @SOIC8                       M25P05A @SOIC8                      M25P05A @TSSOP8                     
-      M25P10                              M25P10 @SOIC8                       M25P10A @QFN8                       M25P10A @SOIC8                      
-      M25P20 @QFN8                        M25P20 @SOIC8                       M25P40 @QFN8                        M25P40 @SOIC8                       
-      M25P80 @QFN8                        M25P80 @SOIC8                       M25P80 @SOP16                       M25P16 @QFN8                        
-      M25P16 @SOIC8                       M25P16 @SOP16                       M25P32 @QFN8                        M25P32 @SOIC8                       
-      M25P32 @SOP16                       M25P64 @SOIC8                       M25P64 @SOIC16                      M25P128(ST25P28V6G) @FPN8           
-      M25P128(ST25P28V6G) @SOP16          M25PE10 @QFN8                       M25PE10 @SOIC8                      M25PE16 @QFN8                       
-      M25PE16 @SOIC8                      M25PE20 @QFN8                       M25PE20 @SOIC8                      M25PE40 @QFN8                       
-      M25PE40 @SOIC8                      M25PE80 @QFN8                       M25PE80 @SOIC8                      N25Q032A @SOIC8                     
-      N25Q032A @SOIC16                    N25Q064A @SOIC8                     N25Q064A @SOIC16                    N25Q128A  @SOIC8                    
-      N25Q128A  @SOP16                    M29DW127G @TSOP56                   M29DW128F @TSOP56                   M29DW128G @TSOP56                   
-      M29DW256G @TSOP56                   M29F200FB @TSOP48                   M29F200FB @SOP44                    M29F200FT @TSOP48                   
-      M29F200FT @SOP44                    M29F400FB @TSOP48                   M29F400FB @SOP44                    M29F400FT @TSOP48                   
-      M29F400FT @SOP44                    M29F800FB @TSOP48                   M29F800FB @SOP44                    M29F800FT @TSOP48                   
-      M29F800FT @SOP44                    M29F160FB @TSOP48                   M29F160FT @TSOP48                   M29W200BT @TSOP48                   
-      M29W200BT @SOP44                    M29W200BB @TSOP48                   M29W200BB @SOP44                    M29W400T  @TSOP48                   
-      M29W400T  @SOP44                    M29W400B  @TSOP48                   M29W400B  @SOP44                    M29W400BT @TSOP48                   
-      M29W400BT @SOP44                    M29W400BB @TSOP48                   M29W400BB @SOP44                    M29W400DT @TSOP48                   
-      M29W400DT @SOP44                    M29W400DB @TSOP48                   M29W400DB @SOP44                    M29W400FT @TSOP48                   
-      M29W400FB @TSOP48                   M29W800AT @TSOP48                   M29W800AT @SOP44                    M29W800AB @TSOP48                   
-      M29W800AB @SOP44                    M29W800DT @TSOP48                   M29W800DT @SOP44                    M29W800DB @TSOP48                   
-      M29W800DB @SOP44                    M29W800FT @TSOP48                   M29W800FB @TSOP48                   M29W160BT @TSOP48                   
-      M29W160BB @TSOP48                   M29W160DT @TSOP48                   M29W160DB @TSOP48                   M29W160ET @TSOP48                   
-      M29W160EB @TSOP48                   M29W320DT @TSOP48                   M29W320DB @TSOP48                   M29W320ET @TSOP48                   
-      M29W320EB @TSOP48                   M29W640DT @TSOP48                   M29W640DB @TSOP48                   M29W640FT @TSOP48                   
-      M29W640FB @TSOP48                   M29W640GB      @TSOP56              M29W640GH      @TSOP56              M29W640GL      @TSOP56              
-      M29W640GSBxxNB @TSOP56              M29W640GSHxxNB @TSOP56              M29W640GSLxxNB @TSOP56              M29W640GSTxxNB @TSOP56              
-      M29W640GT      @TSOP56              M29W128FHxxN  @TSOP56               M29W128FLxxN  @TSOP56               M29W128GHxxN  @TSOP56               
-      M29W128GLxxN  @TSOP56               M29W128GSHxxN @TSOP56               M29W128GSLxxN @TSOP56               M29W256GHxxN @TSOP56                
-      M29W256GLxxN @TSOP56                M29W512GHxxN @TSOP56                NAND02GAHOI__8Bit @BGA153           NAND02GAHOI__4Bit @BGA153           
-      NAND02GAHOI__1Bit @BGA153           NAND02GAHOI_(ISP)_4Bit              NAND02GAHOI_(ISP)_1Bit              NAND02GAHOL__8Bit @BGA153           
-      NAND02GAHOL__4Bit @BGA153           NAND02GAHOL__1Bit @BGA153           NAND02GAHOL_(ISP)_4Bit              NAND02GAHOL_(ISP)_1Bit              
-      NAND08GAHOB__8Bit @BGA169           NAND08GAHOB__4Bit @BGA169           NAND08GAHOB__1Bit @BGA169           NAND08GAHOB_(ISP)_4Bit              
-      NAND08GAHOB_(ISP)_1Bit              NAND08GAHOA__8Bit @BGA169           NAND08GAHOA__4Bit @BGA169           NAND08GAHOA__1Bit @BGA169           
-      NAND08GAHOA_(ISP)_4Bit              NAND08GAHOA_(ISP)_1Bit              NAND08GAHOF__8Bit @BGA153           NAND08GAHOF__4Bit @BGA153           
-      NAND08GAHOF__1Bit @BGA153           NAND08GAHOF_(ISP)_4Bit              NAND08GAHOF_(ISP)_1Bit              NAND08GAHOJ__8Bit @BGA153           
-      NAND08GAHOJ__4Bit @BGA153           NAND08GAHOJ__1Bit @BGA153           NAND08GAHOJ_(ISP)_4Bit              NAND08GAHOJ_(ISP)_1Bit              
-      NAND08GAHON__8Bit @BGA169           NAND08GAHON__4Bit @BGA169           NAND08GAHON__1Bit @BGA169           NAND08GAHON_(ISP)_4Bit              
-      NAND08GAHON_(ISP)_1Bit              N2M400EDA311A3B__8Bit @BGA100       N2M400EDA311A3B__4Bit @BGA100       N2M400EDA311A3B__1Bit @BGA100       
-      N2M400EDA311A3B_(ISP)_4Bit          N2M400EDA311A3B_(ISP)_1Bit          NAND16GAHOD__8Bit @BGA169           NAND16GAHOD__4Bit @BGA169           
-      NAND16GAHOD__1Bit @BGA169           NAND16GAHOD_(ISP)_4Bit              NAND16GAHOD_(ISP)_1Bit              NAND16GAHOH__8Bit @BGA169           
-      NAND16GAHOH__4Bit @BGA169           NAND16GAHOH__1Bit @BGA169           NAND16GAHOH_(ISP)_4Bit              NAND16GAHOH_(ISP)_1Bit              
-      NAND16GAHAP__8Bit @BGA100           NAND16GAHAP__4Bit @BGA100           NAND16GAHAP__1Bit @BGA100           NAND16GAHAP_(ISP)_4Bit              
-      NAND16GAHAP_(ISP)_1Bit              NAND16GAHOP__8Bit @BGA169           NAND16GAHOP__4Bit @BGA169           NAND16GAHOP__1Bit @BGA169           
-      NAND16GAHOP_(ISP)_4Bit              NAND16GAHOP_(ISP)_1Bit              N2M400FDA311A3B__8Bit @BGA100       N2M400FDA311A3B__4Bit @BGA100       
-      N2M400FDA311A3B__1Bit @BGA100       N2M400FDA311A3B_(ISP)_4Bit          N2M400FDA311A3B_(ISP)_1Bit          N2M400FDA311A3O__8Bit @BGA100       
-      N2M400FDA311A3O__4Bit @BGA100       N2M400FDA311A3O__1Bit @BGA100       N2M400FDA311A3O_(ISP)_4Bit          N2M400FDA311A3O_(ISP)_1Bit          
-      NAND32GAHAK__8Bit @BGA100           NAND32GAHAK__4Bit @BGA100           NAND32GAHAK__1Bit @BGA100           NAND32GAHAK_(ISP)_4Bit              
-      NAND32GAHAK_(ISP)_1Bit              NAND32GAHOP__8Bit @BGA169           NAND32GAHOP__4Bit @BGA169           NAND32GAHOP__1Bit @BGA169           
-      NAND32GAHOP_(ISP)_4Bit              NAND32GAHOP_(ISP)_1Bit              NAND32GAHOK__8Bit @BGA169           NAND32GAHOK__4Bit @BGA169           
-      NAND32GAHOK__1Bit @BGA169           NAND32GAHOK_(ISP)_4Bit              NAND32GAHOK_(ISP)_1Bit              NAND32GAHOH__8Bit @BGA169           
-      NAND32GAHOH__4Bit @BGA169           NAND32GAHOH__1Bit @BGA169           NAND32GAHOH_(ISP)_4Bit              NAND32GAHOH_(ISP)_1Bit              
-      N2M400GDA321A3B__8Bit @BGA100       N2M400GDA321A3B__4Bit @BGA100       N2M400GDA321A3B__1Bit @BGA100       N2M400GDA321A3B_(ISP)_4Bit          
-      N2M400GDA321A3B_(ISP)_1Bit          N2M400GDA321A3O__8Bit @BGA100       N2M400GDA321A3O__4Bit @BGA100       N2M400GDA321A3O__1Bit @BGA100       
-      N2M400GDA321A3O_(ISP)_4Bit          N2M400GDA321A3O_(ISP)_1Bit          NAND64GAHOK__8Bit @BGA169           NAND64GAHOK__4Bit @BGA169           
-      NAND64GAHOK__1Bit @BGA169           NAND64GAHOK_(ISP)_4Bit              NAND64GAHOK_(ISP)_1Bit              NAND64GAHOH__8Bit @BGA169           
-      NAND64GAHOH__4Bit @BGA169           NAND64GAHOH__1Bit @BGA169           NAND64GAHOH_(ISP)_4Bit              NAND64GAHOH_(ISP)_1Bit              
-      NAND64GAHOP__8Bit @BGA169           NAND64GAHOP__4Bit @BGA169           NAND64GAHOP__1Bit @BGA169           NAND64GAHOP_(ISP)_4Bit              
-      NAND64GAHOP_(ISP)_1Bit              N2M400HDA321A3B__8Bit @BGA100       N2M400HDA321A3B__4Bit @BGA100       N2M400HDA321A3B__1Bit @BGA100       
-      N2M400HDA321A3B_(ISP)_4Bit          N2M400HDA321A3B_(ISP)_1Bit          N2M400HDA321A3O__8Bit @BGA100       N2M400HDA321A3O__4Bit @BGA100       
-      N2M400HDA321A3O__1Bit @BGA100       N2M400HDA321A3O_(ISP)_4Bit          N2M400HDA321A3O_(ISP)_1Bit          NAND128AHOK__8Bit @BGA169           
-      NAND128AHOK__4Bit @BGA169           NAND128AHOK__1Bit @BGA169           NAND128AHOK_(ISP)_4Bit              NAND128AHOK_(ISP)_1Bit              
-      N2M400JDA341A3B__8Bit @BGA100       N2M400JDA341A3B__4Bit @BGA100       N2M400JDA341A3B__1Bit @BGA100       N2M400JDA341A3B_(ISP)_4Bit          
-      N2M400JDA341A3B_(ISP)_1Bit          N2M400JDA341A3O__8Bit @BGA100       N2M400JDA341A3O__4Bit @BGA100       N2M400JDA341A3O__1Bit @BGA100       
-      N2M400JDA341A3O_(ISP)_4Bit          N2M400JDA341A3O_(ISP)_1Bit          NAND256AHOK__8Bit @BGA169           NAND256AHOK__4Bit @BGA169           
-      NAND256AHOK__1Bit @BGA169           NAND256AHOK_(ISP)_4Bit              NAND256AHOK_(ISP)_1Bit              PC28F064M29EWH  @BGA64              
-      PC28F064M29EWL  @BGA64              PC28F064M29EWB  @BGA64              PC28F064M29EWT  @BGA64              PC28F128M29EWH  @BGA64              
-      PC28F128M29EWL  @BGA64              PC28F256M29EWH  @BGA64              PC28F256M29EWL  @BGA64              PC28F512M29EWH  @BGA64              
-      PC28F512M29EWL  @BGA64              PC28F00AM29EWHA @BGA64              PC28F00AM29EWLA @BGA64              PZ28F032M29EWH  @BGA48              
-      PZ28F032M29EWL  @BGA48              PZ28F032M29EWB  @BGA48              PZ28F032M29EWT  @BGA48              PZ28F064M29EWH  @BGA48              
-      PZ28F064M29EWL  @BGA48              PZ28F064M29EWB  @BGA48              PZ28F064M29EWT  @BGA48              PZ28F064M29EWHX @BGA48              
-      PZ28F064M29EWLX @BGA48              PZ28F064M29EWBX @BGA48              PZ28F064M29EWTX @BGA48              RC28F128M29EWH  @BGA64              
-      RC28F128M29EWL  @BGA64              RC28F256M29EWH  @BGA64              RC28F256M29EWL  @BGA64              RC28F512M29EWH  @BGA64              
-      RC28F512M29EWL  @BGA64              RC28F00AM29EWHA @BGA64              RC28F00AM29EWLA @BGA64              
+      JS28F640P30B  @TSOP56               JS28F640P30BF @TSOP56               JS28F640P30T  @TSOP56               JS28F640P30TF @TSOP56               
+      JS28F128P30B  @TSOP56               JS28F128P30BF @TSOP56               JS28F128P30T  @TSOP56               JS28F128P30TF @TSOP56               
+      JS28F256P30B  @TSOP56               JS28F256P30BF @TSOP56               JS28F256P30T  @TSOP56               JS28F256P30TF @TSOP56               
+      JS28F512P30BF  @TSOP56              JS28F512P30BTF @TSOP56              JS28F512P30TF  @TSOP56              JS28F512P30EF  @TSOP56              
+      JS28F00AP30BF  @TSOP56              JS28F00AP30BTF @TSOP56              JS28F00AP30TF  @TSOP56              JS28F00AP30EF  @TSOP56              
+      JS28F640P33B  @TSOP56               JS28F640P33BF @TSOP56               JS28F640P33T  @TSOP56               JS28F640P33TF @TSOP56               
+      JS28F128P33B  @TSOP56               JS28F128P33BF @TSOP56               JS28F128P33T  @TSOP56               JS28F128P33TF @TSOP56               
+      JS28F256P33B  @TSOP56               JS28F256P33BF @TSOP56               JS28F256P33T  @TSOP56               JS28F256P33TF @TSOP56               
+      JS28F512P33BF  @TSOP56              JS28F512P33TF  @TSOP56              JS28F512P33EF  @TSOP56              JS28F00AP33BF  @TSOP56              
+      JS28F00AP33TF  @TSOP56              JS28F00AP33EF  @TSOP56              M25P05                              M25P05 @SOIC8                       
+      M25P05A @SOIC8                      M25P05A @TSSOP8                     M25P10                              M25P10 @SOIC8                       
+      M25P10A @QFN8                       M25P10A @SOIC8                      M25P20 @QFN8                        M25P20 @SOIC8                       
+      M25P40 @QFN8                        M25P40 @SOIC8                       M25P80 @QFN8                        M25P80 @SOIC8                       
+      M25P80 @SOP16                       M25P16 @QFN8                        M25P16 @SOIC8                       M25P16 @SOP16                       
+      M25P32 @QFN8                        M25P32 @SOIC8                       M25P32 @SOP16                       M25P64 @SOIC8                       
+      M25P64 @SOIC16                      M25P128(ST25P28V6G) @FPN8           M25P128(ST25P28V6G) @SOP16          M25PE10 @QFN8                       
+      M25PE10 @SOIC8                      M25PE16 @QFN8                       M25PE16 @SOIC8                      M25PE20 @QFN8                       
+      M25PE20 @SOIC8                      M25PE40 @QFN8                       M25PE40 @SOIC8                      M25PE80 @QFN8                       
+      M25PE80 @SOIC8                      N25Q032A @SOIC8                     N25Q032A @SOIC16                    N25Q064A @SOIC8                     
+      N25Q064A @SOIC16                    N25Q128A  @SOIC8                    N25Q128A  @SOP16                    M29DW127G @TSOP56                   
+      M29DW128F @TSOP56                   M29DW128G @TSOP56                   M29DW256G @TSOP56                   M29F200FB @TSOP48                   
+      M29F200FB @SOP44                    M29F200FT @TSOP48                   M29F200FT @SOP44                    M29F400FB @TSOP48                   
+      M29F400FB @SOP44                    M29F400FT @TSOP48                   M29F400FT @SOP44                    M29F800FB @TSOP48                   
+      M29F800FB @SOP44                    M29F800FT @TSOP48                   M29F800FT @SOP44                    M29F160FB @TSOP48                   
+      M29F160FT @TSOP48                   M29W200BT @TSOP48                   M29W200BT @SOP44                    M29W200BB @TSOP48                   
+      M29W200BB @SOP44                    M29W400T  @TSOP48                   M29W400T  @SOP44                    M29W400B  @TSOP48                   
+      M29W400B  @SOP44                    M29W400BT @TSOP48                   M29W400BT @SOP44                    M29W400BB @TSOP48                   
+      M29W400BB @SOP44                    M29W400DT @TSOP48                   M29W400DT @SOP44                    M29W400DB @TSOP48                   
+      M29W400DB @SOP44                    M29W400FT @TSOP48                   M29W400FB @TSOP48                   M29W800AT @TSOP48                   
+      M29W800AT @SOP44                    M29W800AB @TSOP48                   M29W800AB @SOP44                    M29W800DT @TSOP48                   
+      M29W800DT @SOP44                    M29W800DB @TSOP48                   M29W800DB @SOP44                    M29W800FT @TSOP48                   
+      M29W800FB @TSOP48                   M29W160BT @TSOP48                   M29W160BB @TSOP48                   M29W160DT @TSOP48                   
+      M29W160DB @TSOP48                   M29W160ET @TSOP48                   M29W160EB @TSOP48                   M29W320DT @TSOP48                   
+      M29W320DB @TSOP48                   M29W320ET @TSOP48                   M29W320EB @TSOP48                   M29W640DT @TSOP48                   
+      M29W640DB @TSOP48                   M29W640FT @TSOP48                   M29W640FB @TSOP48                   M29W640GB      @TSOP56              
+      M29W640GH      @TSOP56              M29W640GL      @TSOP56              M29W640GSBxxNB @TSOP56              M29W640GSHxxNB @TSOP56              
+      M29W640GSLxxNB @TSOP56              M29W640GSTxxNB @TSOP56              M29W640GT      @TSOP56              M29W128FHxxN  @TSOP56               
+      M29W128FLxxN  @TSOP56               M29W128GHxxN  @TSOP56               M29W128GLxxN  @TSOP56               M29W128GSHxxN @TSOP56               
+      M29W128GSLxxN @TSOP56               M29W256GHxxN @TSOP56                M29W256GLxxN @TSOP56                M29W512GHxxN @TSOP56                
+      NAND02GAHOI__8Bit @BGA153           NAND02GAHOI__4Bit @BGA153           NAND02GAHOI__1Bit @BGA153           NAND02GAHOI_(ISP)_4Bit              
+      NAND02GAHOI_(ISP)_1Bit              NAND02GAHOL__8Bit @BGA153           NAND02GAHOL__4Bit @BGA153           NAND02GAHOL__1Bit @BGA153           
+      NAND02GAHOL_(ISP)_4Bit              NAND02GAHOL_(ISP)_1Bit              NAND08GAHOB__8Bit @BGA169           NAND08GAHOB__4Bit @BGA169           
+      NAND08GAHOB__1Bit @BGA169           NAND08GAHOB_(ISP)_4Bit              NAND08GAHOB_(ISP)_1Bit              NAND08GAHOA__8Bit @BGA169           
+      NAND08GAHOA__4Bit @BGA169           NAND08GAHOA__1Bit @BGA169           NAND08GAHOA_(ISP)_4Bit              NAND08GAHOA_(ISP)_1Bit              
+      NAND08GAHOF__8Bit @BGA153           NAND08GAHOF__4Bit @BGA153           NAND08GAHOF__1Bit @BGA153           NAND08GAHOF_(ISP)_4Bit              
+      NAND08GAHOF_(ISP)_1Bit              NAND08GAHOJ__8Bit @BGA153           NAND08GAHOJ__4Bit @BGA153           NAND08GAHOJ__1Bit @BGA153           
+      NAND08GAHOJ_(ISP)_4Bit              NAND08GAHOJ_(ISP)_1Bit              NAND08GAHON__8Bit @BGA169           NAND08GAHON__4Bit @BGA169           
+      NAND08GAHON__1Bit @BGA169           NAND08GAHON_(ISP)_4Bit              NAND08GAHON_(ISP)_1Bit              N2M400EDA311A3B__8Bit @BGA100       
+      N2M400EDA311A3B__4Bit @BGA100       N2M400EDA311A3B__1Bit @BGA100       N2M400EDA311A3B_(ISP)_4Bit          N2M400EDA311A3B_(ISP)_1Bit          
+      NAND16GAHOD__8Bit @BGA169           NAND16GAHOD__4Bit @BGA169           NAND16GAHOD__1Bit @BGA169           NAND16GAHOD_(ISP)_4Bit              
+      NAND16GAHOD_(ISP)_1Bit              NAND16GAHOH__8Bit @BGA169           NAND16GAHOH__4Bit @BGA169           NAND16GAHOH__1Bit @BGA169           
+      NAND16GAHOH_(ISP)_4Bit              NAND16GAHOH_(ISP)_1Bit              NAND16GAHAP__8Bit @BGA100           NAND16GAHAP__4Bit @BGA100           
+      NAND16GAHAP__1Bit @BGA100           NAND16GAHAP_(ISP)_4Bit              NAND16GAHAP_(ISP)_1Bit              NAND16GAHOP__8Bit @BGA169           
+      NAND16GAHOP__4Bit @BGA169           NAND16GAHOP__1Bit @BGA169           NAND16GAHOP_(ISP)_4Bit              NAND16GAHOP_(ISP)_1Bit              
+      N2M400FDA311A3B__8Bit @BGA100       N2M400FDA311A3B__4Bit @BGA100       N2M400FDA311A3B__1Bit @BGA100       N2M400FDA311A3B_(ISP)_4Bit          
+      N2M400FDA311A3B_(ISP)_1Bit          N2M400FDA311A3O__8Bit @BGA100       N2M400FDA311A3O__4Bit @BGA100       N2M400FDA311A3O__1Bit @BGA100       
+      N2M400FDA311A3O_(ISP)_4Bit          N2M400FDA311A3O_(ISP)_1Bit          NAND32GAHAK__8Bit @BGA100           NAND32GAHAK__4Bit @BGA100           
+      NAND32GAHAK__1Bit @BGA100           NAND32GAHAK_(ISP)_4Bit              NAND32GAHAK_(ISP)_1Bit              NAND32GAHOP__8Bit @BGA169           
+      NAND32GAHOP__4Bit @BGA169           NAND32GAHOP__1Bit @BGA169           NAND32GAHOP_(ISP)_4Bit              NAND32GAHOP_(ISP)_1Bit              
+      NAND32GAHOK__8Bit @BGA169           NAND32GAHOK__4Bit @BGA169           NAND32GAHOK__1Bit @BGA169           NAND32GAHOK_(ISP)_4Bit              
+      NAND32GAHOK_(ISP)_1Bit              NAND32GAHOH__8Bit @BGA169           NAND32GAHOH__4Bit @BGA169           NAND32GAHOH__1Bit @BGA169           
+      NAND32GAHOH_(ISP)_4Bit              NAND32GAHOH_(ISP)_1Bit              N2M400GDA321A3B__8Bit @BGA100       N2M400GDA321A3B__4Bit @BGA100       
+      N2M400GDA321A3B__1Bit @BGA100       N2M400GDA321A3B_(ISP)_4Bit          N2M400GDA321A3B_(ISP)_1Bit          N2M400GDA321A3O__8Bit @BGA100       
+      N2M400GDA321A3O__4Bit @BGA100       N2M400GDA321A3O__1Bit @BGA100       N2M400GDA321A3O_(ISP)_4Bit          N2M400GDA321A3O_(ISP)_1Bit          
+      NAND64GAHOK__8Bit @BGA169           NAND64GAHOK__4Bit @BGA169           NAND64GAHOK__1Bit @BGA169           NAND64GAHOK_(ISP)_4Bit              
+      NAND64GAHOK_(ISP)_1Bit              NAND64GAHOH__8Bit @BGA169           NAND64GAHOH__4Bit @BGA169           NAND64GAHOH__1Bit @BGA169           
+      NAND64GAHOH_(ISP)_4Bit              NAND64GAHOH_(ISP)_1Bit              NAND64GAHOP__8Bit @BGA169           NAND64GAHOP__4Bit @BGA169           
+      NAND64GAHOP__1Bit @BGA169           NAND64GAHOP_(ISP)_4Bit              NAND64GAHOP_(ISP)_1Bit              N2M400HDA321A3B__8Bit @BGA100       
+      N2M400HDA321A3B__4Bit @BGA100       N2M400HDA321A3B__1Bit @BGA100       N2M400HDA321A3B_(ISP)_4Bit          N2M400HDA321A3B_(ISP)_1Bit          
+      N2M400HDA321A3O__8Bit @BGA100       N2M400HDA321A3O__4Bit @BGA100       N2M400HDA321A3O__1Bit @BGA100       N2M400HDA321A3O_(ISP)_4Bit          
+      N2M400HDA321A3O_(ISP)_1Bit          NAND128AHOK__8Bit @BGA169           NAND128AHOK__4Bit @BGA169           NAND128AHOK__1Bit @BGA169           
+      NAND128AHOK_(ISP)_4Bit              NAND128AHOK_(ISP)_1Bit              N2M400JDA341A3B__8Bit @BGA100       N2M400JDA341A3B__4Bit @BGA100       
+      N2M400JDA341A3B__1Bit @BGA100       N2M400JDA341A3B_(ISP)_4Bit          N2M400JDA341A3B_(ISP)_1Bit          N2M400JDA341A3O__8Bit @BGA100       
+      N2M400JDA341A3O__4Bit @BGA100       N2M400JDA341A3O__1Bit @BGA100       N2M400JDA341A3O_(ISP)_4Bit          N2M400JDA341A3O_(ISP)_1Bit          
+      NAND256AHOK__8Bit @BGA169           NAND256AHOK__4Bit @BGA169           NAND256AHOK__1Bit @BGA169           NAND256AHOK_(ISP)_4Bit              
+      NAND256AHOK_(ISP)_1Bit              PC28F064M29EWH  @BGA64              PC28F064M29EWL  @BGA64              PC28F064M29EWB  @BGA64              
+      PC28F064M29EWT  @BGA64              PC28F128M29EWH  @BGA64              PC28F128M29EWL  @BGA64              PC28F256M29EWH  @BGA64              
+      PC28F256M29EWL  @BGA64              PC28F512M29EWH  @BGA64              PC28F512M29EWL  @BGA64              PC28F00AM29EWHA @BGA64              
+      PC28F00AM29EWLA @BGA64              PZ28F032M29EWH  @BGA48              PZ28F032M29EWL  @BGA48              PZ28F032M29EWB  @BGA48              
+      PZ28F032M29EWT  @BGA48              PZ28F064M29EWH  @BGA48              PZ28F064M29EWL  @BGA48              PZ28F064M29EWB  @BGA48              
+      PZ28F064M29EWT  @BGA48              PZ28F064M29EWHX @BGA48              PZ28F064M29EWLX @BGA48              PZ28F064M29EWBX @BGA48              
+      PZ28F064M29EWTX @BGA48              RC28F128M29EWH  @BGA64              RC28F128M29EWL  @BGA64              RC28F256M29EWH  @BGA64              
+      RC28F256M29EWL  @BGA64              RC28F512M29EWH  @BGA64              RC28F512M29EWL  @BGA64              RC28F00AM29EWHA @BGA64              
+      RC28F00AM29EWLA @BGA64              
 
-         IC Support: 319 PCS
+         IC Support: 357 PCS
 
  [ NXP ]     
 
@@ -5563,10 +5604,10 @@
       S29GL128P90TAI02 @TSOP56            S29GL128P90TAIR1 @TSOP56            S29GL128P90TAIR2 @TSOP56            S29GL128P90TAIV1 @TSOP56            
       S29GL128P90TAIV2 @TSOP56            S29GL128P90TFCR1 @TSOP56            S29GL128P90TFCR2 @TSOP56            S29GL128P90TFI01 @TSOP56            
       S29GL128P90TFI02 @TSOP56            S29GL128P90TFIR1 @TSOP56            S29GL128P90TFIR2 @TSOP56            S29GL128P90TFIV1 @TSOP56            
-      S29GL128P90TFIV2 @TSOP56            S29GL128S100DHI01 @BGA64            S29GL128S100DHI02 @BGA64            S29GL128S100DHIV1 @BGA64            
-      S29GL128S100DHIV2 @BGA64            S29GL128S100TFI01 @TSOP56           S29GL128S100TFI02 @TSOP56           S29GL128S100TFIV1 @TSOP56           
-      S29GL128S100TFIV2 @TSOP56           S29GL128S110DHIV1 @BGA64            S29GL128S110DHIV2 @BGA64            S29GL128S110TFI01 @TSOP56           
-      S29GL128S110TFI02 @TSOP56           S29GL128S110TFIV1 @TSOP56           S29GL128S110TFIV2 @TSOP56           S29GL128S90DHI01 @BGA64             
+      S29GL128P90TFIV2 @TSOP56            S29GL128S10DHI01 @BGA64             S29GL128S10DHI02 @BGA64             S29GL128S10DHIV1 @BGA64             
+      S29GL128S10DHIV2 @BGA64             S29GL128S10TFI01 @TSOP56            S29GL128S10TFI02 @TSOP56            S29GL128S10TFIV1 @TSOP56            
+      S29GL128S10TFIV2 @TSOP56            S29GL128S11DHIV1 @BGA64             S29GL128S11DHIV2 @BGA64             S29GL128S11TFI01 @TSOP56            
+      S29GL128S11TFI02 @TSOP56            S29GL128S11TFIV1 @TSOP56            S29GL128S11TFIV2 @TSOP56            S29GL128S90DHI01 @BGA64             
       S29GL128S90DHI02 @BGA64             S29GL128S90TFI01 @TSOP56            S29GL128S90TFI02 @TSOP56            S29GL128S90TFIV1 @TSOP56            
       S29GL128S90TFIV2 @TSOP56            S29GL256M10FAIR1 @BGA64             S29GL256M10FAIR2 @BGA64             S29GL256M10FFIR1 @BGA64             
       S29GL256M10FFIR2 @BGA64             S29GL256M10TAIR1 @TSOP56            S29GL256M10TAIR2 @TSOP56            S29GL256M10TFIR1 @TSOP56            
@@ -5593,10 +5634,10 @@
       S29GL256P90TAI02 @TSOP56            S29GL256P90TAIR1 @TSOP56            S29GL256P90TAIR2 @TSOP56            S29GL256P90TAIV1 @TSOP56            
       S29GL256P90TAIV2 @TSOP56            S29GL256P90TFCR1 @TSOP56            S29GL256P90TFCR2 @TSOP56            S29GL256P90TFI01 @TSOP56            
       S29GL256P90TFI02 @TSOP56            S29GL256P90TFIR1 @TSOP56            S29GL256P90TFIR2 @TSOP56            S29GL256P90TFIV1 @TSOP56            
-      S29GL256P90TFIV2 @TSOP56            S29GL256S100DHI01 @BGA64            S29GL256S100DHI02 @BGA64            S29GL256S100DHIV1 @BGA64            
-      S29GL256S100DHIV2 @BGA64            S29GL256S100TFI01 @TSOP56           S29GL256S100TFI02 @TSOP56           S29GL256S100TFIV1 @TSOP56           
-      S29GL256S100TFIV2 @TSOP56           S29GL256S110DHIV1 @BGA64            S29GL256S110DHIV2 @BGA64            S29GL256S110TFI01 @TSOP56           
-      S29GL256S110TFI02 @TSOP56           S29GL256S110TFIV1 @TSOP56           S29GL256S110TFIV2 @TSOP56           S29GL256S90DHI01 @BGA64             
+      S29GL256P90TFIV2 @TSOP56            S29GL256S10DHI01 @BGA64             S29GL256S10DHI02 @BGA64             S29GL256S10DHIV1 @BGA64             
+      S29GL256S10DHIV2 @BGA64             S29GL256S10TFI01 @TSOP56            S29GL256S10TFI02 @TSOP56            S29GL256S10TFIV1 @TSOP56            
+      S29GL256S10TFIV2 @TSOP56            S29GL256S11DHIV1 @BGA64             S29GL256S11DHIV2 @BGA64             S29GL256S11TFI01 @TSOP56            
+      S29GL256S11TFI02 @TSOP56            S29GL256S11TFIV1 @TSOP56            S29GL256S11TFIV2 @TSOP56            S29GL256S90DHI01 @BGA64             
       S29GL256S90DHI02 @BGA64             S29GL256S90TFI01 @TSOP56            S29GL256S90TFI02 @TSOP56            S29GL256S90TFIV1 @TSOP56            
       S29GL256S90TFIV2 @TSOP56            S29GL512N10FAI01 @BGA64             S29GL512N10FAI02 @BGA64             S29GL512N10FFI01 @BGA64             
       S29GL512N10FFI02 @BGA64             S29GL512N10TAI01 @TSOP56            S29GL512N10TAI02 @TSOP56            S29GL512N10TFI01 @TSOP56            
@@ -5613,42 +5654,42 @@
       S29GL512P11TAIV1 @TSOP56            S29GL512P11TAIV2 @TSOP56            S29GL512P11TFI01 @TSOP56            S29GL512P11TFI02 @TSOP56            
       S29GL512P11TFIV1 @TSOP56            S29GL512P11TFIV2 @TSOP56            S29GL512P12FAIV1 @BGA64             S29GL512P12FAIV2 @BGA64             
       S29GL512P12FFIV1 @BGA64             S29GL512P12FFIV2 @BGA64             S29GL512P12TAIV1 @TSOP56            S29GL512P12TAIV2 @TSOP56            
-      S29GL512P12TFIV1 @TSOP56            S29GL512P12TFIV2 @TSOP56            S29GL512S100DHI01 @BGA64            S29GL512S100DHI02 @BGA64            
-      S29GL512S100TFI01 @TSOP56           S29GL512S100TFI02 @TSOP56           S29GL512S100TFIV1 @TSOP56           S29GL512S100TFIV2 @TSOP56           
-      S29GL512S110DHI01 @BGA64            S29GL512S110DHI02 @BGA64            S29GL512S110DHIV1 @BGA64            S29GL512S110DHIV2 @BGA64            
-      S29GL512S110TFI01 @TSOP56           S29GL512S110TFI02 @TSOP56           S29GL512S110TFIV1 @TSOP56           S29GL512S110TFIV2 @TSOP56           
-      S29GL512S120DHIV1 @BGA64            S29GL512S120DHIV2 @BGA64            S29GL512S120TFI01 @TSOP56           S29GL512S120TFI02 @TSOP56           
-      S29GL512S120TFIV1 @TSOP56           S29GL512S120TFIV2 @TSOP56           S29JL032H55TAI01 @TSOP48            S29JL032H55TAI02 @TSOP48            
-      S29JL032H55TAI21 @TSOP48            S29JL032H55TAI22 @TSOP48            S29JL032H55TAI31 @TSOP48            S29JL032H55TAI32 @TSOP48            
-      S29JL032H55TAI41 @TSOP48            S29JL032H55TAI42 @TSOP48            S29JL032H55TFI01 @TSOP48            S29JL032H55TFI02 @TSOP48            
-      S29JL032H55TFI21 @TSOP48            S29JL032H55TFI22 @TSOP48            S29JL032H55TFI31 @TSOP48            S29JL032H55TFI32 @TSOP48            
-      S29JL032H55TFI41 @TSOP48            S29JL032H55TFI42 @TSOP48            S29JL032H60TAI01 @TSOP48            S29JL032H60TAI02 @TSOP48            
-      S29JL032H60TAI21 @TSOP48            S29JL032H60TAI22 @TSOP48            S29JL032H60TAI31 @TSOP48            S29JL032H60TAI32 @TSOP48            
-      S29JL032H60TAI41 @TSOP48            S29JL032H60TAI42 @TSOP48            S29JL032H60TFI01 @TSOP48            S29JL032H60TFI02 @TSOP48            
-      S29JL032H60TFI21 @TSOP48            S29JL032H60TFI22 @TSOP48            S29JL032H60TFI31 @TSOP48            S29JL032H60TFI32 @TSOP48            
-      S29JL032H60TFI41 @TSOP48            S29JL032H60TFI42 @TSOP48            S29JL032H70TAI01 @TSOP48            S29JL032H70TAI02 @TSOP48            
-      S29JL032H70TAI21 @TSOP48            S29JL032H70TAI22 @TSOP48            S29JL032H70TAI31 @TSOP48            S29JL032H70TAI32 @TSOP48            
-      S29JL032H70TAI41 @TSOP48            S29JL032H70TAI42 @TSOP48            S29JL032H70TFI01 @TSOP48            S29JL032H70TFI02 @TSOP48            
-      S29JL032H70TFI21 @TSOP48            S29JL032H70TFI22 @TSOP48            S29JL032H70TFI31 @TSOP48            S29JL032H70TFI32 @TSOP48            
-      S29JL032H70TFI41 @TSOP48            S29JL032H70TFI42 @TSOP48            S29JL032H90TAI01 @TSOP48            S29JL032H90TAI02 @TSOP48            
-      S29JL032H90TAI21 @TSOP48            S29JL032H90TAI22 @TSOP48            S29JL032H90TAI31 @TSOP48            S29JL032H90TAI32 @TSOP48            
-      S29JL032H90TAI41 @TSOP48            S29JL032H90TAI42 @TSOP48            S29JL032H90TFI01 @TSOP48            S29JL032H90TFI02 @TSOP48            
-      S29JL032H90TFI21 @TSOP48            S29JL032H90TFI22 @TSOP48            S29JL032H90TFI31 @TSOP48            S29JL032H90TFI32 @TSOP48            
-      S29JL032H90TFI41 @TSOP48            S29JL032H90TFI42 @TSOP48            S29JL032J60TFI01 @TSOP48            S29JL032J60TFI02 @TSOP48            
-      S29JL032J60TFI21 @TSOP48            S29JL032J60TFI22 @TSOP48            S29JL032J60TFI31 @TSOP48            S29JL032J60TFI32 @TSOP48            
-      S29JL032J60TFI41 @TSOP48            S29JL032J60TFI42 @TSOP48            S29JL032J70TFI01 @TSOP48            S29JL032J70TFI02 @TSOP48            
-      S29JL032J70TFI21 @TSOP48            S29JL032J70TFI22 @TSOP48            S29JL032J70TFI31 @TSOP48            S29JL032J70TFI32 @TSOP48            
-      S29JL032J70TFI41 @TSOP48            S29JL032J70TFI42 @TSOP48            S29JL064H55BAI03 @BGA48             S29JL064H55BFI04 @BGA48             
-      S29JL064H55TAI00 @TSOP48            S29JL064H55TFI00 @TSOP48            S29JL064H60BAI03 @BGA48             S29JL064H60BFI04 @BGA48             
-      S29JL064H60TAI00 @TSOP48            S29JL064H60TFI00 @TSOP48            S29JL064H70BAI03 @BGA48             S29JL064H70BFI04 @BGA48             
-      S29JL064H70TAI00 @TSOP48            S29JL064H70TFI00 @TSOP48            S29JL064H90BAI03 @BGA48             S29JL064H90BFI04 @BGA48             
-      S29JL064H90TAI00 @TSOP48            S29JL064H90TFI00 @TSOP48            S29JL064J55TFI00 @TSOP48            S29JL064J60TFI00 @TSOP48            
-      S29JL064J70TFI00 @TSOP48            S29PL032J55BAI12 @BGA48             S29PL032J55BAW12 @BGA48             S29PL032J60BAI12 @BGA48             
-      S29PL032J60BAW12 @BGA48             S29PL032J70BAI12 @BGA48             S29PL032J70BAW12 @BGA48             S29PL064J55BAI12 @BGA48             
-      S29PL064J55BAW12 @BGA48             S29PL064J60BAI12 @BGA48             S29PL064J60BAW12 @BGA48             S29PL064J70BAI12 @BGA48             
-      S29PL064J70BAW12 @BGA48             
+      S29GL512P12TFIV1 @TSOP56            S29GL512P12TFIV2 @TSOP56            S29GL512S10DHA01 @BGA64             S29GL512S10DHA02 @BGA64             
+      S29GL512S10DHI01 @BGA64             S29GL512S10DHI02 @BGA64             S29GL512S10TFI01 @TSOP56            S29GL512S10TFI02 @TSOP56            
+      S29GL512S10TFIV1 @TSOP56            S29GL512S10TFIV2 @TSOP56            S29GL512S11DHI01 @BGA64             S29GL512S11DHI02 @BGA64             
+      S29GL512S11DHIV1 @BGA64             S29GL512S11DHIV2 @BGA64             S29GL512S11TFI01 @TSOP56            S29GL512S11TFI02 @TSOP56            
+      S29GL512S11TFIV1 @TSOP56            S29GL512S11TFIV2 @TSOP56            S29GL512S12DHIV1 @BGA64             S29GL512S12DHIV2 @BGA64             
+      S29GL512S12TFI01 @TSOP56            S29GL512S12TFI02 @TSOP56            S29GL512S12TFIV1 @TSOP56            S29GL512S12TFIV2 @TSOP56            
+      S29JL032H55TAI01 @TSOP48            S29JL032H55TAI02 @TSOP48            S29JL032H55TAI21 @TSOP48            S29JL032H55TAI22 @TSOP48            
+      S29JL032H55TAI31 @TSOP48            S29JL032H55TAI32 @TSOP48            S29JL032H55TAI41 @TSOP48            S29JL032H55TAI42 @TSOP48            
+      S29JL032H55TFI01 @TSOP48            S29JL032H55TFI02 @TSOP48            S29JL032H55TFI21 @TSOP48            S29JL032H55TFI22 @TSOP48            
+      S29JL032H55TFI31 @TSOP48            S29JL032H55TFI32 @TSOP48            S29JL032H55TFI41 @TSOP48            S29JL032H55TFI42 @TSOP48            
+      S29JL032H60TAI01 @TSOP48            S29JL032H60TAI02 @TSOP48            S29JL032H60TAI21 @TSOP48            S29JL032H60TAI22 @TSOP48            
+      S29JL032H60TAI31 @TSOP48            S29JL032H60TAI32 @TSOP48            S29JL032H60TAI41 @TSOP48            S29JL032H60TAI42 @TSOP48            
+      S29JL032H60TFI01 @TSOP48            S29JL032H60TFI02 @TSOP48            S29JL032H60TFI21 @TSOP48            S29JL032H60TFI22 @TSOP48            
+      S29JL032H60TFI31 @TSOP48            S29JL032H60TFI32 @TSOP48            S29JL032H60TFI41 @TSOP48            S29JL032H60TFI42 @TSOP48            
+      S29JL032H70TAI01 @TSOP48            S29JL032H70TAI02 @TSOP48            S29JL032H70TAI21 @TSOP48            S29JL032H70TAI22 @TSOP48            
+      S29JL032H70TAI31 @TSOP48            S29JL032H70TAI32 @TSOP48            S29JL032H70TAI41 @TSOP48            S29JL032H70TAI42 @TSOP48            
+      S29JL032H70TFI01 @TSOP48            S29JL032H70TFI02 @TSOP48            S29JL032H70TFI21 @TSOP48            S29JL032H70TFI22 @TSOP48            
+      S29JL032H70TFI31 @TSOP48            S29JL032H70TFI32 @TSOP48            S29JL032H70TFI41 @TSOP48            S29JL032H70TFI42 @TSOP48            
+      S29JL032H90TAI01 @TSOP48            S29JL032H90TAI02 @TSOP48            S29JL032H90TAI21 @TSOP48            S29JL032H90TAI22 @TSOP48            
+      S29JL032H90TAI31 @TSOP48            S29JL032H90TAI32 @TSOP48            S29JL032H90TAI41 @TSOP48            S29JL032H90TAI42 @TSOP48            
+      S29JL032H90TFI01 @TSOP48            S29JL032H90TFI02 @TSOP48            S29JL032H90TFI21 @TSOP48            S29JL032H90TFI22 @TSOP48            
+      S29JL032H90TFI31 @TSOP48            S29JL032H90TFI32 @TSOP48            S29JL032H90TFI41 @TSOP48            S29JL032H90TFI42 @TSOP48            
+      S29JL032J60TFI01 @TSOP48            S29JL032J60TFI02 @TSOP48            S29JL032J60TFI21 @TSOP48            S29JL032J60TFI22 @TSOP48            
+      S29JL032J60TFI31 @TSOP48            S29JL032J60TFI32 @TSOP48            S29JL032J60TFI41 @TSOP48            S29JL032J60TFI42 @TSOP48            
+      S29JL032J70TFI01 @TSOP48            S29JL032J70TFI02 @TSOP48            S29JL032J70TFI21 @TSOP48            S29JL032J70TFI22 @TSOP48            
+      S29JL032J70TFI31 @TSOP48            S29JL032J70TFI32 @TSOP48            S29JL032J70TFI41 @TSOP48            S29JL032J70TFI42 @TSOP48            
+      S29JL064H55BAI03 @BGA48             S29JL064H55BFI04 @BGA48             S29JL064H55TAI00 @TSOP48            S29JL064H55TFI00 @TSOP48            
+      S29JL064H60BAI03 @BGA48             S29JL064H60BFI04 @BGA48             S29JL064H60TAI00 @TSOP48            S29JL064H60TFI00 @TSOP48            
+      S29JL064H70BAI03 @BGA48             S29JL064H70BFI04 @BGA48             S29JL064H70TAI00 @TSOP48            S29JL064H70TFI00 @TSOP48            
+      S29JL064H90BAI03 @BGA48             S29JL064H90BFI04 @BGA48             S29JL064H90TAI00 @TSOP48            S29JL064H90TFI00 @TSOP48            
+      S29JL064J55TFI00 @TSOP48            S29JL064J60TFI00 @TSOP48            S29JL064J70TFI00 @TSOP48            S29PL032J55BAI12 @BGA48             
+      S29PL032J55BAW12 @BGA48             S29PL032J60BAI12 @BGA48             S29PL032J60BAW12 @BGA48             S29PL032J70BAI12 @BGA48             
+      S29PL032J70BAW12 @BGA48             S29PL064J55BAI12 @BGA48             S29PL064J55BAW12 @BGA48             S29PL064J60BAI12 @BGA48             
+      S29PL064J60BAW12 @BGA48             S29PL064J70BAI12 @BGA48             S29PL064J70BAW12 @BGA48             
 
-         IC Support: 1985 PCS
+         IC Support: 1987 PCS
 
  [ SPANSION(2) ]     
 
@@ -6329,6 +6370,7 @@
       W25Q16 @SOIC16                      W25Q16(OTP) @MLP8                   W25Q16(OTP) @SOIC8                  W25Q16(OTP) @SOIC16                 
       W25Q16BV                            W25Q16BV @WSON8                     W25Q16BV @SOIC8                     W25Q16BV @SOIC16                    
       W25Q16BV(OTP)                       W25Q16BV(OTP) @WSON8                W25Q16BV(OTP) @SOIC8                W25Q16BV(OTP) @SOIC16               
+      W25Q16BW(OTP)                       W25Q16BW(OTP) @WSON8                W25Q16BW(OTP) @SOIC8                W25Q16BW(OTP) @SOIC16               
       W25Q16CL                            W25Q16CL @WSON8                     W25Q16CL @SOIC8                     W25Q16CL @SOIC16                    
       W25Q16CL(OTP)                       W25Q16CL(OTP) @WSON8                W25Q16CL(OTP) @SOIC8                W25Q16CL(OTP) @SOIC16               
       W25Q16CV                            W25Q16CV @WSON8                     W25Q16CV @SOIC8                     W25Q16CV @SOIC16                    
@@ -6344,6 +6386,8 @@
       W25Q32 @MLP8                        W25Q32 @SOIC16                      W25Q32(OTP) @MLP8                   W25Q32(OTP) @SOIC16                 
       W25Q32BV                            W25Q32BV @WSON8                     W25Q32BV @SOIC8                     W25Q32BV @SOIC16                    
       W25Q32BV(OTP)                       W25Q32BV(OTP) @WSON8                W25Q32BV(OTP) @SOIC8                W25Q32BV(OTP) @SOIC16               
+      W25Q32BW 1.8V                       W25Q32BW 1.8V @WSON8                W25Q32BW 1.8V @SOIC8                W25Q32BW 1.8V @SOIC16               
+      W25Q32BW 1.8V(OTP)                  W25Q32BW 1.8V(OTP)@WSON8            W25Q32BW 1.8V(OTP)@SOIC8            W25Q32BW 1.8V(OTP)@SOIC16           
       W25Q32DW 1.8V                       W25Q32DW 1.8V @WSON8                W25Q32DW 1.8V @SOIC8                W25Q32DW 1.8V @SOIC16               
       W25Q32DW 1.8V(OTP)                  W25Q32DW 1.8V(OTP)@WSON8            W25Q32DW 1.8V(OTP)@SOIC8            W25Q32DW 1.8V(OTP)@SOIC16           
       W25Q32FV                            W25Q32FV @WSON8                     W25Q32FV @SOIC8                     W25Q32FV @SOIC16                    
@@ -6453,7 +6497,7 @@
       W49V002 @PLCC32                     W49V002 @TSOP32                     W49V002A @PLCC32                    W49V002A @TSOP32                    
       W49V002F @PLCC32                    W49V002F @TSOP32                    W49V002FA @PLCC32                   W49V002FA @TSOP32                   
 
-         IC Support: 628 PCS
+         IC Support: 640 PCS
 
  [ WINGSHING ]     
 
@@ -6580,5 +6624,5 @@
       PSU2GA30BT @TSOP48                  PSU4GA30BT @TSOP48                  
 
          IC Support: 14 PCS
- 
-   Total: 22966 PCS
+
+   Total: 23141 PCS
