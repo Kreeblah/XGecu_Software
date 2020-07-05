@@ -1,7 +1,7 @@
-  TL866II Plus Universal Programmer Device Support List:
+ XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V10.19  Date : 6.28th.2020
-           Supported Devices:   16242 pcs 
+            Software Version:   V10.21  Date : 6.30th.2020
+           Supported Devices:   16258pcs 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
@@ -85,17 +85,22 @@
 
  [ ADESTO ]     
 
-      AT45DB011D[Page264] @SOIC8          AT45DB011D[Page256] @SOIC8          AT45DB011D[Page264] @UDFN8          AT45DB011D[Page256] @UDFN8          
-      AT45DB021D[Page264] @SOIC8          AT45DB021D[Page256] @SOIC8          AT45DB021D[Page264] @UDFN8          AT45DB021D[Page256] @UDFN8          
-      AT45DB021E[Page264] @SOIC8          AT45DB021E[Page256] @SOIC8          AT45DB021E[Page264] @UDFN8          AT45DB021E[Page256] @UDFN8          
-      AT45DB041D[Page264] @SOIC8          AT45DB041D[Page256] @SOIC8          AT45DB041E[Page264] @SOIC8          AT45DB041E[Page256] @SOIC8          
-      AT45DB041E[Page264] @UDFN8          AT45DB041E[Page256] @UDFN8          AT45DB081D[Page264] @SOIC8          AT45DB081D[Page256] @SOIC8          
-      AT45DB081E[Page264] @SOIC8          AT45DB081E[Page256] @SOIC8          AT45DB081E[Page264] @UDFN8          AT45DB081E[Page256] @UDFN8          
-      AT45DB161D[Page528] @SOIC8          AT45DB161D[Page512] @SOIC8          AT45DB161E[Page528] @SOIC8          AT45DB161E[Page512] @SOIC8          
-      AT45DB161E[Page528] @UDFN8          AT45DB161E[Page512] @UDFN8          AT45DB321D[Page528] @SOIC8          AT45DB321D[Page512] @SOIC8          
-      AT45DB321E[Page528] @SOIC8          AT45DB321E[Page512] @SOIC8          AT45DB321E[Page528] @UDFN8          AT45DB321E[Page512] @UDFN8          
+      AT25SF041 @UDFN8                    AT25SF041 @TSSOP8                   AT25SF041(OTP) @UDFN8               AT25SF041(OTP) @TSSOP8              
+      AT25SF081 @UDFN8                    AT25SF081 @TSSOP8                   AT25SF081(OTP) @UDFN8               AT25SF081(OTP) @TSSOP8              
+      AT25SF161 @UDFN8                    AT25SF161 @TSSOP8                   AT25SF161(OTP) @UDFN8               AT25SF161(OTP) @TSSOP8              
+      AT25SF321 @UDFN8                    AT25SF321 @TSSOP8                   AT25SF321(OTP) @UDFN8               AT25SF321(OTP) @TSSOP8              
+      AT25SF641 @UDFN8                    AT25SF641 @TSSOP8                   AT45DB011D[Page264] @SOIC8          AT45DB011D[Page256] @SOIC8          
+      AT45DB011D[Page264] @UDFN8          AT45DB011D[Page256] @UDFN8          AT45DB021D[Page264] @SOIC8          AT45DB021D[Page256] @SOIC8          
+      AT45DB021D[Page264] @UDFN8          AT45DB021D[Page256] @UDFN8          AT45DB021E[Page264] @SOIC8          AT45DB021E[Page256] @SOIC8          
+      AT45DB021E[Page264] @UDFN8          AT45DB021E[Page256] @UDFN8          AT45DB041D[Page264] @SOIC8          AT45DB041D[Page256] @SOIC8          
+      AT45DB041E[Page264] @SOIC8          AT45DB041E[Page256] @SOIC8          AT45DB041E[Page264] @UDFN8          AT45DB041E[Page256] @UDFN8          
+      AT45DB081D[Page264] @SOIC8          AT45DB081D[Page256] @SOIC8          AT45DB081E[Page264] @SOIC8          AT45DB081E[Page256] @SOIC8          
+      AT45DB081E[Page264] @UDFN8          AT45DB081E[Page256] @UDFN8          AT45DB161D[Page528] @SOIC8          AT45DB161D[Page512] @SOIC8          
+      AT45DB161E[Page528] @SOIC8          AT45DB161E[Page512] @SOIC8          AT45DB161E[Page528] @UDFN8          AT45DB161E[Page512] @UDFN8          
+      AT45DB321D[Page528] @SOIC8          AT45DB321D[Page512] @SOIC8          AT45DB321E[Page528] @SOIC8          AT45DB321E[Page512] @SOIC8          
+      AT45DB321E[Page528] @UDFN8          AT45DB321E[Page512] @UDFN8          
 
-         IC Support: 36 PCS
+         IC Support: 54 PCS
 
  [ ADVANCE GROUP ]     
 
@@ -484,8 +489,7 @@
       AT25F4096  @SOIC8                   AT25F4096  @VQFPN8                  AT25F4096A                          AT25F4096A @SOIC8                   
       AT25F4096A @VQFPN8                  AT25HP256                           AT25HP256  @SOIC8                   AT25HP256-1.8                       
       AT25HP256-1.8  @SOIC8               AT25HP512                           AT25HP512  @SOIC8                   AT25HP512-1.8                       
-      AT25HP512-1.8  @SOIC8               AT25SF081 @UDFN8                    AT25SF081 @TSSOP8                   AT25SF081(OTP) @UDFN8               
-      AT25SF081(OTP) @TSSOP8              AT26DF081   @SOIC8                  AT26DF081   @UDFN8                  AT26DF081A  @SOIC8                  
+      AT25HP512-1.8  @SOIC8               AT26DF081   @SOIC8                  AT26DF081   @UDFN8                  AT26DF081A  @SOIC8                  
       AT26DF081A  @UDFN8                  AT26DF161   @SOIC8                  AT26DF161   @UDFN8                  AT26DF161A  @SOIC8                  
       AT26DF161A  @UDFN8                  AT26DF321                           AT26DF321   @SOIC8                  AT26DF321   @SOIC16                 
       AT26DF321A                          AT26DF321A  @SOIC8                  AT26DF321A  @SOIC16                 AT26F004                            
@@ -744,7 +748,7 @@
       ATTINY2313                          ATTINY2313 @SOIC20                  ATTINY2313V                         ATTINY2313V @SOIC20                 
       ATTINY2313A                         ATTINY2313A @SOIC20                 ATTINY4313                          ATTINY4313 @SOIC20                  
 
-         IC Support: 1320 PCS
+         IC Support: 1316 PCS
 
  [ BELLING ]     
 
@@ -1477,9 +1481,10 @@
       FM25M64C(1.8V)                      FM25M64C(1.8V) @SOP8                FM25M64C(1.8V) @WSON8               FM25M64C(1.8V) @SOP16               
       FM25M4AA(1.8V)                      FM25M4AA(1.8V) @SOP8                FM25M4AA(1.8V) @WSON8               FM25M4AA(1.8V) @SOP16               
       FM25M4SA(1.8V) @SOIC8               FM25M4SA(1.8V) @SOIC16              FMND1G08U3A @TSOP48                 FMND1G08U3B @TSOP48                 
-      FMND1G08U3D @TSOP48                 FMND1G08U3J @TSOP48                 FMND2G08U3B @TSOP48                 FMND2G08U3J @TSOP48                 
+      FMND1G08U3D @TSOP48                 FMND1G08U3J @TSOP48                 FMND2G08U3A @TSOP48                 FMND2G08U3B @TSOP48                 
+      FMND2G08U3D @TSOP48                 FMND2G08U3J @TSOP48                 
 
-         IC Support: 64 PCS
+         IC Support: 66 PCS
 
  [ FIRST-RANK ]     
 
@@ -4901,4 +4906,4 @@
          IC Support: 168 PCS
 
 
-   Total: 16242 PCS
+   Total: 16258 PCS

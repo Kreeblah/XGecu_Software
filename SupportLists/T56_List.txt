@@ -1,12 +1,13 @@
- XGecu T56 Universal Programmer Device Support List:
+XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V10.19  Date : 6.28th.2020
-           Supported Devices:   23826 pcs 
+            Software Version:   V10.21  Date : 6.30th.2020
+           Supported Devices:   23886 pcs 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
-===================================================================
+=================================================================== 
+
 [ AUTO ]     
 
       AUTO EMMC(ISP)_1B_1.8V(recommend)   AUTO EMMC(ISP)_1B_3.3V              AUTO EMMC(ISP)_4B_1.8V              AUTO EMMC(ISP)_4B_3.3V              
@@ -98,22 +99,27 @@
 
  [ ADESTO ]     
 
-      AT45DB011D[Page264] @SOIC8          AT45DB011D[Page256] @SOIC8          AT45DB011D[Page264] @UDFN8          AT45DB011D[Page256] @UDFN8          
-      AT45DB021D[Page264] @SOIC8          AT45DB021D[Page256] @SOIC8          AT45DB021D[Page264] @UDFN8          AT45DB021D[Page256] @UDFN8          
-      AT45DB021E[Page264] @SOIC8          AT45DB021E[Page256] @SOIC8          AT45DB021E[Page264] @UDFN8          AT45DB021E[Page256] @UDFN8          
-      AT45DB041D[Page264] @SOIC8          AT45DB041D[Page256] @SOIC8          AT45DB041D[Page264] @MLF8           AT45DB041D[Page256] @MLF8           
-      AT45DB041E[Page264] @SOIC8          AT45DB041E[Page256] @SOIC8          AT45DB041E[Page264] @UDFN8          AT45DB041E[Page256] @UDFN8          
-      AT45DB081D[Page264] @SOIC8          AT45DB081D[Page256] @SOIC8          AT45DB081D[Page264] @MLF8           AT45DB081D[Page256] @MLF8           
-      AT45DB081E[Page264] @SOIC8          AT45DB081E[Page256] @SOIC8          AT45DB081E[Page264] @UDFN8          AT45DB081E[Page256] @UDFN8          
-      AT45DB161D[Page528] @SOIC8          AT45DB161D[Page512] @SOIC8          AT45DB161D[Page528] @MLF8           AT45DB161D[Page512] @MLF8           
-      AT45DB161D[Page528] @TSOP28         AT45DB161D[Page512] @TSOP28         AT45DB161E[Page528] @SOIC8          AT45DB161E[Page512] @SOIC8          
-      AT45DB161E[Page528] @UDFN8          AT45DB161E[Page512] @UDFN8          AT45DB321D[Page528] @SOIC8          AT45DB321D[Page512] @SOIC8          
-      AT45DB321D[Page528] @MLF8           AT45DB321D[Page512] @MLF8           AT45DB321D[Page528] @TSOP28         AT45DB321D[Page512] @TSOP28         
-      AT45DB321E[Page528] @SOIC8          AT45DB321E[Page512] @SOIC8          AT45DB321E[Page528] @UDFN8          AT45DB321E[Page512] @UDFN8          
-      AT45DB641E[Page264] @SOIC8          AT45DB641E[Page256] @SOIC8          AT45DB641E[Page264] @UDFN8          AT45DB641E[Page256] @UDFN8          
-      AT45DB642D[Page1056] @SOIC8         AT45DB642D[Page1024] @SOIC8         AT45DB642D[Page1056] @TSOP28        AT45DB642D[Page1024] @TSOP28        
+      AT25SF041 @UDFN8                    AT25SF041 @TSSOP8                   AT25SF041(OTP) @UDFN8               AT25SF041(OTP) @TSSOP8              
+      AT25SF081 @UDFN8                    AT25SF081 @TSSOP8                   AT25SF081(OTP) @UDFN8               AT25SF081(OTP) @TSSOP8              
+      AT25SF161 @UDFN8                    AT25SF161 @TSSOP8                   AT25SF161(OTP) @UDFN8               AT25SF161(OTP) @TSSOP8              
+      AT25SF321 @UDFN8                    AT25SF321 @TSSOP8                   AT25SF321(OTP) @UDFN8               AT25SF321(OTP) @TSSOP8              
+      AT25SF641 @UDFN8                    AT25SF641 @TSSOP8                   AT45DB011D[Page264] @SOIC8          AT45DB011D[Page256] @SOIC8          
+      AT45DB011D[Page264] @UDFN8          AT45DB011D[Page256] @UDFN8          AT45DB021D[Page264] @SOIC8          AT45DB021D[Page256] @SOIC8          
+      AT45DB021D[Page264] @UDFN8          AT45DB021D[Page256] @UDFN8          AT45DB021E[Page264] @SOIC8          AT45DB021E[Page256] @SOIC8          
+      AT45DB021E[Page264] @UDFN8          AT45DB021E[Page256] @UDFN8          AT45DB041D[Page264] @SOIC8          AT45DB041D[Page256] @SOIC8          
+      AT45DB041D[Page264] @MLF8           AT45DB041D[Page256] @MLF8           AT45DB041E[Page264] @SOIC8          AT45DB041E[Page256] @SOIC8          
+      AT45DB041E[Page264] @UDFN8          AT45DB041E[Page256] @UDFN8          AT45DB081D[Page264] @SOIC8          AT45DB081D[Page256] @SOIC8          
+      AT45DB081D[Page264] @MLF8           AT45DB081D[Page256] @MLF8           AT45DB081E[Page264] @SOIC8          AT45DB081E[Page256] @SOIC8          
+      AT45DB081E[Page264] @UDFN8          AT45DB081E[Page256] @UDFN8          AT45DB161D[Page528] @SOIC8          AT45DB161D[Page512] @SOIC8          
+      AT45DB161D[Page528] @MLF8           AT45DB161D[Page512] @MLF8           AT45DB161D[Page528] @TSOP28         AT45DB161D[Page512] @TSOP28         
+      AT45DB161E[Page528] @SOIC8          AT45DB161E[Page512] @SOIC8          AT45DB161E[Page528] @UDFN8          AT45DB161E[Page512] @UDFN8          
+      AT45DB321D[Page528] @SOIC8          AT45DB321D[Page512] @SOIC8          AT45DB321D[Page528] @MLF8           AT45DB321D[Page512] @MLF8           
+      AT45DB321D[Page528] @TSOP28         AT45DB321D[Page512] @TSOP28         AT45DB321E[Page528] @SOIC8          AT45DB321E[Page512] @SOIC8          
+      AT45DB321E[Page528] @UDFN8          AT45DB321E[Page512] @UDFN8          AT45DB641E[Page264] @SOIC8          AT45DB641E[Page256] @SOIC8          
+      AT45DB641E[Page264] @UDFN8          AT45DB641E[Page256] @UDFN8          AT45DB642D[Page1056] @SOIC8         AT45DB642D[Page1024] @SOIC8         
+      AT45DB642D[Page1056] @TSOP28        AT45DB642D[Page1024] @TSOP28        
 
-         IC Support: 56 PCS
+         IC Support: 74 PCS
 
  [ ADVANCE GROUP ]     
 
@@ -558,8 +564,7 @@
       AT25F4096  @SOIC8                   AT25F4096  @VQFPN8                  AT25F4096A                          AT25F4096A @SOIC8                   
       AT25F4096A @VQFPN8                  AT25HP256                           AT25HP256  @SOIC8                   AT25HP256-1.8                       
       AT25HP256-1.8  @SOIC8               AT25HP512                           AT25HP512  @SOIC8                   AT25HP512-1.8                       
-      AT25HP512-1.8  @SOIC8               AT25SF081 @UDFN8                    AT25SF081 @TSSOP8                   AT25SF081(OTP) @UDFN8               
-      AT25SF081(OTP) @TSSOP8              AT26DF081   @SOIC8                  AT26DF081   @UDFN8                  AT26DF081A  @SOIC8                  
+      AT25HP512-1.8  @SOIC8               AT26DF081   @SOIC8                  AT26DF081   @UDFN8                  AT26DF081A  @SOIC8                  
       AT26DF081A  @UDFN8                  AT26DF161   @SOIC8                  AT26DF161   @UDFN8                  AT26DF161A  @SOIC8                  
       AT26DF161A  @UDFN8                  AT26DF321                           AT26DF321   @SOIC8                  AT26DF321   @SOIC16                 
       AT26DF321A                          AT26DF321A  @SOIC8                  AT26DF321A  @SOIC16                 AT26F004                            
@@ -787,7 +792,7 @@
       ATF22V10CQZ(UES) @TSSOP24           ATF22V10CZ                          ATF22V10CZ @SOIC24                  ATF22V10CZ @TSSOP24                 
       ATF22V10CZ(UES)                     ATF22V10CZ(UES) @SOIC24             ATF22V10CZ(UES) @TSSOP24            
 
-         IC Support: 1195 PCS
+         IC Support: 1191 PCS
 
  [ BELLING ]     
 
@@ -1465,6 +1470,9 @@
       F49L004B @PLCC32                    F49L004B @TSOP40                    F49L040A @PLCC32                    F49L040A @TSOP32                    
       F49L400UA @TSOP48                   F49L400BA @TSOP48                   F49L800UA @TSOP48                   F49L800BA @TSOP48                   
       F49L160UA @TSOP48                   F49L160BA @TSOP48                   F49L320UA @TSOP48                   F49L320BA @TSOP48                   
+      F50L512M41A(x4)  @WSON8             F50L512M41A(x4)  @SOP16             F50L512M41A(x1+ISP) @WSON8          F50L512M41A(x1+ISP) @SOP16          
+      F50L1G41A(x4)  @WSON8               F50L1G41A(x4)  @SOP16               F50L1G41A(x1+ISP) @WSON8            F50L1G41A(x1+ISP) @SOP16            
+      F50L2G41LB(x4)  @WSON8              F50L2G41LB(x4)  @SOP16              F50L2G41LB(x1+ISP) @WSON8           F50L2G41LB(x1+ISP) @SOP16           
       F59D1G161A @TSOP48                  F59D1G161A @BGA63                   F59D1G81A @TSOP48                   F59D1G81A @BGA63                    
       F59D2G81A @TSOP48                   F59D2G81A @FBGA63                   F59D2G161A @TSOP48                  F59D2G161A @FBGA63                  
       F59D4G81A @TSOP48                   F59D4G81A @FBGA63                   F59D4G161A @TSOP48                  F59D4G161A @FBGA63                  
@@ -1472,7 +1480,7 @@
       F59L2G81A @TSOP48                   F59L2G81A @BGA63                    F59L4G81A @TSOP48                   F59L4G81A @BGA63                    
       F59L512M81A @TSOP48                 
 
-         IC Support: 61 PCS
+         IC Support: 73 PCS
 
  [ ESTEK ]     
 
@@ -1633,9 +1641,10 @@
       FM25M4AA(1.8V)                      FM25M4AA(1.8V) @SOP8                FM25M4AA(1.8V) @WSON8               FM25M4AA(1.8V) @SOP16               
       FM25M4SA(1.8V) @SOIC8               FM25M4SA(1.8V) @SOIC16              FMND1G08U3A @TSOP48                 FMND1G08U3B @BGA63                  
       FMND1G08U3B @TSOP48                 FMND1G08U3D @BGA63                  FMND1G08U3D @TSOP48                 FMND1G08U3J @TSOP48                 
-      FMND2G08U3B @BGA63                  FMND2G08U3B @TSOP48                 FMND2G08U3J @TSOP48                 
+      FMND2G08U3A @BGA63                  FMND2G08U3A @TSOP48                 FMND2G08U3B @BGA63                  FMND2G08U3B @TSOP48                 
+      FMND2G08U3D @BGA63                  FMND2G08U3D @TSOP48                 FMND2G08U3J @TSOP48                 
 
-         IC Support: 67 PCS
+         IC Support: 71 PCS
 
  [ FIRST-RANK ]     
 
@@ -2258,6 +2267,10 @@
       HY27UT088G2M @TSOP48                HY27UU088G5M @TSOP48                HY27UU08AG5A @TSOP48                HY27UU08AG5M @TSOP48                
       HY27UV08AG5M @TSOP48                HY27UV08BG5A @TSOP48                HY27UV08BG5M @TSOP48                HY27UV08BGFA @TSOP48                
       HY27UV08BGFM @TSOP48                HY27UW08BGFM @TSOP48                HY27UW08CGFA @TSOP48                HY27UW08CGFM @TSOP48                
+      HYF1GQ4UAACAE(x4)  @WSON8           HYF1GQ4UAACAE(x4)  @SOP16           HYF1GQ4UAACAE(x1+ISP) @WSON8        HYF1GQ4UAACAE(x1+ISP) @SOP16        
+      HYF2GQ4UAACAE(x4)  @WSON8           HYF2GQ4UAACAE(x4)  @SOP16           HYF2GQ4UAACAE(x1+ISP) @WSON8        HYF2GQ4UAACAE(x1+ISP) @SOP16        
+      HYF1GQ4IAACAE(x4)  @WSON8           HYF1GQ4IAACAE(x4)  @SOP16           HYF1GQ4IAACAE(x1+ISP) @WSON8        HYF1GQ4IAACAE(x1+ISP) @SOP16        
+      HYF2GQ4IAACAE(x4)  @WSON8           HYF2GQ4IAACAE(x4)  @SOP16           HYF2GQ4IAACAE(x1+ISP) @WSON8        HYF2GQ4IAACAE(x1+ISP) @SOP16        
       HY29DL162B @TSOP48                  HY29DL162T @TSOP48                  HY29DL163B @TSOP48                  HY29DL163T @TSOP48                  
       HY29DL162BF @BGA48                  HY29DL162TF @BGA48                  HY29DL163BF @BGA48                  HY29DL163TF @BGA48                  
       HY29F002T                           HY29F002T @PLCC32                   HY29F002T @TSOP32                   HY29F040                            
@@ -2278,7 +2291,7 @@
       HY93C66 @SOIC8                      HY93C66 @TSOP8                      HY93C76                             HY93C76 @SOIC8                      
       HY93C76 @TSOP8                      HY93C86                             HY93C86 @SOIC8                      HY93C86 @TSOP8                      
 
-         IC Support: 428 PCS
+         IC Support: 444 PCS
 
  [ HYUNDAI ]     
 
@@ -6332,13 +6345,10 @@
  [ TOSHIBA ]     
 
       TC54256AF @DIP28                    TC54256AF @SOIC28                   TC54256AP @DIP28                    TC54256AP @SOIC28                   
-      TC57256D @DIP28                     TC57512AD @DIP28                    TC57512AD @PLCC32                   TC58CVG0S3H(x4)  @WSON8             
-      TC58CVG0S3H(x4)  @SOP16             TC58CVG0S3H(x1+ISP) @WSON8          TC58CVG0S3H(x1+ISP) @SOP16          TC58CVG1S3H(x4)  @WSON8             
-      TC58CVG1S3H(x4)  @SOP16             TC58CVG1S3H(x1+ISP) @WSON8          TC58CVG1S3H(x1+ISP) @SOP16          TC58CVG2S0H(x4)  @WSON8             
-      TC58CVG2S0H(x4)  @SOP16             TC58CVG2S0H(x1+ISP) @WSON8          TC58CVG2S0H(x1+ISP) @SOP16          TC58CYG0S3H(x4)  @WSON8             
-      TC58CYG0S3H(x4)  @SOP16             TC58CYG0S3H(x1+ISP) @WSON8          TC58CYG0S3H(x1+ISP) @SOP16          TC58CYG1S3H(x4)  @WSON8             
-      TC58CYG1S3H(x4)  @SOP16             TC58CYG1S3H(x1+ISP) @WSON8          TC58CYG1S3H(x1+ISP) @SOP16          TC58CYG2S0H(x4)  @WSON8             
-      TC58CYG2S0H(x4)  @SOP16             TC58CYG2S0H(x1+ISP) @WSON8          TC58CYG2S0H(x1+ISP) @SOP16          TC58DVM92A1FTI0 @TSOP48             
+      TC57256D @DIP28                     TC57512AD @DIP28                    TC57512AD @PLCC32                   TC58CVG0S3H(x1+ISP) @WSON8          
+      TC58CVG0S3H(x1+ISP) @SOP16          TC58CVG1S3H(x1+ISP) @WSON8          TC58CVG1S3H(x1+ISP) @SOP16          TC58CVG2S0H(x1+ISP) @WSON8          
+      TC58CVG2S0H(x1+ISP) @SOP16          TC58CYG0S3H(x1+ISP) @WSON8          TC58CYG0S3H(x1+ISP) @SOP16          TC58CYG1S3H(x1+ISP) @WSON8          
+      TC58CYG1S3H(x1+ISP) @SOP16          TC58CYG2S0H(x1+ISP) @WSON8          TC58CYG2S0H(x1+ISP) @SOP16          TC58DVM92A1FTI0 @TSOP48             
       TC58DVM92A5TA10 @TSOP48             TC58DVM92A5TA00 @TSOP48             TC58NVM9S3ETA00 @TSOP48             TC58NVM9S3ETAI0 @TSOP48             
       TC58NVM9S3EBAI4 @BGA63              TC58NYM9S3EBAI4 @BGA63              TC58DVG02D5TA00 @TSOP48             TC58DVG02D5TAI0 @TSOP48             
       TC58DVG02D5BAI4 @BGA63              TC58DYG02D5BAI4 @BGA63              TC58NVG0S3HTA00 @TSOP48             TC58NVG0S3HTAI0 @TSOP48             
@@ -6446,7 +6456,7 @@
       THGBMGTOU8LBAIG_1Bit @BGA153        THGBMGTOU8LBAIG(ISP)_4Bit           THGBMGTOU8LBAIG(ISP)_1Bit           THGBMAG8B4JBAIM_8Bit @BGA169        
       THGBMAG8B4JBAIM_4Bit @BGA169        THGBMAG8B4JBAIM_1Bit @BGA169        THGBMAG8B4JBAIM(ISP)_4Bit           THGBMAG8B4JBAIM(ISP)_1Bit           
 
-         IC Support: 456 PCS
+         IC Support: 444 PCS
 
  [ TURBO IC ]     
 
@@ -6501,6 +6511,9 @@
       W25P16 @SOIC16                      W25P20 @MLP8                        W25P20 @SOIC8                       W25P32 @MLP8                        
       W25P32 @SOIC8                       W25P32 @SOIC16                      W25P40 @MLP8                        W25P40 @SOIC8                       
       W25P64 @MLP8                        W25P64 @SOIC16                      W25P80 @MLP8                        W25P80 @SOIC8                       
+      W25M02GV(x4)  @WSON8                W25M02GV(x4)  @SOP16                W25M02GV(x4)  @BGA24                W25M02GV(x1+ISP) @WSON8             
+      W25M02GV(x1+ISP) @SOP16             W25M02GV(x1+ISP) @BGA24             W25M02GW(x4)  @WSON8                W25M02GW(x4)  @SOP16                
+      W25M02GW(x4)  @BGA24                W25M02GW(x1+ISP) @WSON8             W25M02GW(x1+ISP) @SOP16             W25M02GW(x1+ISP) @BGA24             
       W25N01GV(x4)  @WSON8                W25N01GV(x4)  @SOP16                W25N01GV(x4)  @BGA24                W25N01GV(x1+ISP) @WSON8             
       W25N01GV(x1+ISP) @SOP16             W25N01GV(x1+ISP) @BGA24             W25N01GW(x4)  @WSON8                W25N01GW(x4)  @SOP16                
       W25N01GW(x4)  @BGA24                W25N01GW(x1+ISP) @WSON8             W25N01GW(x1+ISP) @SOP16             W25N01GW(x1+ISP) @BGA24             
@@ -6665,7 +6678,7 @@
       W49V002 @TSOP32                     W49V002A @PLCC32                    W49V002A @TSOP32                    W49V002F @PLCC32                    
       W49V002F @TSOP32                    W49V002FA @PLCC32                   W49V002FA @TSOP32                   
 
-         IC Support: 667 PCS
+         IC Support: 679 PCS
 
  [ WINGSHING ]     
 
@@ -6735,9 +6748,12 @@
       PN25F32 @SOIC16                     PN25F32B                            PN25F32B @SOIC8                     PN25F32B @SOIC16                    
       PN25F64                             PN25F64 @SOIC8                      PN25F64 @SOIC16                     PN25F64B                            
       PN25F64B @SOIC8                     PN25F64B @SOIC16                    PN25F128B                           PN25F128B @SOIC8                    
-      PN25F128B @SOIC16                   
+      PN25F128B @SOIC16                   PN26G01A(x4)  @WSON8                PN26G01A(x4)  @SOP16                PN26G01A(x4)  @BGA24                
+      PN26G01A(x1+ISP) @WSON8             PN26G01A(x1+ISP) @SOP16             PN26G01A(x1+ISP) @BGA24             PN26G02A(x4)  @WSON8                
+      PN26G02A(x4)  @SOP16                PN26G02A(x4)  @BGA24                PN26G02A(x1+ISP) @WSON8             PN26G02A(x1+ISP) @SOP16             
+      PN26G02A(x1+ISP) @BGA24             XT26G01A(OLD)@WSON8                 XT26G01B(OLD)@WSON8                 
 
-         IC Support: 33 PCS
+         IC Support: 47 PCS
 
  [ YMC ]     
 
@@ -6794,6 +6810,4 @@
 
          IC Support: 14 PCS
 
- 
-
-   Total: 23826 PCS
+   Total: 23886 PCS
