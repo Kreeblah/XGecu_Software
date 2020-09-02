@@ -1,16 +1,14 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V10.31  Date : 8.19th.2020
-           Supported Devices:   16348 
+            Software Version:   V10.33  Date : 9.2th.2020
+           Supported Devices:   16398 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
 
- 
-
- [ ACE ]     
+   [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
       ACE24AC04 @SOIC8                    ACE24AC04 @TSSOP8                   ACE24AC08                           ACE24AC08 @SOIC8                    
@@ -53,19 +51,19 @@
       ACE25QA800G @SON8                   ACE25QA800G @TSSOP8                 ACE25QA160G                         ACE25QA160G @SON8                   
       ACE25QA160G @TSSOP8                 ACE25QC160G                         ACE25QC160G @SON8                   ACE25QC160G @TSSOP8                 
       ACE25QC320G                         ACE25QC320G @SON8                   ACE25QC320G @TSSOP8                 ACE25QC640G                         
-      ACE25QC640G @SON8                   ACE25QC640G @TSSOP8                 ACE25QC128G                         ACE25QC128G @SON8                   
-      ACE25QC128G @TSSOP8                 ACE93C46(x8)                        ACE93C46(x8) @SOIC8                 ACE93C46(x8) @TSSOP8                
-      ACE93C46(x16)                       ACE93C46(x16) @SOIC8                ACE93C46(x16) @TSSOP8               ACE93C46A(x8)                       
-      ACE93C46A(x8) @SOIC8                ACE93C46A(x8) @TSSOP8               ACE93C46A(x16)                      ACE93C46A(x16) @SOIC8               
-      ACE93C46A(x16) @TSSOP8              ACE93C56(x8)                        ACE93C56(x8) @SOIC8                 ACE93C56(x8) @TSSOP8                
-      ACE93C56(x16)                       ACE93C56(x16) @SOIC8                ACE93C56(x16) @TSSOP8               ACE93C56A(x8)                       
-      ACE93C56A(x8) @SOIC8                ACE93C56A(x8) @TSSOP8               ACE93C56A(x16)                      ACE93C56A(x16) @SOIC8               
-      ACE93C56A(x16) @TSSOP8              ACE93C66(x8)                        ACE93C66(x8) @SOIC8                 ACE93C66(x8) @TSSOP8                
-      ACE93C66(x16)                       ACE93C66(x16) @SOIC8                ACE93C66(x16) @TSSOP8               ACE93C66A(x8)                       
-      ACE93C66A(x8) @SOIC8                ACE93C66A(x8) @TSSOP8               ACE93C66A(x16)                      ACE93C66A(x16) @SOIC8               
-      ACE93C66A(x16) @TSSOP8              
+      ACE25QC640G @SON8                   ACE25QC640G @TSSOP8                 Q25Q64A                             Q25Q64A @SON8                       
+      Q25Q64A @TSSOP8                     ACE25QC128G                         ACE25QC128G @SON8                   ACE25QC128G @TSSOP8                 
+      ACE93C46(x8)                        ACE93C46(x8) @SOIC8                 ACE93C46(x8) @TSSOP8                ACE93C46(x16)                       
+      ACE93C46(x16) @SOIC8                ACE93C46(x16) @TSSOP8               ACE93C46A(x8)                       ACE93C46A(x8) @SOIC8                
+      ACE93C46A(x8) @TSSOP8               ACE93C46A(x16)                      ACE93C46A(x16) @SOIC8               ACE93C46A(x16) @TSSOP8              
+      ACE93C56(x8)                        ACE93C56(x8) @SOIC8                 ACE93C56(x8) @TSSOP8                ACE93C56(x16)                       
+      ACE93C56(x16) @SOIC8                ACE93C56(x16) @TSSOP8               ACE93C56A(x8)                       ACE93C56A(x8) @SOIC8                
+      ACE93C56A(x8) @TSSOP8               ACE93C56A(x16)                      ACE93C56A(x16) @SOIC8               ACE93C56A(x16) @TSSOP8              
+      ACE93C66(x8)                        ACE93C66(x8) @SOIC8                 ACE93C66(x8) @TSSOP8                ACE93C66(x16)                       
+      ACE93C66(x16) @SOIC8                ACE93C66(x16) @TSSOP8               ACE93C66A(x8)                       ACE93C66A(x8) @SOIC8                
+      ACE93C66A(x8) @TSSOP8               ACE93C66A(x16)                      ACE93C66A(x16) @SOIC8               ACE93C66A(x16) @TSSOP8              
 
-         IC Support: 205 PCS
+         IC Support: 208 PCS
 
  [ ACT ]     
 
@@ -713,44 +711,45 @@
       ATF22V10CQ(UES) @TSSOP24            ATF22V10CQZ                         ATF22V10CQZ @SOIC24                 ATF22V10CQZ @TSSOP24                
       ATF22V10CQZ(UES)                    ATF22V10CQZ(UES) @SOIC24            ATF22V10CQZ(UES) @TSSOP24           ATF22V10CZ                          
       ATF22V10CZ @SOIC24                  ATF22V10CZ @TSSOP24                 ATF22V10CZ(UES)                     ATF22V10CZ(UES) @SOIC24             
-      ATF22V10CZ(UES) @TSSOP24            ATMEGA8 @DIP28                      ATMEGA8 @TQFP32                     ATMEGA8L @DIP28                     
-      ATMEGA8L @TQFP32                    ATMEGA8A @DIP28                     ATMEGA8A @TQFP32                    ATMEGA16                            
-      ATMEGA16L                           ATMEGA16A                           ATMEGA32                            ATMEGA32L                           
-      ATMEGA32A                           ATMEGA48 @DIP28                     ATMEGA48 @TQFP32                    ATMEGA48V @DIP28                    
-      ATMEGA48V @TQFP32                   ATMEGA48A @DIP28                    ATMEGA48A @TQFP32                   ATMEGA48PA @DIP28                   
-      ATMEGA48PA @TQFP32                  ATMEGA64   @TQFP64                  ATMEGA64A  @TQFP64                  ATMEGA64L  @TQFP64                  
-      ATMEGA88 @DIP28                     ATMEGA88 @TQFP32                    ATMEGA88V @DIP28                    ATMEGA88V @TQFP32                   
-      ATMEGA88A @DIP28                    ATMEGA88A @TQFP32                   ATMEGA88PA @DIP28                   ATMEGA88PA @TQFP32                  
-      ATMEGA128     @TQFP64               ATMEGA128A    @TQFP64               ATMEGA128L    @TQFP64               ATMEGA162                           
-      ATMEGA162V                          ATMEGA164A                          ATMEGA164PA                         ATMEGA165A  @TQFP64                 
-      ATMEGA165P  @TQFP64                 ATMEGA165PA @TQFP64                 ATMEGA165PV @TQFP64                 ATMEGA168 @DIP28                    
-      ATMEGA168 @TQFP32                   ATMEGA168A @DIP28                   ATMEGA168A @TQFP32                  ATMEGA168PA  @DIP28                 
-      ATMEGA168PA  @TQFP32                ATMEGA168V @DIP28                   ATMEGA168V @TQFP32                  ATMEGA169A   @TQFP64                
-      ATMEGA169P   @TQFP64                ATMEGA169PA  @TQFP64                ATMEGA169PV  @TQFP64                ATMEGA324A                          
-      ATMEGA324PA                         ATMEGA325A   @TQFP64                ATMEGA325PA  @TQFP64                ATMEGA328  @DIP28                   
-      ATMEGA328  @TQFP32                  ATMEGA328P @DIP28                   ATMEGA328P @TQFP32                  ATMEGA328PB @TQFP32                 
-      ATMEGA329A   @TQFP64                ATMEGA329PA  @TQFP64                ATMEGA644A                          ATMEGA644PA                         
-      ATMEGA645A @TQFP64                  ATMEGA645P @TQFP64                  ATMEGA649A @TQFP64                  ATMEGA649P @TQFP64                  
-      ATMEGA1284                          ATMEGA1284P                         ATMEGA8515                          ATMEGA8515L                         
-      ATMEGA8535                          ATMEGA8535L                         ATTINY11                            ATTINY11  @SOIC8                    
-      ATTINY11L                           ATTINY11L @SOIC8                    ATTINY12                            ATTINY12  @SOIC8                    
-      ATTINY12V                           ATTINY12V @SOIC8                    ATTINY12L                           ATTINY12L @SOIC8                    
-      ATTINY13                            ATTINY13  @SOIC8                    ATTINY13V                           ATTINY13V @SOIC8                    
-      ATTINY13A                           ATTINY13A @SOIC8                    ATTINY15                            ATTINY15  @SOIC8                    
-      ATTINY15L                           ATTINY15L @SOIC8                    ATTINY24                            ATTINY24 @SOIC14                    
-      ATTINY24A                           ATTINY24A @SOIC14                   ATTINY24V                           ATTINY24V @SOIC14                   
-      ATTINY25                            ATTINY25  @SOIC8                    ATTINY25V                           ATTINY25V @SOIC8                    
-      ATTINY26                            ATTINY26 @SOIC20                    ATTINY26 @SSOP20                    ATTINY26L                           
-      ATTINY26L @SOIC20                   ATTINY26L @SSOP20                   ATTINY28L                           ATTINY28V                           
-      ATTINY44                            ATTINY44 @SOIC14                    ATTINY44A                           ATTINY44A @SOIC14                   
-      ATTINY44V                           ATTINY44V @SOIC14                   ATTINY45                            ATTINY45 @SOIC8                     
-      ATTINY45V                           ATTINY45V @SOIC8                    ATTINY84                            ATTINY84 @SOIC14                    
-      ATTINY84A                           ATTINY84A @SOIC14                   ATTINY84V                           ATTINY84V @SOIC14                   
-      ATTINY85                            ATTINY85 @SOIC8                     ATTINY85V                           ATTINY85V @SOIC8                    
-      ATTINY2313                          ATTINY2313 @SOIC20                  ATTINY2313V                         ATTINY2313V @SOIC20                 
-      ATTINY2313A                         ATTINY2313A @SOIC20                 ATTINY4313                          ATTINY4313 @SOIC20                  
+      ATF22V10CZ(UES) @TSSOP24            ATMEGA8 @DIP28                      ATMEGA8 @TQFP32                     ATMEGA8 @MLF32                      
+      ATMEGA8L @DIP28                     ATMEGA8L @TQFP32                    ATMEGA8L @MLF32                     ATMEGA8A @DIP28                     
+      ATMEGA8A @TQFP32                    ATMEGA8A @MLF32                     ATMEGA16                            ATMEGA16L                           
+      ATMEGA16A                           ATMEGA32                            ATMEGA32L                           ATMEGA32A                           
+      ATMEGA48 @DIP28                     ATMEGA48 @TQFP32                    ATMEGA48V @DIP28                    ATMEGA48V @TQFP32                   
+      ATMEGA48A @DIP28                    ATMEGA48A @TQFP32                   ATMEGA48PA @DIP28                   ATMEGA48PA @TQFP32                  
+      ATMEGA64   @TQFP64                  ATMEGA64A  @TQFP64                  ATMEGA64L  @TQFP64                  ATMEGA88 @DIP28                     
+      ATMEGA88 @TQFP32                    ATMEGA88V @DIP28                    ATMEGA88V @TQFP32                   ATMEGA88A @DIP28                    
+      ATMEGA88A @TQFP32                   ATMEGA88PA @DIP28                   ATMEGA88PA @TQFP32                  ATMEGA128     @TQFP64               
+      ATMEGA128A    @TQFP64               ATMEGA128L    @TQFP64               ATMEGA162                           ATMEGA162V                          
+      ATMEGA164A                          ATMEGA164PA                         ATMEGA165A  @TQFP64                 ATMEGA165P  @TQFP64                 
+      ATMEGA165PA @TQFP64                 ATMEGA165PV @TQFP64                 ATMEGA168 @DIP28                    ATMEGA168 @TQFP32                   
+      ATMEGA168A @DIP28                   ATMEGA168A @TQFP32                  ATMEGA168PA  @DIP28                 ATMEGA168PA  @TQFP32                
+      ATMEGA168V @DIP28                   ATMEGA168V @TQFP32                  ATMEGA169A   @TQFP64                ATMEGA169P   @TQFP64                
+      ATMEGA169PA  @TQFP64                ATMEGA169PV  @TQFP64                ATMEGA324A                          ATMEGA324PA                         
+      ATMEGA325A   @TQFP64                ATMEGA325PA  @TQFP64                ATMEGA328  @DIP28                   ATMEGA328  @TQFP32                  
+      ATMEGA328P @DIP28                   ATMEGA328P @TQFP32                  ATMEGA328PB @TQFP32                 ATMEGA329A   @TQFP64                
+      ATMEGA329PA  @TQFP64                ATMEGA644A                          ATMEGA644PA                         ATMEGA645A @TQFP64                  
+      ATMEGA645P @TQFP64                  ATMEGA649A @TQFP64                  ATMEGA649P @TQFP64                  ATMEGA1284                          
+      ATMEGA1284P                         ATMEGA8515                          ATMEGA8515L                         ATMEGA8535                          
+      ATMEGA8535L                         ATTINY11                            ATTINY11  @SOIC8                    ATTINY11L                           
+      ATTINY11L @SOIC8                    ATTINY12                            ATTINY12  @SOIC8                    ATTINY12V                           
+      ATTINY12V @SOIC8                    ATTINY12L                           ATTINY12L @SOIC8                    ATTINY13                            
+      ATTINY13  @SOIC8                    ATTINY13V                           ATTINY13V @SOIC8                    ATTINY13A                           
+      ATTINY13A @SOIC8                    ATTINY15                            ATTINY15  @SOIC8                    ATTINY15L                           
+      ATTINY15L @SOIC8                    ATTINY24                            ATTINY24 @SOIC14                    ATTINY24A                           
+      ATTINY24A @SOIC14                   ATTINY24V                           ATTINY24V @SOIC14                   ATTINY25                            
+      ATTINY25  @SOIC8                    ATTINY25V                           ATTINY25V @SOIC8                    ATTINY26                            
+      ATTINY26 @SOIC20                    ATTINY26 @SSOP20                    ATTINY26L                           ATTINY26L @SOIC20                   
+      ATTINY26L @SSOP20                   ATTINY28L                           ATTINY28V                           ATTINY44                            
+      ATTINY44 @SOIC14                    ATTINY44A                           ATTINY44A @SOIC14                   ATTINY44V                           
+      ATTINY44V @SOIC14                   ATTINY45                            ATTINY45 @SOIC8                     ATTINY45V                           
+      ATTINY45V @SOIC8                    ATTINY84                            ATTINY84 @SOIC14                    ATTINY84A                           
+      ATTINY84A @SOIC14                   ATTINY84V                           ATTINY84V @SOIC14                   ATTINY85                            
+      ATTINY85 @SOIC8                     ATTINY85V                           ATTINY85V @SOIC8                    ATTINY2313                          
+      ATTINY2313 @SOIC20                  ATTINY2313V                         ATTINY2313V @SOIC20                 ATTINY2313A                         
+      ATTINY2313A @SOIC20                 ATTINY4313                          ATTINY4313 @SOIC20                  
 
-         IC Support: 1316 PCS
+         IC Support: 1319 PCS
 
  [ BELLING ]     
 
@@ -1158,9 +1157,9 @@
       DS1249AB(RW)                        DS1249AB(TEST)                      DS1249W (RW 3.3V)                   DS1249W (TEST 3.3V)                 
       DS1249Y (RW)                        DS1249Y (TEST)                      DS1250AB(RW)                        DS1250AB(TEST)                      
       DS1250W (RW 3.3V)                   DS1250W (TEST 3.3V)                 DS1250Y (RW)                        DS1250Y (TEST)                      
-      DS1265AB (RW)                       DS1265Y (RW)                        
+      DS1265AB (RW)                       DS1265Y (RW)                        DS1270AB (RW)                       DS1270Y (RW)                        
 
-         IC Support: 30 PCS
+         IC Support: 32 PCS
 
  [ DENSE-PAC ]     
 
@@ -3758,6 +3757,11 @@
       M48T58Y                             M48T59                              M48T59Y                             M48T59V                             
       M48T128Y @DIP32                     M48T128V @DIP32                     M48T129Y @DIP32                     M48T129V @DIP32                     
       M48T512Y @DIP32                     M48T512V @DIP32                     M48T513Y @DIP32                     M48T513V @DIP32                     
+      M48Z02                              M48Z08                              M48Z08Y                             M48Z12                              
+      M48Z18                              M48Z35AY                            M48Z35AV                            M48Z58                              
+      M48Z58Y                             M48Z59                              M48Z59Y                             M48Z59V                             
+      M48Z128Y @DIP32                     M48Z128V @DIP32                     M48Z129Y @DIP32                     M48Z129V @DIP32                     
+      M48Z512Y @DIP32                     M48Z512V @DIP32                     M48Z2M1                             M48Z2M1Y                            
       M50FLW040A @PLCC32                  M50FLW040A @TSOP32                  M50FLW040A @TSOP40                  M50FLW040B @PLCC32                  
       M50FLW040B @TSOP32                  M50FLW040B @TSOP40                  M50FLW080A @PLCC32                  M50FLW080A @TSOP32                  
       M50FLW080A @TSOP40                  M50FLW080B @PLCC32                  M50FLW080B @TSOP32                  M50FLW080B @TSOP40                  
@@ -3778,7 +3782,7 @@
       ST93CS46                            ST93CS46 @SOIC8                     ST93CS46 @TSOP8                     TS27C256 @DIP28                     
       TS27C64A @DIP28                     TS27C64A @PLCC32                    
 
-         IC Support: 318 PCS
+         IC Support: 338 PCS
 
  [ SHARP ]     
 
@@ -4811,13 +4815,19 @@
       PN25F32 @SOIC16                     PN25F32B                            PN25F32B @SOIC8                     PN25F32B @SOIC16                    
       PN25F64                             PN25F64 @SOIC8                      PN25F64 @SOIC16                     PN25F64B                            
       PN25F64B @SOIC8                     PN25F64B @SOIC16                    PN25F128B                           PN25F128B @SOIC8                    
-      PN25F128B @SOIC16                   XT25F02D @SOP8                      XT25F02D @DFN8                      XT25F02D @SOP8                      
-      XT25F02D @DFN8                      XT25F04D @SOP8                      XT25F04D @DFN8                      XT25F08B @SOP8                      
-      XT25F08B @DFN8                      XT25F16B @SOP8                      XT25F16B @DFN8                      XT25F32B @SOP8                      
-      XT25F32B @DFN8                      XT25F32B @SOP16                     XT25F64B @SOP8                      XT25F64B @DFN8                      
-      XT25F64B @SOP16                     XT25F128B @SOP8                     XT25F128B @DFN8                     XT25F128B @SOP16                    
+      PN25F128B @SOIC16                   XT25F16(OLD)                        XT25F16(OLD) @SOIC8                 XT25F16(OLD) @SOIC16                
+      XT25F16B(OLD)                       XT25F16B(OLD) @SOIC8                XT25F16B(OLD) @SOIC16               XT25F32(OLD)                        
+      XT25F32(OLD) @SOIC8                 XT25F32(OLD) @SOIC16                XT25F32B(OLD)                       XT25F32B(OLD) @SOIC8                
+      XT25F32B(OLD) @SOIC16               XT25F64(OLD)                        XT25F64(OLD) @SOIC8                 XT25F64(OLD) @SOIC16                
+      XT25F64B(OLD)                       XT25F64B(OLD) @SOIC8                XT25F64B(OLD) @SOIC16               XT25F128B(OLD)                      
+      XT25F128B(OLD) @SOIC8               XT25F128B(OLD) @SOIC16              XT25F02D @SOP8                      XT25F02D @DFN8                      
+      XT25F02D @SOP8                      XT25F02D @DFN8                      XT25F04D @SOP8                      XT25F04D @DFN8                      
+      XT25F08B @SOP8                      XT25F08B @DFN8                      XT25F16B @SOP8                      XT25F16B @DFN8                      
+      XT25F32B @SOP8                      XT25F32B @DFN8                      XT25F32B @SOP16                     XT25F64B @SOP8                      
+      XT25F64B @DFN8                      XT25F64B @SOP16                     XT25F64BB @SOP8                     XT25F128B @SOP8                     
+      XT25F128B @DFN8                     XT25F128B @SOP16                    
 
-         IC Support: 52 PCS
+         IC Support: 74 PCS
 
  [ YMC ]     
 
@@ -4931,4 +4941,5 @@
          IC Support: 168 PCS
 
 
-   Total: 16348 PCS
+   Total: 16398 PCS
+
