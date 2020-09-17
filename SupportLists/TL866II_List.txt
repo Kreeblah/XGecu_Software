@@ -1,14 +1,14 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V10.33  Date : 9.2th.2020
-           Supported Devices:   16398 
+            Software Version:   V10.37  Date : 9.17th.2020
+           Supported Devices:   16413 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
 
-   [ ACE ]     
+  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
       ACE24AC04 @SOIC8                    ACE24AC04 @TSSOP8                   ACE24AC08                           ACE24AC08 @SOIC8                    
@@ -663,8 +663,8 @@
       AT89C1051   @DIP20                  AT89C1051   @SOIC20                 AT89C1051U  @DIP20                  AT89C1051U  @SOIC20                 
       AT89C2051   @DIP20                  AT89C2051   @SOIC20                 AT89C2051x2 @DIP20                  AT89C2051x2 @SOIC20                 
       AT89C4051   @DIP20                  AT89C4051   @SOIC20                 AT89C51 @DIP40                      AT89C51 @PLCC44                     
-      AT89C52 @DIP40                      AT89C52 @PLCC44                     AT89C55 @DIP40                      AT89C55 @PLCC44                     
-      AT89C55WD @DIP40                    AT89C55WD @PLCC44                   AT89C51RC @DIP40                    AT89C51RC  @PLCC44                  
+      AT89C51RC @DIP40                    AT89C51RC @PLCC44                   AT89C52 @DIP40                      AT89C52 @PLCC44                     
+      AT89C55 @DIP40                      AT89C55 @PLCC44                     AT89C55WD @DIP40                    AT89C55WD @PLCC44                   
       AT89LS51 @DIP40                     AT89LS51 @PLCC44                    AT89LS52 @DIP40                     AT89LS52 @PLCC44                    
       AT89LS53 @DIP40                     AT89LS53 @PLCC44                    AT89LS8252 @DIP40                   AT89LS8252 @PLCC44                  
       AT89LS8253 @DIP40                   AT89LS8253 @PLCC44                  AT89LV51 @DIP40                     AT89LV51 @PLCC44                    
@@ -713,43 +713,47 @@
       ATF22V10CZ @SOIC24                  ATF22V10CZ @TSSOP24                 ATF22V10CZ(UES)                     ATF22V10CZ(UES) @SOIC24             
       ATF22V10CZ(UES) @TSSOP24            ATMEGA8 @DIP28                      ATMEGA8 @TQFP32                     ATMEGA8 @MLF32                      
       ATMEGA8L @DIP28                     ATMEGA8L @TQFP32                    ATMEGA8L @MLF32                     ATMEGA8A @DIP28                     
-      ATMEGA8A @TQFP32                    ATMEGA8A @MLF32                     ATMEGA16                            ATMEGA16L                           
-      ATMEGA16A                           ATMEGA32                            ATMEGA32L                           ATMEGA32A                           
-      ATMEGA48 @DIP28                     ATMEGA48 @TQFP32                    ATMEGA48V @DIP28                    ATMEGA48V @TQFP32                   
-      ATMEGA48A @DIP28                    ATMEGA48A @TQFP32                   ATMEGA48PA @DIP28                   ATMEGA48PA @TQFP32                  
+      ATMEGA8A @TQFP32                    ATMEGA8A @MLF32                     ATMEGA16  @DIP40                    ATMEGA16A @DIP40                    
+      ATMEGA16L @DIP40                    ATMEGA32  @DIP40                    ATMEGA32A @DIP40                    ATMEGA32L @DIP40                    
+      ATMEGA48  @DIP28                    ATMEGA48  @TQFP32                   ATMEGA48  @MLF32                    ATMEGA48V @DIP28                    
+      ATMEGA48V @TQFP32                   ATMEGA48V @MLF32                    ATMEGA48A @DIP28                    ATMEGA48A @TQFP32                   
+      ATMEGA48A @MLF32                    ATMEGA48PA @DIP28                   ATMEGA48PA @TQFP32                  ATMEGA48PA @MLF32                   
       ATMEGA64   @TQFP64                  ATMEGA64A  @TQFP64                  ATMEGA64L  @TQFP64                  ATMEGA88 @DIP28                     
-      ATMEGA88 @TQFP32                    ATMEGA88V @DIP28                    ATMEGA88V @TQFP32                   ATMEGA88A @DIP28                    
-      ATMEGA88A @TQFP32                   ATMEGA88PA @DIP28                   ATMEGA88PA @TQFP32                  ATMEGA128     @TQFP64               
-      ATMEGA128A    @TQFP64               ATMEGA128L    @TQFP64               ATMEGA162                           ATMEGA162V                          
-      ATMEGA164A                          ATMEGA164PA                         ATMEGA165A  @TQFP64                 ATMEGA165P  @TQFP64                 
+      ATMEGA88 @TQFP32                    ATMEGA88 @MLF32                     ATMEGA88V @DIP28                    ATMEGA88V @TQFP32                   
+      ATMEGA88V @MLF32                    ATMEGA88A @DIP28                    ATMEGA88A @TQFP32                   ATMEGA88A @MLF32                    
+      ATMEGA88PA @DIP28                   ATMEGA88PA @TQFP32                  ATMEGA88PA @MLF32                   ATMEGA128   @TQFP64                 
+      ATMEGA128A  @TQFP64                 ATMEGA128L  @TQFP64                 ATMEGA162   @DIP40                  ATMEGA162V  @DIP40                  
+      ATMEGA164A  @DIP40                  ATMEGA164PA @DIP40                  ATMEGA165A  @TQFP64                 ATMEGA165P  @TQFP64                 
       ATMEGA165PA @TQFP64                 ATMEGA165PV @TQFP64                 ATMEGA168 @DIP28                    ATMEGA168 @TQFP32                   
-      ATMEGA168A @DIP28                   ATMEGA168A @TQFP32                  ATMEGA168PA  @DIP28                 ATMEGA168PA  @TQFP32                
-      ATMEGA168V @DIP28                   ATMEGA168V @TQFP32                  ATMEGA169A   @TQFP64                ATMEGA169P   @TQFP64                
-      ATMEGA169PA  @TQFP64                ATMEGA169PV  @TQFP64                ATMEGA324A                          ATMEGA324PA                         
+      ATMEGA168 @MLF32                    ATMEGA168A @DIP28                   ATMEGA168A @TQFP32                  ATMEGA168A @MLF32                   
+      ATMEGA168PA @DIP28                  ATMEGA168PA @TQFP32                 ATMEGA168PA @MLF32                  ATMEGA168V @DIP28                   
+      ATMEGA168V @TQFP32                  ATMEGA168V @MLF32                   ATMEGA169A   @TQFP64                ATMEGA169P   @TQFP64                
+      ATMEGA169PA  @TQFP64                ATMEGA169PV  @TQFP64                ATMEGA324A @DIP40                   ATMEGA324PA @DIP40                  
       ATMEGA325A   @TQFP64                ATMEGA325PA  @TQFP64                ATMEGA328  @DIP28                   ATMEGA328  @TQFP32                  
-      ATMEGA328P @DIP28                   ATMEGA328P @TQFP32                  ATMEGA328PB @TQFP32                 ATMEGA329A   @TQFP64                
-      ATMEGA329PA  @TQFP64                ATMEGA644A                          ATMEGA644PA                         ATMEGA645A @TQFP64                  
-      ATMEGA645P @TQFP64                  ATMEGA649A @TQFP64                  ATMEGA649P @TQFP64                  ATMEGA1284                          
-      ATMEGA1284P                         ATMEGA8515                          ATMEGA8515L                         ATMEGA8535                          
-      ATMEGA8535L                         ATTINY11                            ATTINY11  @SOIC8                    ATTINY11L                           
-      ATTINY11L @SOIC8                    ATTINY12                            ATTINY12  @SOIC8                    ATTINY12V                           
-      ATTINY12V @SOIC8                    ATTINY12L                           ATTINY12L @SOIC8                    ATTINY13                            
-      ATTINY13  @SOIC8                    ATTINY13V                           ATTINY13V @SOIC8                    ATTINY13A                           
-      ATTINY13A @SOIC8                    ATTINY15                            ATTINY15  @SOIC8                    ATTINY15L                           
-      ATTINY15L @SOIC8                    ATTINY24                            ATTINY24 @SOIC14                    ATTINY24A                           
-      ATTINY24A @SOIC14                   ATTINY24V                           ATTINY24V @SOIC14                   ATTINY25                            
-      ATTINY25  @SOIC8                    ATTINY25V                           ATTINY25V @SOIC8                    ATTINY26                            
-      ATTINY26 @SOIC20                    ATTINY26 @SSOP20                    ATTINY26L                           ATTINY26L @SOIC20                   
-      ATTINY26L @SSOP20                   ATTINY28L                           ATTINY28V                           ATTINY44                            
-      ATTINY44 @SOIC14                    ATTINY44A                           ATTINY44A @SOIC14                   ATTINY44V                           
-      ATTINY44V @SOIC14                   ATTINY45                            ATTINY45 @SOIC8                     ATTINY45V                           
-      ATTINY45V @SOIC8                    ATTINY84                            ATTINY84 @SOIC14                    ATTINY84A                           
-      ATTINY84A @SOIC14                   ATTINY84V                           ATTINY84V @SOIC14                   ATTINY85                            
-      ATTINY85 @SOIC8                     ATTINY85V                           ATTINY85V @SOIC8                    ATTINY2313                          
-      ATTINY2313 @SOIC20                  ATTINY2313V                         ATTINY2313V @SOIC20                 ATTINY2313A                         
-      ATTINY2313A @SOIC20                 ATTINY4313                          ATTINY4313 @SOIC20                  
+      ATMEGA328  @MLF32                   ATMEGA328P @DIP28                   ATMEGA328P @TQFP32                  ATMEGA328P @MLF32                   
+      ATMEGA328PB @TQFP32                 ATMEGA328PB @MLF32                  ATMEGA329A  @TQFP64                 ATMEGA329PA @TQFP64                 
+      ATMEGA644A @DIP40                   ATMEGA644PA @DIP40                  ATMEGA645A @TQFP64                  ATMEGA645P @TQFP64                  
+      ATMEGA649A @TQFP64                  ATMEGA649P @TQFP64                  ATMEGA1284 @DIP40                   ATMEGA1284P @DIP40                  
+      ATMEGA8515 @DIP40                   ATMEGA8515L @DIP40                  ATMEGA8535  @DIP40                  ATMEGA8535L @DIP40                  
+      ATTINY11                            ATTINY11  @SOIC8                    ATTINY11L                           ATTINY11L @SOIC8                    
+      ATTINY12                            ATTINY12  @SOIC8                    ATTINY12V                           ATTINY12V @SOIC8                    
+      ATTINY12L                           ATTINY12L @SOIC8                    ATTINY13                            ATTINY13  @SOIC8                    
+      ATTINY13V                           ATTINY13V @SOIC8                    ATTINY13A                           ATTINY13A @SOIC8                    
+      ATTINY15                            ATTINY15  @SOIC8                    ATTINY15L                           ATTINY15L @SOIC8                    
+      ATTINY24                            ATTINY24 @SOIC14                    ATTINY24A                           ATTINY24A @SOIC14                   
+      ATTINY24V                           ATTINY24V @SOIC14                   ATTINY25                            ATTINY25  @SOIC8                    
+      ATTINY25V                           ATTINY25V @SOIC8                    ATTINY26                            ATTINY26 @SOIC20                    
+      ATTINY26 @SSOP20                    ATTINY26L                           ATTINY26L @SOIC20                   ATTINY26L @SSOP20                   
+      ATTINY28L                           ATTINY28V                           ATTINY44                            ATTINY44 @SOIC14                    
+      ATTINY44A                           ATTINY44A @SOIC14                   ATTINY44V                           ATTINY44V @SOIC14                   
+      ATTINY45                            ATTINY45 @SOIC8                     ATTINY45V                           ATTINY45V @SOIC8                    
+      ATTINY84                            ATTINY84 @SOIC14                    ATTINY84A                           ATTINY84A @SOIC14                   
+      ATTINY84V                           ATTINY84V @SOIC14                   ATTINY85                            ATTINY85 @SOIC8                     
+      ATTINY85V                           ATTINY85V @SOIC8                    ATTINY2313                          ATTINY2313 @SOIC20                  
+      ATTINY2313V                         ATTINY2313V @SOIC20                 ATTINY2313A                         ATTINY2313A @SOIC20                 
+      ATTINY4313                          ATTINY4313 @SOIC20                  
 
-         IC Support: 1319 PCS
+         IC Support: 1334 PCS
 
  [ BELLING ]     
 
@@ -4928,7 +4932,7 @@
       74HC(LS)145                         74HC(LS)153                         74HC(LS)155                         74HC(LS)156                         
       74HC(LS)157                         74HC(LS)158                         74HC(LS)160                         74HC(LS)161                         
       74HC(LS)162                         74HC(LS)163                         74HC(LS)164                         74HC(LS)165                         
-      74HC(LS)166                         74HC(LS)174                         74HC(LS)175                         74HC(LS)192                         
+      74HC(LS)166                         74HC(LS)17                        74HC(LS)175                         74HC(LS)192                         
       74HC(LS)193                         74HC(LS)240                         74HC(LS)241                         74HC(LS)244                         
       74HC(LS)245                         74HC(LS)257                         74HC(LS)258                         74HC(LS)266                         
       74HC(LS)268                         74HC(LS)273                         74HC(LS)367                         74HC(LS)373                         
@@ -4941,5 +4945,5 @@
          IC Support: 168 PCS
 
 
-   Total: 16398 PCS
+   Total: 16413 PCS
 

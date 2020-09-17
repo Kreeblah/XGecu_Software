@@ -1,8 +1,8 @@
  
 XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V10.33  Date : 9.2th.2020
-           Supported Devices:   24556 pcs 
+            Software Version:   V10.37  Date : 9.17th.2020
+           Supported Devices:   24698 pcs 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
@@ -761,11 +761,11 @@ XGecu T56 Universal Programmer Device Support List:
       AT89C1051   @SOIC20                 AT89C1051U  @DIP20                  AT89C1051U  @SOIC20                 AT89C2051   @DIP20                  
       AT89C2051   @SOIC20                 AT89C2051x2 @DIP20                  AT89C2051x2 @SOIC20                 AT89C4051   @DIP20                  
       AT89C4051   @SOIC20                 AT89C51 @DIP40                      AT89C51 @PLCC44                     AT89C51 @PQFP44                     
-      AT89C51 @TQFP44                     AT89C52 @DIP40                      AT89C52 @PLCC44                     AT89C52 @PQFP44                     
+      AT89C51 @TQFP44                     AT89C51RC @DIP40                    AT89C51RC @PLCC44                   AT89C51RC @PQFP44                   
+      AT89C51RC @TQFP44                   AT89C52 @DIP40                      AT89C52 @PLCC44                     AT89C52 @PQFP44                     
       AT89C52 @TQFP44                     AT89C55 @DIP40                      AT89C55 @PLCC44                     AT89C55 @PQFP44                     
       AT89C55 @TQFP44                     AT89C55WD @DIP40                    AT89C55WD @PLCC44                   AT89C55WD @PQFP44                   
-      AT89C55WD @TQFP44                   AT89C51RC @DIP40                    AT89C51RC  @PLCC44                  AT89C51RC  @PQFP44                  
-      AT89C51RC  @TQFP44                  AT89LS51 @DIP40                     AT89LS51 @PLCC44                    AT89LS51 @PQFP44                    
+      AT89C55WD @TQFP44                   AT89LS51 @DIP40                     AT89LS51 @PLCC44                    AT89LS51 @PQFP44                    
       AT89LS51 @TQFP44                    AT89LS52 @DIP40                     AT89LS52 @PLCC44                    AT89LS52 @PQFP44                    
       AT89LS52 @TQFP44                    AT89LS53 @DIP40                     AT89LS53 @PLCC44                    AT89LS53 @PQFP44                    
       AT89LS53 @TQFP44                    AT89LS8252 @DIP40                   AT89LS8252 @PLCC44                  AT89LS8252 @PQFP44                  
@@ -815,9 +815,41 @@ XGecu T56 Universal Programmer Device Support List:
       ATF22V10CZ @SOIC24                  ATF22V10CZ @TSSOP24                 ATF22V10CZ(UES)                     ATF22V10CZ(UES) @SOIC24             
       ATF22V10CZ(UES) @TSSOP24            ATMEGA8 @DIP28                      ATMEGA8 @TQFP32                     ATMEGA8 @MLF32                      
       ATMEGA8L @DIP28                     ATMEGA8L @TQFP32                    ATMEGA8L @MLF32                     ATMEGA8A @DIP28                     
-      ATMEGA8A @TQFP32                    ATMEGA8A @MLF32                     
+      ATMEGA8A @TQFP32                    ATMEGA8A @MLF32                     ATMEGA8U2 @TQFP32                   ATMEGA8U2 @QFN32                    
+      ATMEGA8U2-AU @TQFP32                ATMEGA16  @DIP40                    ATMEGA16  @TQFP44                   ATMEGA16  @QFN44                    
+      ATMEGA16A @DIP40                    ATMEGA16A @TQFP44                   ATMEGA16A @QFN44                    ATMEGA16L @DIP40                    
+      ATMEGA16L @TQFP44                   ATMEGA16L @QFN44                    ATMEGA16U2 @TQFP32                  ATMEGA16U2 @QFN32                   
+      ATMEGA32  @DIP40                    ATMEGA32  @TQFP44                   ATMEGA32  @QFN44                    ATMEGA32A @DIP40                    
+      ATMEGA32A @TQFP44                   ATMEGA32A @QFN44                    ATMEGA32L @DIP40                    ATMEGA32L @TQFP44                   
+      ATMEGA32L @QFN44                    ATMEGA32U2 @TQFP32                  ATMEGA32U2 @QFN32                   ATMEGA48  @DIP28                    
+      ATMEGA48  @TQFP32                   ATMEGA48  @MLF32                    ATMEGA48V @DIP28                    ATMEGA48V @TQFP32                   
+      ATMEGA48V @MLF32                    ATMEGA48A @DIP28                    ATMEGA48A @TQFP32                   ATMEGA48A @MLF32                    
+      ATMEGA48PA @DIP28                   ATMEGA48PA @TQFP32                  ATMEGA48PA @MLF32                   ATMEGA64   @TQFP64                  
+      ATMEGA64A  @TQFP64                  ATMEGA64L  @TQFP64                  ATMEGA88 @DIP28                     ATMEGA88 @TQFP32                    
+      ATMEGA88 @MLF32                     ATMEGA88V @DIP28                    ATMEGA88V @TQFP32                   ATMEGA88V @MLF32                    
+      ATMEGA88A @DIP28                    ATMEGA88A @TQFP32                   ATMEGA88A @MLF32                    ATMEGA88PA @DIP28                   
+      ATMEGA88PA @TQFP32                  ATMEGA88PA @MLF32                   ATMEGA128   @TQFP64                 ATMEGA128A  @TQFP64                 
+      ATMEGA128L  @TQFP64                 ATMEGA162   @DIP40                  ATMEGA162   @TQFP44                 ATMEGA162V  @DIP40                  
+      ATMEGA162V  @TQFP44                 ATMEGA164A  @DIP40                  ATMEGA164A  @TQFP44                 ATMEGA164A  @QFN44                  
+      ATMEGA164PA @DIP40                  ATMEGA164PA @TQFP44                 ATMEGA164PA @QFN44                  ATMEGA165A  @TQFP64                 
+      ATMEGA165P  @TQFP64                 ATMEGA165PA @TQFP64                 ATMEGA165PV @TQFP64                 ATMEGA168 @DIP28                    
+      ATMEGA168 @TQFP32                   ATMEGA168 @MLF32                    ATMEGA168A @DIP28                   ATMEGA168A @TQFP32                  
+      ATMEGA168A @MLF32                   ATMEGA168PA @DIP28                  ATMEGA168PA @TQFP32                 ATMEGA168PA @MLF32                  
+      ATMEGA168V @DIP28                   ATMEGA168V @TQFP32                  ATMEGA168V @MLF32                   ATMEGA169A   @TQFP64                
+      ATMEGA169P   @TQFP64                ATMEGA169PA  @TQFP64                ATMEGA169PV  @TQFP64                ATMEGA324A @DIP40                   
+      ATMEGA324A @TQFP44                  ATMEGA324A @QFN44                   ATMEGA324PA @DIP40                  ATMEGA324PA @TQFP44                 
+      ATMEGA324PA @QFN44                  ATMEGA325A   @TQFP64                ATMEGA325PA  @TQFP64                ATMEGA328  @DIP28                   
+      ATMEGA328  @TQFP32                  ATMEGA328  @MLF32                   ATMEGA328P @DIP28                   ATMEGA328P @TQFP32                  
+      ATMEGA328P @MLF32                   ATMEGA328PB @TQFP32                 ATMEGA328PB @MLF32                  ATMEGA329A  @TQFP64                 
+      ATMEGA329PA @TQFP64                 ATMEGA644A @DIP40                   ATMEGA644A @TQFP44                  ATMEGA644A @QFN44                   
+      ATMEGA644PA @DIP40                  ATMEGA644PA @TQFP44                 ATMEGA644PA @QFN44                  ATMEGA645A @TQFP64                  
+      ATMEGA645P @TQFP64                  ATMEGA649A @TQFP64                  ATMEGA649P @TQFP64                  ATMEGA1284 @DIP40                   
+      ATMEGA1284 @TQFP44                  ATMEGA1284 @QFN44                   ATMEGA1284P @DIP40                  ATMEGA1284P @TQFP44                 
+      ATMEGA1284P @QFN44                  ATMEGA8515 @DIP40                   ATMEGA8515 @TQFP44                  ATMEGA8515L @DIP40                  
+      ATMEGA8515L @TQFP44                 ATMEGA8535  @DIP40                  ATMEGA8535  @TQFP44                 ATMEGA8535  @QFN44                  
+      ATMEGA8535L @DIP40                  ATMEGA8535L @TQFP44                 ATMEGA8535L @QFN44                  
 
-         IC Support: 1282 PCS
+         IC Support: 1411 PCS
 
  [ BELLING ]     
 
@@ -3097,14 +3129,11 @@ XGecu T56 Universal Programmer Device Support List:
       MX25V8035F @SOP8                    MX25V8035F @WSON8                   MX25V8035F(OTP)                     MX25V8035F(OTP) @SOP8               
       MX25V8035F(OTP) @WSON8              MX25V1635F @SOP8                    MX25V1635F @WSON8                   MX25V1635F(OTP) @SOP8               
       MX25V1635F(OTP) @WSON8              MX25V6433F @SOP8                    MX25V6433F @WSON8                   MX25V6433F @SOIC16                  
-      MX25V6433F(OTP) @SOP8               MX25V6433F(OTP) @SOIC16             MX35LF1G14AC(x4)  @WSON8            MX35LF1G14AC(x4)  @SOP16            
-      MX35LF1G14AC(x1+ISP) @WSON8         MX35LF1G14AC(x1+ISP) @SOP16         MX35LF1G24AD(x4)  @WSON8            MX35LF1G24AD(x4)  @SOP16            
-      MX35LF1G24AD(x1+ISP) @WSON8         MX35LF1G24AD(x1+ISP) @SOP16         MX35LF2G24AD(x4)  @WSON8            MX35LF2G24AD(x4)  @SOP16            
-      MX35LF2G24AD(x1+ISP) @WSON8         MX35LF2G24AD(x1+ISP) @SOP16         MX35LF1GE4AB(x4)  @WSON8            MX35LF1GE4AB(x4)  @SOP16            
-      MX35LF1GE4AB(x1+ISP) @WSON8         MX35LF1GE4AB(x1+ISP) @SOP16         MX35LF2G14AC(x4)  @WSON8            MX35LF2G14AC(x4)  @SOP16            
+      MX25V6433F(OTP) @SOP8               MX25V6433F(OTP) @SOIC16             MX35LF1G14AC(x1+ISP) @WSON8         MX35LF1G14AC(x1+ISP) @SOP16         
+      MX35LF1G24AD(x1+ISP) @WSON8         MX35LF1G24AD(x1+ISP) @SOP16         MX35LF2G24AD(x1+ISP) @WSON8         MX35LF2G24AD(x1+ISP) @SOP16         
+      MX35LF1GE4AB(x4)  @WSON8            MX35LF1GE4AB(x4)  @SOP16            MX35LF1GE4AB(x1+ISP) @WSON8         MX35LF1GE4AB(x1+ISP) @SOP16         
       MX35LF2G14AC(x1+ISP) @WSON8         MX35LF2G14AC(x1+ISP) @SOP16         MX35LF2GE4AB(x4)  @WSON8            MX35LF2GE4AB(x4)  @SOP16            
-      MX35LF2GE4AB(x1+ISP) @WSON8         MX35LF2GE4AB(x1+ISP) @SOP16         MX35UF1G14AC(x4)  @WSON8            MX35UF1G14AC(x4)  @SOP16            
-      MX35UF1G14AC(x1+ISP) @WSON8         MX35UF1G14AC(x1+ISP) @SOP16         MX35UF2G14AC(x4)  @WSON8            MX35UF2G14AC(x4)  @SOP16            
+      MX35LF2GE4AB(x1+ISP) @WSON8         MX35LF2GE4AB(x1+ISP) @SOP16         MX35UF1G14AC(x1+ISP) @WSON8         MX35UF1G14AC(x1+ISP) @SOP16         
       MX35UF2G14AC(x1+ISP) @WSON8         MX35UF2G14AC(x1+ISP) @SOP16         MX26C1000                           MX26C1000 @PLCC32                   
       MX26C1000 @TSOP32                   MX26C2000                           MX26C2000 @PLCC32                   MX26C2000 @TSOP32                   
       MX26C4000                           MX26C4000 @PLCC32                   MX26C4000 @TSOP32                   MX26LV004B @PLCC32                  
@@ -3203,7 +3232,7 @@ XGecu T56 Universal Programmer Device Support List:
       MX30LF4G28AB    @BGA63              MX30LF4G28AC    @BGA63              MX30LF4GE8AB    @BGA63              MX60LF8G18AC    @BGA63              
       MX60LF8G28AB    @BGA63              MX60LF8G28AC    @BGA63              
 
-         IC Support: 1138 PCS
+         IC Support: 1126 PCS
 
  [ MAXCOM ]     
 
@@ -5416,13 +5445,14 @@ XGecu T56 Universal Programmer Device Support List:
       LH28F008SA @TSOP40                  LH28F008SC @TSOP40                  LH28F016SAT @TSOP56                 LH28F016SUHT @TSOP56                
       LH28F016SUT  @TSOP56                LH28F016SC @TSOP40                  LH28F032SKTD  @TSOP56               LH28F032SUTD  @TSOP56               
       LH28F160BJE-B @TSOP48               LH28F160BJE-T @TSOP48               LH28F320BJE-PB @TSOP48              LH28F320BJE-PT @TSOP48              
-      LH28F320SKTD @TSOP56                LH28F400SU @TSOP48                  LH28F400SU @SOP44                   LH28F400BVE @TSOP48                 
-      LH28F400BGE-B @TSOP48               LH28F400BGE-T @TSOP48               LH28F400BGHE-B @TSOP48              LH28F400BGHE-T @TSOP48              
-      LH28F400BVHE-B @TSOP48              LH28F400BVHE-T @TSOP48              LH28F640BFE-PB @TSOP48              LH28F640BFE-PT @TSOP48              
-      LH28F640BFHE-PB @TSOP48             LH28F640BFHE-PT @TSOP48             LH28F800BGE-B @TSOP48               LH28F800BGE-T @TSOP48               
-      LH28F800BGHE-B @TSOP48              LH28F800BGHE-T @TSOP48              LH28F800BVHE-BTL @TSOP48            LH28F800BVHE-TTL @TSOP48            
+      *LH28F160SKT-L70 @TSOP56            LH28F320SKTD @TSOP56                LH28F400SU @TSOP48                  LH28F400SU @SOP44                   
+      LH28F400BVE @TSOP48                 LH28F400BGE-B @TSOP48               LH28F400BGE-T @TSOP48               LH28F400BGHE-B @TSOP48              
+      LH28F400BGHE-T @TSOP48              LH28F400BVHE-B @TSOP48              LH28F400BVHE-T @TSOP48              LH28F640BFE-PB @TSOP48              
+      LH28F640BFE-PT @TSOP48              LH28F640BFHE-PB @TSOP48             LH28F640BFHE-PT @TSOP48             LH28F800BGE-B @TSOP48               
+      LH28F800BGE-T @TSOP48               LH28F800BGHE-B @TSOP48              LH28F800BGHE-T @TSOP48              LH28F800BVHE-BTL @TSOP48            
+      LH28F800BVHE-TTL @TSOP48            
 
-         IC Support: 40 PCS
+         IC Support: 41 PCS
 
  [ SIEMENS ]     
 
@@ -6974,8 +7004,14 @@ XGecu T56 Universal Programmer Device Support List:
       SM661G4AC_8B_1.8V @BGA153(recommend)SM661G4AC_8B_3.3V @BGA153           SM661G4AC_4B_1.8V @BGA153           SM661G4AC_4B_3.3V @BGA153           
       SM661G4AC_1B_1.8V @BGA153           SM661G4AC_1B_3.3V @BGA153           SM661G8AC_8B_1.8V @BGA153(recommend)SM661G8AC_8B_3.3V @BGA153           
       SM661G8AC_4B_1.8V @BGA153           SM661G8AC_4B_3.3V @BGA153           SM661G8AC_1B_1.8V @BGA153           SM661G8AC_1B_3.3V @BGA153           
+      (DOSILICON)DS35Q1GA(x4)  @WSON8     (DOSILICON)DS35Q1GA(x4)  @SOP16     (DOSILICON)DS35Q1GA(x4)  @BGA24     (DOSILICON)DS35Q1GA(x1+ISP) @WSON8  
+      (DOSILICON)DS35Q1GA(x1+ISP) @SOP16  (DOSILICON)DS35Q1GA(x1+ISP) @BGA24  (DOSILICON)DS35Q2GA(x4)  @WSON8     (DOSILICON)DS35Q2GA(x4)  @SOP16     
+      (DOSILICON)DS35Q2GA(x4)  @BGA24     (DOSILICON)DS35Q2GA(x1+ISP) @WSON8  (DOSILICON)DS35Q2GA(x1+ISP) @SOP16  (DOSILICON)DS35Q2GA(x1+ISP) @BGA24  
+      (DOSILICON)DS35M1GA(x4)  @WSON8     (DOSILICON)DS35M1GA(x4)  @SOP16     (DOSILICON)DS35M1GA(x4)  @BGA24     (DOSILICON)DS35M1GA(x1+ISP) @WSON8  
+      (DOSILICON)DS35M1GA(x1+ISP) @SOP16  (DOSILICON)DS35M1GA(x1+ISP) @BGA24  (DOSILICON)DS35M2GA(x4)  @WSON8     (DOSILICON)DS35M2GA(x4)  @SOP16     
+      (DOSILICON)DS35M2GA(x4)  @BGA24     (DOSILICON)DS35M2GA(x1+ISP) @WSON8  (DOSILICON)DS35M2GA(x1+ISP) @SOP16  (DOSILICON)DS35M2GA(x1+ISP) @BGA24  
 
-         IC Support: 36 PCS
+         IC Support: 60 PCS
 
  
-   Total: 24556 PCS
+   Total: 24698 PCS
