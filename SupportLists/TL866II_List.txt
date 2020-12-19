@@ -1,14 +1,14 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V10.50  Date : 11.11th.2020
-           Supported Devices:   16488 
+            Software Version:   V10.53  Date : 12.12th.2020
+           Supported Devices:   16606
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
 
-   
+  
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -379,7 +379,7 @@
 
          IC Support: 12 PCS
 
- [ ASI ]     
+ [ ASI Semic ]     
 
       AX24C02                             AX24C02 @SOIC8                      AX24C04                             AX24C04 @SOIC8                      
       AX24C08                             AX24C08 @SOIC8                      AX24C16                             AX24C16 @SOIC8                      
@@ -1590,13 +1590,42 @@
       FM24C08A                            FM24C08A @SOIC8                     FM24C08A @TSSOP8                    FM24C08B                            
       FM24C08B @SOIC8                     FM24C08B @TSSOP8                    FM24C16A                            FM24C16A @SOIC8                     
       FM24C16A @TSSOP8                    FM24C16B                            FM24C16B @SOIC8                     FM24C16B @TSSOP8                    
-      FM24C32A                            FM24C32A @SOIC8                     FM24C32A @TSSOP8                    FM24C32B                            
-      FM24C32B @SOIC8                     FM24C32B @TSSOP8                    FM24C64A                            FM24C64A @SOIC8                     
-      FM24C64A @TSSOP8                    FM24C128A                           FM24C128A @SOIC8                    FM24C128A @TSSOP8                   
+      FM24C16D                            FM24C16D @SOIC8                     FM24C16D @TSSOP8                    FM24C32A                            
+      FM24C32A @SOIC8                     FM24C32A @TSSOP8                    FM24C32B                            FM24C32B @SOIC8                     
+      FM24C32B @TSSOP8                    FM24C32D                            FM24C32D @SOIC8                     FM24C32D @TSSOP8                    
+      FM24C64A                            FM24C64A @SOIC8                     FM24C64A @TSSOP8                    FM24C64D                            
+      FM24C64D @SOIC8                     FM24C64D @TSSOP8                    FM24C128A                           FM24C128A @SOIC8                    
+      FM24C128A @TSSOP8                   FM24C128D                           FM24C128D @SOIC8                    FM24C128D @TSSOP8                   
       FM24C256                            FM24C256 @SOIC8                     FM24C256 @TSSOP8                    FM24C256A                           
-      FM24C256A @SOIC8                    FM24C256A @TSSOP8                   
+      FM24C256A @SOIC8                    FM24C256A @TSSOP8                   FM24C256E                           FM24C256E @SOIC8                    
+      FM24C256E @TSSOP8                   FM24C512D                           FM24C512D @DFN8                     FM24C512D @SOIC8                    
+      FM24C512D @TSSOP8                   FM24C1024A @SOIC8                   FM24C1024A @SSOP8                   FM25080                             
+      FM25080 @SOIC8                      FM25080 @TSSOP8                     FM25160                             FM25160 @MAP8                       
+      FM25160 @SOIC8                      FM25160 @TSSOP8                     FM25320                             FM25320 @MAP8                       
+      FM25320 @SOIC8                      FM25320 @TSSOP8                     FM25640                             FM25640 @SOIC8                      
+      FM25640 @TSSOP8                     FM25128                             FM25128 @SOIC8                      FM25128 @TSSOP8                     
+      FM25256                             FM25256 @SOIC8                      FM25256 @TSSOP8                     FM25512                             
+      FM25512 @SOIC8                      FM25512 @TSSOP8                     FM25F005                            FM25F005 @WSON8                     
+      FM25F005 @SOIC8                     FM25F01                             FM25F01 @WSON8                      FM25F01 @SOIC8                      
+      FM25Q02                             FM25Q02 @SOP8                       FM25Q04                             FM25Q04 @SOP8                       
+      FM25Q08                             FM25Q08 @SOP8                       FM25Q08 @WSON8                      FM25Q08 @SOP16                      
+      FM25Q16                             FM25Q16 @SOP8                       FM25Q16 @WSON8                      FM25Q16 @SOP16                      
+      FM25Q16                             FM25Q16 @SOP8                       FM25Q16 @WSON8                      FM25Q16 @SOP16                      
+      FM25Q32                             FM25Q32 @SOP8                       FM25Q32 @WSON8                      FM25Q32 @SOP16                      
+      FM25Q64                             FM25Q64 @SOP8                       FM25Q64 @WSON8                      FM25Q64 @SOP16                      
+      FM25Q128 @SOP8                      FM25Q128 @WSON8                     FM25Q128 @SOP16                     FM25W02                             
+      FM25W02 @SOP8                       FM25W04                             FM25W04 @SOP8                       FM25W08                             
+      FM25W08 @SOP8                       FM25W08 @WSON8                      FM25W08 @SOP16                      FM25W16                             
+      FM25W16 @SOP8                       FM25W16 @WSON8                      FM25W16 @SOP16                      FM25W16                             
+      FM25W16 @SOP8                       FM25W16 @WSON8                      FM25W16 @SOP16                      FM25W32                             
+      FM25W32 @SOP8                       FM25W32 @WSON8                      FM25W32 @SOP16                      FM93C46A(x8)                        
+      FM93C46A(x8) @SOIC8                 FM93C46A(x8) @TSOP8                 FM93C46A(x16)                       FM93C46A(x16) @SOIC8                
+      FM93C46A(x16) @TSOP8                FM93C56A(x8)                        FM93C56A(x8) @SOIC8                 FM93C56A(x8) @TSOP8                 
+      FM93C56A(x16)                       FM93C56A(x16) @SOIC8                FM93C56A(x16) @TSOP8                FM93C66A(x8)                        
+      FM93C66A(x8) @SOIC8                 FM93C66A(x8) @TSOP8                 FM93C66A(x16)                       FM93C66A(x16) @SOIC8                
+      FM93C66A(x16) @TSOP8                
 
-         IC Support: 42 PCS
+         IC Support: 157 PCS
 
  [ FUJITSU ]     
 
@@ -2273,7 +2302,7 @@
 
          IC Support: 12 PCS
 
- [ MACRONIX ]     
+ [ MACRONIX(MXIC) ]     
 
       KH25L1005                           KH25L1005 @SON8                     KH25L1005 @SOP8                     KH25L1005A                          
       KH25L1005A @SON8                    KH25L1005A @SOP8                    KH25L1605A @SOP8                    KH25L1605A @SOP16                   
@@ -3088,6 +3117,11 @@
       MS25X32 @SOP16                      
 
          IC Support: 21 PCS
+
+ [ MSTAR ]     
+
+
+         IC Support: 0 PCS
 
  [ MY-MS ]     
 
@@ -4905,7 +4939,7 @@
 
          IC Support: 10 PCS
 
- [ Customiz ]     
+ [ Customize ]     
 
       KM-1M (User)                        
 
@@ -4932,44 +4966,45 @@
       4520            4529            4532            4543            
       4572            6821            7400            7401            
       7402            7403            7404            7405            
-      7406            7407            7408            7409            
-      7410            74107           74109           7411            
-      74112           74113           7412            74123           
-      74125           74126           7413            74132           
-      74133           74136           74137           74138           
-      74139           7414            74140           74147           
-      74148           74149           7415            74151           
-      74153           74154           74157           74158           
-      7416            74160           74161           74162           
-      74163           74164           74165           74166           
-      7417            74173           74174           74175           
-      7418            74181           74182           74190           
-      74191           74192           74193           74194           
-      74195           7420            7421            7422            
-      74237           74240           74241           74242           
-      74243           74244           74245           7425            
-      74251           74253           74257           74258           
-      74259           7426            74260           74266           
-      7427            74273           7428            74280           
-      74283           74292           74293           74294           
-      74298           74299           7430            7432            
-      7433            74354           74356           74365           
-      74366           74367           74368           7437            
-      74373           74374           74375           74377           
-      7438            74386           74390           74393           
-      7440            7442            7447            7450            
-      7451            7452            74533           74534           
-      74540           74541           7455            74563           
-      74564           74573           74574           7458            
-      74589           74595           74597           7460            
-      7461            7462            74640           74643           
-      74646           74648           7465            74688           
-      747266          7473            7474            7475            
-      7476            7485            7486            7492            
-      7493            8155            8255            8259            
-      8279            
-         IC Support: 217 PCS
+      74HC05(OD)      7406            74HC06(OD)      7407            
+      74HC07(OD)      7408            7409            7410            
+      74107           74109           7411            74112           
+      74113           7412            74123           74125           
+      74126           7413            74132           74133           
+      74136           74137           74138           74139           
+      7414            74140           74147           74148           
+      74149           7415            74151           74153           
+      74154           74157           74158           7416            
+      74160           74161           74162           74163           
+      74164           74165           74166           7417            
+      74173           74174           74175           7418            
+      74181           74182           74190           74191           
+      74192           74193           74194           74195           
+      7420            7421            7422            74237           
+      74240           74241           74242           74243           
+      74244           74245           7425            74251           
+      74253           74257           74258           74259           
+      7426            74260           74266           7427            
+      74273           7428            74280           74283           
+      74292           74293           74294           74298           
+      74299           7430            7432            7433            
+      74354           74356           74365           74366           
+      74367           74368           7437            74373           
+      74374           74375           74377           7438            
+      74386           74390           74393           7440            
+      7442            7447            7450            7451            
+      7452            74533           74534           74540           
+      74541           7455            74563           74564           
+      74573           74574           7458            74589           
+      74595           74597           7460            7461            
+      7462            74640           74643           74646           
+      74648           7465            74688           747266          
+      7473            7474            7475            7476            
+      7485            7486            7492            7493            
+      8155            8255            8259            8279            
+         IC Support: 220 PCS
 
 
-   Total: 16488 PCS
+   Total: 16606 PCS
+  
 
