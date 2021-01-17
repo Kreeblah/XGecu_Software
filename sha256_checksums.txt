@@ -64,3 +64,4 @@ a8debd5b6a1d991cd1ed4fa4d2ff59fef76ca17e98ea44c94952b97cc7a9d87c  ./Xgpro/10/xgp
 c9c01ade744374a3db2819c6ca7ac5fa9c8cce1bafb798857423c358955b8710  ./Xgpro/10/xgproV1053_setup.rar
 3c30bbe2720dca2130602a24d635f92ed34161c67bc033f71e275bf7bad4cb96  ./Xgpro/10/xgproV1055_setup.rar
 d633b5f16d4a00b064a7f4c4bd1ce17ef2f6c41adb07b9da9e51cb6de41bc8bc  ./Xgpro/10/xgproV1061_setup.rar
+9b3651f76cbfc5eead9e0eac959fb9316b13566cbf851b4b884ec3f727560106  ./Xgpro/10/xgproV1070_setup.rar
