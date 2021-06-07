@@ -1,12 +1,14 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V10.90  Date : 4.24th.2021
+            Software Version:   V11.00  Date : 6.4th.2021
            Supported Devices:   16685
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
+ 
+ 
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -1338,10 +1340,11 @@
       F49L004B @PLCC32                    F49L004B @TSOP40                    F49L040A @PLCC32                    F49L040A @TSOP32                    
       F49L400UA @TSOP48                   F49L400BA @TSOP48                   F49L800UA @TSOP48                   F49L800BA @TSOP48                   
       F49L160UA @TSOP48                   F49L160BA @TSOP48                   F49L320UA @TSOP48                   F49L320BA @TSOP48                   
-      F59L1G81A @TSOP48                   F59L1G81MA @TSOP48                  F59L2G81A @TSOP48                   F59L2G81A(2048_128) @TSOP48         
-      F59L4G81A @TSOP48                   F59L512M81A @TSOP48                 
+      F59L512M81A @TSOP48                 F59L1G81A @TSOP48                   F59L1G81LB @TSOP48                  F59L1G81MA @TSOP48                  
+      F59L1G81MB @TSOP48                  F59L2G81A @TSOP48                   F59L2G81A(2048_128) @TSOP48         F59L2G81KA @TSOP48                  
+      F59L2G81XA @TSOP48                  F59L4G81A @TSOP48                   
 
-         IC Support: 46 PCS
+         IC Support: 50 PCS
 
  [ ESTEK ]     
 
@@ -2769,8 +2772,8 @@
 
  [ MICROCHIP MPU ]     
 
-      PIC10F200                           PIC10F202                           PIC10F204                           PIC10F206                           
-      PIC10F220                           PIC10F222                           PIC12C508                           PIC12C508 @SOIC8                    
+      PIC10F200 @PDIP8                    PIC10F202 @PDIP8                    PIC10F204 @PDIP8                    PIC10F206 @PDIP8                    
+      PIC10F220 @PDIP8                    PIC10F222 @PDIP8                    PIC12C508                           PIC12C508 @SOIC8                    
       PIC12C508A                          PIC12C508A @SOIC8                   PIC12C509                           PIC12C509 @SOIC8                    
       PIC12C509A                          PIC12C509A @SOIC8                   PIC12C671                           PIC12C671 @DFN8                     
       PIC12C671 @SOIC8                    PIC12C672                           PIC12C672 @DFN8                     PIC12C672 @SOIC8                    
@@ -2793,227 +2796,227 @@
       PIC12LC672                          PIC12LC672 @DFN8                    PIC12LC672 @SOIC8                   PIC12LCE518                         
       PIC12LCE518 @SOIC8                  PIC12LCE519                         PIC12LCE519 @SOIC8                  PIC12LF1822 @DIP8                   
       PIC12LF1822 @SOIC8                  PIC12LF508                          PIC12LF508 @MSOP8                   PIC12LF508 @SOIC8                   
-      PIC12LF509                          PIC12LF509 @MSOP8                   PIC12LF509 @SOIC8                   PIC12LF519                          
-      PIC12LF519 @DFN8                    PIC12LF519 @MSOP8                   PIC12LF519 @SOIC8                   PIC16C505                           
-      PIC16C505 @SOIC14                   PIC16C54                            PIC16C54 @SOIC18                    PIC16C54A                           
-      PIC16C54A @SOIC18                   PIC16C54B                           PIC16C54B @SOIC18                   PIC16C54C                           
-      PIC16C54C @SOIC18                   PIC16C55                            PIC16C55 @SOIC28                    PIC16C554 @DIP18                    
-      PIC16C554 @SOIC18                   PIC16C558 @DIP18                    PIC16C558 @SOIC18                   PIC16C55A                           
-      PIC16C55A @SOIC28                   PIC16C56                            PIC16C56 @SOIC18                    PIC16C56A                           
-      PIC16C56A @SOIC18                   PIC16C57                            PIC16C57 @SOIC28                    PIC16C57C                           
-      PIC16C57C @SOIC28                   PIC16C58A                           PIC16C58A @SOIC18                   PIC16C58B                           
-      PIC16C58B @SOIC18                   PIC16C61                            PIC16C61 @SOIC18                    PIC16C62                            
-      PIC16C62 @SOIC28                    PIC16C620                           PIC16C620 @SOIC18                   PIC16C620A                          
-      PIC16C620A @SOIC18                  PIC16C621                           PIC16C621 @SOIC18                   PIC16C621A                          
-      PIC16C621A @SOIC18                  PIC16C622                           PIC16C622 @SOIC18                   PIC16C622A                          
-      PIC16C622A @SOIC18                  PIC16C62A                           PIC16C62A @SOIC28                   PIC16C62B                           
-      PIC16C62B @SOIC28                   PIC16C63                            PIC16C63 @SOIC28                    PIC16C63A                           
-      PIC16C63A @SOIC28                   PIC16C64                            PIC16C64A                           PIC16C65                            
-      PIC16C65A                           PIC16C65B                           PIC16C66                            PIC16C66 @SOIC28                    
-      PIC16C67                            PIC16C71                            PIC16C71 @SOIC18                    PIC16C710                           
-      PIC16C710 @SOIC18                   PIC16C711                           PIC16C711 @SOIC18                   PIC16C712 @DIP18                    
-      PIC16C712 @SOIC18                   PIC16C712 @SSOP20                   PIC16C716 @DIP18                    PIC16C716 @SOIC18                   
-      PIC16C716 @SSOP20                   PIC16C717 @DIP18                    PIC16C717 @SOIC18                   PIC16C717 @SSOP20                   
-      PIC16C72                            PIC16C72 @SOIC28                    PIC16C72A                           PIC16C72A @SOIC28                   
-      PIC16C73                            PIC16C73 @SOIC28                    PIC16C73A                           PIC16C73A @SOIC28                   
-      PIC16C73B                           PIC16C73B @SOIC28                   PIC16C74                            PIC16C745                           
-      PIC16C745 @SOIC28                   PIC16C74A                           PIC16C74B                           PIC16C76                            
-      PIC16C76 @SOIC28                    PIC16C765                           PIC16C77                            PIC16C770                           
-      PIC16C770 @SOIC20                   PIC16C771                           PIC16C771 @SOIC20                   PIC16C773                           
-      PIC16C773 @SOIC28                   PIC16C774                           PIC16C781                           PIC16C781 @SOIC20                   
-      PIC16C782                           PIC16C782 @SOIC20                   PIC16CE623                          PIC16CE623 @SOIC18                  
-      PIC16CE624                          PIC16CE624 @SOIC18                  PIC16CE625                          PIC16CE625 @SOIC18                  
-      PIC16CR54A                          PIC16CR54A @SOIC18                  PIC16CR54B                          PIC16CR54B @SOIC18                  
-      PIC16CR54C                          PIC16CR54C @SOIC18                  PIC16CR56A                          PIC16CR56A @SOIC18                  
-      PIC16CR57B                          PIC16CR57B @SOIC28                  PIC16CR57C                          PIC16CR57C @SOIC28                  
-      PIC16CR58A                          PIC16CR58A @SOIC18                  PIC16CR58B                          PIC16CR58B @SOIC18                  
-      PIC16F1823 @DIP14                   PIC16F1823 @SOIC14                  PIC16F1823 @TSSOP14                 PIC16F1824 @DIP14                   
-      PIC16F1824 @SOIC14                  PIC16F1824 @TSSOP14                 PIC16F1825 @DIP14                   PIC16F1825 @SOIC14                  
-      PIC16F1825 @TSSOP14                 PIC16F1826 @DIP18                   PIC16F1826 @SOIC18                  PIC16F1826 @SSOP20                  
-      PIC16F1827 @DIP18                   PIC16F1827 @SOIC18                  PIC16F1827 @SSOP20                  PIC16F1828 @DIP20                   
-      PIC16F1828 @SOIC20                  PIC16F1828 @SSOP20                  PIC16F1829 @DIP20                   PIC16F1829 @SOIC20                  
-      PIC16F1829 @SSOP20                  PIC16F505                           PIC16F505 @SOIC14                   PIC16F505 @TSOP14                   
-      PIC16F506                           PIC16F506 @SOIC14                   PIC16F506 @TSOP14                   PIC16F526                           
-      PIC16F526 @SOIC14                   PIC16F526 @TSOP14                   PIC16F54                            PIC16F54 @SOIC18                    
-      PIC16F57                            PIC16F57 @SOIC28                    PIC16F57 @TSOP28                    PIC16F59 (ISCP)                     
-      PIC16F610                           PIC16F610 @SOIC14                   PIC16F610 @TSOP14                   PIC16F616                           
-      PIC16F616 @SOIC14                   PIC16F616 @TSOP14                   PIC16F627A @DIP18                   PIC16F627A @SOIC18                  
-      PIC16F627A @SSOP20                  PIC16F628A @DIP18                   PIC16F628A @SOIC18                  PIC16F628A @SSOP20                  
-      PIC16F630                           PIC16F630 @SOIC14                   PIC16F630 @TSOP14                   PIC16F631                           
-      PIC16F631 @SOIC20                   PIC16F631 @TSOP20                   PIC16F636                           PIC16F636 @SOIC14                   
-      PIC16F636 @TSOP14                   PIC16F639                           PIC16F639 @SOIC20                   PIC16F639 @SSOP20                   
-      PIC16F648A @DIP18                   PIC16F648A @SOIC18                  PIC16F648A @SSOP20                  PIC16F676                           
-      PIC16F676 @SOIC14                   PIC16F676 @TSOP14                   PIC16F677                           PIC16F677 @SOIC20                   
-      PIC16F677 @TSOP20                   PIC16F684                           PIC16F684 @SOIC14                   PIC16F684 @TSOP14                   
-      PIC16F685                           PIC16F685 @SOIC20                   PIC16F685 @TSOP20                   PIC16F687                           
-      PIC16F687 @SOIC20                   PIC16F687 @TSOP20                   PIC16F688                           PIC16F688 @SOIC14                   
-      PIC16F688 @TSOP14                   PIC16F689                           PIC16F689 @SOIC20                   PIC16F689 @TSOP20                   
-      PIC16F690                           PIC16F690 @SOIC20                   PIC16F690 @TSOP20                   PIC16F716                           
-      PIC16F716 @SOIC18                   PIC16F716 @SSOP20                   PIC16F72                            PIC16F72 @SOIC28                    
-      PIC16F72 @SSOP28                    PIC16F722                           PIC16F722 @SOIC28                   PIC16F722 @SSOP28                   
-      PIC16F722A                          PIC16F722A @SOIC28                  PIC16F722A @SSOP28                  PIC16F723                           
-      PIC16F723 @SOIC28                   PIC16F723 @SSOP28                   PIC16F723A                          PIC16F723A @SOIC28                  
-      PIC16F723A @SSOP28                  PIC16F724                           PIC16F726                           PIC16F726 @SOIC28                   
-      PIC16F726 @SSOP28                   PIC16F727                           PIC16F73                            PIC16F73 @SOIC28                    
-      PIC16F73 @SSOP28                    PIC16F737                           PIC16F737 @SOIC28                   PIC16F737 @SSOP28                   
-      PIC16F74                            PIC16F747                           PIC16F76                            PIC16F76 @SOIC28                    
-      PIC16F76 @SSOP28                    PIC16F767                           PIC16F767 @SOIC28                   PIC16F767 @SSOP28                   
-      PIC16F77                            PIC16F777                           PIC16F785                           PIC16F785 @SOIC20                   
-      PIC16F785 @TSOP20                   PIC16F818                           PIC16F818 @SOIC18                   PIC16F819                           
-      PIC16F819 @SOIC18                   PIC16F83 @DIP18                     PIC16F83 @SOIC18                    PIC16F84 @DIP18                     
-      PIC16F84 @SOIC18                    PIC16F84A @DIP18                    PIC16F84A @SOIC18                   PIC16F84A @SSOP20                   
-      PIC16F87                            PIC16F87 @SOIC18                    PIC16F87 @SOIC20                    PIC16F870 @DIP28                    
-      PIC16F870 @SOIC28                   PIC16F870 @SSOP28                   PIC16F871 @DIP40                    PIC16F872 @DIP28                    
-      PIC16F872 @SOIC28                   PIC16F872 @SSOP28                   PIC16F873 @DIP28                    PIC16F873 @SOIC28                   
-      PIC16F873 @SSOP28                   PIC16F873A @DIP28                   PIC16F873A @SOIC28                  PIC16F873A @SSOP28                  
-      PIC16F874 @DIP40                    PIC16F874A @DIP40                   PIC16F876 @DIP28                    PIC16F876 @SOIC28                   
-      PIC16F876 @SSOP28                   PIC16F876A  @DIP28                  PIC16F876A @SOIC28                  PIC16F876A @SSOP28                  
-      PIC16F877 @DIP40                    PIC16F877A @DIP40                   PIC16F88                            PIC16F88 @SOIC18                    
-      PIC16F88 @SOIC20                    PIC16F882 @DIP28                    PIC16F882 @SOIC28                   PIC16F882 @SSOP28                   
-      PIC16F883 @DIP28                    PIC16F883 @SOIC28                   PIC16F883 @SSOP28                   PIC16F884 @DIP40                    
-      PIC16F886 @DIP28                    PIC16F886 @SOIC28                   PIC16F886 @SSOP28                   PIC16F887 @DIP40                    
-      PIC16F913 @DIP28                    PIC16F913 @SOIC28                   PIC16F913 @SSOP28                   PIC16F914 @DIP40                    
-      PIC16F916 @DIP28                    PIC16F916 @SOIC28                   PIC16F916 @SSOP28                   PIC16F917 @DIP40                    
-      PIC16F946 (ISCP)                    PIC16HV610                          PIC16HV610 @SOIC14                  PIC16HV610 @TSOP14                  
-      PIC16HV616                          PIC16HV616 @SOIC14                  PIC16HV616 @TSOP14                  PIC16HV785                          
-      PIC16HV785 @SOIC20                  PIC16HV785 @TSOP20                  PIC16LC505                          PIC16LC505 @SOIC14                  
-      PIC16LC54                           PIC16LC54 @SOIC18                   PIC16LC54A                          PIC16LC54A @SOIC18                  
-      PIC16LC54C                          PIC16LC54C @SOIC18                  PIC16LC55                           PIC16LC55 @SOIC28                   
-      PIC16LC554 @DIP18                   PIC16LC554 @SOIC18                  PIC16LC558 @DIP18                   PIC16LC558 @SOIC18                  
-      PIC16LC56A                          PIC16LC56A @SOIC18                  PIC16LC58A                          PIC16LC58A @SOIC18                  
-      PIC16LC58B                          PIC16LC58B @SOIC18                  PIC16LC620                          PIC16LC620 @SOIC18                  
-      PIC16LC620A                         PIC16LC620A @SOIC18                 PIC16LC621A                         PIC16LC621A @SOIC18                 
-      PIC16LC622                          PIC16LC622 @SOIC18                  PIC16LC622A                         PIC16LC622A @SOIC18                 
-      PIC16LC62A                          PIC16LC62A @SOIC28                  PIC16LC62B                          PIC16LC62B @SOIC28                  
-      PIC16LC63                           PIC16LC63 @SOIC28                   PIC16LC63A                          PIC16LC63A @SOIC28                  
-      PIC16LC64A                          PIC16LC65A                          PIC16LC65B                          PIC16LC66                           
-      PIC16LC66 @SOIC28                   PIC16LC67                           PIC16LC71                           PIC16LC71 @SOIC18                   
-      PIC16LC710                          PIC16LC710 @SOIC18                  PIC16LC711                          PIC16LC711 @SOIC18                  
-      PIC16LC712 @DIP18                   PIC16LC712 @SOIC18                  PIC16LC712 @SSOP20                  PIC16LC716 @DIP18                   
-      PIC16LC716 @SOIC18                  PIC16LC716 @SSOP20                  PIC16LC717 @DIP18                   PIC16LC717 @SOIC18                  
-      PIC16LC717 @SSOP20                  PIC16LC72                           PIC16LC72 @SOIC28                   PIC16LC72A                          
-      PIC16LC72A @SOIC28                  PIC16LC73A                          PIC16LC73A @SOIC28                  PIC16LC73B                          
-      PIC16LC73B @SOIC28                  PIC16LC74                           PIC16LC74A                          PIC16LC74B                          
-      PIC16LC76                           PIC16LC76 @SOIC28                   PIC16LC77                           PIC16LC773                          
-      PIC16LC773 @SOIC28                  PIC16LC774                          PIC16LC781                          PIC16LC781 @SOIC20                  
-      PIC16LC782                          PIC16LC782 @SOIC20                  PIC16LCE623                         PIC16LCE623 @SOIC18                 
-      PIC16LF1823 @DIP14                  PIC16LF1823 @SOIC14                 PIC16LF1823 @TSSOP14                PIC16LF1824 @DIP14                  
-      PIC16LF1824 @SOIC14                 PIC16LF1824 @TSSOP14                PIC16LF1825 @DIP14                  PIC16LF1825 @SOIC14                 
-      PIC16LF1825 @TSSOP14                PIC16LF1826 @DIP18                  PIC16LF1826 @SOIC18                 PIC16LF1826 @SSOP20                 
-      PIC16LF1827 @DIP18                  PIC16LF1827 @SOIC18                 PIC16LF1827 @SSOP20                 PIC16LF1828 @DIP20                  
-      PIC16LF1828 @SOIC20                 PIC16LF1828 @SSOP20                 PIC16LF1829 @DIP20                  PIC16LF1829 @SOIC20                 
-      PIC16LF1829 @SSOP20                 PIC16LF505                          PIC16LF505 @SOIC14                  PIC16LF505 @TSOP14                  
-      PIC16LF506                          PIC16LF506 @SOIC14                  PIC16LF506 @TSOP14                  PIC16LF526                          
-      PIC16LF526 @SOIC14                  PIC16LF526 @TSOP14                  PIC16LF54                           PIC16LF54 @SOIC18                   
-      PIC16LF57                           PIC16LF57 @SOIC28                   PIC16LF57 @TSOP28                   PIC16LF59 (ISCP)                    
-      PIC16LF627A @DIP18                  PIC16LF627A @SOIC18                 PIC16LF627A @SSOP20                 PIC16LF628A @DIP18                  
-      PIC16LF628A @SOIC18                 PIC16LF628A @SSOP20                 PIC16LF631                          PIC16LF631 @SOIC20                  
-      PIC16LF631 @TSOP20                  PIC16LF639                          PIC16LF639 @SOIC20                  PIC16LF639 @SSOP20                  
-      PIC16LF648A @DIP18                  PIC16LF648A @SOIC18                 PIC16LF648A @SSOP20                 PIC16LF677                          
-      PIC16LF677 @SOIC20                  PIC16LF677 @TSOP20                  PIC16LF685                          PIC16LF685 @SOIC20                  
-      PIC16LF685 @TSOP20                  PIC16LF687                          PIC16LF687 @SOIC20                  PIC16LF687 @TSOP20                  
-      PIC16LF689                          PIC16LF689 @SOIC20                  PIC16LF689 @TSOP20                  PIC16LF690                          
-      PIC16LF690 @SOIC20                  PIC16LF690 @TSOP20                  PIC16LF722                          PIC16LF722 @SOIC28                  
-      PIC16LF722 @SSOP28                  PIC16LF722A                         PIC16LF722A @SOIC28                 PIC16LF722A @SSOP28                 
-      PIC16LF723                          PIC16LF723 @SOIC28                  PIC16LF723 @SSOP28                  PIC16LF723A                         
-      PIC16LF723A @SOIC28                 PIC16LF723A @SSOP28                 PIC16LF724                          PIC16LF726                          
-      PIC16LF726 @SOIC28                  PIC16LF726 @SSOP28                  PIC16LF727                          PIC16LF73                           
-      PIC16LF73 @SOIC28                   PIC16LF73 @SSOP28                   PIC16LF737                          PIC16LF737 @SOIC28                  
-      PIC16LF737 @SSOP28                  PIC16LF74                           PIC16LF747                          PIC16LF76                           
-      PIC16LF76 @SOIC28                   PIC16LF76 @SSOP28                   PIC16LF767                          PIC16LF767 @SOIC28                  
-      PIC16LF767 @SSOP28                  PIC16LF77                           PIC16LF777                          PIC16LF818 @DIP18                   
-      PIC16LF818 @SOIC18                  PIC16LF819 @DIP18                   PIC16LF819 @SOIC18                  PIC16LF83 @DIP18                    
-      PIC16LF83 @SOIC18                   PIC16LF84 @DIP18                    PIC16LF84 @SOIC18                   PIC16LF84A @DIP18                   
-      PIC16LF84A @SOIC18                  PIC16LF84A @SSOP20                  PIC16LF87 @DIP18                    PIC16LF87 @SOIC18                   
-      PIC16LF870 @DIP28                   PIC16LF870 @SOIC28                  PIC16LF870 @SSOP28                  PIC16LF871 @DIP40                   
-      PIC16LF872 @DIP28                   PIC16LF872 @SOIC28                  PIC16LF872 @SSOP28                  PIC16LF873 @DIP28                   
-      PIC16LF873 @SOIC28                  PIC16LF873 @SSOP28                  PIC16LF873A @DIP28                  PIC16LF873A @SOIC28                 
-      PIC16LF873A @SSOP28                 PIC16LF874 @DIP40                   PIC16LF874A @DIP40                  PIC16LF876 @DIP28                   
-      PIC16LF876 @SOIC28                  PIC16LF876 @SSOP28                  PIC16LF876A @DIP28                  PIC16LF876A @SOIC28                 
-      PIC16LF876A @SSOP28                 PIC16LF877 @DIP40                   PIC16LF877A @DIP40                  PIC16LF88                           
-      PIC16LF88 @SOIC18                   PIC16LF913 @DIP28                   PIC16LF913 @SOIC28                  PIC16LF913 @SSOP28                  
-      PIC16LF914 @DIP40                   PIC16LF916 @DIP28                   PIC16LF916 @SOIC28                  PIC16LF916 @SSOP28                  
-      PIC16LF917 @DIP40                   PIC16LF946 (ISCP)                   PIC18F1220 @DIP18                   PIC18F1220 @SOIC18                  
-      PIC18F1220 @SSOP20                  PIC18F1320 @DIP18                   PIC18F1320 @SOIC18                  PIC18F1320 @SSOP20                  
-      PIC18F2221 @DIP28                   PIC18F2221 @SOIC28                  PIC18F2221 @SSOP28                  PIC18F2321 @DIP28                   
-      PIC18F2321 @SOIC28                  PIC18F2321 @SSOP28                  PIC18F2410 @DIP28                   PIC18F2410 @SOIC28                  
-      PIC18F2410 @SSOP28                  PIC18F242 @DIP28                    PIC18F242 @SOIC28                   PIC18F2420 @DIP28                   
-      PIC18F2420 @SOIC28                  PIC18F2420 @SSOP28                  PIC18F2423 @DIP28                   PIC18F2423 @SOIC28                  
-      PIC18F2423 @SSOP28                  PIC18F2450 @DIP28                   PIC18F2450 @SOIC28                  PIC18F2450 @SSOP28                  
-      PIC18F2455 @DIP28                   PIC18F2455 @SOIC28                  PIC18F2455 @SSOP28                  PIC18F2458 @DIP28                   
-      PIC18F2458 @SOIC28                  PIC18F2458 @SSOP28                  PIC18F248 @DIP28                    PIC18F248 @SOIC28                   
-      PIC18F2480 @DIP28                   PIC18F2480 @SOIC28                  PIC18F2480 @SSOP28                  PIC18F2510 @DIP28                   
-      PIC18F2510 @SOIC28                  PIC18F2510 @SSOP28                  PIC18F2515 @DIP28                   PIC18F2515 @SOIC28                  
-      PIC18F2515 @SSOP28                  PIC18F252 @DIP28                    PIC18F252 @SOIC28                   PIC18F2520 @DIP28                   
-      PIC18F2520 @SOIC28                  PIC18F2520 @SSOP28                  PIC18F2523 @DIP28                   PIC18F2523 @SOIC28                  
-      PIC18F2523 @SSOP28                  PIC18F2525 @DIP28                   PIC18F2525 @SOIC28                  PIC18F2525 @SSOP28                  
-      PIC18F2550 @DIP28                   PIC18F2550 @SOIC28                  PIC18F2550 @SSOP28                  PIC18F2553 @DIP28                   
-      PIC18F2553 @SOIC28                  PIC18F2553 @SSOP28                  PIC18F258 @DIP28                    PIC18F258 @SOIC28                   
-      PIC18F2580 @DIP28                   PIC18F2580 @SOIC28                  PIC18F2580 @SSOP28                  PIC18F2585 @DIP28                   
-      PIC18F2585 @SOIC28                  PIC18F2585 @SSOP28                  PIC18F2610 @DIP28                   PIC18F2610 @SOIC28                  
-      PIC18F2610 @SSOP28                  PIC18F2620 @DIP28                   PIC18F2620 @SOIC28                  PIC18F2620 @SSOP28                  
-      PIC18F2680 @DIP28                   PIC18F2680 @SOIC28                  PIC18F2680 @SSOP28                  PIC18F2682 @DIP28                   
-      PIC18F2682 @SOIC28                  PIC18F2682 @SSOP28                  PIC18F2685 @DIP28                   PIC18F2685 @SOIC28                  
-      PIC18F2685 @SSOP28                  PIC18F4221 @DIP40                   PIC18F4321 @DIP40                   PIC18F4410 @DIP40                   
-      PIC18F442  @DIP40                   PIC18F4420 @DIP40                   PIC18F4423 @DIP40                   PIC18F4450 @DIP40                   
-      PIC18F4455 @DIP40                   PIC18F4458 @DIP40                   PIC18F448  @DIP40                   PIC18F4480 @DIP40                   
-      PIC18F4510 @DIP40                   PIC18F4515 @DIP40                   PIC18F452  @DIP40                   PIC18F4520 @DIP40                   
-      PIC18F4523 @DIP40                   PIC18F4525 @DIP40                   PIC18F4550 @DIP40                   PIC18F4553 @DIP40                   
-      PIC18F458  @DIP40                   PIC18F4580 @DIP40                   PIC18F4585 @DIP40                   PIC18F4610 @DIP40                   
-      PIC18F4620 @DIP40                   PIC18F4680 @DIP40                   PIC18F4682 @DIP40                   PIC18F4685 @DIP40                   
-      PIC18LF1220 @DIP18                  PIC18LF1220 @SOIC18                 PIC18LF1220 @SSOP20                 PIC18LF1320 @DIP18                  
-      PIC18LF1320 @SOIC18                 PIC18LF1320 @SSOP20                 PIC18LF2221 @DIP28                  PIC18LF2221 @SOIC28                 
-      PIC18LF2221 @SSOP28                 PIC18LF2321 @DIP28                  PIC18LF2321 @SOIC28                 PIC18LF2321 @SSOP28                 
-      PIC18LF2410 @DIP28                  PIC18LF2410 @SOIC28                 PIC18LF2410 @SSOP28                 PIC18LF242 @DIP28                   
-      PIC18LF242 @SOIC28                  PIC18LF2420 @DIP28                  PIC18LF2420 @SOIC28                 PIC18LF2420 @SSOP28                 
-      PIC18LF2423 @DIP28                  PIC18LF2423 @SOIC28                 PIC18LF2423 @SSOP28                 PIC18LF2450 @DIP28                  
-      PIC18LF2450 @SOIC28                 PIC18LF2450 @SSOP28                 PIC18LF2455 @DIP28                  PIC18LF2455 @SOIC28                 
-      PIC18LF2455 @SSOP28                 PIC18LF2458 @DIP28                  PIC18LF2458 @SOIC28                 PIC18LF2458 @SSOP28                 
-      PIC18LF248 @DIP28                   PIC18LF248 @SOIC28                  PIC18LF2480 @DIP28                  PIC18LF2480 @SOIC28                 
-      PIC18LF2480 @SSOP28                 PIC18LF2510 @DIP28                  PIC18LF2510 @SOIC28                 PIC18LF2510 @SSOP28                 
-      PIC18LF2515 @DIP28                  PIC18LF2515 @SOIC28                 PIC18LF2515 @SSOP28                 PIC18LF252 @DIP28                   
-      PIC18LF252 @SOIC28                  PIC18LF2520 @DIP28                  PIC18LF2520 @SOIC28                 PIC18LF2520 @SSOP28                 
-      PIC18LF2523 @DIP28                  PIC18LF2523 @SOIC28                 PIC18LF2523 @SSOP28                 PIC18LF2525 @DIP28                  
-      PIC18LF2525 @SOIC28                 PIC18LF2525 @SSOP28                 PIC18LF2550 @DIP28                  PIC18LF2550 @SOIC28                 
-      PIC18LF2550 @SSOP28                 PIC18LF2553 @DIP28                  PIC18LF2553 @SOIC28                 PIC18LF2553 @SSOP28                 
-      PIC18LF258 @DIP28                   PIC18LF258 @SOIC28                  PIC18LF2580 @DIP28                  PIC18LF2580 @SOIC28                 
-      PIC18LF2580 @SSOP28                 PIC18LF2585 @DIP28                  PIC18LF2585 @SOIC28                 PIC18LF2585 @SSOP28                 
-      PIC18LF2610 @DIP28                  PIC18LF2610 @SOIC28                 PIC18LF2610 @SSOP28                 PIC18LF2620 @DIP28                  
-      PIC18LF2620 @SOIC28                 PIC18LF2620 @SSOP28                 PIC18LF2680 @DIP28                  PIC18LF2680 @SOIC28                 
-      PIC18LF2680 @SSOP28                 PIC18LF2682 @DIP28                  PIC18LF2682 @SOIC28                 PIC18LF2682 @SSOP28                 
-      PIC18LF2685 @DIP28                  PIC18LF2685 @SOIC28                 PIC18LF2685 @SSOP28                 PIC18LF4221 @DIP40                  
-      PIC18LF4321 @DIP40                  PIC18LF4410 @DIP40                  PIC18LF442  @DIP40                  PIC18LF4420 @DIP40                  
-      PIC18LF4423 @DIP40                  PIC18LF4450 @DIP40                  PIC18LF4455 @DIP40                  PIC18LF4458 @DIP40                  
-      PIC18LF448  @DIP40                  PIC18LF4480 @DIP40                  PIC18LF4510 @DIP40                  PIC18LF4515 @DIP40                  
-      PIC18LF452  @DIP40                  PIC18LF4520 @DIP40                  PIC18LF4523 @DIP40                  PIC18LF4525 @DIP40                  
-      PIC18LF4550 @DIP40                  PIC18LF4553 @DIP40                  PIC18LF458  @DIP40                  PIC18LF4580 @DIP40                  
-      PIC18LF4585 @DIP40                  PIC18LF4610 @DIP40                  PIC18LF4620 @DIP40                  PIC18LF4680 @DIP40                  
-      PIC18LF4682 @DIP40                  PIC18LF4685 @DIP40                  PIC18F24J10(ISP)                    PIC18F24J11(ISP)                    
-      PIC18F24J50(ISP)                    PIC18F25J10(ISP)                    PIC18F25J11(ISP)                    PIC18F25J50(ISP)                    
-      PIC18F26J11(ISP)                    PIC18F26J50(ISP)                    PIC18F44J10(ISP)                    PIC18F44J11(ISP)                    
-      PIC18F44J50(ISP)                    PIC18F45J10(ISP)                    PIC18F45J11(ISP)                    PIC18F45J50(ISP)                    
-      PIC18F46J11(ISP)                    PIC18F46J50(ISP)                    PIC18F63J11(ISP)                    PIC18F63J90(ISP)                    
-      PIC18F64J11(ISP)                    PIC18F64J90(ISP)                    PIC18F65J10(ISP)                    PIC18F65J11(ISP)                    
-      PIC18F65J15(ISP)                    PIC18F65J50(ISP)                    PIC18F65J90(ISP)                    PIC18F66J10(ISP)                    
-      PIC18F66J11(ISP)                    PIC18F66J15(ISP)                    PIC18F66J16(ISP)                    PIC18F66J50(ISP)                    
-      PIC18F66J55(ISP)                    PIC18F66J90(ISP)                    PIC18F66J93(ISP)                    PIC18F67J10(ISP)                    
-      PIC18F67J11(ISP)                    PIC18F67J50(ISP)                    PIC18F67J90(ISP)                    PIC18F67J93(ISP)                    
-      PIC18F83J11(ISP)                    PIC18F83J90(ISP)                    PIC18F84J11(ISP)                    PIC18F84J90(ISP)                    
-      PIC18F85J10(ISP)                    PIC18F85J11(ISP)                    PIC18F85J15(ISP)                    PIC18F85J50(ISP)                    
-      PIC18F85J90(ISP)                    PIC18F86J10(ISP)                    PIC18F86J11(ISP)                    PIC18F86J15(ISP)                    
-      PIC18F86J16(ISP)                    PIC18F86J50(ISP)                    PIC18F86J55(ISP)                    PIC18F86J90(ISP)                    
-      PIC18F86J93(ISP)                    PIC18F87J10(ISP)                    PIC18F87J11(ISP)                    PIC18F87J50(ISP)                    
-      PIC18F87J90(ISP)                    PIC18F87J93(ISP)                    PIC18LF24J10(ISP)                   PIC18LF24J11(ISP)                   
-      PIC18LF24J50(ISP)                   PIC18LF25J10(ISP)                   PIC18LF25J11(ISP)                   PIC18LF25J50(ISP)                   
-      PIC18LF26J11(ISP)                   PIC18LF26J50(ISP)                   PIC18LF44J10(ISP)                   PIC18LF44J11(ISP)                   
-      PIC18LF44J50(ISP)                   PIC18LF45J10(ISP)                   PIC18LF45J11(ISP)                   PIC18LF45J50(ISP)                   
-      PIC18LF46J11(ISP)                   PIC18LF46J50(ISP)                   PIC18LF63J11(ISP)                   PIC18LF63J90(ISP)                   
-      PIC18LF64J11(ISP)                   PIC18LF64J90(ISP)                   PIC18LF65J11(ISP)                   PIC18LF65J90(ISP)                   
-      PIC18LF66J10(ISP)                   PIC18LF83J11(ISP)                   PIC18LF83J90(ISP)                   PIC18LF84J11(ISP)                   
-      PIC18LF84J90(ISP)                   PIC18LF85J11(ISP)                   PIC18LF85J90(ISP)                   rfPIC12C509AG @SOIC18               
-      rfPIC12C509AF @SSOP20               
+      PIC12LF509                          PIC12LF509 @MSOP8                   PIC12LF509 @SOIC8                   PIC12LF510                          
+      PIC12LF510 @MSOP8                   PIC12LF510 @SOIC8                   PIC12LF519                          PIC12LF519 @DFN8                    
+      PIC12LF519 @MSOP8                   PIC12LF519 @SOIC8                   PIC16C505                           PIC16C505 @SOIC14                   
+      PIC16C54                            PIC16C54 @SOIC18                    PIC16C54A                           PIC16C54A @SOIC18                   
+      PIC16C54B                           PIC16C54B @SOIC18                   PIC16C54C                           PIC16C54C @SOIC18                   
+      PIC16C55                            PIC16C55 @SOIC28                    PIC16C554 @DIP18                    PIC16C554 @SOIC18                   
+      PIC16C558 @DIP18                    PIC16C558 @SOIC18                   PIC16C55A                           PIC16C55A @SOIC28                   
+      PIC16C56                            PIC16C56 @SOIC18                    PIC16C56A                           PIC16C56A @SOIC18                   
+      PIC16C57                            PIC16C57 @SOIC28                    PIC16C57C                           PIC16C57C @SOIC28                   
+      PIC16C58A                           PIC16C58A @SOIC18                   PIC16C58B                           PIC16C58B @SOIC18                   
+      PIC16C61                            PIC16C61 @SOIC18                    PIC16C62                            PIC16C62 @SOIC28                    
+      PIC16C620                           PIC16C620 @SOIC18                   PIC16C620A                          PIC16C620A @SOIC18                  
+      PIC16C621                           PIC16C621 @SOIC18                   PIC16C621A                          PIC16C621A @SOIC18                  
+      PIC16C622                           PIC16C622 @SOIC18                   PIC16C622A                          PIC16C622A @SOIC18                  
+      PIC16C62A                           PIC16C62A @SOIC28                   PIC16C62B                           PIC16C62B @SOIC28                   
+      PIC16C63                            PIC16C63 @SOIC28                    PIC16C63A                           PIC16C63A @SOIC28                   
+      PIC16C64                            PIC16C64A                           PIC16C65                            PIC16C65A                           
+      PIC16C65B                           PIC16C66                            PIC16C66 @SOIC28                    PIC16C67                            
+      PIC16C71                            PIC16C71 @SOIC18                    PIC16C710                           PIC16C710 @SOIC18                   
+      PIC16C711                           PIC16C711 @SOIC18                   PIC16C712 @DIP18                    PIC16C712 @SOIC18                   
+      PIC16C712 @SSOP20                   PIC16C716 @DIP18                    PIC16C716 @SOIC18                   PIC16C716 @SSOP20                   
+      PIC16C717 @DIP18                    PIC16C717 @SOIC18                   PIC16C717 @SSOP20                   PIC16C72                            
+      PIC16C72 @SOIC28                    PIC16C72A                           PIC16C72A @SOIC28                   PIC16C73                            
+      PIC16C73 @SOIC28                    PIC16C73A                           PIC16C73A @SOIC28                   PIC16C73B                           
+      PIC16C73B @SOIC28                   PIC16C74                            PIC16C745                           PIC16C745 @SOIC28                   
+      PIC16C74A                           PIC16C74B                           PIC16C76                            PIC16C76 @SOIC28                    
+      PIC16C765                           PIC16C77                            PIC16C770                           PIC16C770 @SOIC20                   
+      PIC16C771                           PIC16C771 @SOIC20                   PIC16C773                           PIC16C773 @SOIC28                   
+      PIC16C774                           PIC16C781                           PIC16C781 @SOIC20                   PIC16C782                           
+      PIC16C782 @SOIC20                   PIC16CE623                          PIC16CE623 @SOIC18                  PIC16CE624                          
+      PIC16CE624 @SOIC18                  PIC16CE625                          PIC16CE625 @SOIC18                  PIC16CR54A                          
+      PIC16CR54A @SOIC18                  PIC16CR54B                          PIC16CR54B @SOIC18                  PIC16CR54C                          
+      PIC16CR54C @SOIC18                  PIC16CR56A                          PIC16CR56A @SOIC18                  PIC16CR57B                          
+      PIC16CR57B @SOIC28                  PIC16CR57C                          PIC16CR57C @SOIC28                  PIC16CR58A                          
+      PIC16CR58A @SOIC18                  PIC16CR58B                          PIC16CR58B @SOIC18                  PIC16F1823 @DIP14                   
+      PIC16F1823 @SOIC14                  PIC16F1823 @TSSOP14                 PIC16F1824 @DIP14                   PIC16F1824 @SOIC14                  
+      PIC16F1824 @TSSOP14                 PIC16F1825 @DIP14                   PIC16F1825 @SOIC14                  PIC16F1825 @TSSOP14                 
+      PIC16F1826 @DIP18                   PIC16F1826 @SOIC18                  PIC16F1826 @SSOP20                  PIC16F1827 @DIP18                   
+      PIC16F1827 @SOIC18                  PIC16F1827 @SSOP20                  PIC16F1828 @DIP20                   PIC16F1828 @SOIC20                  
+      PIC16F1828 @SSOP20                  PIC16F1829 @DIP20                   PIC16F1829 @SOIC20                  PIC16F1829 @SSOP20                  
+      PIC16F505 @DIP14                    PIC16F505 @SOIC14                   PIC16F505 @TSOP14                   PIC16F506 @DIP14                    
+      PIC16F506 @SOIC14                   PIC16F506 @TSOP14                   PIC16F526 @DIP14                    PIC16F526 @SOIC14                   
+      PIC16F526 @TSOP14                   PIC16F54 @DIP18                     PIC16F54 @SOIC18                    PIC16F57 @DIP28                     
+      PIC16F57 @SOIC28                    PIC16F59 (ISCP)                     PIC16F610                           PIC16F610 @SOIC14                   
+      PIC16F610 @TSOP14                   PIC16F616                           PIC16F616 @SOIC14                   PIC16F616 @TSOP14                   
+      PIC16F627A @DIP18                   PIC16F627A @SOIC18                  PIC16F627A @SSOP20                  PIC16F628A @DIP18                   
+      PIC16F628A @SOIC18                  PIC16F628A @SSOP20                  PIC16F630                           PIC16F630 @SOIC14                   
+      PIC16F630 @TSOP14                   PIC16F631                           PIC16F631 @SOIC20                   PIC16F631 @TSOP20                   
+      PIC16F636                           PIC16F636 @SOIC14                   PIC16F636 @TSOP14                   PIC16F639                           
+      PIC16F639 @SOIC20                   PIC16F639 @SSOP20                   PIC16F648A @DIP18                   PIC16F648A @SOIC18                  
+      PIC16F648A @SSOP20                  PIC16F676                           PIC16F676 @SOIC14                   PIC16F676 @TSOP14                   
+      PIC16F677                           PIC16F677 @SOIC20                   PIC16F677 @TSOP20                   PIC16F684                           
+      PIC16F684 @SOIC14                   PIC16F684 @TSOP14                   PIC16F685                           PIC16F685 @SOIC20                   
+      PIC16F685 @TSOP20                   PIC16F687                           PIC16F687 @SOIC20                   PIC16F687 @TSOP20                   
+      PIC16F688                           PIC16F688 @SOIC14                   PIC16F688 @TSOP14                   PIC16F689                           
+      PIC16F689 @SOIC20                   PIC16F689 @TSOP20                   PIC16F690                           PIC16F690 @SOIC20                   
+      PIC16F690 @TSOP20                   PIC16F716                           PIC16F716 @SOIC18                   PIC16F716 @SSOP20                   
+      PIC16F72                            PIC16F72 @SOIC28                    PIC16F72 @SSOP28                    PIC16F722                           
+      PIC16F722 @SOIC28                   PIC16F722 @SSOP28                   PIC16F722A                          PIC16F722A @SOIC28                  
+      PIC16F722A @SSOP28                  PIC16F723                           PIC16F723 @SOIC28                   PIC16F723 @SSOP28                   
+      PIC16F723A                          PIC16F723A @SOIC28                  PIC16F723A @SSOP28                  PIC16F724                           
+      PIC16F726                           PIC16F726 @SOIC28                   PIC16F726 @SSOP28                   PIC16F727                           
+      PIC16F73                            PIC16F73 @SOIC28                    PIC16F73 @SSOP28                    PIC16F737                           
+      PIC16F737 @SOIC28                   PIC16F737 @SSOP28                   PIC16F74                            PIC16F747                           
+      PIC16F76                            PIC16F76 @SOIC28                    PIC16F76 @SSOP28                    PIC16F767                           
+      PIC16F767 @SOIC28                   PIC16F767 @SSOP28                   PIC16F77                            PIC16F777                           
+      PIC16F785                           PIC16F785 @SOIC20                   PIC16F785 @TSOP20                   PIC16F818                           
+      PIC16F818 @SOIC18                   PIC16F819                           PIC16F819 @SOIC18                   PIC16F83 @DIP18                     
+      PIC16F83 @SOIC18                    PIC16F84 @DIP18                     PIC16F84 @SOIC18                    PIC16F84A @DIP18                    
+      PIC16F84A @SOIC18                   PIC16F84A @SSOP20                   PIC16F87                            PIC16F87 @SOIC18                    
+      PIC16F87 @SOIC20                    PIC16F870 @DIP28                    PIC16F870 @SOIC28                   PIC16F870 @SSOP28                   
+      PIC16F871 @DIP40                    PIC16F872 @DIP28                    PIC16F872 @SOIC28                   PIC16F872 @SSOP28                   
+      PIC16F873 @DIP28                    PIC16F873 @SOIC28                   PIC16F873 @SSOP28                   PIC16F873A @DIP28                   
+      PIC16F873A @SOIC28                  PIC16F873A @SSOP28                  PIC16F874 @DIP40                    PIC16F874A @DIP40                   
+      PIC16F876 @DIP28                    PIC16F876 @SOIC28                   PIC16F876 @SSOP28                   PIC16F876A  @DIP28                  
+      PIC16F876A @SOIC28                  PIC16F876A @SSOP28                  PIC16F877 @DIP40                    PIC16F877A @DIP40                   
+      PIC16F88                            PIC16F88 @SOIC18                    PIC16F88 @SOIC20                    PIC16F882 @DIP28                    
+      PIC16F882 @SOIC28                   PIC16F882 @SSOP28                   PIC16F883 @DIP28                    PIC16F883 @SOIC28                   
+      PIC16F883 @SSOP28                   PIC16F884 @DIP40                    PIC16F886 @DIP28                    PIC16F886 @SOIC28                   
+      PIC16F886 @SSOP28                   PIC16F887 @DIP40                    PIC16F913 @DIP28                    PIC16F913 @SOIC28                   
+      PIC16F913 @SSOP28                   PIC16F914 @DIP40                    PIC16F916 @DIP28                    PIC16F916 @SOIC28                   
+      PIC16F916 @SSOP28                   PIC16F917 @DIP40                    PIC16F946 (ISCP)                    PIC16HV610                          
+      PIC16HV610 @SOIC14                  PIC16HV610 @TSOP14                  PIC16HV616                          PIC16HV616 @SOIC14                  
+      PIC16HV616 @TSOP14                  PIC16HV785                          PIC16HV785 @SOIC20                  PIC16HV785 @TSOP20                  
+      PIC16LC505                          PIC16LC505 @SOIC14                  PIC16LC54                           PIC16LC54 @SOIC18                   
+      PIC16LC54A                          PIC16LC54A @SOIC18                  PIC16LC54C                          PIC16LC54C @SOIC18                  
+      PIC16LC55                           PIC16LC55 @SOIC28                   PIC16LC554 @DIP18                   PIC16LC554 @SOIC18                  
+      PIC16LC558 @DIP18                   PIC16LC558 @SOIC18                  PIC16LC56A                          PIC16LC56A @SOIC18                  
+      PIC16LC58A                          PIC16LC58A @SOIC18                  PIC16LC58B                          PIC16LC58B @SOIC18                  
+      PIC16LC620                          PIC16LC620 @SOIC18                  PIC16LC620A                         PIC16LC620A @SOIC18                 
+      PIC16LC621A                         PIC16LC621A @SOIC18                 PIC16LC622                          PIC16LC622 @SOIC18                  
+      PIC16LC622A                         PIC16LC622A @SOIC18                 PIC16LC62A                          PIC16LC62A @SOIC28                  
+      PIC16LC62B                          PIC16LC62B @SOIC28                  PIC16LC63                           PIC16LC63 @SOIC28                   
+      PIC16LC63A                          PIC16LC63A @SOIC28                  PIC16LC64A                          PIC16LC65A                          
+      PIC16LC65B                          PIC16LC66                           PIC16LC66 @SOIC28                   PIC16LC67                           
+      PIC16LC71                           PIC16LC71 @SOIC18                   PIC16LC710                          PIC16LC710 @SOIC18                  
+      PIC16LC711                          PIC16LC711 @SOIC18                  PIC16LC712 @DIP18                   PIC16LC712 @SOIC18                  
+      PIC16LC712 @SSOP20                  PIC16LC716 @DIP18                   PIC16LC716 @SOIC18                  PIC16LC716 @SSOP20                  
+      PIC16LC717 @DIP18                   PIC16LC717 @SOIC18                  PIC16LC717 @SSOP20                  PIC16LC72                           
+      PIC16LC72 @SOIC28                   PIC16LC72A                          PIC16LC72A @SOIC28                  PIC16LC73A                          
+      PIC16LC73A @SOIC28                  PIC16LC73B                          PIC16LC73B @SOIC28                  PIC16LC74                           
+      PIC16LC74A                          PIC16LC74B                          PIC16LC76                           PIC16LC76 @SOIC28                   
+      PIC16LC77                           PIC16LC773                          PIC16LC773 @SOIC28                  PIC16LC774                          
+      PIC16LC781                          PIC16LC781 @SOIC20                  PIC16LC782                          PIC16LC782 @SOIC20                  
+      PIC16LCE623                         PIC16LCE623 @SOIC18                 PIC16LF1823 @DIP14                  PIC16LF1823 @SOIC14                 
+      PIC16LF1823 @TSSOP14                PIC16LF1824 @DIP14                  PIC16LF1824 @SOIC14                 PIC16LF1824 @TSSOP14                
+      PIC16LF1825 @DIP14                  PIC16LF1825 @SOIC14                 PIC16LF1825 @TSSOP14                PIC16LF1826 @DIP18                  
+      PIC16LF1826 @SOIC18                 PIC16LF1826 @SSOP20                 PIC16LF1827 @DIP18                  PIC16LF1827 @SOIC18                 
+      PIC16LF1827 @SSOP20                 PIC16LF1828 @DIP20                  PIC16LF1828 @SOIC20                 PIC16LF1828 @SSOP20                 
+      PIC16LF1829 @DIP20                  PIC16LF1829 @SOIC20                 PIC16LF1829 @SSOP20                 PIC16LF505 @DIP14                   
+      PIC16LF505 @SOIC14                  PIC16LF505 @TSOP14                  PIC16LF506 @DIP14                   PIC16LF506 @SOIC14                  
+      PIC16LF506 @TSOP14                  PIC16LF526 @DIP14                   PIC16LF526 @SOIC14                  PIC16LF526 @TSOP14                  
+      PIC16LF54 @DIP18                    PIC16LF54 @SOIC18                   PIC16LF57 @DIP28                    PIC16LF57 @SOIC28                   
+      PIC16LF59 (ISCP)                    PIC16LF627A @DIP18                  PIC16LF627A @SOIC18                 PIC16LF627A @SSOP20                 
+      PIC16LF628A @DIP18                  PIC16LF628A @SOIC18                 PIC16LF628A @SSOP20                 PIC16LF631                          
+      PIC16LF631 @SOIC20                  PIC16LF631 @TSOP20                  PIC16LF639                          PIC16LF639 @SOIC20                  
+      PIC16LF639 @SSOP20                  PIC16LF648A @DIP18                  PIC16LF648A @SOIC18                 PIC16LF648A @SSOP20                 
+      PIC16LF677                          PIC16LF677 @SOIC20                  PIC16LF677 @TSOP20                  PIC16LF685                          
+      PIC16LF685 @SOIC20                  PIC16LF685 @TSOP20                  PIC16LF687                          PIC16LF687 @SOIC20                  
+      PIC16LF687 @TSOP20                  PIC16LF689                          PIC16LF689 @SOIC20                  PIC16LF689 @TSOP20                  
+      PIC16LF690                          PIC16LF690 @SOIC20                  PIC16LF690 @TSOP20                  PIC16LF722                          
+      PIC16LF722 @SOIC28                  PIC16LF722 @SSOP28                  PIC16LF722A                         PIC16LF722A @SOIC28                 
+      PIC16LF722A @SSOP28                 PIC16LF723                          PIC16LF723 @SOIC28                  PIC16LF723 @SSOP28                  
+      PIC16LF723A                         PIC16LF723A @SOIC28                 PIC16LF723A @SSOP28                 PIC16LF724                          
+      PIC16LF726                          PIC16LF726 @SOIC28                  PIC16LF726 @SSOP28                  PIC16LF727                          
+      PIC16LF73                           PIC16LF73 @SOIC28                   PIC16LF73 @SSOP28                   PIC16LF737                          
+      PIC16LF737 @SOIC28                  PIC16LF737 @SSOP28                  PIC16LF74                           PIC16LF747                          
+      PIC16LF76                           PIC16LF76 @SOIC28                   PIC16LF76 @SSOP28                   PIC16LF767                          
+      PIC16LF767 @SOIC28                  PIC16LF767 @SSOP28                  PIC16LF77                           PIC16LF777                          
+      PIC16LF818 @DIP18                   PIC16LF818 @SOIC18                  PIC16LF819 @DIP18                   PIC16LF819 @SOIC18                  
+      PIC16LF83 @DIP18                    PIC16LF83 @SOIC18                   PIC16LF84 @DIP18                    PIC16LF84 @SOIC18                   
+      PIC16LF84A @DIP18                   PIC16LF84A @SOIC18                  PIC16LF84A @SSOP20                  PIC16LF87 @DIP18                    
+      PIC16LF87 @SOIC18                   PIC16LF870 @DIP28                   PIC16LF870 @SOIC28                  PIC16LF870 @SSOP28                  
+      PIC16LF871 @DIP40                   PIC16LF872 @DIP28                   PIC16LF872 @SOIC28                  PIC16LF872 @SSOP28                  
+      PIC16LF873 @DIP28                   PIC16LF873 @SOIC28                  PIC16LF873 @SSOP28                  PIC16LF873A @DIP28                  
+      PIC16LF873A @SOIC28                 PIC16LF873A @SSOP28                 PIC16LF874 @DIP40                   PIC16LF874A @DIP40                  
+      PIC16LF876 @DIP28                   PIC16LF876 @SOIC28                  PIC16LF876 @SSOP28                  PIC16LF876A @DIP28                  
+      PIC16LF876A @SOIC28                 PIC16LF876A @SSOP28                 PIC16LF877 @DIP40                   PIC16LF877A @DIP40                  
+      PIC16LF88                           PIC16LF88 @SOIC18                   PIC16LF913 @DIP28                   PIC16LF913 @SOIC28                  
+      PIC16LF913 @SSOP28                  PIC16LF914 @DIP40                   PIC16LF916 @DIP28                   PIC16LF916 @SOIC28                  
+      PIC16LF916 @SSOP28                  PIC16LF917 @DIP40                   PIC16LF946 (ISCP)                   PIC18F1220 @DIP18                   
+      PIC18F1220 @SOIC18                  PIC18F1220 @SSOP20                  PIC18F1320 @DIP18                   PIC18F1320 @SOIC18                  
+      PIC18F1320 @SSOP20                  PIC18F2221 @DIP28                   PIC18F2221 @SOIC28                  PIC18F2221 @SSOP28                  
+      PIC18F2321 @DIP28                   PIC18F2321 @SOIC28                  PIC18F2321 @SSOP28                  PIC18F2410 @DIP28                   
+      PIC18F2410 @SOIC28                  PIC18F2410 @SSOP28                  PIC18F242 @DIP28                    PIC18F242 @SOIC28                   
+      PIC18F2420 @DIP28                   PIC18F2420 @SOIC28                  PIC18F2420 @SSOP28                  PIC18F2423 @DIP28                   
+      PIC18F2423 @SOIC28                  PIC18F2423 @SSOP28                  PIC18F2450 @DIP28                   PIC18F2450 @SOIC28                  
+      PIC18F2450 @SSOP28                  PIC18F2455 @DIP28                   PIC18F2455 @SOIC28                  PIC18F2455 @SSOP28                  
+      PIC18F2458 @DIP28                   PIC18F2458 @SOIC28                  PIC18F2458 @SSOP28                  PIC18F248 @DIP28                    
+      PIC18F248 @SOIC28                   PIC18F2480 @DIP28                   PIC18F2480 @SOIC28                  PIC18F2480 @SSOP28                  
+      PIC18F2510 @DIP28                   PIC18F2510 @SOIC28                  PIC18F2510 @SSOP28                  PIC18F2515 @DIP28                   
+      PIC18F2515 @SOIC28                  PIC18F2515 @SSOP28                  PIC18F252 @DIP28                    PIC18F252 @SOIC28                   
+      PIC18F2520 @DIP28                   PIC18F2520 @SOIC28                  PIC18F2520 @SSOP28                  PIC18F2523 @DIP28                   
+      PIC18F2523 @SOIC28                  PIC18F2523 @SSOP28                  PIC18F2525 @DIP28                   PIC18F2525 @SOIC28                  
+      PIC18F2525 @SSOP28                  PIC18F2550 @DIP28                   PIC18F2550 @SOIC28                  PIC18F2550 @SSOP28                  
+      PIC18F2553 @DIP28                   PIC18F2553 @SOIC28                  PIC18F2553 @SSOP28                  PIC18F258 @DIP28                    
+      PIC18F258 @SOIC28                   PIC18F2580 @DIP28                   PIC18F2580 @SOIC28                  PIC18F2580 @SSOP28                  
+      PIC18F2585 @DIP28                   PIC18F2585 @SOIC28                  PIC18F2585 @SSOP28                  PIC18F2610 @DIP28                   
+      PIC18F2610 @SOIC28                  PIC18F2610 @SSOP28                  PIC18F2620 @DIP28                   PIC18F2620 @SOIC28                  
+      PIC18F2620 @SSOP28                  PIC18F2680 @DIP28                   PIC18F2680 @SOIC28                  PIC18F2680 @SSOP28                  
+      PIC18F2682 @DIP28                   PIC18F2682 @SOIC28                  PIC18F2682 @SSOP28                  PIC18F2685 @DIP28                   
+      PIC18F2685 @SOIC28                  PIC18F2685 @SSOP28                  PIC18F4221 @DIP40                   PIC18F4321 @DIP40                   
+      PIC18F4410 @DIP40                   PIC18F442  @DIP40                   PIC18F4420 @DIP40                   PIC18F4423 @DIP40                   
+      PIC18F4450 @DIP40                   PIC18F4455 @DIP40                   PIC18F4458 @DIP40                   PIC18F448  @DIP40                   
+      PIC18F4480 @DIP40                   PIC18F4510 @DIP40                   PIC18F4515 @DIP40                   PIC18F452  @DIP40                   
+      PIC18F4520 @DIP40                   PIC18F4523 @DIP40                   PIC18F4525 @DIP40                   PIC18F4550 @DIP40                   
+      PIC18F4553 @DIP40                   PIC18F458  @DIP40                   PIC18F4580 @DIP40                   PIC18F4585 @DIP40                   
+      PIC18F4610 @DIP40                   PIC18F4620 @DIP40                   PIC18F4680 @DIP40                   PIC18F4682 @DIP40                   
+      PIC18F4685 @DIP40                   PIC18LF1220 @DIP18                  PIC18LF1220 @SOIC18                 PIC18LF1220 @SSOP20                 
+      PIC18LF1320 @DIP18                  PIC18LF1320 @SOIC18                 PIC18LF1320 @SSOP20                 PIC18LF2221 @DIP28                  
+      PIC18LF2221 @SOIC28                 PIC18LF2221 @SSOP28                 PIC18LF2321 @DIP28                  PIC18LF2321 @SOIC28                 
+      PIC18LF2321 @SSOP28                 PIC18LF2410 @DIP28                  PIC18LF2410 @SOIC28                 PIC18LF2410 @SSOP28                 
+      PIC18LF242 @DIP28                   PIC18LF242 @SOIC28                  PIC18LF2420 @DIP28                  PIC18LF2420 @SOIC28                 
+      PIC18LF2420 @SSOP28                 PIC18LF2423 @DIP28                  PIC18LF2423 @SOIC28                 PIC18LF2423 @SSOP28                 
+      PIC18LF2450 @DIP28                  PIC18LF2450 @SOIC28                 PIC18LF2450 @SSOP28                 PIC18LF2455 @DIP28                  
+      PIC18LF2455 @SOIC28                 PIC18LF2455 @SSOP28                 PIC18LF2458 @DIP28                  PIC18LF2458 @SOIC28                 
+      PIC18LF2458 @SSOP28                 PIC18LF248 @DIP28                   PIC18LF248 @SOIC28                  PIC18LF2480 @DIP28                  
+      PIC18LF2480 @SOIC28                 PIC18LF2480 @SSOP28                 PIC18LF2510 @DIP28                  PIC18LF2510 @SOIC28                 
+      PIC18LF2510 @SSOP28                 PIC18LF2515 @DIP28                  PIC18LF2515 @SOIC28                 PIC18LF2515 @SSOP28                 
+      PIC18LF252 @DIP28                   PIC18LF252 @SOIC28                  PIC18LF2520 @DIP28                  PIC18LF2520 @SOIC28                 
+      PIC18LF2520 @SSOP28                 PIC18LF2523 @DIP28                  PIC18LF2523 @SOIC28                 PIC18LF2523 @SSOP28                 
+      PIC18LF2525 @DIP28                  PIC18LF2525 @SOIC28                 PIC18LF2525 @SSOP28                 PIC18LF2550 @DIP28                  
+      PIC18LF2550 @SOIC28                 PIC18LF2550 @SSOP28                 PIC18LF2553 @DIP28                  PIC18LF2553 @SOIC28                 
+      PIC18LF2553 @SSOP28                 PIC18LF258 @DIP28                   PIC18LF258 @SOIC28                  PIC18LF2580 @DIP28                  
+      PIC18LF2580 @SOIC28                 PIC18LF2580 @SSOP28                 PIC18LF2585 @DIP28                  PIC18LF2585 @SOIC28                 
+      PIC18LF2585 @SSOP28                 PIC18LF2610 @DIP28                  PIC18LF2610 @SOIC28                 PIC18LF2610 @SSOP28                 
+      PIC18LF2620 @DIP28                  PIC18LF2620 @SOIC28                 PIC18LF2620 @SSOP28                 PIC18LF2680 @DIP28                  
+      PIC18LF2680 @SOIC28                 PIC18LF2680 @SSOP28                 PIC18LF2682 @DIP28                  PIC18LF2682 @SOIC28                 
+      PIC18LF2682 @SSOP28                 PIC18LF2685 @DIP28                  PIC18LF2685 @SOIC28                 PIC18LF2685 @SSOP28                 
+      PIC18LF4221 @DIP40                  PIC18LF4321 @DIP40                  PIC18LF4410 @DIP40                  PIC18LF442  @DIP40                  
+      PIC18LF4420 @DIP40                  PIC18LF4423 @DIP40                  PIC18LF4450 @DIP40                  PIC18LF4455 @DIP40                  
+      PIC18LF4458 @DIP40                  PIC18LF448  @DIP40                  PIC18LF4480 @DIP40                  PIC18LF4510 @DIP40                  
+      PIC18LF4515 @DIP40                  PIC18LF452  @DIP40                  PIC18LF4520 @DIP40                  PIC18LF4523 @DIP40                  
+      PIC18LF4525 @DIP40                  PIC18LF4550 @DIP40                  PIC18LF4553 @DIP40                  PIC18LF458  @DIP40                  
+      PIC18LF4580 @DIP40                  PIC18LF4585 @DIP40                  PIC18LF4610 @DIP40                  PIC18LF4620 @DIP40                  
+      PIC18LF4680 @DIP40                  PIC18LF4682 @DIP40                  PIC18LF4685 @DIP40                  PIC18F24J10(ISP)                    
+      PIC18F24J11(ISP)                    PIC18F24J50(ISP)                    PIC18F25J10(ISP)                    PIC18F25J11(ISP)                    
+      PIC18F25J50(ISP)                    PIC18F26J11(ISP)                    PIC18F26J50(ISP)                    PIC18F44J10(ISP)                    
+      PIC18F44J11(ISP)                    PIC18F44J50(ISP)                    PIC18F45J10(ISP)                    PIC18F45J11(ISP)                    
+      PIC18F45J50(ISP)                    PIC18F46J11(ISP)                    PIC18F46J50(ISP)                    PIC18F63J11(ISP)                    
+      PIC18F63J90(ISP)                    PIC18F64J11(ISP)                    PIC18F64J90(ISP)                    PIC18F65J10(ISP)                    
+      PIC18F65J11(ISP)                    PIC18F65J15(ISP)                    PIC18F65J50(ISP)                    PIC18F65J90(ISP)                    
+      PIC18F66J10(ISP)                    PIC18F66J11(ISP)                    PIC18F66J15(ISP)                    PIC18F66J16(ISP)                    
+      PIC18F66J50(ISP)                    PIC18F66J55(ISP)                    PIC18F66J90(ISP)                    PIC18F66J93(ISP)                    
+      PIC18F67J10(ISP)                    PIC18F67J11(ISP)                    PIC18F67J50(ISP)                    PIC18F67J90(ISP)                    
+      PIC18F67J93(ISP)                    PIC18F83J11(ISP)                    PIC18F83J90(ISP)                    PIC18F84J11(ISP)                    
+      PIC18F84J90(ISP)                    PIC18F85J10(ISP)                    PIC18F85J11(ISP)                    PIC18F85J15(ISP)                    
+      PIC18F85J50(ISP)                    PIC18F85J90(ISP)                    PIC18F86J10(ISP)                    PIC18F86J11(ISP)                    
+      PIC18F86J15(ISP)                    PIC18F86J16(ISP)                    PIC18F86J50(ISP)                    PIC18F86J55(ISP)                    
+      PIC18F86J90(ISP)                    PIC18F86J93(ISP)                    PIC18F87J10(ISP)                    PIC18F87J11(ISP)                    
+      PIC18F87J50(ISP)                    PIC18F87J90(ISP)                    PIC18F87J93(ISP)                    PIC18LF24J10(ISP)                   
+      PIC18LF24J11(ISP)                   PIC18LF24J50(ISP)                   PIC18LF25J10(ISP)                   PIC18LF25J11(ISP)                   
+      PIC18LF25J50(ISP)                   PIC18LF26J11(ISP)                   PIC18LF26J50(ISP)                   PIC18LF44J10(ISP)                   
+      PIC18LF44J11(ISP)                   PIC18LF44J50(ISP)                   PIC18LF45J10(ISP)                   PIC18LF45J11(ISP)                   
+      PIC18LF45J50(ISP)                   PIC18LF46J11(ISP)                   PIC18LF46J50(ISP)                   PIC18LF63J11(ISP)                   
+      PIC18LF63J90(ISP)                   PIC18LF64J11(ISP)                   PIC18LF64J90(ISP)                   PIC18LF65J11(ISP)                   
+      PIC18LF65J90(ISP)                   PIC18LF66J10(ISP)                   PIC18LF83J11(ISP)                   PIC18LF83J90(ISP)                   
+      PIC18LF84J11(ISP)                   PIC18LF84J90(ISP)                   PIC18LF85J11(ISP)                   PIC18LF85J90(ISP)                   
+      rfPIC12C509AG @SOIC18               rfPIC12C509AF @SSOP20               
 
-         IC Support: 969 PCS
+         IC Support: 970 PCS
 
  [ MICRON ]     
 
@@ -3276,9 +3279,10 @@
 
       MSM27C201 @DIP32                    MSM27C201 @PLCC32                   MSM27C201 @TSOP32                   MSM27C401 @DIP32                    
       MSM27C401 @PLCC32                   MSM27C401 @TSOP32                   MSM27C512                           MSM27C512 @SOP28                    
-      MSM27C512 @PLCC32                   
+      MSM27C512 @PLCC32                   MSM27C1000 @DIP32                   MSM27C1000 @PLCC32                  MSM27C1000 @TSOP32                  
+      MSM27C2000 @DIP32                   MSM27C2000 @PLCC32                  MSM27C2000 @TSOP32                  
 
-         IC Support: 9 PCS
+         IC Support: 15 PCS
 
  [ ON SEMI. ]     
 
@@ -4937,9 +4941,9 @@
       LX24C08                             LX24C08 @SOIC8                      LX24C16                             LX24C16 @SOIC8                      
       PSU1GA30AT @TSOP48                  PSU1GA30BT @TSOP48                  PSU1GA30HT @TSOP48                  PSU2GA30BT @TSOP48                  
       PSU4GA30BT @TSOP48                  FS33ND01GS108 @TSOP48               FS33ND02GS108 @TSOP48               FS33ND04GS108 @TSOP48               
-      FS33ND02GH208(2048+64) @TSOP48      FS33ND02GH208(2048+128) @TSOP48     
+      FS33ND02GH208(2048+64) @TSOP48      FS33ND02GH208(2048+128) @TSOP48     MR25H10CD (EVERSPIN) @DFN8          
 
-         IC Support: 18 PCS
+         IC Support: 19 PCS
 
  [ Standard SRAM ]     
 
@@ -4962,66 +4966,71 @@
       4011            4012            4013            4015            
       4016            40161           40162           4017            
       40174           40175           4018            4019            
-      40193           4022            4023            4024            
-      4025            4026            4027            4028            
-      4029            4030            4031            4034            
-      4040            4041            4042            4043            
-      4044            4048            4049            4050            
-      4051            4052            4053            4063            
-      4066            4067            4068            4069            
-      4070            4071            4072            4073            
-      4075            4076            4077            4078            
-      4081            4082            4093            4099            
-      4501            4503            4506            4510            
-      4511            4512            4514            4515            
-      4516            4518            4519            4520            
-      4529            4531            4532            4543            
-      4572            6821            7400            7401            
-      7402            7403            7404            7405(NonStandard)
-      7405(OC/OD)     7406(NonStandard)7406(OC/OD)     7407(NonStandard)
-      7407(OC/OD)     7408            7409            7410            
+      40193           4020            4022            4023            
+      4024            4025            4026            4027            
+      4028            4029            4030            4031            
+      4034            4040            4041            4042            
+      4043            4044            4048            4049            
+      4050            4051            4052            4053            
+      4060            4063            4066            4067            
+      4068            4069            4070            4071            
+      4072            4073            4075            4076            
+      4077            4078            4081            4082            
+      4085            4093            4099            4501            
+      4503            4506            4510            4511            
+      4512            4514            4515            4516            
+      4518            4519            4520            4529            
+      4531            4532            4539            4543            
+      4555            4556            4572            4584            
+      6821            7400            7401            7402            
+      7403            7404            7405(NonStandard)7405(OC/OD)     
+      7406(NonStandard)7406(OC/OD)     7407(NonStandard)7407(OC/OD)     
+      7408            7409            7410            741035          
       74107           74109           7411            74112           
       74113           74114           7412            74123           
-      74125           74126           7413            74132           
-      74133           74136           74137           74138           
-      74139           7414            74140           74147           
-      74148           74149           7415            74151           
-      74153           74154           74155           74156           
-      74157           74158           7416            74160           
-      74161           74162           74163           74164           
-      74165           74166           74168           7417            
-      74173           74174           74175           7418            
-      74181           74182           74190           74191           
-      74192           74193           74194           74195           
-      7420            7421            7422            74237           
-      74238           74240           74241           74242           
-      74243           74244           74245           7425            
+      74125           74126           74128           7413            
+      74132           74133           74136           74137           
+      74138           74139           7414            74140           
+      74145           74147           74148           74149           
+      7415            74150           74151           74153           
+      74154           74155           74156           74157           
+      74158           7416            74160           74161           
+      74162           74163           74164           74165           
+      74166           74168           7417            74173           
+      74174           74175           74177           7418            
+      74181           74182           7419            74190           
+      74191           74192           74193           74194           
+      74195           7420            7421            7422            
+      74237           74238           7424            74240           
+      74241           74242           74243           74244           
+      74245           74248           74249           7425            
       74250           74251           74253           74257           
       74258           74259           7426            74260           
       74266           7427            74273           74279           
-      7428            74280           74283           74292           
-      74293           74294           74298           74299           
-      7430            7432            7433            74322           
-      74348           74354           74356           74365           
-      74366           74367           74368           7437            
-      74373           74374           74375           74377           
-      74379           7438            74386           74390           
-      74393           74395           744053          7440            
-      7442            74445           7447            7450            
-      7451            7452            74533           74534           
-      7454            74LS54          74540           74541           
-      7455            74563           74564           74573           
-      74574           7458            74589           74595           
-      74597           7460            7461            7462            
-      74640           74641           74642           74643           
+      7428            74280           74283           74290           
+      74292           74293           74294           74298           
+      74299           7430            7432            7433            
+      74322           74347           74348           74354           
+      74356           74365           74366           74367           
+      74368           7437            74373           74374           
+      74375           74377           74378           74379           
+      7438            74386           74390           74393           
+      74395           74399           744053          7440            
+      7442            74445           7445            7447            
+      74490           7450            7451            7452            
+      74533           74534           7454            74LS54          
+      74540           74541           7455            74563           
+      74564           74573           74574           7458            
+      74589           74595           74597           7460            
+      7461            7462            74623           74640           
+      74641           74642           74643           74645           
       74646           74648           7465            74688           
       747266          7473            7474            7475            
       7476            7483            7485            7486            
-      7490            7492            7493            7495            
-      7497            8155            8255            8259            
-      8279            
-         IC Support: 249 PCS
+      7487            7490            74906           7491            
+      7492            7493            7495            7497            
+      8155            8255            8259            8279            
+         IC Support: 276 PCS
 
 
-   Total: 16685 PCS
-
+   Total: 16723 PCS
