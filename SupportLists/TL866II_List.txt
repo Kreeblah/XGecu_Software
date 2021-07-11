@@ -1,7 +1,7 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V11.00  Date : 6.4th.2021
-           Supported Devices:   16685
+            Software Version:   V11.10  Date : 7.9th.2021
+           Supported Devices:   16810
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
@@ -2088,8 +2088,9 @@
       JS28F160C3B @TSOP48                 JS28F320B3T @TSOP48                 JS28F320B3B @TSOP48                 JS28F320C3T @TSOP48                 
       JS28F320C3B @TSOP48                 JS28F800B3T @TSOP48                 JS28F800B3B @TSOP48                 JS28F800C3T @TSOP48                 
       JS28F800C3B @TSOP48                 JS29F02G08AANB3 @TSOP48             JS29F02G08ABC   @TSOP48             JS29F04G08AANB1 @TSOP48             
-      JS29F04G08BANB3 @TSOP48             P28F001BX-T @DIP32                  P28F001BX-B @DIP32                  P28F256A    @DIP32                  
-      P28F512     @DIP32                  P28F010     @DIP32                  P28F020     @DIP32                  PA28F200B5T @SOP44                  
+      JS29F04G08BANB3 @TSOP48             M28F256                             M28F256 @PLCC32                     M28F256 @TSOP32                     
+      P28F001BX-T @DIP32                  P28F001BX-B @DIP32                  P28F256A    @DIP32                  P28F512     @DIP32                  
+      P28F010     @DIP32                  P28F020     @DIP32                  M28F010     @PLCC32                 PA28F200B5T @SOP44                  
       PA28F200B5B @SOP44                  PA28F200BVT @SOP44                  PA28F200BVB @SOP44                  PA28F400B5T @SOP44                  
       PA28F400B5B @SOP44                  PA28F400BVT @SOP44                  PA28F400BVB @SOP44                  PA28F800B5T @SOP44                  
       PA28F800B5B @SOP44                  QB25F016S33B @SOIC8                 QB25F160S33B @SOP16                 QB25F320S33B @SOP16                 
@@ -2116,7 +2117,7 @@
       TE28F800B3T @TSOP48                 TE28F800B3B @TSOP48                 TE28F800B5T @TSOP48                 TE28F800B5B @TSOP48                 
       TE28F800CVT @TSOP48                 TE28F800CVB @TSOP48                 TE28F800C3T @TSOP48                 TE28F800C3B @TSOP48                 
 
-         IC Support: 244 PCS
+         IC Support: 248 PCS
 
  [ ISSI ]     
 
@@ -3084,13 +3085,13 @@
 
  [ MITSUBISHI ]     
 
-      M5M27C102K @DIP40                   M5M27C128  @DIP28                   M5M27C202K @DIP40                   M5M27C202K @SOP40                   
-      M5M27C256K @DIP28                   M5M28F101 @DIP32                    M5M28F101 @PLCC32                   M5M28F101 @SOIC32                   
-      M5M28F101 @TSOP32                   M5M28F101A @DIP32                   M5M28F101A @PLCC32                  M5M28F101A @SOIC32                  
-      M5M28F101A @TSOP32                  M5M29FB800 @TSOP48                  M5M29FB800 @SOP44                   M5M29FT800 @TSOP48                  
-      M5M29FT800 @SOP44                   
+      M5M27C101K @DIP32                   M5M27C101K @PLCC32                  M5M27C101K @TSOP32                  M5M27C102K @DIP40                   
+      M5M27C128  @DIP28                   M5M27C202K @DIP40                   M5M27C202K @SOP40                   M5M27C256K @DIP28                   
+      M5M28F101 @DIP32                    M5M28F101 @PLCC32                   M5M28F101 @SOIC32                   M5M28F101 @TSOP32                   
+      M5M28F101A @DIP32                   M5M28F101A @PLCC32                  M5M28F101A @SOIC32                  M5M28F101A @TSOP32                  
+      M5M29FB800 @TSOP48                  M5M29FB800 @SOP44                   M5M29FT800 @TSOP48                  M5M29FT800 @SOP44                   
 
-         IC Support: 17 PCS
+         IC Support: 20 PCS
 
  [ MOSEL VITELIC ]     
 
@@ -3763,7 +3764,10 @@
       M28C64                              M28C64 @PLCC32                      M28C64 @SOIC28                      M28C64A                             
       M28C64A @PLCC32                     M28C64A @SOIC28                     M28C64-xxW                          M28C64-xxW @PLCC32                  
       M28C64-xxW @SOIC28                  M28F101                             M28F101 @PLCC32                     M28F101 @TSOP32                     
-      M28F201                             M28F201 @PLCC32                     M28F201 @TSOP32                     M28W800BT @TSOP48                   
+      M28F201                             M28F201 @PLCC32                     M28F201 @TSOP32                     M28F256                             
+      M28F256 @PLCC32                     M28F256 @TSOP32                     M28F512                             M28F512 @PLCC32                     
+      M28F512 @TSOP32                     M28F512B                            M28F512B @PLCC32                    M28F512B @TSOP32                    
+      M28F010                             M28F010 @PLCC32                     M28F010 @TSOP32                     M28W800BT @TSOP48                   
       M28W800BB @TSOP48                   M28W800CT @TSOP48                   M28W800CB @TSOP48                   M28W160BT @TSOP48                   
       M28W160BB @TSOP48                   M28W160CT @TSOP48                   M28W160CB @TSOP48                   M28W320BT @TSOP48                   
       M28W320BB @TSOP48                   M28W320CT @TSOP48                   M28W320CB @TSOP48                   M28W640CT @TSOP48                   
@@ -3805,31 +3809,32 @@
       M48T128Y @DIP32                     M48T128V @DIP32                     M48T129Y @DIP32                     M48T129V @DIP32                     
       M48T512Y @DIP32                     M48T512V @DIP32                     M48T513Y @DIP32                     M48T513V @DIP32                     
       M48Z02                              M48Z08                              M48Z08Y                             M48Z12                              
-      M48Z18                              M48Z35AY                            M48Z35AV                            M48Z58                              
-      M48Z58Y                             M48Z59                              M48Z59Y                             M48Z59V                             
-      M48Z128Y @DIP32                     M48Z128V @DIP32                     M48Z129Y @DIP32                     M48Z129V @DIP32                     
-      M48Z512Y @DIP32                     M48Z512V @DIP32                     M48Z2M1                             M48Z2M1Y                            
-      M50FLW040A @PLCC32                  M50FLW040A @TSOP32                  M50FLW040A @TSOP40                  M50FLW040B @PLCC32                  
-      M50FLW040B @TSOP32                  M50FLW040B @TSOP40                  M50FLW080A @PLCC32                  M50FLW080A @TSOP32                  
-      M50FLW080A @TSOP40                  M50FLW080B @PLCC32                  M50FLW080B @TSOP32                  M50FLW080B @TSOP40                  
-      M50FW002 @PLCC32                    M50FW040                            M50FW040 @PLCC32                    M50FW040 @TSOP32                    
-      M50FW040 @TSOP40                    M50FW080                            M50FW080 @PLCC32                    M50FW080 @TSOP32                    
-      M50FW080 @TSOP40                    M50FW016 @TSOP40                    M50LPW002 @PLCC32                   M50LPW040 @PLCC32                   
-      M50LPW040 @TSOP40                   M50LPW041 @PLCC32                   M50LPW041 @TSOP40                   M50LPW080 @PLCC32                   
-      M50LPW080 @TSOP40                   M50LPW116 @TSOP40                   M87C257 @DIP28                      M87C257 @PLCC32                     
-      M87C257(8D) @DIP28                  M87C257(8D) @PLCC32                 M93C06(x8)                          M93C06(x8) @SOIC8                   
-      M93C06(x16)                         M93C06(x16) @SOIC8                  M93S46                              M93S46 @SOIC8                       
-      M93S46 @TSOP8                       ST24C01                             ST24C01 @SOIC8                      ST24C02                             
-      ST24C02 @SOIC8                      ST24C04                             ST24C04 @SOIC8                      ST24C08                             
-      ST24C08 @SOIC8                      ST24C16                             ST24C16 @SOIC8                      ST24W01                             
-      ST24W01 @SOIC8                      ST24W02                             ST24W02 @SOIC8                      ST24W04                             
-      ST24W04 @SOIC8                      ST24W08                             ST24W08 @SOIC8                      ST24W16                             
-      ST24W16 @SOIC8                      ST27128A @DIP28                     ST27256 @DIP28                      ST2764A @DIP28                      
-      ST27C256 @DIP28                     ST27C256 @PLCC32                    ST93C06(x8)                         ST93C06(x8) @SOIC8                  
-      ST93C06(x16)                        ST93C06(x16) @SOIC8                 ST93CS46                            ST93CS46 @SOIC8                     
-      ST93CS46 @TSOP8                     TS27C256 @DIP28                     TS27C64A @DIP28                     TS27C64A @PLCC32                    
+      M48Z18                              M48Z35                              M48Z35Y                             M48Z35V                             
+      M48Z35AY                            M48Z35AV                            M48Z58                              M48Z58Y                             
+      M48Z59                              M48Z59Y                             M48Z59V                             M48Z128Y @DIP32                     
+      M48Z128V @DIP32                     M48Z129Y @DIP32                     M48Z129V @DIP32                     M48Z512Y @DIP32                     
+      M48Z512V @DIP32                     M48Z2M1                             M48Z2M1Y                            M50FLW040A @PLCC32                  
+      M50FLW040A @TSOP32                  M50FLW040A @TSOP40                  M50FLW040B @PLCC32                  M50FLW040B @TSOP32                  
+      M50FLW040B @TSOP40                  M50FLW080A @PLCC32                  M50FLW080A @TSOP32                  M50FLW080A @TSOP40                  
+      M50FLW080B @PLCC32                  M50FLW080B @TSOP32                  M50FLW080B @TSOP40                  M50FW002 @PLCC32                    
+      M50FW040                            M50FW040 @PLCC32                    M50FW040 @TSOP32                    M50FW040 @TSOP40                    
+      M50FW080                            M50FW080 @PLCC32                    M50FW080 @TSOP32                    M50FW080 @TSOP40                    
+      M50FW016 @TSOP40                    M50LPW002 @PLCC32                   M50LPW040 @PLCC32                   M50LPW040 @TSOP40                   
+      M50LPW041 @PLCC32                   M50LPW041 @TSOP40                   M50LPW080 @PLCC32                   M50LPW080 @TSOP40                   
+      M50LPW116 @TSOP40                   M87C257 @DIP28                      M87C257 @PLCC32                     M87C257(8D) @DIP28                  
+      M87C257(8D) @PLCC32                 M93C06(x8)                          M93C06(x8) @SOIC8                   M93C06(x16)                         
+      M93C06(x16) @SOIC8                  M93S46                              M93S46 @SOIC8                       M93S46 @TSOP8                       
+      ST24C01                             ST24C01 @SOIC8                      ST24C02                             ST24C02 @SOIC8                      
+      ST24C04                             ST24C04 @SOIC8                      ST24C08                             ST24C08 @SOIC8                      
+      ST24C16                             ST24C16 @SOIC8                      ST24W01                             ST24W01 @SOIC8                      
+      ST24W02                             ST24W02 @SOIC8                      ST24W04                             ST24W04 @SOIC8                      
+      ST24W08                             ST24W08 @SOIC8                      ST24W16                             ST24W16 @SOIC8                      
+      ST27128A @DIP28                     ST27256 @DIP28                      ST2764A @DIP28                      ST27C256 @DIP28                     
+      ST27C256 @PLCC32                    ST93C06(x8)                         ST93C06(x8) @SOIC8                  ST93C06(x16)                        
+      ST93C06(x16) @SOIC8                 ST93CS46                            ST93CS46 @SOIC8                     ST93CS46 @TSOP8                     
+      TS27C256 @DIP28                     TS27C64A @DIP28                     TS27C64A @PLCC32                    
 
-         IC Support: 340 PCS
+         IC Support: 355 PCS
 
  [ SHARP ]     
 
@@ -4261,7 +4266,10 @@
       M28C64 @SOIC28                      M28C64A                             M28C64A @PLCC32                     M28C64A @SOIC28                     
       M28C64-xxW                          M28C64-xxW @PLCC32                  M28C64-xxW @SOIC28                  M28F101                             
       M28F101 @PLCC32                     M28F101 @TSOP32                     M28F201                             M28F201 @PLCC32                     
-      M28F201 @TSOP32                     M28LV64                             M28LV64 @PLCC32                     M28LV64 @SOIC28                     
+      M28F201 @TSOP32                     M28F256                             M28F256 @PLCC32                     M28F256 @TSOP32                     
+      M28F512                             M28F512 @PLCC32                     M28F512 @TSOP32                     M28F512B                            
+      M28F512B @PLCC32                    M28F512B @TSOP32                    M28F010                             M28F010 @PLCC32                     
+      M28F010 @TSOP32                     M28LV64                             M28LV64 @PLCC32                     M28LV64 @SOIC28                     
       M28W160BB @TSOP48                   M28W160BT @TSOP48                   M28W160CB @TSOP48                   M28W160CT @TSOP48                   
       M28W320BB @TSOP48                   M28W320BT @TSOP48                   M28W320CB @TSOP48                   M28W320CT @TSOP48                   
       M28W640CB @TSOP48                   M28W640CT @TSOP48                   M28W640ECB @TSOP48                  M28W640ECT @TSOP48                  
@@ -4421,7 +4429,7 @@
       ST95P02 @SOIC8                      ST95P04                             ST95P04 @SOIC8                      ST95P08                             
       ST95P08 @SOIC8                      TS27C256 @DIP28                     TS27C64A @DIP28                     TS27C64A @PLCC32                    
 
-         IC Support: 868 PCS
+         IC Support: 880 PCS
 
  [ SUMMIT ]     
 
@@ -4907,25 +4915,33 @@
 
  [ ZBIT Semi. ]     
 
-      ZB25D40 @DIP8                       ZB25D40 @WSON8                      ZB25D40 @SOIC8                      ZB25D80 @DIP8                       
-      ZB25D80 @WSON8                      ZB25D80 @SOIC8                      ZB25D16 @DIP8                       ZB25D16 @WSON8                      
-      ZB25D16 @SOIC8                      ZB25LQ40 1.8V@DIP8                  ZB25LQ40 1.8V@WSON8                 ZB25LQ40 1.8V@SOIC8                 
-      ZB25VQ20 @DIP8                      ZB25VQ20 @WSON8                     ZB25VQ20 @SOIC8                     ZB25VQ40 @DIP8                      
-      ZB25VQ40 @WSON8                     ZB25VQ40 @SOIC8                     ZB25VQ80 @DIP8                      ZB25VQ80 @WSON8                     
-      ZB25VQ80 @SOIC8                     ZB25VQ16 @DIP8                      ZB25VQ16 @WSON8                     ZB25VQ16 @SOIC8                     
-      ZB25VQ32 @DIP8                      ZB25VQ32 @WSON8                     ZB25VQ32 @SOIC8                     ZB25VQ64 @DIP8                      
-      ZB25VQ64 @WSON8                     ZB25VQ64 @SOIC8                     ZB25VQ128 @DIP8                     ZB25VQ128 @WSON8                    
-      ZB25VQ128 @SOIC8                    ZB25LQ40(OTP) 1.8V@DIP8             ZB25LQ40(OTP) 1.8V@WSON8            ZB25LQ40(OTP) 1.8V@SOIC8            
-      ZB25VQ20(OTP) @DIP8                 ZB25VQ20(OTP) @WSON8                ZB25VQ20(OTP) @SOIC8                ZB25VQ40(OTP) @DIP8                 
-      ZB25VQ40(OTP) @WSON8                ZB25VQ40(OTP) @SOIC8                ZB25VQ80(OTP) @DIP8                 ZB25VQ80(OTP) @WSON8                
-      ZB25VQ80(OTP) @SOIC8                ZB25VQ16(OTP) @DIP8                 ZB25VQ16(OTP) @WSON8                ZB25VQ16(OTP) @SOIC8                
-      ZB25VQ32(OTP) @DIP8                 ZB25VQ32(OTP) @WSON8                ZB25VQ32(OTP) @SOIC8                ZB25VQ64(OTP) @DIP8                 
-      ZB25VQ64(OTP) @WSON8                ZB25VQ64(OTP) @SOIC8                ZB25VQ128(OTP) @DIP8                ZB25VQ128(OTP) @WSON8               
-      ZB25VQ128(OTP) @SOIC8               ZB25WD20 @DIP8                      ZB25WD20 @WSON8                     ZB25WD20 @SOIC8                     
-      ZB25WD40 @DIP8                      ZB25WD40 @WSON8                     ZB25WD40 @SOIC8                     ZB25WD80 @DIP8                      
-      ZB25WD80 @WSON8                     ZB25WD80 @SOIC8                     
+      ZB25D10A @DIP8                      ZB25D10A @WSON8                     ZB25D10A @SOIC8                     ZB25D20A @DIP8                      
+      ZB25D20A @WSON8                     ZB25D20A @SOIC8                     ZB25D40 @DIP8                       ZB25D40 @WSON8                      
+      ZB25D40 @SOIC8                      ZB25D80 @DIP8                       ZB25D80 @WSON8                      ZB25D80 @SOIC8                      
+      ZB25D16 @DIP8                       ZB25D16 @WSON8                      ZB25D16 @SOIC8                      ZB25LD10A @DIP8                     
+      ZB25LD10A @WSON8                    ZB25LD10A @SOIC8                    ZB25LD20A @DIP8                     ZB25LD20A @WSON8                    
+      ZB25LD20A @SOIC8                    ZB25D40B @DIP8                      ZB25D40B @WSON8                     ZB25D40B @SOIC8                     
+      ZB25LQ40 @DIP8                      ZB25LQ40 @WSON8                     ZB25LQ40 @SOIC8                     ZB25VQ20 @DIP8                      
+      ZB25VQ20 @WSON8                     ZB25VQ20 @SOIC8                     ZB25VQ40 @DIP8                      ZB25VQ40 @WSON8                     
+      ZB25VQ40 @SOIC8                     ZB25VQ80 @DIP8                      ZB25VQ80 @WSON8                     ZB25VQ80 @SOIC8                     
+      ZB25VQ16 @DIP8                      ZB25VQ16 @WSON8                     ZB25VQ16 @SOIC8                     ZB25VQ32 @DIP8                      
+      ZB25VQ32 @WSON8                     ZB25VQ32 @SOIC8                     ZB25VQ64 @DIP8                      ZB25VQ64 @WSON8                     
+      ZB25VQ64 @SOIC8                     ZB25VQ128 @DIP8                     ZB25VQ128 @WSON8                    ZB25VQ128 @SOIC8                    
+      ZB25VQ20A @DIP8                     ZB25VQ20A @WSON8                    ZB25VQ20A @SOIC8                    ZB25VQ40A @DIP8                     
+      ZB25VQ40A @WSON8                    ZB25VQ40A @SOIC8                    ZB25VQ80A @DIP8                     ZB25VQ80A @WSON8                    
+      ZB25VQ80A @SOIC8                    ZB25VQ16A @DIP8                     ZB25VQ16A @WSON8                    ZB25VQ16A @SOIC8                    
+      ZB25VQ32A @DIP8                     ZB25VQ32A @WSON8                    ZB25VQ32A @SOIC8                    ZB25VQ32B @DIP8                     
+      ZB25VQ32B @WSON8                    ZB25VQ32B @SOIC8                    ZB25VQ64A @DIP8                     ZB25VQ64A @WSON8                    
+      ZB25VQ64A @SOIC8                    ZB25VQ128A @DIP8                    ZB25VQ128A @WSON8                   ZB25VQ128A @SOIC8                   
+      ZB25WD10 @DIP8                      ZB25WD10 @WSON8                     ZB25WD10A @DIP8                     ZB25WD10A @WSON8                    
+      ZB25WD20 @DIP8                      ZB25WD20 @WSON8                     ZB25WD20 @SOIC8                     ZB25WD20A @DIP8                     
+      ZB25WD20A @WSON8                    ZB25WD20A @SOIC8                    ZB25WD40 @DIP8                      ZB25WD40 @WSON8                     
+      ZB25WD40 @SOIC8                     ZB25WD40A @DIP8                     ZB25WD40A @WSON8                    ZB25WD40A @SOIC8                    
+      ZB25WD40B @DIP8                     ZB25WD40B @WSON8                    ZB25WD40B @SOIC8                    ZB25WD80 @DIP8                      
+      ZB25WD80 @WSON8                     ZB25WD80 @SOIC8                     ZB25WD80A @DIP8                     ZB25WD80A @WSON8                    
+      ZB25WD80A @SOIC8                    ZB25WD80B @DIP8                     ZB25WD80B @WSON8                    ZB25WD80B @SOIC8                    
 
-         IC Support: 66 PCS
+         IC Support: 100 PCS
 
  [ ZEMPRO Elec ]     
 
@@ -4941,9 +4957,11 @@
       LX24C08                             LX24C08 @SOIC8                      LX24C16                             LX24C16 @SOIC8                      
       PSU1GA30AT @TSOP48                  PSU1GA30BT @TSOP48                  PSU1GA30HT @TSOP48                  PSU2GA30BT @TSOP48                  
       PSU4GA30BT @TSOP48                  FS33ND01GS108 @TSOP48               FS33ND02GS108 @TSOP48               FS33ND04GS108 @TSOP48               
-      FS33ND02GH208(2048+64) @TSOP48      FS33ND02GH208(2048+128) @TSOP48     MR25H10CD (EVERSPIN) @DFN8          
+      FS33ND02GH208(2048+64) @TSOP48      FS33ND02GH208(2048+128) @TSOP48     MR20H10  (EVERSPIN) @DFN8(5x6mm)    MR20H40  (EVERSPIN) @DFN8(5x6mm)    
+      MR20H256 (EVERSPIN) @DFN8(5x6mm)    MR20H256A(EVERSPIN) @DFN8(5x6mm)    MR20H512 (EVERSPIN) @DFN8(5x6mm)    MR25H10  (EVERSPIN) @DFN8(5x6mm)    
+      MR25H40  (EVERSPIN) @DFN8(5x6mm)    MR25H256 (EVERSPIN) @DFN8(5x6mm)    MR25H256A(EVERSPIN) @DFN8(5x6mm)    MR25H512 (EVERSPIN) @DFN8(5x6mm)    
 
-         IC Support: 19 PCS
+         IC Support: 28 PCS
 
  [ Standard SRAM ]     
 
@@ -4964,14 +4982,15 @@
       4000            4001            4002            4007            
       4008            4009            4010            40106           
       4011            4012            4013            4015            
-      4016            40161           40162           4017            
-      40174           40175           4018            4019            
-      40193           4020            4022            4023            
-      4024            4025            4026            4027            
-      4028            4029            4030            4031            
-      4034            4040            4041            4042            
-      4043            4044            4048            4049            
-      4050            4051            4052            4053            
+      4016            40161           40162           40163           
+      4017            40174           40175           4018            
+      4019            40192           40193           4020            
+      4021            4022            4023            4024            
+      4025            4026            4027            4028            
+      4029            4030            4031            4034            
+      4040            4041            4042            4043            
+      4044            4048            4049            4050            
+      4051            4052            4053            4054            
       4060            4063            4066            4067            
       4068            4069            4070            4071            
       4072            4073            4075            4076            
@@ -4991,46 +5010,48 @@
       74125           74126           74128           7413            
       74132           74133           74136           74137           
       74138           74139           7414            74140           
-      74145           74147           74148           74149           
-      7415            74150           74151           74153           
-      74154           74155           74156           74157           
-      74158           7416            74160           74161           
-      74162           74163           74164           74165           
-      74166           74168           7417            74173           
-      74174           74175           74177           7418            
-      74181           74182           7419            74190           
-      74191           74192           74193           74194           
-      74195           7420            7421            7422            
-      74237           74238           7424            74240           
-      74241           74242           74243           74244           
-      74245           74248           74249           7425            
+      74147           74148           74149           7415            
+      74150           74151           74153           74154           
+      74155           74156           74157           74158           
+      7416            74160           74161           74162           
+      74163           74164           74165           74166           
+      74168           7417            74173           74174           
+      74175           74177           7418            74181           
+      74182           7419            74190           74191           
+      74192           74193           74194           74195           
+      7420            7421            7422            74237           
+      74238           7424            74240           74241           
+      74242           74243           74244           74245           
+      74247           74248           74249           7425            
       74250           74251           74253           74257           
       74258           74259           7426            74260           
       74266           7427            74273           74279           
       7428            74280           74283           74290           
       74292           74293           74294           74298           
-      74299           7430            7432            7433            
-      74322           74347           74348           74354           
-      74356           74365           74366           74367           
-      74368           7437            74373           74374           
-      74375           74377           74378           74379           
-      7438            74386           74390           74393           
-      74395           74399           744053          7440            
-      7442            74445           7445            7447            
-      74490           7450            7451            7452            
-      74533           74534           7454            74LS54          
-      74540           74541           7455            74563           
-      74564           74573           74574           7458            
-      74589           74595           74597           7460            
-      7461            7462            74623           74640           
-      74641           74642           74643           74645           
+      74299           7430            7432            74322           
+      74323           7433            74347           74348           
+      74354           74356           74365           74366           
+      74367           74368           7437            74373           
+      74374           74375           74377           74378           
+      74379           7438            74386           74390           
+      74393           74395           74399           744053          
+      7440            74416           7442            74445           
+      7445            7447            74490           7450            
+      7451            7452            74533           74534           
+      7454            74LS54          74540           74541           
+      7455            74563           74564           74573           
+      74574           7458            74589           74595           
+      74597           7460            7461            7462            
+      74623           74640           74641           74642           
+      74643           7464            74644           74645           
       74646           74648           7465            74688           
-      747266          7473            7474            7475            
-      7476            7483            7485            7486            
-      7487            7490            74906           7491            
+      7472            747266          7473            7474            
+      7475            7476            7483            7485            
+      7486            7487            7490            74906           
       7492            7493            7495            7497            
       8155            8255            8259            8279            
-         IC Support: 276 PCS
+      PC827/LTV827    
+         IC Support: 285 PCS
 
 
-   Total: 16723 PCS
+   Total: 16810 PCS
