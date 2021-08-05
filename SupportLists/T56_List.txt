@@ -1,14 +1,13 @@
  
 XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V11.10  Date : 7.9th.2021
-           Supported Devices:   26715 pcs 
+            Software Version:   V11.20  Date : 8.5th.2021
+           Supported Devices:   26908pcs 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 =================================================================== 
-
  [ AUTO ]     
 
       AUTO EMMC(ISP)_1B_1.8V(recommend)   AUTO EMMC(ISP)_1B_3.3V              AUTO EMMC(ISP)_4B_1.8V              AUTO EMMC(ISP)_4B_3.3V              
@@ -1189,61 +1188,62 @@ XGecu T56 Universal Programmer Device Support List:
       EN25Q32A(OTP) @VDFN8                EN25Q32A(OTP) @SOP16                EN25Q32B(OTP)                       EN25Q32B(OTP) @SOP8                 
       EN25Q32B(OTP) @VDFN8                EN25Q32B(OTP) @SOP16                EN25Q64(OTP)                        EN25Q64(OTP)  @SOP8                 
       EN25Q64(OTP)  @VDFN8                EN25Q64(OTP)  @SOP16                EN25Q128(OTP)  @SOP8                EN25Q128(OTP)  @VDFN8               
-      EN25Q128(OTP)  @SOP16               EN25QH16(OTP)                       EN25QH16(OTP) @SOP8                 EN25QH16(OTP) @VDFN8                
-      EN25QH32(OTP)                       EN25QH32(OTP) @SOP8                 EN25QH32(OTP) @VDFN8                EN25QH32(OTP) @SOP16                
-      EN25QH64(OTP)                       EN25QH64(OTP)  @SOP8                EN25QH64(OTP)  @VDFN8               EN25QH64(OTP)  @SOP16               
-      EN25QH128(OTP)  @SOP8               EN25QH128(OTP)  @VDFN8              EN25QH128(OTP)  @SOP16              EN25T80                             
-      EN25T80(OTP)                        EN25T80 @SOP8                       EN25T80(OTP) @SOP8                  EN25T80 @VDFN8                      
-      EN25T80(OTP) @VDFN8                 EN25T16                             EN25T16(OTP)                        EN25T16 @SOP8                       
-      EN25T16(OTP) @SOP8                  EN25T16 @VDFN8                      EN25T16(OTP) @VDFN8                 EN29F002AB  @DIP32                  
-      EN29F002AB  @PLCC32                 EN29F002AB  @TSOP32                 EN29F002ANT @DIP32                  EN29F002ANT @PLCC32                 
-      EN29F002ANT @TSOP32                 EN29F002ANB @DIP32                  EN29F002ANB @PLCC32                 EN29F002ANB @TSOP32                 
-      EN29F002AT  @DIP32                  EN29F002AT  @PLCC32                 EN29F002AT  @TSOP32                 EN29F002B  @DIP32                   
-      EN29F002B  @PLCC32                  EN29F002B  @TSOP32                  EN29F002NT @DIP32                   EN29F002NT @PLCC32                  
-      EN29F002NT @TSOP32                  EN29F002NB @DIP32                   EN29F002NB @PLCC32                  EN29F002NB @TSOP32                  
-      EN29F002T  @DIP32                   EN29F002T  @PLCC32                  EN29F002T  @TSOP32                  EN29F512   @DIP32                   
-      EN29F512   @PLCC32                  EN29F512   @TSOP32                  EN29F512   @VSOP32                  EN29F010   @DIP32                   
-      EN29F010   @PLCC32                  EN29F010   @TSOP32                  EN29F010   @VSOP32                  EN29F040   @DIP32                   
-      EN29F040   @PLCC32                  EN29F040   @TSOP32                  EN29F040A  @DIP32                   EN29F040A  @PLCC32                  
-      EN29F040A  @TSOP32                  EN29F800B  @TSOP48                  EN29F800T  @TSOP48                  EN29LV010  @PLCC32                  
-      EN29LV010  @TSOP32                  EN29LV040  @PLCC32                  EN29LV040  @TSOP32                  EN29LV040A @DIP32                   
-      EN29LV040A @PLCC32                  EN29LV040A @TSOP32                  EN29GL032  @TSOP48                  EN29GL032  @BGA48                   
-      EN29GL032  @TSOP56                  EN29GL064AB @TSOP48                 EN29GL064AB @BGA48                  EN29GL064AT @TSOP48                 
-      EN29GL064AT @BGA48                  EN29GL064B @TSOP48                  EN29GL064B @BGA48                   EN29GL064B @TSOP56                  
-      EN29GL064B @BGA64                   EN29GL064H @TSOP48                  EN29GL064H @BGA48                   EN29GL064H @TSOP56                  
-      EN29GL064H @BGA64                   EN29GL064L @TSOP48                  EN29GL064L @BGA48                   EN29GL064L @TSOP56                  
-      EN29GL064L @BGA64                   EN29GL064T @TSOP48                  EN29GL064T @BGA48                   EN29GL064T @TSOP56                  
-      EN29GL064T @BGA64                   EN29GL128H @TSOP56                  EN29GL128H @BGA64                   EN29GL128L @TSOP56                  
-      EN29GL128L @BGA64                   EN29GL256H @TSOP56                  EN29GL256H @BGA64                   EN29GL256L @TSOP56                  
-      EN29GL256L @BGA64                   EN39LV010  @PLCC32                  EN39LV010  @TSOP32                  EN29LV400T  @TSOP48                 
-      EN29LV400T  @BGA48                  EN29LV400B  @TSOP48                 EN29LV400B  @BGA48                  EN29LV400AT @TSOP48                 
-      EN29LV400AT @BGA48                  EN29LV400AB @TSOP48                 EN29LV400AB @BGA48                  EN29LV400BT @TSOP48                 
-      EN29LV400BT @BGA48                  EN29LV400BB @TSOP48                 EN29LV400BB @BGA48                  EN29LV400JT @TSOP48                 
-      EN29LV400JB @TSOP48                 EN29LV800T  @TSOP48                 EN29LV800T  @BGA48                  EN29LV800B  @TSOP48                 
-      EN29LV800B  @BGA48                  EN29LV800AT @TSOP48                 EN29LV800AT @BGA48                  EN29LV800AB @TSOP48                 
-      EN29LV800AB @BGA48                  EN29LV800BT @TSOP48                 EN29LV800BT @BGA48                  EN29LV800BB @TSOP48                 
-      EN29LV800BB @BGA48                  EN29LV800JT @TSOP48                 EN29LV800JB @TSOP48                 EN29LV160T  @TSOP48                 
-      EN29LV160T  @BGA48                  EN29LV160B  @TSOP48                 EN29LV160B  @BGA48                  EN29LV160AT @TSOP48                 
-      EN29LV160AT @BGA48                  EN29LV160AB @TSOP48                 EN29LV160AB @BGA48                  EN29LV160BT @TSOP48                 
-      EN29LV160BT @BGA48                  EN29LV160BB @TSOP48                 EN29LV160BB @BGA48                  EN29LV160CT @TSOP48                 
-      EN29LV160CT @BGA48                  EN29LV160CB @TSOP48                 EN29LV160CB @BGA48                  EN29LV160JT @TSOP48                 
-      EN29LV160JB @TSOP48                 EN29LV320T  @TSOP48                 EN29LV320T  @BGA48                  EN29LV320B  @TSOP48                 
-      EN29LV320B  @BGA48                  EN29LV320AT  @TSOP48                EN29LV320AT  @BGA48                 EN29LV320AB  @TSOP48                
-      EN29LV320AB  @BGA48                 EN29LV320BT  @TSOP48                EN29LV320BT  @BGA48                 EN29LV320BB  @TSOP48                
-      EN29LV320BB  @BGA48                 EN29LV320CT  @TSOP48                EN29LV320CT  @BGA48                 EN29LV320CB  @TSOP48                
-      EN29LV320CB  @BGA48                 EN29LV640AB @TSOP48                 EN29LV640AB @BGA48                  EN29LV640AT @TSOP48                 
-      EN29LV640AT  @BGA48                 EN29LV640B  @TSOP48                 EN29LV640B  @BGA48                  EN29LV640H  @TSOP48                 
-      EN29LV640H  @BGA48                  EN29LV640L  @TSOP48                 EN29LV640L  @BGA48                  EN29LV640T  @TSOP48                 
-      EN29LV640T  @BGA48                  EN29LV641H  @TSOP48                 EN29LV641H  @BGA48                  EN29LV641L  @TSOP48                 
-      EN29LV641L  @BGA48                  EN29LV641U  @TSOP48                 EN29LV641U  @BGA48                  EN29PL320 @TSOP48                   
-      EN29PL320A @TSOP48                  EN29PL640 @TSOP48                   EN29SL400T  @TSOP48                 EN29SL400T  @BGA48                  
-      EN29SL400B  @TSOP48                 EN29SL400B  @BGA48                  EN29SL800T  @TSOP48                 EN29SL800T  @BGA48                  
-      EN29SL800B  @TSOP48                 EN29SL800B  @BGA48                  EN29SL160T  @TSOP48                 EN29SL160T  @BGA48                  
-      EN29SL160B  @TSOP48                 EN29SL160B  @BGA48                  EN39SL800  @TSOP48                  EN39SL800  @BGA48                   
-      EN39SL160AH @TSOP48                 EN39SL160AH @BGA48                  EN39SL160AL @TSOP48                 EN39SL160AL @BGA48                  
-      EN39SL160H @TSOP48                  EN39SL160H @BGA48                   EN39SL160L @TSOP48                  EN39SL160L @BGA48                   
+      EN25Q128(OTP)  @SOP16               EN25Q128A  @SOP8                    EN25Q128A  @VDFN8                   EN25Q128A  @SOP16                   
+      EN25QH16(OTP)                       EN25QH16(OTP) @SOP8                 EN25QH16(OTP) @VDFN8                EN25QH32(OTP)                       
+      EN25QH32(OTP) @SOP8                 EN25QH32(OTP) @VDFN8                EN25QH32(OTP) @SOP16                EN25QH64(OTP)                       
+      EN25QH64(OTP)  @SOP8                EN25QH64(OTP)  @VDFN8               EN25QH64(OTP)  @SOP16               EN25QH128(OTP)  @SOP8               
+      EN25QH128(OTP)  @VDFN8              EN25QH128(OTP)  @SOP16              EN25T80                             EN25T80(OTP)                        
+      EN25T80 @SOP8                       EN25T80(OTP) @SOP8                  EN25T80 @VDFN8                      EN25T80(OTP) @VDFN8                 
+      EN25T16                             EN25T16(OTP)                        EN25T16 @SOP8                       EN25T16(OTP) @SOP8                  
+      EN25T16 @VDFN8                      EN25T16(OTP) @VDFN8                 EN29F002AB  @DIP32                  EN29F002AB  @PLCC32                 
+      EN29F002AB  @TSOP32                 EN29F002ANT @DIP32                  EN29F002ANT @PLCC32                 EN29F002ANT @TSOP32                 
+      EN29F002ANB @DIP32                  EN29F002ANB @PLCC32                 EN29F002ANB @TSOP32                 EN29F002AT  @DIP32                  
+      EN29F002AT  @PLCC32                 EN29F002AT  @TSOP32                 EN29F002B  @DIP32                   EN29F002B  @PLCC32                  
+      EN29F002B  @TSOP32                  EN29F002NT @DIP32                   EN29F002NT @PLCC32                  EN29F002NT @TSOP32                  
+      EN29F002NB @DIP32                   EN29F002NB @PLCC32                  EN29F002NB @TSOP32                  EN29F002T  @DIP32                   
+      EN29F002T  @PLCC32                  EN29F002T  @TSOP32                  EN29F512   @DIP32                   EN29F512   @PLCC32                  
+      EN29F512   @TSOP32                  EN29F512   @VSOP32                  EN29F010   @DIP32                   EN29F010   @PLCC32                  
+      EN29F010   @TSOP32                  EN29F010   @VSOP32                  EN29F040   @DIP32                   EN29F040   @PLCC32                  
+      EN29F040   @TSOP32                  EN29F040A  @DIP32                   EN29F040A  @PLCC32                  EN29F040A  @TSOP32                  
+      EN29F800B  @TSOP48                  EN29F800T  @TSOP48                  EN29LV010  @PLCC32                  EN29LV010  @TSOP32                  
+      EN29LV040  @PLCC32                  EN29LV040  @TSOP32                  EN29LV040A @DIP32                   EN29LV040A @PLCC32                  
+      EN29LV040A @TSOP32                  EN29GL032  @TSOP48                  EN29GL032  @BGA48                   EN29GL032  @TSOP56                  
+      EN29GL064AB @TSOP48                 EN29GL064AB @BGA48                  EN29GL064AT @TSOP48                 EN29GL064AT @BGA48                  
+      EN29GL064B @TSOP48                  EN29GL064B @BGA48                   EN29GL064B @TSOP56                  EN29GL064B @BGA64                   
+      EN29GL064H @TSOP48                  EN29GL064H @BGA48                   EN29GL064H @TSOP56                  EN29GL064H @BGA64                   
+      EN29GL064L @TSOP48                  EN29GL064L @BGA48                   EN29GL064L @TSOP56                  EN29GL064L @BGA64                   
+      EN29GL064T @TSOP48                  EN29GL064T @BGA48                   EN29GL064T @TSOP56                  EN29GL064T @BGA64                   
+      EN29GL128H @TSOP56                  EN29GL128H @BGA64                   EN29GL128L @TSOP56                  EN29GL128L @BGA64                   
+      EN29GL256H @TSOP56                  EN29GL256H @BGA64                   EN29GL256L @TSOP56                  EN29GL256L @BGA64                   
+      EN39LV010  @PLCC32                  EN39LV010  @TSOP32                  EN29LV400T  @TSOP48                 EN29LV400T  @BGA48                  
+      EN29LV400B  @TSOP48                 EN29LV400B  @BGA48                  EN29LV400AT @TSOP48                 EN29LV400AT @BGA48                  
+      EN29LV400AB @TSOP48                 EN29LV400AB @BGA48                  EN29LV400BT @TSOP48                 EN29LV400BT @BGA48                  
+      EN29LV400BB @TSOP48                 EN29LV400BB @BGA48                  EN29LV400JT @TSOP48                 EN29LV400JB @TSOP48                 
+      EN29LV800T  @TSOP48                 EN29LV800T  @BGA48                  EN29LV800B  @TSOP48                 EN29LV800B  @BGA48                  
+      EN29LV800AT @TSOP48                 EN29LV800AT @BGA48                  EN29LV800AB @TSOP48                 EN29LV800AB @BGA48                  
+      EN29LV800BT @TSOP48                 EN29LV800BT @BGA48                  EN29LV800BB @TSOP48                 EN29LV800BB @BGA48                  
+      EN29LV800JT @TSOP48                 EN29LV800JB @TSOP48                 EN29LV160T  @TSOP48                 EN29LV160T  @BGA48                  
+      EN29LV160B  @TSOP48                 EN29LV160B  @BGA48                  EN29LV160AT @TSOP48                 EN29LV160AT @BGA48                  
+      EN29LV160AB @TSOP48                 EN29LV160AB @BGA48                  EN29LV160BT @TSOP48                 EN29LV160BT @BGA48                  
+      EN29LV160BB @TSOP48                 EN29LV160BB @BGA48                  EN29LV160CT @TSOP48                 EN29LV160CT @BGA48                  
+      EN29LV160CB @TSOP48                 EN29LV160CB @BGA48                  EN29LV160JT @TSOP48                 EN29LV160JB @TSOP48                 
+      EN29LV320T  @TSOP48                 EN29LV320T  @BGA48                  EN29LV320B  @TSOP48                 EN29LV320B  @BGA48                  
+      EN29LV320AT  @TSOP48                EN29LV320AT  @BGA48                 EN29LV320AB  @TSOP48                EN29LV320AB  @BGA48                 
+      EN29LV320BT  @TSOP48                EN29LV320BT  @BGA48                 EN29LV320BB  @TSOP48                EN29LV320BB  @BGA48                 
+      EN29LV320CT  @TSOP48                EN29LV320CT  @BGA48                 EN29LV320CB  @TSOP48                EN29LV320CB  @BGA48                 
+      EN29LV640AB @TSOP48                 EN29LV640AB @BGA48                  EN29LV640AT @TSOP48                 EN29LV640AT  @BGA48                 
+      EN29LV640B  @TSOP48                 EN29LV640B  @BGA48                  EN29LV640H  @TSOP48                 EN29LV640H  @BGA48                  
+      EN29LV640L  @TSOP48                 EN29LV640L  @BGA48                  EN29LV640T  @TSOP48                 EN29LV640T  @BGA48                  
+      EN29LV641H  @TSOP48                 EN29LV641H  @BGA48                  EN29LV641L  @TSOP48                 EN29LV641L  @BGA48                  
+      EN29LV641U  @TSOP48                 EN29LV641U  @BGA48                  EN29PL320 @TSOP48                   EN29PL320A @TSOP48                  
+      EN29PL640 @TSOP48                   EN29SL400T  @TSOP48                 EN29SL400T  @BGA48                  EN29SL400B  @TSOP48                 
+      EN29SL400B  @BGA48                  EN29SL800T  @TSOP48                 EN29SL800T  @BGA48                  EN29SL800B  @TSOP48                 
+      EN29SL800B  @BGA48                  EN29SL160T  @TSOP48                 EN29SL160T  @BGA48                  EN29SL160B  @TSOP48                 
+      EN29SL160B  @BGA48                  EN39SL800  @TSOP48                  EN39SL800  @BGA48                   EN39SL160AH @TSOP48                 
+      EN39SL160AH @BGA48                  EN39SL160AL @TSOP48                 EN39SL160AL @BGA48                  EN39SL160H @TSOP48                  
+      EN39SL160H @BGA48                   EN39SL160L @TSOP48                  EN39SL160L @BGA48                   
 
-         IC Support: 404 PCS
+         IC Support: 407 PCS
 
  [ CHINGIS ]     
 
@@ -1445,13 +1445,16 @@ XGecu T56 Universal Programmer Device Support List:
 
  [ DALLAS ]     
 
-      DS1220 (RW)                         DS1225 (RW)                         DS1230AB (RW)                       DS1230W (RW 3.3V)                   
-      DS1230Y (RW)                        DS1245AB(RW)                        DS1245W (RW 3.3V)                   DS1245Y (RW)                        
-      DS1249AB(RW)                        DS1249W (RW 3.3V)                   DS1249Y (RW)                        DS1250AB(RW)                        
-      DS1250W (RW 3.3V)                   DS1250Y (RW)                        DS1265AB (RW)                       DS1265Y (RW)                        
-      DS1270AB (RW)                       DS1270Y (RW)                        
+      DS1220 (RW)                         DS1220 (TEST)                       DS1225 (RW)                         DS1225 (TEST)                       
+      DS1230AB (RW)                       DS1230AB (TEST)                     DS1230W (RW 3.3V)                   DS1230W (TEST 3.3V)                 
+      DS1230Y (RW)                        DS1230Y (TEST)                      DS1245AB(RW)                        DS1245AB(TEST)                      
+      DS1245W (RW 3.3V)                   DS1245W (TEST 3.3V)                 DS1245Y (RW)                        DS1245Y (TEST)                      
+      DS1249AB(RW)                        DS1249AB(TEST)                      DS1249W (RW 3.3V)                   DS1249W (TEST 3.3V)                 
+      DS1249Y (RW)                        DS1249Y (TEST)                      DS1250AB(RW)                        DS1250AB(TEST)                      
+      DS1250W (RW 3.3V)                   DS1250W (TEST 3.3V)                 DS1250Y (RW)                        DS1250Y (TEST)                      
+      DS1265AB (RW)                       DS1265Y (RW)                        DS1270AB (RW)                       DS1270Y (RW)                        
 
-         IC Support: 18 PCS
+         IC Support: 32 PCS
 
  [ DENSE-PAC ]     
 
@@ -1950,6 +1953,12 @@ XGecu T56 Universal Programmer Device Support List:
       FM25LG02B(x4)  @PDFN8               FM25LG02B(x4)  @SOP16               FM25LG02B(x4)  @BGA24               FM25LG02B(x1+ISP) @PDFN8            
       FM25LG02B(x1+ISP) @SOP16            FM25LG02B(x1+ISP) @BGA24            *FM25LG04B(x4)  @PDFN8              *FM25LG04B(x4)  @SOP16              
       *FM25LG04B(x4)  @BGA24              *FM25LG04B(x1+ISP) @PDFN8           *FM25LG04B(x1+ISP) @SOP16           *FM25LG04B(x1+ISP) @BGA24           
+      FM25S01(x4)  @PDFN8                 FM25S01(x4)  @SOP16                 FM25S01(x4)  @BGA24                 FM25S01(x1+ISP) @PDFN8              
+      FM25S01(x1+ISP) @SOP16              FM25S01(x1+ISP) @BGA24              FM25S01A(x4)  @PDFN8                FM25S01A(x4)  @SOP16                
+      FM25S01A(x4)  @BGA24                FM25S01A(x1+ISP) @PDFN8             FM25S01A(x1+ISP) @SOP16             FM25S01A(x1+ISP) @BGA24             
+      FM25S02(x4)  @PDFN8                 FM25S02(x4)  @SOP16                 FM25S02(x4)  @BGA24                 FM25S02(x1+ISP) @PDFN8              
+      FM25S02(x1+ISP) @SOP16              FM25S02(x1+ISP) @BGA24              FM25S02A(x4)  @PDFN8                FM25S02A(x4)  @SOP16                
+      FM25S02A(x4)  @BGA24                FM25S02A(x1+ISP) @PDFN8             FM25S02A(x1+ISP) @SOP16             FM25S02A(x1+ISP) @BGA24             
       FM25Q02                             FM25Q02 @SOP8                       FM25Q04                             FM25Q04 @SOP8                       
       FM25Q08                             FM25Q08 @SOP8                       FM25Q08 @WSON8                      FM25Q08 @SOP16                      
       FM25Q16                             FM25Q16 @SOP8                       FM25Q16 @WSON8                      FM25Q16 @SOP16                      
@@ -1968,7 +1977,7 @@ XGecu T56 Universal Programmer Device Support List:
       FM93C66A(x8) @SOIC8                 FM93C66A(x8) @TSOP8                 FM93C66A(x16)                       FM93C66A(x16) @SOIC8                
       FM93C66A(x16) @TSOP8                
 
-         IC Support: 217 PCS
+         IC Support: 241 PCS
 
  [ FUJITSU ]     
 
@@ -2699,11 +2708,12 @@ XGecu T56 Universal Programmer Device Support List:
       JS28F800B3B @TSOP48                 JS28F800C3T @TSOP48                 JS28F800C3B @TSOP48                 JS29F02G08AANB3 @TSOP48             
       JS29F02G08ABC   @TSOP48             JS29F04G08AANB1 @TSOP48             JS29F04G08BANB3 @TSOP48             JS29F08G08CANB1 @TSOP48             
       JS29F08G08FANB3 @TSOP48             JS29F16G08FANB1 @TSOP48*            JS29F32G08AAMDB @TSOP48*            JS29F64G08CAMDB @TSOP48*            
-      M28F256                             M28F256 @PLCC32                     M28F256 @TSOP32                     M29W640GB      @TSOP56              
-      M29W640GB      @BGA64               M29W640GH      @TSOP56              M29W640GH      @BGA64               M29W640GL      @TSOP56              
-      M29W640GL      @BGA64               M29W640GSBxxNB @TSOP56              M29W640GSBxxNB @BGA64               M29W640GSHxxNB @TSOP56              
-      M29W640GSHxxNB @BGA64               M29W640GSLxxNB @TSOP56              M29W640GSLxxNB @BGA64               M29W640GSTxxNB @TSOP56              
-      M29W640GSTxxNB @BGA64               M29W640GT      @TSOP56              M29W640GT      @BGA64               M29W128FHxxN   @TSOP56              
+      M28F256                             M28F256 @PLCC32                     M28F256 @TSOP32                     M29W640GH @TSOP56                   
+      M29W640GL @TSOP56                   M29W640GT @TSOP56                   M29W640GB @TSOP56                   M29W640GH @BGA64                    
+      M29W640GL @BGA64                    M29W640GT @BGA64                    M29W640GB @BGA64                    M29W640GH @BGA48(6x8)               
+      M29W640GL @BGA48(6x8)               M29W640GT @BGA48(6x8)               M29W640GB @BGA48(6x8)               M29W640GSBxxNB @TSOP56              
+      M29W640GSBxxNB @BGA64               M29W640GSHxxNB @TSOP56              M29W640GSHxxNB @BGA64               M29W640GSLxxNB @TSOP56              
+      M29W640GSLxxNB @BGA64               M29W640GSTxxNB @TSOP56              M29W640GSTxxNB @BGA64               M29W128FHxxN   @TSOP56              
       M29W128FHxxN   @BGA64               M29W128FLxxN   @TSOP56              M29W128FLxxN   @BGA64               M29W128GHxxN   @TSOP56              
       M29W128GHxxN   @BGA64               M29W128GLxxN   @TSOP56              M29W128GLxxN   @BGA64               M29W128GSHxxN  @TSOP56              
       M29W128GSHxxN  @BGA64               M29W128GSLxxN  @TSOP56              M29W128GSLxxN  @BGA64               M29W256GHxxN   @TSOP56              
@@ -2797,7 +2807,7 @@ XGecu T56 Universal Programmer Device Support List:
       TE48F4000P0VB @TSOP56               TE48F4000P0VT @TSOP56               TE48F4400P0TB @TSOP56               TE48F4400P0TT @TSOP56               
       TE48F4400P0VB @TSOP56               TE48F4400P0VT @TSOP56               
 
-         IC Support: 658 PCS
+         IC Support: 662 PCS
 
  [ ISSI ]     
 
@@ -2837,7 +2847,9 @@ XGecu T56 Universal Programmer Device Support List:
       IS25C32                             IS25C32 @SOIC8                      IS25C32 @TSSOP8                     IS25C32A                            
       IS25C32A @SOIC8                     IS25C32A @TSSOP8                    IS25C64                             IS25C64 @SOIC8                      
       IS25C64 @TSSOP8                     IS25C128                            IS25C128 @SOIC8                     IS25C128 @TSSOP8                    
-      IS25C256                            IS25C256 @SOIC8                     IS25C256 @TSSOP8                    IS25LD256C @SOP8                    
+      IS25C256                            IS25C256 @SOIC8                     IS25C256 @TSSOP8                    IS25CD025 @SOP8                     
+      IS25CD025 @WSON8                    IS25CD512 @SOP8                     IS25CD512 @WSON8                    IS25CD010 @SOP8                     
+      IS25CD010 @WSON8                    IS25CD020 @SOP8                     IS25CD020 @WSON8                    IS25LD256C @SOP8                    
       IS25LD256C @WSON8                   IS25LD512 @SOP8                     IS25LD512 @WSON8                    IS25LD010 @SOP8                     
       IS25LD010 @WSON8                    IS25LD020 @SOP8                     IS25LD020 @WSON8                    IS25LD040 @SOP8                     
       IS25LD040 @WSON8                    IS25LP080D @SOIC8                   IS25LP080D @USON8                   IS25LP080D @WSON8                   
@@ -2870,94 +2882,108 @@ XGecu T56 Universal Programmer Device Support List:
       IS25WP128F @SOIC8                   IS25WP128F @WSON8                   IS25WP128F @SOIC16                  IS25WP256E @SOIC8                   
       IS25WP256E @WSON8                   IS25WP256E @SOIC16                  IS25WP512M @SOIC8                   IS25WP512M @WSON8                   
       IS25WP512M @SOIC16                  IS25WQ020 @SOP8                     IS25WQ020 @WSON8                    IS25WQ040 @SOP8                     
-      IS25WQ040 @WSON8                    IS25WQ080 @SOP8                     IS25WQ080 @WSON8                    IS25WQ016                           
-      IS25WQ016 @SOP8                     IS25WQ016 @WSON8                    IS25WQ032                           IS25WQ032 @SOP8                     
-      IS25WQ032 @WSON8                    IS25WQ032 @SOP16                    IS27C010   @DIP32                   IS27C010   @PLCC32                  
-      IS27C010   @TSOP32                  IS27C020   @DIP32                   IS27C020   @PLCC32                  IS27C020   @TSOP32                  
-      IS27C256   @DIP28                   IS27C256   @PLCC32                  IS27C512   @DIP28                   IS27C512   @PLCC32                  
-      IS27HC010   @DIP32                  IS27HC010   @PLCC32                 IS27HC010   @TSOP32                 IS27HC020   @DIP32                  
-      IS27HC020   @PLCC32                 IS27HC020   @TSOP32                 IS27HC256   @DIP28                  IS27HC256   @PLCC32                 
-      IS27HC512   @DIP28                  IS27HC512   @PLCC32                 IS27LV010   @DIP32                  IS27LV010   @PLCC32                 
-      IS27LV010   @TSOP32                 IS27LV020   @DIP32                  IS27LV020   @PLCC32                 IS27LV020   @TSOP32                 
-      IS27LV256   @DIP28                  IS27LV256   @PLCC32                 IS27LV512   @DIP28                  IS27LV512   @PLCC32                 
-      IS28F010                            IS28F010 @PLCC32                    IS28F010 @TSOP32                    IS28F020                            
-      IS28F020 @PLCC32                    IS28F020 @TSOP32                    IS93C46(x8)                         IS93C46(x8) @SOIC8                  
-      IS93C46(x8) @TSOP8                  IS93C46A(x8)                        IS93C46A(x8) @SOIC8                 IS93C46A(x8) @TSOP8                 
-      IS93C46A(x16)                       IS93C46A(x16) @SOIC8                IS93C46A(x16) @TSOP8                IS93C46B                            
-      IS93C46B @SOIC8                     IS93C46B @TSOP8                     IS93C46D(x8)                        IS93C46D(x8) @SOIC8                 
-      IS93C46D(x8) @TSOP8                 IS93C46D(x16)                       IS93C46D(x16) @SOIC8                IS93C46D(x16) @TSOP8                
-      IS93C56(x16)                        IS93C56(x16) @SOIC8                 IS93C56A(x8)                        IS93C56A(x8) @SOIC8                 
-      IS93C56A(x8) @TSOP8                 IS93C56A(x16)                       IS93C56A(x16) @SOIC8                IS93C56A(x16) @TSOP8                
-      IS93C66(x16)                        IS93C66(x16) @SOIC8                 IS93C66(x16) @TSOP8                 IS93C66A(x8)                        
-      IS93C66A(x8) @SOIC8                 IS93C66A(x8) @TSOP8                 IS93C66A(x16)                       IS93C66A(x16) @SOIC8                
-      IS93C66A(x16) @TSOP8                IS93C76A(x8)                        IS93C76A(x8) @SOIC8                 IS93C76A(x8) @TSOP8                 
-      IS93C76A(x16)                       IS93C76A(x16) @SOIC8                IS93C76A(x16) @TSOP8                IS93C86A(x8)                        
-      IS93C86A(x8) @SOIC8                 IS93C86A(x8) @TSOP8                 IS93C86A(x16)                       IS93C86A(x16) @SOIC8                
-      IS93C86A(x16) @TSOP8                IS21ES04G-JCLI_8Bit @BGA153         IS21ES04G-JCLI_4Bit @BGA153         IS21ES04G-JCLI_1Bit @BGA153         
-      IS21ES04G-JCLI(ISP)_4Bit            IS21ES04G-JCLI(ISP)_1Bit            IS21ES04G-JQLI_8Bit @BGA100         IS21ES04G-JQLI_4Bit @BGA100         
-      IS21ES04G-JQLI_1Bit @BGA100         IS21ES04G-JQLI(ISP)_4Bit            IS21ES04G-JQLI(ISP)_1Bit            IS21ES08G-JCLA1_8Bit @BGA153        
-      IS21ES08G-JCLA1_4Bit @BGA153        IS21ES08G-JCLA1_1Bit @BGA153        IS21ES08G-JCLA1(ISP)_4Bit           IS21ES08G-JCLA1(ISP)_1Bit           
-      IS21ES08G-JCLI_8Bit @BGA153         IS21ES08G-JCLI_4Bit @BGA153         IS21ES08G-JCLI_1Bit @BGA153         IS21ES08G-JCLI(ISP)_4Bit            
-      IS21ES08G-JCLI(ISP)_1Bit            IS21ES08G-JQLI_8Bit @BGA100         IS21ES08G-JQLI_4Bit @BGA100         IS21ES08G-JQLI_1Bit @BGA100         
-      IS21ES08G-JQLI(ISP)_4Bit            IS21ES08G-JQLI(ISP)_1Bit            IS21ES16G-JCLI_8Bit @BGA153         IS21ES16G-JCLI_4Bit @BGA153         
-      IS21ES16G-JCLI_1Bit @BGA153         IS21ES16G-JCLI(ISP)_4Bit            IS21ES16G-JCLI(ISP)_1Bit            IS21ES16G-JQLI_8Bit @BGA100         
-      IS21ES16G-JQLI_4Bit @BGA100         IS21ES16G-JQLI_1Bit @BGA100         IS21ES16G-JQLI(ISP)_4Bit            IS21ES16G-JQLI(ISP)_1Bit            
-      IS21ES32G-JCLI_8Bit @BGA153         IS21ES32G-JCLI_4Bit @BGA153         IS21ES32G-JCLI_1Bit @BGA153         IS21ES32G-JCLI(ISP)_4Bit            
-      IS21ES32G-JCLI(ISP)_1Bit            IS21ES32G-JQLI_8Bit @BGA100         IS21ES32G-JQLI_4Bit @BGA100         IS21ES32G-JQLI_1Bit @BGA100         
-      IS21ES32G-JQLI(ISP)_4Bit            IS21ES32G-JQLI(ISP)_1Bit            IS21ES64G-JCLI_8Bit @BGA153         IS21ES64G-JCLI_4Bit @BGA153         
-      IS21ES64G-JCLI_1Bit @BGA153         IS21ES64G-JCLI(ISP)_4Bit            IS21ES64G-JCLI(ISP)_1Bit            IS21ES64G-JQLI_8Bit @BGA100         
-      IS21ES64G-JQLI_4Bit @BGA100         IS21ES64G-JQLI_1Bit @BGA100         IS21ES64G-JQLI(ISP)_4Bit            IS21ES64G-JQLI(ISP)_1Bit            
-      IS22ES04G-JCL_8Bit @BGA153          IS22ES04G-JCL_4Bit @BGA153          IS22ES04G-JCL_1Bit @BGA153          IS22ES04G-JCL(ISP)_4Bit             
-      IS22ES04G-JCL(ISP)_1Bit             IS22ES04G-JQL_8Bit @BGA100          IS22ES04G-JQL_4Bit @BGA100          IS22ES04G-JQL_1Bit @BGA100          
-      IS22ES04G-JQL(ISP)_4Bit             IS22ES04G-JQL(ISP)_1Bit             IS22ES08G-JCL_8Bit @BGA153          IS22ES08G-JCL_4Bit @BGA153          
-      IS22ES08G-JCL_1Bit @BGA153          IS22ES08G-JCL(ISP)_4Bit             IS22ES08G-JCL(ISP)_1Bit             IS22ES08G-JQL_8Bit @BGA100          
-      IS22ES08G-JQL_4Bit @BGA100          IS22ES08G-JQL_1Bit @BGA100          IS22ES08G-JQL(ISP)_4Bit             IS22ES08G-JQL(ISP)_1Bit             
-      IS22ES16G-JCL_8Bit @BGA153          IS22ES16G-JCL_4Bit @BGA153          IS22ES16G-JCL_1Bit @BGA153          IS22ES16G-JCL(ISP)_4Bit             
-      IS22ES16G-JCL(ISP)_1Bit             IS22ES16G-JQL_8Bit @BGA100          IS22ES16G-JQL_4Bit @BGA100          IS22ES16G-JQL_1Bit @BGA100          
-      IS22ES16G-JQL(ISP)_4Bit             IS22ES16G-JQL(ISP)_1Bit             IS22ES32G-JCL_8Bit @BGA153          IS22ES32G-JCL_4Bit @BGA153          
-      IS22ES32G-JCL_1Bit @BGA153          IS22ES32G-JCL(ISP)_4Bit             IS22ES32G-JCL(ISP)_1Bit             IS22ES32G-JQL_8Bit @BGA100          
-      IS22ES32G-JQL_4Bit @BGA100          IS22ES32G-JQL_1Bit @BGA100          IS22ES32G-JQL(ISP)_4Bit             IS22ES32G-JQL(ISP)_1Bit             
-      IS22ES64G-JCL_8Bit @BGA153          IS22ES64G-JCL_4Bit @BGA153          IS22ES64G-JCL_1Bit @BGA153          IS22ES64G-JCL(ISP)_4Bit             
-      IS22ES64G-JCL(ISP)_1Bit             IS22ES64G-JQL_8Bit @BGA100          IS22ES64G-JQL_4Bit @BGA100          IS22ES64G-JQL_1Bit @BGA100          
-      IS22ES64G-JQL(ISP)_4Bit             IS22ES64G-JQL(ISP)_1Bit             IS29GL016 - 70SLET @TSOP56          IS29GL016 - 70SLEB @TSOP56          
-      IS29GL016 - 70SLEU @TSOP56          IS29GL016 - 70SLED @TSOP56          IS29GL016 - 70TLET @TSOP48          IS29GL016 - 70TLEB @TSOP48          
-      IS29GL016 - 70TLEU @TSOP48          IS29GL016 - 70TLED @TSOP48          IS29GL016 - 70FLET @BGA64           IS29GL016 - 70FLEB @BGA64           
-      IS29GL016 - 70FLEU @BGA64           IS29GL016 - 70FLED @BGA64           IS29GL016 - 70BLET @BGA48           IS29GL016 - 70BLEB @BGA48           
-      IS29GL016 - 70BLEU @BGA48           IS29GL016 - 70BLED @BGA48           IS29GL016 - 70SLA3T @TSOP56         IS29GL016 - 70SLA3B @TSOP56         
-      IS29GL016 - 70SLA3U @TSOP56         IS29GL016 - 70SLA3D @TSOP56         IS29GL016 - 70TLA3T @TSOP48         IS29GL016 - 70TLA3B @TSOP48         
-      IS29GL016 - 70TLA3U @TSOP48         IS29GL016 - 70TLA3D @TSOP48         IS29GL016 - 70FLA3T @BGA64          IS29GL016 - 70FLA3B @BGA64          
-      IS29GL016 - 70FLA3U @BGA64          IS29GL016 - 70FLA3D @BGA64          IS29GL016 - 70BLA3T @BGA48          IS29GL016 - 70BLA3B @BGA48          
-      IS29GL016 - 70BLA3U @BGA48          IS29GL016 - 70BLA3D @BGA48          IS29GL032 - 70SLET @TSOP56          IS29GL032 - 70SLEB @TSOP56          
-      IS29GL032 - 70SLEU @TSOP56          IS29GL032 - 70SLED @TSOP56          IS29GL032 - 70FLET @TSOP48          IS29GL032 - 70TLEB @TSOP48          
-      IS29GL032 - 70TLEU @TSOP48          IS29GL032 - 70TLED @TSOP48          IS29GL032 - 70FLET @BGA64           IS29GL032 - 70FLEB @BGA64           
-      IS29GL032 - 70FLEU @BGA64           IS29GL032 - 70FLED @BGA64           IS29GL032 - 70BLET @BGA48           IS29GL032 - 70BLEB @BGA48           
-      IS29GL032 - 70BLEU @BGA48           IS29GL032 - 70BLED @BGA48           IS29GL032 - 70SLA3T @TSOP56         IS29GL032 - 70SLA3B @TSOP56         
-      IS29GL032 - 70SLA3U @TSOP56         IS29GL032 - 70SLA3D @TSOP56         IS29GL032 - 70TLA3T @TSOP48         IS29GL032 - 70TLA3B @TSOP48         
-      IS29GL032 - 70TLA3U @TSOP48         IS29GL032 - 70TLA3D @TSOP48         IS29GL032 - 70FLA3T @BGA64          IS29GL032 - 70FLA3B @BGA64          
-      IS29GL032 - 70FLA3U @BGA64          IS29GL032 - 70FLA3D @BGA64          IS29GL032 - 70BLA3T @BGA48          IS29GL032 - 70BLA3B @BGA48          
-      IS29GL032 - 70BLA3U @BGA48          IS29GL032 - 70BLA3D @BGA48          IS29GL064 - 70SLET @TSOP56          IS29GL064 - 70SLEB @TSOP56          
-      IS29GL064 - 70SLEU @TSOP56          IS29GL064 - 70SLED @TSOP56          IS29GL064 - 70TLET @TSOP48(6x8)     IS29GL064 - 70TLEB @TSOP48(6x8)     
-      IS29GL064 - 70TLEU @TSOP48(6x8)     IS29GL064 - 70TLED @TSOP48(6x8)     IS29GL064 - 70FLET @BGA64(11x13)    IS29GL064 - 70FLEB @BGA64(11x13)    
-      IS29GL064 - 70FLEU @BGA64(11x13)    IS29GL064 - 70FLED @BGA64(11x13)    IS29GL064 - 70BLET @BGA48(6x8)      IS29GL064 - 70BLEB @BGA48(6x8)      
-      IS29GL064 - 70BLEU @BGA48(6x8)      IS29GL064 - 70BLED @BGA48(6x8)      IS29GL064 - 70SLA3T @TSOP56         IS29GL064 - 70SLA3B @TSOP56         
-      IS29GL064 - 70SLA3U @TSOP56         IS29GL064 - 70SLA3D @TSOP56         IS29GL064 - 70TLA3T @TSOP48(6x8)    IS29GL064 - 70TLA3B @TSOP48(6x8)    
-      IS29GL064 - 70TLA3U @TSOP48(6x8)    IS29GL064 - 70TLA3D @TSOP48(6x8)    IS29GL064 - 70FLA3T @BGA64(11x13)   IS29GL064 - 70FLA3B @BGA64(11x13)   
-      IS29GL064 - 70FLA3U @BGA64(11x13)   IS29GL064 - 70FLA3D @BGA64(11x13)   IS29GL064 - 70BLA3T @BGA48(6x8)     IS29GL064 - 70BLA3B @BGA48(6x8)     
-      IS29GL064 - 70BLA3U @BGA48(6x8)     IS29GL064 - 70BLA3D @BGA48(6x8)     IS29GL128 - 70SLET @TSOP56          IS29GL128 - 70FLET @BGA64(13x11mm)  
-      IS29GL128 - 70DLET @BGA64(9x9mm)    IS29GL128 - 70SLEB @TSOP56          IS29GL128 - 70FLEB @BGA64(13x11mm)  IS29GL128 - 70DLEB @BGA64(9x9mm)    
-      IS29GL128 - 70SLEH @TSOP56          IS29GL128 - 70FLEH @BGA64(13x11mm)  IS29GL128 - 70DLEH @BGA64(9x9mm)    IS29GL128 - 70SLEL @TSOP56          
-      IS29GL128 - 70FLEL @BGA64(13x11mm)  IS29GL128 - 70DLEL @BGA64(9x9mm)    IS29GL128 - 70SLA3T @TSOP56         IS29GL128 - 70FLA3T @BGA64(13x11mm) 
-      IS29GL128 - 70DLA3T @BGA64(9x9mm)   IS29GL128 - 70SLA3B @TSOP56         IS29GL128 - 70FLA3B @BGA64(13x11mm) IS29GL128 - 70DLA3B @BGA64(9x9mm)   
-      IS29GL128 - 70SLA3H @TSOP56         IS29GL128 - 70FLA3H @BGA64(13x11mm) IS29GL128 - 70DLA3H @BGA64(9x9mm)   IS29GL128 - 70SLA3L @TSOP56         
-      IS29GL128 - 70FLA3L @BGA64(13x11mm) IS29GL128 - 70DLA3L @BGA64(9x9mm)   IS29GL256 - 70SLET @TSOP56          IS29GL256 - 70FLET @BGA64(13x11mm)  
-      IS29GL256 - 70DLET @BGA64(9x9mm)    IS29GL256 - 70SLEB @TSOP56          IS29GL256 - 70FLEB @BGA64(13x11mm)  IS29GL256 - 70DLEB @BGA64(9x9mm)    
-      IS29GL256 - 70SLEH @TSOP56          IS29GL256 - 70FLEH @BGA64(13x11mm)  IS29GL256 - 70DLEH @BGA64(9x9mm)    IS29GL256 - 70SLEL @TSOP56          
-      IS29GL256 - 70FLEL @BGA64(13x11mm)  IS29GL256 - 70DLEL @BGA64(9x9mm)    IS29GL256 - 70SLA3T @TSOP56         IS29GL256 - 70FLA3T @BGA64(13x11mm) 
-      IS29GL256 - 70DLA3T @BGA64(9x9mm)   IS29GL256 - 70SLA3B @TSOP56         IS29GL256 - 70FLA3B @BGA64(13x11mm) IS29GL256 - 70DLA3B @BGA64(9x9mm)   
-      IS29GL256 - 70SLA3H @TSOP56         IS29GL256 - 70FLA3H @BGA64(13x11mm) IS29GL256 - 70DLA3H @BGA64(9x9mm)   IS29GL256 - 70SLA3L @TSOP56         
-      IS29GL256 - 70FLA3L @BGA64(13x11mm) IS29GL256 - 70DLA3L @BGA64(9x9mm)   
+      IS25WQ040 @WSON8                    IS25WQ080 @SOP8                     IS25WQ080 @WSON8                    IS25WQ080 @SOIC16                   
+      IS25WQ016                           IS25WQ016 @SOP8                     IS25WQ016 @WSON8                    IS25WQ016 @SOIC16                   
+      IS25WQ032                           IS25WQ032 @SOP8                     IS25WQ032 @WSON8                    IS25WQ032 @SOP16                    
+      IS27C010   @DIP32                   IS27C010   @PLCC32                  IS27C010   @TSOP32                  IS27C020   @DIP32                   
+      IS27C020   @PLCC32                  IS27C020   @TSOP32                  IS27C256   @DIP28                   IS27C256   @PLCC32                  
+      IS27C512   @DIP28                   IS27C512   @PLCC32                  IS27HC010   @DIP32                  IS27HC010   @PLCC32                 
+      IS27HC010   @TSOP32                 IS27HC020   @DIP32                  IS27HC020   @PLCC32                 IS27HC020   @TSOP32                 
+      IS27HC256   @DIP28                  IS27HC256   @PLCC32                 IS27HC512   @DIP28                  IS27HC512   @PLCC32                 
+      IS27LV010   @DIP32                  IS27LV010   @PLCC32                 IS27LV010   @TSOP32                 IS27LV020   @DIP32                  
+      IS27LV020   @PLCC32                 IS27LV020   @TSOP32                 IS27LV256   @DIP28                  IS27LV256   @PLCC32                 
+      IS27LV512   @DIP28                  IS27LV512   @PLCC32                 IS28F010                            IS28F010 @PLCC32                    
+      IS28F010 @TSOP32                    IS28F020                            IS28F020 @PLCC32                    IS28F020 @TSOP32                    
+      IS93C46(x8)                         IS93C46(x8) @SOIC8                  IS93C46(x8) @TSOP8                  IS93C46A(x8)                        
+      IS93C46A(x8) @SOIC8                 IS93C46A(x8) @TSOP8                 IS93C46A(x16)                       IS93C46A(x16) @SOIC8                
+      IS93C46A(x16) @TSOP8                IS93C46B                            IS93C46B @SOIC8                     IS93C46B @TSOP8                     
+      IS93C46D(x8)                        IS93C46D(x8) @SOIC8                 IS93C46D(x8) @TSOP8                 IS93C46D(x16)                       
+      IS93C46D(x16) @SOIC8                IS93C46D(x16) @TSOP8                IS93C56(x16)                        IS93C56(x16) @SOIC8                 
+      IS93C56A(x8)                        IS93C56A(x8) @SOIC8                 IS93C56A(x8) @TSOP8                 IS93C56A(x16)                       
+      IS93C56A(x16) @SOIC8                IS93C56A(x16) @TSOP8                IS93C66(x16)                        IS93C66(x16) @SOIC8                 
+      IS93C66(x16) @TSOP8                 IS93C66A(x8)                        IS93C66A(x8) @SOIC8                 IS93C66A(x8) @TSOP8                 
+      IS93C66A(x16)                       IS93C66A(x16) @SOIC8                IS93C66A(x16) @TSOP8                IS93C76A(x8)                        
+      IS93C76A(x8) @SOIC8                 IS93C76A(x8) @TSOP8                 IS93C76A(x16)                       IS93C76A(x16) @SOIC8                
+      IS93C76A(x16) @TSOP8                IS93C86A(x8)                        IS93C86A(x8) @SOIC8                 IS93C86A(x8) @TSOP8                 
+      IS93C86A(x16)                       IS93C86A(x16) @SOIC8                IS93C86A(x16) @TSOP8                IS21ES04G-JCLI_8Bit @BGA153         
+      IS21ES04G-JCLI_4Bit @BGA153         IS21ES04G-JCLI_1Bit @BGA153         IS21ES04G-JCLI(ISP)_4Bit            IS21ES04G-JCLI(ISP)_1Bit            
+      IS21ES04G-JQLI_8Bit @BGA100         IS21ES04G-JQLI_4Bit @BGA100         IS21ES04G-JQLI_1Bit @BGA100         IS21ES04G-JQLI(ISP)_4Bit            
+      IS21ES04G-JQLI(ISP)_1Bit            IS21ES08G-JCLA1_8Bit @BGA153        IS21ES08G-JCLA1_4Bit @BGA153        IS21ES08G-JCLA1_1Bit @BGA153        
+      IS21ES08G-JCLA1(ISP)_4Bit           IS21ES08G-JCLA1(ISP)_1Bit           IS21ES08G-JCLI_8Bit @BGA153         IS21ES08G-JCLI_4Bit @BGA153         
+      IS21ES08G-JCLI_1Bit @BGA153         IS21ES08G-JCLI(ISP)_4Bit            IS21ES08G-JCLI(ISP)_1Bit            IS21ES08G-JQLI_8Bit @BGA100         
+      IS21ES08G-JQLI_4Bit @BGA100         IS21ES08G-JQLI_1Bit @BGA100         IS21ES08G-JQLI(ISP)_4Bit            IS21ES08G-JQLI(ISP)_1Bit            
+      IS21ES16G-JCLI_8Bit @BGA153         IS21ES16G-JCLI_4Bit @BGA153         IS21ES16G-JCLI_1Bit @BGA153         IS21ES16G-JCLI(ISP)_4Bit            
+      IS21ES16G-JCLI(ISP)_1Bit            IS21ES16G-JQLI_8Bit @BGA100         IS21ES16G-JQLI_4Bit @BGA100         IS21ES16G-JQLI_1Bit @BGA100         
+      IS21ES16G-JQLI(ISP)_4Bit            IS21ES16G-JQLI(ISP)_1Bit            IS21ES32G-JCLI_8Bit @BGA153         IS21ES32G-JCLI_4Bit @BGA153         
+      IS21ES32G-JCLI_1Bit @BGA153         IS21ES32G-JCLI(ISP)_4Bit            IS21ES32G-JCLI(ISP)_1Bit            IS21ES32G-JQLI_8Bit @BGA100         
+      IS21ES32G-JQLI_4Bit @BGA100         IS21ES32G-JQLI_1Bit @BGA100         IS21ES32G-JQLI(ISP)_4Bit            IS21ES32G-JQLI(ISP)_1Bit            
+      IS21ES64G-JCLI_8Bit @BGA153         IS21ES64G-JCLI_4Bit @BGA153         IS21ES64G-JCLI_1Bit @BGA153         IS21ES64G-JCLI(ISP)_4Bit            
+      IS21ES64G-JCLI(ISP)_1Bit            IS21ES64G-JQLI_8Bit @BGA100         IS21ES64G-JQLI_4Bit @BGA100         IS21ES64G-JQLI_1Bit @BGA100         
+      IS21ES64G-JQLI(ISP)_4Bit            IS21ES64G-JQLI(ISP)_1Bit            IS22ES04G-JCL_8Bit @BGA153          IS22ES04G-JCL_4Bit @BGA153          
+      IS22ES04G-JCL_1Bit @BGA153          IS22ES04G-JCL(ISP)_4Bit             IS22ES04G-JCL(ISP)_1Bit             IS22ES04G-JQL_8Bit @BGA100          
+      IS22ES04G-JQL_4Bit @BGA100          IS22ES04G-JQL_1Bit @BGA100          IS22ES04G-JQL(ISP)_4Bit             IS22ES04G-JQL(ISP)_1Bit             
+      IS22ES08G-JCL_8Bit @BGA153          IS22ES08G-JCL_4Bit @BGA153          IS22ES08G-JCL_1Bit @BGA153          IS22ES08G-JCL(ISP)_4Bit             
+      IS22ES08G-JCL(ISP)_1Bit             IS22ES08G-JQL_8Bit @BGA100          IS22ES08G-JQL_4Bit @BGA100          IS22ES08G-JQL_1Bit @BGA100          
+      IS22ES08G-JQL(ISP)_4Bit             IS22ES08G-JQL(ISP)_1Bit             IS22ES16G-JCL_8Bit @BGA153          IS22ES16G-JCL_4Bit @BGA153          
+      IS22ES16G-JCL_1Bit @BGA153          IS22ES16G-JCL(ISP)_4Bit             IS22ES16G-JCL(ISP)_1Bit             IS22ES16G-JQL_8Bit @BGA100          
+      IS22ES16G-JQL_4Bit @BGA100          IS22ES16G-JQL_1Bit @BGA100          IS22ES16G-JQL(ISP)_4Bit             IS22ES16G-JQL(ISP)_1Bit             
+      IS22ES32G-JCL_8Bit @BGA153          IS22ES32G-JCL_4Bit @BGA153          IS22ES32G-JCL_1Bit @BGA153          IS22ES32G-JCL(ISP)_4Bit             
+      IS22ES32G-JCL(ISP)_1Bit             IS22ES32G-JQL_8Bit @BGA100          IS22ES32G-JQL_4Bit @BGA100          IS22ES32G-JQL_1Bit @BGA100          
+      IS22ES32G-JQL(ISP)_4Bit             IS22ES32G-JQL(ISP)_1Bit             IS22ES64G-JCL_8Bit @BGA153          IS22ES64G-JCL_4Bit @BGA153          
+      IS22ES64G-JCL_1Bit @BGA153          IS22ES64G-JCL(ISP)_4Bit             IS22ES64G-JCL(ISP)_1Bit             IS22ES64G-JQL_8Bit @BGA100          
+      IS22ES64G-JQL_4Bit @BGA100          IS22ES64G-JQL_1Bit @BGA100          IS22ES64G-JQL(ISP)_4Bit             IS22ES64G-JQL(ISP)_1Bit             
+      IS29GL016 - 70SLET @TSOP56          IS29GL016 - 70SLEB @TSOP56          IS29GL016 - 70SLEU @TSOP56          IS29GL016 - 70SLED @TSOP56          
+      IS29GL016 - 70TLET @TSOP48          IS29GL016 - 70TLEB @TSOP48          IS29GL016 - 70TLEU @TSOP48          IS29GL016 - 70TLED @TSOP48          
+      IS29GL016 - 70FLET @BGA64           IS29GL016 - 70FLEB @BGA64           IS29GL016 - 70FLEU @BGA64           IS29GL016 - 70FLED @BGA64           
+      IS29GL016 - 70BLET @BGA48           IS29GL016 - 70BLEB @BGA48           IS29GL016 - 70BLEU @BGA48           IS29GL016 - 70BLED @BGA48           
+      IS29GL016 - 70SLA3T @TSOP56         IS29GL016 - 70SLA3B @TSOP56         IS29GL016 - 70SLA3U @TSOP56         IS29GL016 - 70SLA3D @TSOP56         
+      IS29GL016 - 70TLA3T @TSOP48         IS29GL016 - 70TLA3B @TSOP48         IS29GL016 - 70TLA3U @TSOP48         IS29GL016 - 70TLA3D @TSOP48         
+      IS29GL016 - 70FLA3T @BGA64          IS29GL016 - 70FLA3B @BGA64          IS29GL016 - 70FLA3U @BGA64          IS29GL016 - 70FLA3D @BGA64          
+      IS29GL016 - 70BLA3T @BGA48          IS29GL016 - 70BLA3B @BGA48          IS29GL016 - 70BLA3U @BGA48          IS29GL016 - 70BLA3D @BGA48          
+      IS29GL032 - 70SLET @TSOP56          IS29GL032 - 70SLEB @TSOP56          IS29GL032 - 70SLEU @TSOP56          IS29GL032 - 70SLED @TSOP56          
+      IS29GL032 - 70FLET @TSOP48          IS29GL032 - 70TLEB @TSOP48          IS29GL032 - 70TLEU @TSOP48          IS29GL032 - 70TLED @TSOP48          
+      IS29GL032 - 70FLET @BGA64           IS29GL032 - 70FLEB @BGA64           IS29GL032 - 70FLEU @BGA64           IS29GL032 - 70FLED @BGA64           
+      IS29GL032 - 70BLET @BGA48           IS29GL032 - 70BLEB @BGA48           IS29GL032 - 70BLEU @BGA48           IS29GL032 - 70BLED @BGA48           
+      IS29GL032 - 70SLA3T @TSOP56         IS29GL032 - 70SLA3B @TSOP56         IS29GL032 - 70SLA3U @TSOP56         IS29GL032 - 70SLA3D @TSOP56         
+      IS29GL032 - 70TLA3T @TSOP48         IS29GL032 - 70TLA3B @TSOP48         IS29GL032 - 70TLA3U @TSOP48         IS29GL032 - 70TLA3D @TSOP48         
+      IS29GL032 - 70FLA3T @BGA64          IS29GL032 - 70FLA3B @BGA64          IS29GL032 - 70FLA3U @BGA64          IS29GL032 - 70FLA3D @BGA64          
+      IS29GL032 - 70BLA3T @BGA48          IS29GL032 - 70BLA3B @BGA48          IS29GL032 - 70BLA3U @BGA48          IS29GL032 - 70BLA3D @BGA48          
+      IS29GL064 - 70SLET @TSOP56          IS29GL064 - 70SLEB @TSOP56          IS29GL064 - 70SLEU @TSOP56          IS29GL064 - 70SLED @TSOP56          
+      IS29GL064 - 70TLET @TSOP48(6x8)     IS29GL064 - 70TLEB @TSOP48(6x8)     IS29GL064 - 70TLEU @TSOP48(6x8)     IS29GL064 - 70TLED @TSOP48(6x8)     
+      IS29GL064 - 70FLET @BGA64(11x13)    IS29GL064 - 70FLEB @BGA64(11x13)    IS29GL064 - 70FLEU @BGA64(11x13)    IS29GL064 - 70FLED @BGA64(11x13)    
+      IS29GL064 - 70BLET @BGA48(6x8)      IS29GL064 - 70BLEB @BGA48(6x8)      IS29GL064 - 70BLEU @BGA48(6x8)      IS29GL064 - 70BLED @BGA48(6x8)      
+      IS29GL064 - 70SLA3T @TSOP56         IS29GL064 - 70SLA3B @TSOP56         IS29GL064 - 70SLA3U @TSOP56         IS29GL064 - 70SLA3D @TSOP56         
+      IS29GL064 - 70TLA3T @TSOP48(6x8)    IS29GL064 - 70TLA3B @TSOP48(6x8)    IS29GL064 - 70TLA3U @TSOP48(6x8)    IS29GL064 - 70TLA3D @TSOP48(6x8)    
+      IS29GL064 - 70FLA3T @BGA64(11x13)   IS29GL064 - 70FLA3B @BGA64(11x13)   IS29GL064 - 70FLA3U @BGA64(11x13)   IS29GL064 - 70FLA3D @BGA64(11x13)   
+      IS29GL064 - 70BLA3T @BGA48(6x8)     IS29GL064 - 70BLA3B @BGA48(6x8)     IS29GL064 - 70BLA3U @BGA48(6x8)     IS29GL064 - 70BLA3D @BGA48(6x8)     
+      IS29GL128 - 70SLET @TSOP56          IS29GL128 - 70FLET @BGA64(13x11mm)  IS29GL128 - 70DLET @BGA64(9x9mm)    IS29GL128 - 70SLEB @TSOP56          
+      IS29GL128 - 70FLEB @BGA64(13x11mm)  IS29GL128 - 70DLEB @BGA64(9x9mm)    IS29GL128 - 70SLEH @TSOP56          IS29GL128 - 70FLEH @BGA64(13x11mm)  
+      IS29GL128 - 70DLEH @BGA64(9x9mm)    IS29GL128 - 70SLEL @TSOP56          IS29GL128 - 70FLEL @BGA64(13x11mm)  IS29GL128 - 70DLEL @BGA64(9x9mm)    
+      IS29GL128 - 70SLA3T @TSOP56         IS29GL128 - 70FLA3T @BGA64(13x11mm) IS29GL128 - 70DLA3T @BGA64(9x9mm)   IS29GL128 - 70SLA3B @TSOP56         
+      IS29GL128 - 70FLA3B @BGA64(13x11mm) IS29GL128 - 70DLA3B @BGA64(9x9mm)   IS29GL128 - 70SLA3H @TSOP56         IS29GL128 - 70FLA3H @BGA64(13x11mm) 
+      IS29GL128 - 70DLA3H @BGA64(9x9mm)   IS29GL128 - 70SLA3L @TSOP56         IS29GL128 - 70FLA3L @BGA64(13x11mm) IS29GL128 - 70DLA3L @BGA64(9x9mm)   
+      IS29GL256 - 70SLET @TSOP56          IS29GL256 - 70FLET @BGA64(13x11mm)  IS29GL256 - 70DLET @BGA64(9x9mm)    IS29GL256 - 70SLEB @TSOP56          
+      IS29GL256 - 70FLEB @BGA64(13x11mm)  IS29GL256 - 70DLEB @BGA64(9x9mm)    IS29GL256 - 70SLEH @TSOP56          IS29GL256 - 70FLEH @BGA64(13x11mm)  
+      IS29GL256 - 70DLEH @BGA64(9x9mm)    IS29GL256 - 70SLEL @TSOP56          IS29GL256 - 70FLEL @BGA64(13x11mm)  IS29GL256 - 70DLEL @BGA64(9x9mm)    
+      IS29GL256 - 70SLA3T @TSOP56         IS29GL256 - 70FLA3T @BGA64(13x11mm) IS29GL256 - 70DLA3T @BGA64(9x9mm)   IS29GL256 - 70SLA3B @TSOP56         
+      IS29GL256 - 70FLA3B @BGA64(13x11mm) IS29GL256 - 70DLA3B @BGA64(9x9mm)   IS29GL256 - 70SLA3H @TSOP56         IS29GL256 - 70FLA3H @BGA64(13x11mm) 
+      IS29GL256 - 70DLA3H @BGA64(9x9mm)   IS29GL256 - 70SLA3L @TSOP56         IS29GL256 - 70FLA3L @BGA64(13x11mm) IS29GL256 - 70DLA3L @BGA64(9x9mm)   
+      IS34ML01G081 @VFBGA63               IS34ML01G081 @TSOP48                IS34ML01G084 @VFBGA63               IS34ML01G084 @TSOP48                
+      IS34ML02G081 @TSOP48                IS34ML02G081 @VFBGA63               IS34ML02G084 @TSOP48                IS34ML02G084 @VFBGA63               
+      IS34ML04G081 @TSOP48                IS34ML04G081 @VFBGA63               IS34ML04G084 @TSOP48                IS34ML04G084 @VFBGA63               
+      IS34MW01G084 @TSOP48                IS34MW01G084 @VFBGA63               IS34MW01G164 @TSOP48                IS34MW01G164 @VFBGA63               
+      IS34MW02G164 @TSOP48                IS34MW02G164 @VFBGA63               IS34MW02G084 @TSOP48                IS34MW02G084 @VFBGA63               
+      IS34MW04G084 @TSOP48                IS34MW04G084 @VFBGA63               IS34MW04G164 @TSOP48                IS34MW04G164 @VFBGA63               
+      IS35ML01G081 @VFBGA63               IS35ML01G081 @TSOP48                IS35ML01G084 @VFBGA63               IS35ML01G084 @TSOP48                
+      IS35ML02G081 @TSOP48                IS35ML02G081 @VFBGA63               IS35ML02G084 @TSOP48                IS35ML02G084 @VFBGA63               
+      IS35ML04G081 @TSOP48                IS35ML04G081 @VFBGA63               IS35ML04G084 @TSOP48                IS35ML04G084 @VFBGA63               
+      IS35MW01G084 @TSOP48                IS35MW01G084 @VFBGA63               IS35MW01G164 @TSOP48                IS35MW01G164 @VFBGA63               
+      IS35MW02G164 @TSOP48                IS35MW02G164 @VFBGA63               IS35MW02G084 @TSOP48                IS35MW02G084 @VFBGA63               
+      IS35MW04G084 @TSOP48                IS35MW04G084 @VFBGA63               IS35MW04G164 @TSOP48                IS35MW04G164 @VFBGA63               
+      IS37ML01G1(x4) @PDFN8               IS37ML01G1(x4)  @SOP16              IS37ML01G1(x1+ISP) @PDFN8           IS37ML01G1(x1+ISP) @SOP16           
+      IS38ML01G1(x4) @PDFN8               IS38ML01G1(x4)  @SOP16              IS38ML01G1(x1+ISP) @PDFN8           IS38ML01G1(x1+ISP) @SOP16           
 
-         IC Support: 618 PCS
+         IC Support: 684 PCS
 
  [ KHIC ]     
 
@@ -3381,7 +3407,7 @@ XGecu T56 Universal Programmer Device Support List:
       MX29GL256FU @BGA64                  MX29GL512EH @BGA64                  MX29GL512EL @BGA64                  MX29GL512FD @BGA64                  
       MX29GL512FH @BGA64                  MX29GL512FL @BGA64                  MX29GL512FU @BGA64                  MX29GL512GD @BGA64                  
       MX29GL512GH @BGA64                  MX29GL512GL @BGA64                  MX29GL512GU @BGA64                  MX29L1611G @DIP42                   
-      MX29L3211TC @TSOP48                 MX29L3211 @PSOP44                   MX29LV002CB @PLCC32                 MX29LV002CB @TSOP32                 
+      MX29L3211TC @TSOP48                 MX29L3211MC @PSOP44                 MX29LV002CB @PLCC32                 MX29LV002CB @TSOP32                 
       MX29LV002NCB @PLCC32                MX29LV002NCB @TSOP32                MX29LV002NCT @PLCC32                MX29LV002NCT @TSOP32                
       MX29LV002CT @PLCC32                 MX29LV002CT @TSOP32                 MX29LV004B @PLCC32                  MX29LV004B @TSOP32                  
       MX29LV004B @TSOP40                  MX29LV004CB @TSOP40                 MX29LV004CT @TSOP40                 MX29LV004T @PLCC32                  
@@ -3998,11 +4024,12 @@ XGecu T56 Universal Programmer Device Support List:
       M29W160ET @BGA48                    M29W160ET @BGA64                    M29W320DB @TSOP48                   M29W320DB @BGA48                    
       M29W320DB @BGA64                    M29W320DT @TSOP48                   M29W320DT @BGA48                    M29W320DT @BGA64                    
       M29W320EB @TSOP48                   M29W320EB @BGA48                    M29W320EB @BGA64                    M29W320ET @TSOP48                   
-      M29W320ET @BGA48                    M29W320ET @BGA64                    M29W640GB      @TSOP56              M29W640GB      @BGA64               
-      M29W640GH      @TSOP56              M29W640GH      @BGA64               M29W640GL      @TSOP56              M29W640GL      @BGA64               
-      M29W640GSBxxNB @TSOP56              M29W640GSBxxNB @BGA64               M29W640GSHxxNB @TSOP56              M29W640GSHxxNB @BGA64               
-      M29W640GSLxxNB @TSOP56              M29W640GSLxxNB @BGA64               M29W640GSTxxNB @TSOP56              M29W640GSTxxNB @BGA64               
-      M29W640GT      @TSOP56              M29W640GT      @BGA64               M29W128FHxxN   @TSOP56              M29W128FHxxN   @BGA64               
+      M29W320ET @BGA48                    M29W320ET @BGA64                    M29W640GH @TSOP56                   M29W640GL @TSOP56                   
+      M29W640GT @TSOP56                   M29W640GB @TSOP56                   M29W640GH @BGA64                    M29W640GL @BGA64                    
+      M29W640GT @BGA64                    M29W640GB @BGA64                    M29W640GH @BGA48(6x8)               M29W640GL @BGA48(6x8)               
+      M29W640GT @BGA48(6x8)               M29W640GB @BGA48(6x8)               M29W640GSBxxNB @TSOP56              M29W640GSBxxNB @BGA64               
+      M29W640GSHxxNB @TSOP56              M29W640GSHxxNB @BGA64               M29W640GSLxxNB @TSOP56              M29W640GSLxxNB @BGA64               
+      M29W640GSTxxNB @TSOP56              M29W640GSTxxNB @BGA64               M29W128FHxxN   @TSOP56              M29W128FHxxN   @BGA64               
       M29W128FLxxN   @TSOP56              M29W128FLxxN   @BGA64               M29W128GHxxN   @TSOP56              M29W128GHxxN   @BGA64               
       M29W128GLxxN   @TSOP56              M29W128GLxxN   @BGA64               M29W128GSHxxN  @TSOP56              M29W128GSHxxN  @BGA64               
       M29W128GSLxxN  @TSOP56              M29W128GSLxxN  @BGA64               M29W256GHxxN   @TSOP56              M29W256GHxxN   @BGA64               
@@ -4137,7 +4164,7 @@ XGecu T56 Universal Programmer Device Support List:
       RC28F00AM29EWHA @BGA64              RC28F00AM29EWLA @BGA64              RC48F4400P0TB0E @BGA64              RC48F4400P0VB0E @BGA64              
       RC48F4400P0VB00 @BGA64              RC48F4400P0TT00 @BGA64              
 
-         IC Support: 718 PCS
+         IC Support: 722 PCS
 
  [ MICRON_EMMC(1) ]     
 
@@ -4988,8 +5015,9 @@ XGecu T56 Universal Programmer Device Support List:
       MSM27C512 @PLCC32                   MSM27C1000 @DIP32                   MSM27C1000 @PLCC32                  MSM27C1000 @TSOP32                  
       MSM27C2000 @DIP32                   MSM27C2000 @PLCC32                  MSM27C2000 @TSOP32                  MR27V852E @DIP42                    
       OKI16911(8b)  @DIP8                 OKI16911(8b)  @SOIC8                OKI16911(16b) @DIP8                 OKI16911(16b) @SOIC8                
+      MSM16911(8b)  @DIP8                 MSM16911(8b)  @SOIC8                MSM16911(16b) @DIP8                 MSM16911(16b) @SOIC8                
 
-         IC Support: 20 PCS
+         IC Support: 24 PCS
 
  [ ON SEMI. ]     
 
@@ -5810,9 +5838,11 @@ XGecu T56 Universal Programmer Device Support List:
       ST27128A @DIP28                     ST27256 @DIP28                      ST2764A @DIP28                      ST27C256 @DIP28                     
       ST27C256 @PLCC32                    ST93C06(x8)                         ST93C06(x8) @SOIC8                  ST93C06(x16)                        
       ST93C06(x16) @SOIC8                 ST93CS46                            ST93CS46 @SOIC8                     ST93CS46 @TSOP8                     
-      TS27C256 @DIP28                     TS27C64A @DIP28                     TS27C64A @PLCC32                    
+      TS27C256 @DIP28                     TS27C64A @DIP28                     TS27C64A @PLCC32                    TS5911(8b)  @DIP8                   
+      TS5911(8b)  @SOIC8                  TS5911(16b) @DIP8                   TS5911(16b) @SOIC8                  TS59C11(8b)  @DIP8                  
+      TS59C11(8b)  @SOIC8                 TS59C11(16b) @DIP8                  TS59C11(16b) @SOIC8                 
 
-         IC Support: 395 PCS
+         IC Support: 403 PCS
 
  [ SHARP ]     
 
@@ -5820,20 +5850,21 @@ XGecu T56 Universal Programmer Device Support List:
       LH28F004SUT-L @TSOP40               LH28F004SUT-N @TSOP40               LH28F008BJT-BTLZ @TSOP40            LH28F008BJT-TTLZ @TSOP40            
       LH28F008SA @TSOP40                  LH28F008SC @TSOP40                  LH28F016SAT @TSOP56                 LH28F016SUHT @TSOP56                
       LH28F016SUT  @TSOP56                LH28F016SC @TSOP40                  LH28F032SKTD  @TSOP56               LH28F032SUTD  @TSOP56               
-      LH28F128SPHT @TSOP56                LH28F160BJE-B @TSOP48               LH28F160BJE-T @TSOP48               LH28F160BJD-B @DIP42                
-      LH28F160BJD-TTL80 @DIP42            LH28F320BJD-B @DIP42                LH28F320BJD-TTL80 @DIP42            LH28F160S3T @TSOP56                 
-      LH28F160S3HT @TSOP56                LH28F160S5T @TSOP56                 LH28F160S5HT @TSOP56                LH28F160SKT-L70 * @TSOP56           
-      LH28F256SPHT @TSOP56                LH28F320BJE-PB @TSOP48              LH28F320BJE-PT @TSOP48              LH28F320SKTD @TSOP56                
-      LH28F320SPHT @TSOP56                LH28F400SU @TSOP48                  LH28F400SU @SOP44                   LH28F400BVE @TSOP48                 
-      LH28F400BGE-B @TSOP48               LH28F400BGE-T @TSOP48               LH28F400BGHE-B @TSOP48              LH28F400BGHE-T @TSOP48              
-      LH28F400BVHE-B @TSOP48              LH28F400BVHE-T @TSOP48              LH28F640BFE-PB @TSOP48              LH28F640BFE-PT @TSOP48              
-      LH28F640BFHE-PBTL60 @TSOP48         LH28F640BFHE-PBTL65 @TSOP48         LH28F640BFHE-PBTL70A @TSOP48        LH28F640BFHE-PBTL80 @TSOP48         
-      LH28F640BFHE-PBTL90 @TSOP48         LH28F640BFHE-PTTL60 @TSOP48         LH28F640BFHE-PTTL65 @TSOP48         LH28F640BFHE-PTTL70A @TSOP48        
-      LH28F640BFHE-PTTL80 @TSOP48         LH28F640BFHE-PTTL90 @TSOP48         LH28F640BFHE-PTTLHIA @TSOP48        LH28F640SPHT @TSOP56                
-      LH28F800BGE-B @TSOP48               LH28F800BGE-T @TSOP48               LH28F800BGHE-B @TSOP48              LH28F800BGHE-T @TSOP48              
-      LH28F800BVHE-BTL @TSOP48            LH28F800BVHE-TTL @TSOP48            LH28F800SUT @TSOP56                 
+      LH28F128BFHT - PBTL @TSOP56         LH28F128BFHT - PTTL @TSOP56         LH28F128BFHT - PWTL @TSOP56         LH28F256BFHT - PTSL @TSOP56         
+      LH28F256BFHTD- PTTL @TSOP56         LH28F128SPHT @TSOP56                LH28F160BJE-B @TSOP48               LH28F160BJE-T @TSOP48               
+      LH28F160BJD-B @DIP42                LH28F160BJD-TTL80 @DIP42            LH28F320BJD-B @DIP42                LH28F320BJD-TTL80 @DIP42            
+      LH28F160S3T @TSOP56                 LH28F160S3HT @TSOP56                LH28F160S5T @TSOP56                 LH28F160S5HT @TSOP56                
+      LH28F160SKT-L70 * @TSOP56           LH28F256SPHT @TSOP56                LH28F320BJE-PB @TSOP48              LH28F320BJE-PT @TSOP48              
+      LH28F320SKTD @TSOP56                LH28F320SPHT @TSOP56                LH28F400SU @TSOP48                  LH28F400SU @SOP44                   
+      LH28F400BVE @TSOP48                 LH28F400BGE-B @TSOP48               LH28F400BGE-T @TSOP48               LH28F400BGHE-B @TSOP48              
+      LH28F400BGHE-T @TSOP48              LH28F400BVHE-B @TSOP48              LH28F400BVHE-T @TSOP48              LH28F640BFE-PB @TSOP48              
+      LH28F640BFE-PT @TSOP48              LH28F640BFHE-PBTL60 @TSOP48         LH28F640BFHE-PBTL65 @TSOP48         LH28F640BFHE-PBTL70A @TSOP48        
+      LH28F640BFHE-PBTL80 @TSOP48         LH28F640BFHE-PBTL90 @TSOP48         LH28F640BFHE-PTTL60 @TSOP48         LH28F640BFHE-PTTL65 @TSOP48         
+      LH28F640BFHE-PTTL70A @TSOP48        LH28F640BFHE-PTTL80 @TSOP48         LH28F640BFHE-PTTL90 @TSOP48         LH28F640BFHE-PTTLHIA @TSOP48        
+      LH28F640SPHT @TSOP56                LH28F800BGE-B @TSOP48               LH28F800BGE-T @TSOP48               LH28F800BGHE-B @TSOP48              
+      LH28F800BGHE-T @TSOP48              LH28F800BVHE-BTL @TSOP48            LH28F800BVHE-TTL @TSOP48            LH28F800SUT @TSOP56                 
 
-         IC Support: 63 PCS
+         IC Support: 68 PCS
 
  [ SIEMENS ]     
 
@@ -6614,9 +6645,11 @@ XGecu T56 Universal Programmer Device Support List:
       M29W641DU @TSOP48                   M29W800AB @TSOP48                   M29W800AB @SOP44                    M29W800AT @TSOP48                   
       M29W800AT @SOP44                    M29W800DB @TSOP48                   M29W800DB @SOP44                    M29W800DT @TSOP48                   
       M29W800DT @SOP44                    M29DW127G @TSOP56                   M29DW128F @TSOP56                   M29DW128G @TSOP56                   
-      M29DW256G @TSOP56                   M29W640GB      @TSOP56              M29W640GH      @TSOP56              M29W640GL      @TSOP56              
-      M29W640GSBxxNB @TSOP56              M29W640GSHxxNB @TSOP56              M29W640GSLxxNB @TSOP56              M29W640GSTxxNB @TSOP56              
-      M29W640GT      @TSOP56              M29W128FHxxN  @TSOP56               M29W128FLxxN  @TSOP56               M29W128GHxxN  @TSOP56               
+      M29DW256G @TSOP56                   M29W640GH @TSOP56                   M29W640GL @TSOP56                   M29W640GT @TSOP56                   
+      M29W640GB @TSOP56                   M29W640GH @BGA64                    M29W640GL @BGA64                    M29W640GT @BGA64                    
+      M29W640GB @BGA64                    M29W640GH @BGA48(6x8)               M29W640GL @BGA48(6x8)               M29W640GT @BGA48(6x8)               
+      M29W640GB @BGA48(6x8)               M29W640GSBxxNB @TSOP56              M29W640GSHxxNB @TSOP56              M29W640GSLxxNB @TSOP56              
+      M29W640GSTxxNB @TSOP56              M29W128FHxxN  @TSOP56               M29W128FLxxN  @TSOP56               M29W128GHxxN  @TSOP56               
       M29W128GLxxN  @TSOP56               M29W128GSHxxN @TSOP56               M29W128GSLxxN @TSOP56               M29W256GHxxN @TSOP56                
       M29W256GLxxN @TSOP56                M29W512GHxxN @TSOP56                M48T02                              M48T08                              
       M48T08Y                             M48T12                              M48T18                              M48T35AY                            
@@ -6759,7 +6792,8 @@ XGecu T56 Universal Programmer Device Support List:
       ST25P40 @SOIC8                      ST25P64 @SOIC8                      ST25P64 @SOIC16                     ST25P80 @SOIC8                      
       ST25P80 @SOIC16                     ST25W01                             ST25W02                             ST25W04                             
       ST25W08                             ST25W16                             ST27128A @DIP28                     ST27256 @DIP28                      
-      ST2764A @DIP28                      ST27C256 @DIP28                     ST27C256 @PLCC32                    ST93C06(x8)                         
+      ST2764A @DIP28                      ST27C256 @DIP28                     ST27C256 @PLCC32                    ST59C11(8b)  @DIP8                  
+      ST59C11(8b)  @SOIC8                 ST59C11(16b) @DIP8                  ST59C11(16b) @SOIC8                 ST93C06(x8)                         
       ST93C06(x8) @SOIC8                  ST93C06(x16)                        ST93C06(x16) @SOIC8                 ST93C46(x8)                         
       ST93C46(x8) @SOIC8                  ST93C46(x16)                        ST93C46(x16) @SOIC8                 ST93C46A(x8)                        
       ST93C46A(x8) @SOIC8                 ST93C46A(x16)                       ST93C46A(x16) @SOIC8                ST93C46C(x8)                        
@@ -6782,7 +6816,7 @@ XGecu T56 Universal Programmer Device Support List:
       ST95P04 @SOIC8                      ST95P08                             ST95P08 @SOIC8                      TS27C256 @DIP28                     
       TS27C64A @DIP28                     TS27C64A @PLCC32                    
 
-         IC Support: 1086 PCS
+         IC Support: 1098 PCS
 
  [ SUMMIT ]     
 
@@ -6839,43 +6873,45 @@ XGecu T56 Universal Programmer Device Support List:
 
  [ TI ]     
 
-      BQ4010YMA (RW)                      BQ4011YMA (RW)                      BQ4011LYMA (RW 3.3V)                BQ4013YMA(RW)                       
-      BQ4013LYMA (RW 3.3V)                BQ4014YMA(RW)                       BQ4014LYMA (RW 3.3V)                BQ4015YMA(RW)                       
-      BQ4015LYMA (RW 3.3V)                SMJ27C128 @DIP28                    SMJ27C128 @PLCC32                   SMJ27C256 @DIP28                    
-      SMJ27C256 @PLCC32                   SMJ27C512 @DIP28                    SMJ27C512 @PLCC32                   TMS2716 @DIP24                      
-      TMS2732A @DIP24                     TMS2764 @DIP28                      TMS27C010 @DIP32                    TMS27C010 @PLCC32                   
-      TMS27C010 @TSOP32                   TMS27C010A @DIP32                   TMS27C010A @PLCC32                  TMS27C010A @TSOP32                  
-      TMS27C020 @DIP32                    TMS27C020 @PLCC32                   TMS27C020 @TSOP32                   TMS27C040 @DIP32                    
-      TMS27C040 @PLCC32                   TMS27C040 @TSOP32                   TMS27C64 @DIP28                     TMS27PC64 @DIP28                    
-      TMS27C128 @DIP28                    TMS27C128 @PLCC32                   TMS27C210A @DIP40                   TMS27C210A  @PLCC44                 
-      TMS27C240 @DIP40                    TMS27C240   @PLCC44                 TMS27C256 @DIP28                    TMS27C256 @PLCC32                   
-      TMS27C512 @DIP28                    TMS27C512 @PLCC32                   TMS27PC010A @DIP32                  TMS27PC010A @PLCC32                 
-      TMS27PC010A @TSOP32                 TMS27PC020 @DIP32                   TMS27PC020 @PLCC32                  TMS27PC020 @TSOP32                  
-      TMS27PC040 @DIP32                   TMS27PC040 @PLCC32                  TMS27PC040 @TSOP32                  TMS27PC128 @DIP28                   
-      TMS27PC128 @PLCC32                  TMS27PC210A @DIP40                  TMS27PC210A @PLCC44                 TMS27PC240 @DIP40                   
-      TMS27PC240  @PLCC44                 TMS27PC256 @DIP28                   TMS27PC256 @PLCC32                  TMS27PC512 @DIP28                   
-      TMS27PC512 @PLCC32                  TMS28F002Axx-T @TSOP40              TMS28F002Axx-B @TSOP40              TMS28F004Axx-T @TSOP40              
-      TMS28F004Axx-B @TSOP40              TMS28F008Axx-T @TSOP40              TMS28F008Axx-B @TSOP40              TMS28F010                           
-      TMS28F010 @PLCC32                   TMS28F010 @TSOP32                   TMS28F010A                          TMS28F010A @PLCC32                  
-      TMS28F010A @TSOP32                  TMS28F010B                          TMS28F010B @PLCC32                  TMS28F010B @TSOP32                  
-      TMS28F020                           TMS28F020 @PLCC32                   TMS28F020 @TSOP32                   TMS28F200AF-B @TSOP48               
-      TMS28F200AF-B @SOP44                TMS28F200AF-T @TSOP48               TMS28F200AF-T @SOP44                TMS28F200BZ-B @SOP44                
-      TMS28F200BZ-T @SOP44                TMS28F400AE-B @TSOP48               TMS28F400AE-B @SOP44                TMS28F400AE-T @TSOP48               
-      TMS28F400AE-T @SOP44                TMS28F400AF-B @TSOP48               TMS28F400AF-B @SOP44                TMS28F400AF-T @TSOP48               
-      TMS28F400AF-T @SOP44                TMS28F400AM-B @TSOP48               TMS28F400AM-B @SOP44                TMS28F400AM-T @TSOP48               
-      TMS28F400AM-T @SOP44                TMS28F400AS-B @TSOP48               TMS28F400AS-B @SOP44                TMS28F400AS-T @TSOP48               
-      TMS28F400AS-T @SOP44                TMS28F400AZ-B @TSOP48               TMS28F400AZ-B @SOP44                TMS28F400AZ-T @TSOP48               
-      TMS28F400AZ-T @SOP44                TMS28F400BZB @SOP44                 TMS28F400BZT @SOP44                 TMS28F800AE-B @TSOP48               
-      TMS28F800AE-B @SOP44                TMS28F800AE-T @TSOP48               TMS28F800AE-T @SOP44                TMS28F800AL-B @TSOP48               
-      TMS28F800AL-B @SOP44                TMS28F800AL-T @TSOP48               TMS28F800AL-T @SOP44                TMS28F800AS-B @TSOP48               
-      TMS28F800AS-B @SOP44                TMS28F800AS-T @TSOP48               TMS28F800AS-T @SOP44                TMS28F800AV-B @TSOP48               
-      TMS28F800AV-B @SOP44                TMS28F800AV-T @TSOP48               TMS28F800AV-T @SOP44                TMS28F800AZ-B @TSOP48               
-      TMS28F800AZ-B @SOP44                TMS28F800AZ-T @TSOP48               TMS28F800AZ-T @SOP44                TMS28F1600B @TSOP48                 
-      TMS28F1600T @TSOP48                 TMS29F002RT @PLCC32                 TMS29F002RB @PLCC32                 TMS29F010 @PLCC32                   
-      TMS29F040 @PLCC32                   TMS29LF040  @PLCC32                 TMS29VF040  @PLCC32                 TMS87C257 @DIP28                    
-      TMS87C257 @PLCC32                   
+      BQ4010YMA (RW)                      BQ4010YMA (TEST)                    BQ4011YMA (RW)                      BQ4011YMA (TEST)                    
+      BQ4011LYMA (RW 3.3V)                BQ4011LYMA (TEST 3.3V)              BQ4013YMA(RW)                       BQ4013YMA(TEST)                     
+      BQ4013LYMA (RW 3.3V)                BQ4013LYMA (TEST 3.3V)              BQ4014YMA(RW)                       BQ4014YMA(TEST)                     
+      BQ4014LYMA (RW 3.3V)                BQ4014LYMA (TEST 3.3V)              BQ4015YMA(RW)                       BQ4015YMA(TEST)                     
+      BQ4015LYMA (RW 3.3V)                BQ4015LYMA (TEST 3.3V)              SMJ27C128 @DIP28                    SMJ27C128 @PLCC32                   
+      SMJ27C256 @DIP28                    SMJ27C256 @PLCC32                   SMJ27C512 @DIP28                    SMJ27C512 @PLCC32                   
+      TMS2716 @DIP24                      TMS2732A @DIP24                     TMS2764 @DIP28                      TMS27C010 @DIP32                    
+      TMS27C010 @PLCC32                   TMS27C010 @TSOP32                   TMS27C010A @DIP32                   TMS27C010A @PLCC32                  
+      TMS27C010A @TSOP32                  TMS27C020 @DIP32                    TMS27C020 @PLCC32                   TMS27C020 @TSOP32                   
+      TMS27C040 @DIP32                    TMS27C040 @PLCC32                   TMS27C040 @TSOP32                   TMS27C64 @DIP28                     
+      TMS27PC64 @DIP28                    TMS27C128 @DIP28                    TMS27C128 @PLCC32                   TMS27C210A @DIP40                   
+      TMS27C210A  @PLCC44                 TMS27C240 @DIP40                    TMS27C240   @PLCC44                 TMS27C256 @DIP28                    
+      TMS27C256 @PLCC32                   TMS27C512 @DIP28                    TMS27C512 @PLCC32                   TMS27PC010A @DIP32                  
+      TMS27PC010A @PLCC32                 TMS27PC010A @TSOP32                 TMS27PC020 @DIP32                   TMS27PC020 @PLCC32                  
+      TMS27PC020 @TSOP32                  TMS27PC040 @DIP32                   TMS27PC040 @PLCC32                  TMS27PC040 @TSOP32                  
+      TMS27PC128 @DIP28                   TMS27PC128 @PLCC32                  TMS27PC210A @DIP40                  TMS27PC210A @PLCC44                 
+      TMS27PC240 @DIP40                   TMS27PC240  @PLCC44                 TMS27PC256 @DIP28                   TMS27PC256 @PLCC32                  
+      TMS27PC512 @DIP28                   TMS27PC512 @PLCC32                  TMS28F002Axx-T @TSOP40              TMS28F002Axx-B @TSOP40              
+      TMS28F004Axx-T @TSOP40              TMS28F004Axx-B @TSOP40              TMS28F008Axx-T @TSOP40              TMS28F008Axx-B @TSOP40              
+      TMS28F010                           TMS28F010 @PLCC32                   TMS28F010 @TSOP32                   TMS28F010A                          
+      TMS28F010A @PLCC32                  TMS28F010A @TSOP32                  TMS28F010B                          TMS28F010B @PLCC32                  
+      TMS28F010B @TSOP32                  TMS28F020                           TMS28F020 @PLCC32                   TMS28F020 @TSOP32                   
+      TMS28F200AF-B @TSOP48               TMS28F200AF-B @SOP44                TMS28F200AF-T @TSOP48               TMS28F200AF-T @SOP44                
+      TMS28F200BZ-B @SOP44                TMS28F200BZ-T @SOP44                TMS28F400AE-B @TSOP48               TMS28F400AE-B @SOP44                
+      TMS28F400AE-T @TSOP48               TMS28F400AE-T @SOP44                TMS28F400AF-B @TSOP48               TMS28F400AF-B @SOP44                
+      TMS28F400AF-T @TSOP48               TMS28F400AF-T @SOP44                TMS28F400AM-B @TSOP48               TMS28F400AM-B @SOP44                
+      TMS28F400AM-T @TSOP48               TMS28F400AM-T @SOP44                TMS28F400AS-B @TSOP48               TMS28F400AS-B @SOP44                
+      TMS28F400AS-T @TSOP48               TMS28F400AS-T @SOP44                TMS28F400AZ-B @TSOP48               TMS28F400AZ-B @SOP44                
+      TMS28F400AZ-T @TSOP48               TMS28F400AZ-T @SOP44                TMS28F400BZB @SOP44                 TMS28F400BZT @SOP44                 
+      TMS28F800AE-B @TSOP48               TMS28F800AE-B @SOP44                TMS28F800AE-T @TSOP48               TMS28F800AE-T @SOP44                
+      TMS28F800AL-B @TSOP48               TMS28F800AL-B @SOP44                TMS28F800AL-T @TSOP48               TMS28F800AL-T @SOP44                
+      TMS28F800AS-B @TSOP48               TMS28F800AS-B @SOP44                TMS28F800AS-T @TSOP48               TMS28F800AS-T @SOP44                
+      TMS28F800AV-B @TSOP48               TMS28F800AV-B @SOP44                TMS28F800AV-T @TSOP48               TMS28F800AV-T @SOP44                
+      TMS28F800AZ-B @TSOP48               TMS28F800AZ-B @SOP44                TMS28F800AZ-T @TSOP48               TMS28F800AZ-T @SOP44                
+      TMS28F1600B @TSOP48                 TMS28F1600T @TSOP48                 TMS29F002RT @PLCC32                 TMS29F002RB @PLCC32                 
+      TMS29F010 @PLCC32                   TMS29F040 @PLCC32                   TMS29LF040  @PLCC32                 TMS29VF040  @PLCC32                 
+      TMS87C257 @DIP28                    TMS87C257 @PLCC32                   
 
-         IC Support: 137 PCS
+         IC Support: 146 PCS
 
  [ TMC ]     
 
@@ -7069,6 +7105,8 @@ XGecu T56 Universal Programmer Device Support List:
 
  [ WINBOND ]     
 
+      W24010                              W24020                              W24040                              W24256                              
+      W24257A                             W24512                              W2464                               W2465                               
       W25P10 @MLP8                        W25P10 @SOIC8                       W25P16 @MLP8                        W25P16 @SOIC8                       
       W25P16 @SOIC16                      W25P20 @MLP8                        W25P20 @SOIC8                       W25P32 @MLP8                        
       W25P32 @SOIC8                       W25P32 @SOIC16                      W25P40 @MLP8                        W25P40 @SOIC8                       
@@ -7155,6 +7193,7 @@ XGecu T56 Universal Programmer Device Support List:
       W25Q64FW 1.8V(OTP)                  W25Q64FW 1.8V(OTP)@WSON8            W25Q64FW 1.8V(OTP)@SOIC8            W25Q64FW 1.8V(OTP)@SOIC16           
       W25Q64JV                            W25Q64JV @WSON8                     W25Q64JV @SOIC8                     W25Q64JV @SOIC16                    
       W25Q64JV(OTP)                       W25Q64JV(OTP) @WSON8                W25Q64JV(OTP) @SOIC8                W25Q64JV(OTP) @SOIC16               
+      W25Q64JV-DTR                        W25Q64JV-DTR @WSON8                 W25Q64JV-DTR @SOIC8                 W25Q64JV-DTR @SOIC16                
       W25Q128BV @SOIC8                    W25Q128BV @SOIC16                   W25Q128BV(OTP) @SOIC8               W25Q128BV(OTP) @SOIC16              
       W25Q128FV @SOIC8                    W25Q128FV @SOIC16                   W25Q128FV(OTP) @SOIC8               W25Q128FV(OTP) @SOIC16              
       W25Q128FW 1.8V @SOIC8               W25Q128FW 1.8V @SOIC16              W25Q128FW 1.8V(OTP)@SOIC8           W25Q128FW 1.8V(OTP)@SOIC16          
@@ -7254,7 +7293,7 @@ XGecu T56 Universal Programmer Device Support List:
       W78E54CF @QFP44                     W78E58 @DIP40                       W78E58P @PLCC44                     W78E58F @QFP44                      
       W78E58M @TQFP44                     
 
-         IC Support: 733 PCS
+         IC Support: 745 PCS
 
  [ WINGSHING ]     
 
@@ -7303,9 +7342,10 @@ XGecu T56 Universal Programmer Device Support List:
       X28C64 @SOIC28                      X28HC64                             X28HC64 @PLCC32                     X28HC64 @SOIC28                     
       X28C64(Non Standard)                X28C64(Non Standard) @PLCC32        X28C64(Non Standard) @SOIC28        X28HC64(Non Standard)               
       X28HC64(Non Standard) @PLCC32       X28HC64(Non Standard) @SOIC28       X28C256                             X5043                               
-      X5043 @SOIC8                        X5045                               X5045 @SOIC8                        
+      X5043 @SOIC8                        X5045                               X5045 @SOIC8                        X88C64P @DIP24                      
+      X88C64S @SOIC24                     
 
-         IC Support: 107 PCS
+         IC Support: 109 PCS
 
  [ XMC ]     
 
@@ -7453,6 +7493,14 @@ XGecu T56 Universal Programmer Device Support List:
 
          IC Support: 83 PCS
 
+ [ Standard SRAM ]     
+
+      6116                                6164                                61256                               61512                               
+      6264                                62256                               62512                               628128                              
+      628256                              628512                              
+
+         IC Support: 10 PCS
+
  [ Customize ]     
 
       KM-1M (User)                        
@@ -7463,77 +7511,81 @@ XGecu T56 Universal Programmer Device Support List:
 
       4000            4001            4002            4007            
       4008            4009            4010            40106           
-      4011            4012            4013            4015            
-      4016            40161           40162           40163           
-      4017            40174           40175           4018            
-      4019            40192           40193           4020            
-      4021            4022            4023            4024            
-      4025            4026            4027            4028            
-      4029            4030            4031            4034            
-      4040            4041            4042            4043            
-      4044            4048            4049            4050            
-      4051            4052            4053            4054            
-      4060            4063            4066            4067            
-      4068            4069            4070            4071            
-      4072            4073            4075            4076            
-      4077            4078            4081            4082            
-      4085            4093            4099            4501            
-      4503            4506            4510            4511            
-      4512            4514            4515            4516            
-      4518            4519            4520            4529            
-      4531            4532            4539            4543            
-      4555            4556            4572            4584            
-      6821            7400            7401            7402            
-      7403            7404            7405(NonStandard)7405(OC/OD)     
-      7406(NonStandard)7406(OC/OD)     7407(NonStandard)7407(OC/OD)     
-      7408            7409            7410            741035          
-      74107           74109           7411            74112           
-      74113           74114           7412            74123           
+      4011            4012            4013            4104            
+      4015            4016            40161           40162           
+      40163           4017            40174           40175           
+      4018            4019            40192           40193           
+      4020            4021            4022            4023            
+      4024            4025            4026            4027            
+      4028            4029            4030            4031            
+      4034            4040            4041            4042            
+      4043            4044            4048            4049            
+      4050            4051            4052            4053            
+      4054            4060            4063            4066            
+      4067            4068            4069            4070            
+      4071            4072            4073            4075            
+      4076            4077            4078            4081            
+      4082            4085            4093            4099            
+      4352            4353            4501            4503            
+      4506            4510            4511            4512            
+      4514            4515            4516            4518            
+      4519            4520            4529            4531            
+      4532            4539            4543            4555            
+      4556            4572            4584            6821            
+      7400            7401            7402            7403            
+      7404            7405(NonStandard)7405(OC/OD)     7406(NonStandard)
+      7406(OC/OD)     7407(NonStandard)7407(OC/OD)     7408            
+      7409            7410            741035          74107           
+      74109           7411            74112           74113           
+      74114           74116           7412            74123           
       74125           74126           74128           7413            
       74132           74133           74136           74137           
       74138           74139           7414            74140           
-      74147           74148           74149           7415            
-      74150           74151           74153           74154           
-      74155           74156           74157           74158           
-      7416            74160           74161           74162           
-      74163           74164           74165           74166           
-      74168           7417            74173           74174           
-      74175           74177           7418            74181           
-      74182           7419            74190           74191           
-      74192           74193           74194           74195           
-      7420            7421            7422            74237           
-      74238           7424            74240           74241           
-      74242           74243           74244           74245           
-      74247           74248           74249           7425            
-      74250           74251           74253           74257           
-      74258           74259           7426            74260           
-      74266           7427            74273           74279           
-      7428            74280           74283           74290           
-      74292           74293           74294           74298           
-      74299           7430            7432            74322           
-      74323           7433            74347           74348           
-      74354           74356           74365           74366           
-      74367           74368           7437            74373           
-      74374           74375           74377           74378           
-      74379           7438            74386           74390           
-      74393           74395           74399           744053          
-      7440            74416           7442            74445           
-      7445            7447            74490           7450            
-      7451            7452            74533           74534           
-      7454            74LS54          74540           74541           
-      7455            74563           74564           74573           
-      74574           7458            74589           74595           
-      74597           7460            7461            7462            
+      74145           74147           74148           74149           
+      7415            74150           74151           74153           
+      74154           74155           74156           74157           
+      74158           7416            74160           74161           
+      74162           74163           74164           74165           
+      74166           74168           7417            74173           
+      74174           74175           74177           7418            
+      74181           74182           74183           7419            
+      74190           74191           74192           74193           
+      74194           74195           7420            7421            
+      7422            74237           74238           7424            
+      74240           74241           74242           74243           
+      74244           74245           74247           74248           
+      74249           7425            74250           74251           
+      74253           74257           74258           74259           
+      7426            74260           74261           74266           
+      7427            74273           74279           7428            
+      74280           74283           74290           74292           
+      74293           74294           74298           74299           
+      7430            7432            74322           74323           
+      7433            74347           74348           74354           
+      74356           74365           74366           74367           
+      74368           7437            74373           74374           
+      74375           74377           74378           74379           
+      7438            74386           74390           74393           
+      74395           74399           744053          7440            
+      74416           7442            7443            7444            
+      74445           7445            74468           7447            
+      74490           7450            7451            7452            
+      74533           74534           7454            74LS54          
+      74540           74541           7455            74563           
+      74564           74573           74574           7458            
+      74589           74595           74597           7460            
+      74604           7461            7462            74620           
       74623           74640           74641           74642           
       74643           7464            74644           74645           
       74646           74648           7465            74688           
       7472            747266          7473            7474            
-      7475            7476            7483            7485            
-      7486            7487            7490            74906           
-      7492            7493            7495            7497            
-      8155            8255            8259            8279            
-      PC827/LTV827    
-         IC Support: 285 PCS
+      7475            7476            7483            74832           
+      7485            7486            7487            7490            
+      74906           7491            7492            7493            
+      7495            7496            7497            8155            
+      8255            8259            8279            PC827/LTV827    
+         IC Support: 300 PCS
 
 
-   Total: 26716 PCS
+   Total: 26908 PCS
+
