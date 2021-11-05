@@ -1,16 +1,18 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V11.50  Date : 10.18th.2021
-           Supported Devices:   17154
+            Software Version:   V11.60  Date : 11.04th.2021
+           Supported Devices:   17174
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
- 
- [ MY FAVORITES-User ]     
+  [ MY FAVORITES-User ]     
 
       Very useful favorites               
+
+         IC Support: 1 PCS
+
  
  [ ACE ]     
 
@@ -1136,6 +1138,7 @@
 
  [ CYPRESS ]     
 
+      CY15B128Q                           CY15B128Q @SOIC8                    CY15B256Q                           CY15B256Q @SOIC8                    
       CY24C01                             CY24C01 @SOIC8                      CY24C01 @TSSOP8                     CY24C02                             
       CY24C02 @SOIC8                      CY24C02 @TSSOP8                     CY24C04                             CY24C04 @SOIC8                      
       CY24C04 @TSSOP8                     CY24C08                             CY24C08 @SOIC8                      CY24C08 @TSSOP8                     
@@ -1159,7 +1162,7 @@
       S29AL032DxxTxx04 @TSOP48            S34ML01G1 @TSOP48                   S34ML01G2 @TSOP48                   S34ML02G1 @TSOP48                   
       S34ML02G2 @TSOP48                   S34ML04G1 @TSOP48                   S34ML04G2 @TSOP48                   
 
-         IC Support: 87 PCS
+         IC Support: 91 PCS
 
  [ DALLAS ]     
 
@@ -1564,6 +1567,13 @@
       FT93C86A(x8) @TSOP8                 FT93C86A(x16)                       FT93C86A(x16) @SOIC8                FT93C86A(x16) @TSOP8                
 
          IC Support: 96 PCS
+
+ [ FORESEE ]     
+
+      FS33ND01GS108 @TSOP48               FS33ND02GS108 @TSOP48               FS33ND04GS108 @TSOP48               FS33ND02GH208(2048+64) @TSOP48      
+      FS33ND02GH208(2048+128) @TSOP48     
+
+         IC Support: 5 PCS
 
  [ FORCE TECH. ]     
 
@@ -3029,7 +3039,11 @@
       PIC18F4520 @DIP40                   PIC18F4523 @DIP40                   PIC18F4525 @DIP40                   PIC18F4550 @DIP40                   
       PIC18F4553 @DIP40                   PIC18F458  @DIP40                   PIC18F4580 @DIP40                   PIC18F4585 @DIP40                   
       PIC18F4610 @DIP40                   PIC18F4620 @DIP40                   PIC18F4680 @DIP40                   PIC18F4682 @DIP40                   
-      PIC18F4685 @DIP40                   PIC18F24K50 @DIP28                  PIC18F24K50 @SOIC28                 PIC18F24K50 @SSOP28                 
+      PIC18F4685 @DIP40                   PIC18F23K20 @DIP28                  PIC18F23K20 @SOIC28                 PIC18F23K20 @SSOP28                 
+      PIC18F24K20 @DIP28                  PIC18F24K20 @SOIC28                 PIC18F24K20 @SSOP28                 PIC18F25K20 @DIP28                  
+      PIC18F25K20 @SOIC28                 PIC18F25K20 @SSOP28                 PIC18F26K20 @DIP28                  PIC18F26K20 @SOIC28                 
+      PIC18F26K20 @SSOP28                 PIC18F43K20 @DIP40                  PIC18F44K20 @DIP40                  PIC18F45K20 @DIP40                  
+      PIC18F46K20 @DIP40                  PIC18F24K50 @DIP28                  PIC18F24K50 @SOIC28                 PIC18F24K50 @SSOP28                 
       PIC18F25K50 @DIP28                  PIC18F25K50 @SOIC28                 PIC18F25K50 @SSOP28                 PIC18F26K50 @DIP28                  
       PIC18F26K50 @SOIC28                 PIC18F26K50 @SSOP28                 PIC18F45K50 @DIP40                  PIC18F46K50 @DIP40                  
       PIC18LF24K50 @DIP28                 PIC18LF24K50 @SOIC28                PIC18LF24K50 @SSOP28                PIC18LF25K50 @DIP28                 
@@ -3092,7 +3106,7 @@
       PIC18LF83J11(ISP)                   PIC18LF83J90(ISP)                   PIC18LF84J11(ISP)                   PIC18LF84J90(ISP)                   
       PIC18LF85J11(ISP)                   PIC18LF85J90(ISP)                   rfPIC12C509AG @SOIC18               rfPIC12C509AF @SSOP20               
 
-         IC Support: 1016 PCS
+         IC Support: 1032 PCS
 
  [ MICRON ]     
 
@@ -5041,12 +5055,11 @@
       LX24C02                             LX24C02 @SOIC8                      LX24C04                             LX24C04 @SOIC8                      
       LX24C08                             LX24C08 @SOIC8                      LX24C16                             LX24C16 @SOIC8                      
       PSU1GA30AT @TSOP48                  PSU1GA30BT @TSOP48                  PSU1GA30HT @TSOP48                  PSU2GA30BT @TSOP48                  
-      PSU4GA30BT @TSOP48                  FS33ND01GS108 @TSOP48               FS33ND02GS108 @TSOP48               FS33ND04GS108 @TSOP48               
-      FS33ND02GH208(2048+64) @TSOP48      FS33ND02GH208(2048+128) @TSOP48     MR20H10  (EVERSPIN) @DFN8(5x6mm)    MR20H40  (EVERSPIN) @DFN8(5x6mm)    
-      MR20H256 (EVERSPIN) @DFN8(5x6mm)    MR20H256A(EVERSPIN) @DFN8(5x6mm)    MR20H512 (EVERSPIN) @DFN8(5x6mm)    MR25H10  (EVERSPIN) @DFN8(5x6mm)    
-      MR25H40  (EVERSPIN) @DFN8(5x6mm)    MR25H256 (EVERSPIN) @DFN8(5x6mm)    MR25H256A(EVERSPIN) @DFN8(5x6mm)    MR25H512 (EVERSPIN) @DFN8(5x6mm)    
+      PSU4GA30BT @TSOP48                  MR20H10  (EVERSPIN) @DFN8(5x6mm)    MR20H40  (EVERSPIN) @DFN8(5x6mm)    MR20H256 (EVERSPIN) @DFN8(5x6mm)    
+      MR20H256A(EVERSPIN) @DFN8(5x6mm)    MR20H512 (EVERSPIN) @DFN8(5x6mm)    MR25H10  (EVERSPIN) @DFN8(5x6mm)    MR25H40  (EVERSPIN) @DFN8(5x6mm)    
+      MR25H256 (EVERSPIN) @DFN8(5x6mm)    MR25H256A(EVERSPIN) @DFN8(5x6mm)    MR25H512 (EVERSPIN) @DFN8(5x6mm)    
 
-         IC Support: 28 PCS
+         IC Support: 23 PCS
 
  [ Standard SRAM ]     
 
@@ -5144,4 +5157,4 @@
          IC Support: 306 PCS
 
 
-   Total: 17154 PCS
+   Total: 17174 PCS
