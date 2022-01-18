@@ -1,15 +1,14 @@
  
 XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V11.80  Date : 1.06th.2022
-           Supported Devices:   28383
+            Software Version:   V11.81  Date : 1.18th.2022
+           Supported Devices:   28468
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 =================================================================== 
   
-
  [ MY FAVORITES-User ]     
 
       Very useful favorites               
@@ -239,7 +238,8 @@ XGecu T56 Universal Programmer Device Support List:
       AM29F002NB  @PLCC32                 AM29F002NB  @TSOP32                 AM29F002NBB @DIP32                  AM29F002NBB @PLCC32                 
       AM29F002NBB @TSOP32                 AM29F002NBT @DIP32                  AM29F002NBT @PLCC32                 AM29F002NBT @TSOP32                 
       AM29F002NT  @DIP32                  AM29F002NT  @PLCC32                 AM29F002NT  @TSOP32                 AM29F002T   @DIP32                  
-      AM29F002T   @PLCC32                 AM29F002T   @TSOP32                 AM29F010    @DIP32                  AM29F010    @PLCC32                 
+      AM29F002T   @PLCC32                 AM29F002T   @TSOP32                 AM29F004BB @PLCC32                  AM29F004BB @TSOP32                  
+      AM29F004BT @PLCC32                  AM29F004BT @TSOP32                  AM29F010    @DIP32                  AM29F010    @PLCC32                 
       AM29F010    @TSOP32                 AM29F010B   @DIP32                  AM29F010B   @PLCC32                 AM29F010B   @TSOP32                 
       AM29F040    @DIP32                  AM29F040    @PLCC32                 AM29F040    @TSOP32                 AM29F040B   @DIP32                  
       AM29F040B   @PLCC32                 AM29F040B   @TSOP32                 AM29F080    @TSOP40                 AM29F080    @TSOP40-R               
@@ -250,9 +250,11 @@ XGecu T56 Universal Programmer Device Support List:
       AM29F100B   @TSOP48                 AM29F100B   @SOP44                  AM29F100T   @TSOP48                 AM29F100T   @SOP44                  
       AM29F160DB  @TSOP48                 AM29F160DT  @TSOP48                 AM29F200AB  @TSOP48                 AM29F200AB  @SOP44                  
       AM29F200AT  @TSOP48                 AM29F200AT  @SOP44                  AM29F200BB  @TSOP48                 AM29F200BB  @SOP44                  
-      AM29F200BT  @TSOP48                 AM29F200BT  @SOP44                  AM29F400AB  @TSOP48                 AM29F400AB  @SOP44                  
+      AM29F200BT  @TSOP48                 AM29F200BT  @SOP44                  AM29F200T  @TSOP48                  AM29F200T  @SOP44                   
+      AM29F200B  @TSOP48                  AM29F200B  @SOP44                   AM29F400AB  @TSOP48                 AM29F400AB  @SOP44                  
       AM29F400AT  @TSOP48                 AM29F400AT  @SOP44                  AM29F400BB  @TSOP48                 AM29F400BB  @SOP44                  
-      AM29F400BT  @TSOP48                 AM29F400BT  @SOP44                  AM29F800AB  @TSOP48                 AM29F800AB  @SOP44                  
+      AM29F400BT  @TSOP48                 AM29F400BT  @SOP44                  AM29F400B  @TSOP48                  AM29F400B  @SOP44                   
+      AM29F400T  @TSOP48                  AM29F400T  @SOP44                   AM29F800AB  @TSOP48                 AM29F800AB  @SOP44                  
       AM29F800AT  @TSOP48                 AM29F800AT  @SOP44                  AM29F800B   @TSOP48                 AM29F800B   @SOP44                  
       AM29F800BB  @TSOP48                 AM29F800BB  @SOP44                  AM29F800BT  @TSOP48                 AM29F800BT  @SOP44                  
       AM29F800T   @TSOP48                 AM29F800T   @SOP44                  AM29F800AB  @BGA48                  AM29F800AT  @BGA48                  
@@ -291,7 +293,7 @@ XGecu T56 Universal Programmer Device Support List:
       AM29SL800DT @BGA48                  AM29SL160CB @TSOP48                 AM29SL160CB @BGA48                  AM29SL160CT @TSOP48                 
       AM29SL160CT @BGA48                  
 
-         IC Support: 421 PCS
+         IC Support: 433 PCS
 
  [ AMIC ]     
 
@@ -2506,23 +2508,23 @@ XGecu T56 Universal Programmer Device Support List:
 
       HN27128AG  @DIP28                   HN27128AP  @DIP28                   HN27256G   @DIP28                   HN27256P   @DIP28                   
       HN27512G   @DIP28                   HN27512G   @SOP28                   HN27512P   @DIP28                   HN27512P   @SOP28                   
-      HN27C101AG @DIP32                   HN27C101AP @DIP32                   HN27C101AFP @SOP32                  HN27C101ATT @TSOP32                 
+      HN27C101AG @DIP32                   HN27C101AP @DIP32                   HN27C101AFP @SOP32                  HN27C101ATT @SOP32                  
       HN27C101G  @DIP32                   HN27C101P  @DIP32                   HN27C1024  @DIP40                   HN27C1024  @PLCC44                  
-      HN27C301AP @DIP32                   HN27C301AFP @SOP32                  HN27C301G  @DIP32                   HN27C256AG @DIP28                   
-      HN27C256AFP @SOP28                  HN27C256AP @DIP28                   HN27C256G  @DIP28                   HN27C256HG @DIP28                   
-      HN27C256HP @DIP28                   HN27C256HFP @SOP28                  HN27C4001G   @DIP32                 HN27C4001TT  @TSOP32                
-      HN27C4000G   @DIP40                 HN27C4096   @DIP40                  HN27C4096   @PLCC44                 HN27C4096G  @DIP40                  
-      HN27C4096G  @PLCC44                 HN27C4096H  @DIP40                  HN27C4096H  @PLCC44                 HN27C512G   @DIP28                  
-      HN27C64G    @DIP28                  HN27C64FP   @SOP28                  HN28F101CP @PLCC32                  HN28F101P  @DIP32                   
-      HN28F101FP @SOP32                   HN28F101T  @TSOP32                  HN58C256AP @DIP28                   HN58V24256 @SOIC8                   
-      HN58V24256 @TSSOP8                  HN58V24512 @SOIC8                   HN58V24512 @TSSOP8                  HN58X2402 @SOIC8                    
-      HN58X2402 @TSSOP8                   HN58X2404 @SOIC8                    HN58X2404 @TSSOP8                   HN58X2408 @SOIC8                    
-      HN58X2408 @TSSOP8                   HN58X2416 @SOIC8                    HN58X2416 @TSSOP8                   HN58X2432 @SOIC8                    
-      HN58X2432 @TSSOP8                   HN58X2464 @SOIC8                    HN58X2464 @TSSOP8                   HN58X24128 @SOIC8                   
-      HN58X24128 @TSSOP8                  HN58X24256 @SOIC8                   HN58X24256 @TSSOP8                  HN58X24512 @SOIC8                   
-      HN58X24512 @TSSOP8                  
+      HN27C301AG @DIP32                   HN27C301AP @DIP32                   HN27C301AFP @SOP32                  HN27C301G  @DIP32                   
+      HN27C256AG @DIP28                   HN27C256AFP @SOP28                  HN27C256AP @DIP28                   HN27C256G  @DIP28                   
+      HN27C256HG @DIP28                   HN27C256HP @DIP28                   HN27C256HFP @SOP28                  HN27C4001G   @DIP32                 
+      HN27C4001TT  @TSOP32                HN27C4000G   @DIP40                 HN27C4096   @DIP40                  HN27C4096   @PLCC44                 
+      HN27C4096G  @DIP40                  HN27C4096G  @PLCC44                 HN27C4096H  @DIP40                  HN27C4096H  @PLCC44                 
+      HN27C512G   @DIP28                  HN27C64G    @DIP28                  HN27C64FP   @SOP28                  HN28F101CP @PLCC32                  
+      HN28F101P  @DIP32                   HN28F101FP @SOP32                   HN28F101T  @TSOP32                  HN58C256AP @DIP28                   
+      HN58V24256 @SOIC8                   HN58V24256 @TSSOP8                  HN58V24512 @SOIC8                   HN58V24512 @TSSOP8                  
+      HN58X2402 @SOIC8                    HN58X2402 @TSSOP8                   HN58X2404 @SOIC8                    HN58X2404 @TSSOP8                   
+      HN58X2408 @SOIC8                    HN58X2408 @TSSOP8                   HN58X2416 @SOIC8                    HN58X2416 @TSSOP8                   
+      HN58X2432 @SOIC8                    HN58X2432 @TSSOP8                   HN58X2464 @SOIC8                    HN58X2464 @TSSOP8                   
+      HN58X24128 @SOIC8                   HN58X24128 @TSSOP8                  HN58X24256 @SOIC8                   HN58X24256 @TSSOP8                  
+      HN58X24512 @SOIC8                   HN58X24512 @TSSOP8                  
 
-         IC Support: 65 PCS
+         IC Support: 66 PCS
 
  [ HOLTEK ]     
 
@@ -4120,7 +4122,25 @@ XGecu T56 Universal Programmer Device Support List:
       PIC18F43K20 @QFN44                  PIC18F44K20 @DIP40                  PIC18F44K20 @ISP                    PIC18F44K20 @TQFP44                 
       PIC18F44K20 @QFN44                  PIC18F45K20 @DIP40                  PIC18F45K20 @ISP                    PIC18F45K20 @TQFP44                 
       PIC18F45K20 @QFN44                  PIC18F46K20 @DIP40                  PIC18F46K20 @ISP                    PIC18F46K20 @TQFP44                 
-      PIC18F46K20 @QFN44                  PIC18F24K50 @DIP28                  PIC18F24K50 @ISP                    PIC18F24K50 @SOIC28                 
+      PIC18F46K20 @QFN44                  PIC18F23K22 @DIP28                  PIC18F23K22 @ISP                    PIC18F23K22 @SOIC28                 
+      PIC18F23K22 @SSOP28                 PIC18F23K22 @QFN28                  PIC18F24K22 @DIP28                  PIC18F24K22 @ISP                    
+      PIC18F24K22 @SOIC28                 PIC18F24K22 @SSOP28                 PIC18F24K22 @QFN28                  PIC18F25K22 @DIP28                  
+      PIC18F25K22 @ISP                    PIC18F25K22 @SOIC28                 PIC18F25K22 @SSOP28                 PIC18F25K22 @QFN28                  
+      PIC18F26K22 @DIP28                  PIC18F26K22 @ISP                    PIC18F26K22 @SOIC28                 PIC18F26K22 @SSOP28                 
+      PIC18F26K22 @QFN28                  PIC18F43K22 @DIP40                  PIC18F43K22 @ISP                    PIC18F43K22 @TQFP44                 
+      PIC18F43K22 @QFN44                  PIC18F44K22 @DIP40                  PIC18F44K22 @ISP                    PIC18F44K22 @TQFP44                 
+      PIC18F44K22 @QFN44                  PIC18F45K22 @DIP40                  PIC18F45K22 @ISP                    PIC18F45K22 @TQFP44                 
+      PIC18F45K22 @QFN44                  PIC18F46K22 @DIP40                  PIC18F46K22 @ISP                    PIC18F46K22 @TQFP44                 
+      PIC18F46K22 @QFN44                  PIC18LF23K22 @DIP28                 PIC18LF23K22 @ISP                   PIC18LF23K22 @SOIC28                
+      PIC18LF23K22 @SSOP28                PIC18LF23K22 @QFN28                 PIC18LF24K22 @DIP28                 PIC18LF24K22 @ISP                   
+      PIC18LF24K22 @SOIC28                PIC18LF24K22 @SSOP28                PIC18LF24K22 @QFN28                 PIC18LF25K22 @DIP28                 
+      PIC18LF25K22 @ISP                   PIC18LF25K22 @SOIC28                PIC18LF25K22 @SSOP28                PIC18LF25K22 @QFN28                 
+      PIC18LF26K22 @DIP28                 PIC18LF26K22 @ISP                   PIC18LF26K22 @SOIC28                PIC18LF26K22 @SSOP28                
+      PIC18LF26K22 @QFN28                 PIC18LF43K22 @DIP40                 PIC18LF43K22 @ISP                   PIC18LF43K22 @TQFP44                
+      PIC18LF43K22 @QFN44                 PIC18LF44K22 @DIP40                 PIC18LF44K22 @ISP                   PIC18LF44K22 @TQFP44                
+      PIC18LF44K22 @QFN44                 PIC18LF45K22 @DIP40                 PIC18LF45K22 @ISP                   PIC18LF45K22 @TQFP44                
+      PIC18LF45K22 @QFN44                 PIC18LF46K22 @DIP40                 PIC18LF46K22 @ISP                   PIC18LF46K22 @TQFP44                
+      PIC18LF46K22 @QFN44                 PIC18F24K50 @DIP28                  PIC18F24K50 @ISP                    PIC18F24K50 @SOIC28                 
       PIC18F24K50 @SSOP28                 PIC18F24K50 @QFN28                  PIC18F25K50 @DIP28                  PIC18F25K50 @ISP                    
       PIC18F25K50 @SOIC28                 PIC18F25K50 @SSOP28                 PIC18F25K50 @QFN28                  PIC18F26K50 @DIP28                  
       PIC18F26K50 @ISP                    PIC18F26K50 @SOIC28                 PIC18F26K50 @SSOP28                 PIC18F26K50 @QFN28                  
@@ -4226,7 +4246,7 @@ XGecu T56 Universal Programmer Device Support List:
       PIC18LF66J10(ISP)                   PIC18LF83J11(ISP)                   PIC18LF83J90(ISP)                   PIC18LF84J11(ISP)                   
       PIC18LF84J90(ISP)                   PIC18LF85J11(ISP)                   PIC18LF85J90(ISP)                   PIC32MZ1024EFH144 (ICSP-2WIRE)      
 
-         IC Support: 1280 PCS
+         IC Support: 1352 PCS
 
  [ MICRON ]     
 
@@ -7975,4 +7995,4 @@ XGecu T56 Universal Programmer Device Support List:
          IC Support: 316 PCS
 
 
-   Total: 28383 PCS
+   Total: 28468 PCS

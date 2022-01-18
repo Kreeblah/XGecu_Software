@@ -1,14 +1,13 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V11.80  Date : 1.06th.2022
-           Supported Devices:   17276
+            Software Version:   V11.81  Date : 1.18th.2022
+           Supported Devices:   17320
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
-  
- [ MY FAVORITES-User ]     
+   [ MY FAVORITES-User ]     
 
       Very useful favorites               
 
@@ -196,7 +195,8 @@
       AM29F002NB  @PLCC32                 AM29F002NB  @TSOP32                 AM29F002NBB @DIP32                  AM29F002NBB @PLCC32                 
       AM29F002NBB @TSOP32                 AM29F002NBT @DIP32                  AM29F002NBT @PLCC32                 AM29F002NBT @TSOP32                 
       AM29F002NT  @DIP32                  AM29F002NT  @PLCC32                 AM29F002NT  @TSOP32                 AM29F002T   @DIP32                  
-      AM29F002T   @PLCC32                 AM29F002T   @TSOP32                 AM29F010    @DIP32                  AM29F010    @PLCC32                 
+      AM29F002T   @PLCC32                 AM29F002T   @TSOP32                 AM29F004BB @PLCC32                  AM29F004BB @TSOP32                  
+      AM29F004BT @PLCC32                  AM29F004BT @TSOP32                  AM29F010    @DIP32                  AM29F010    @PLCC32                 
       AM29F010    @TSOP32                 AM29F010B   @DIP32                  AM29F010B   @PLCC32                 AM29F010B   @TSOP32                 
       AM29F040    @DIP32                  AM29F040    @PLCC32                 AM29F040    @TSOP32                 AM29F040B   @DIP32                  
       AM29F040B   @PLCC32                 AM29F040B   @TSOP32                 AM29F080    @TSOP40                 AM29F080B   @TSOP40                 
@@ -205,8 +205,10 @@
       AM29F100T   @TSOP48                 AM29F100T   @SOP44                  AM29F160DB  @TSOP48                 AM29F160DT  @TSOP48                 
       AM29F200AB  @TSOP48                 AM29F200AB  @SOP44                  AM29F200AT  @TSOP48                 AM29F200AT  @SOP44                  
       AM29F200BB  @TSOP48                 AM29F200BB  @SOP44                  AM29F200BT  @TSOP48                 AM29F200BT  @SOP44                  
+      AM29F200T  @TSOP48                  AM29F200T  @SOP44                   AM29F200B  @TSOP48                  AM29F200B  @SOP44                   
       AM29F400AB  @TSOP48                 AM29F400AB  @SOP44                  AM29F400AT  @TSOP48                 AM29F400AT  @SOP44                  
       AM29F400BB  @TSOP48                 AM29F400BB  @SOP44                  AM29F400BT  @TSOP48                 AM29F400BT  @SOP44                  
+      AM29F400B  @TSOP48                  AM29F400B  @SOP44                   AM29F400T  @TSOP48                  AM29F400T  @SOP44                   
       AM29F800AB  @TSOP48                 AM29F800AB  @SOP44                  AM29F800AT  @TSOP48                 AM29F800AT  @SOP44                  
       AM29F800B   @TSOP48                 AM29F800B   @SOP44                  AM29F800BB  @TSOP48                 AM29F800BB  @SOP44                  
       AM29F800BT  @TSOP48                 AM29F800BT  @SOP44                  AM29F800T   @TSOP48                 AM29F800T   @SOP44                  
@@ -227,7 +229,7 @@
       AM29LV160MB @TSOP48                 AM29LV160MT @TSOP48                 AM29LV320DB @TSOP48                 AM29LV320DT @TSOP48                 
       AM29LV320MB @TSOP48                 AM29LV320MT @TSOP48                 AM29LV641D  @TSOP48                 MBM29PL64LM @TSOP48                 
 
-         IC Support: 272 PCS
+         IC Support: 284 PCS
 
  [ AMIC ]     
 
@@ -1909,7 +1911,7 @@
 
       HN27128AG  @DIP28                   HN27128AP  @DIP28                   HN27256G   @DIP28                   HN27256P   @DIP28                   
       HN27512G   @DIP28                   HN27512G   @SOP28                   HN27512P   @DIP28                   HN27512P   @SOP28                   
-      HN27C101AG @DIP32                   HN27C101AP @DIP32                   HN27C101AFP @SOP32                  HN27C101ATT @TSOP32                 
+      HN27C101AG @DIP32                   HN27C101AP @DIP32                   HN27C101AFP @SOP32                  HN27C101ATT @SOP32                  
       HN27C101G  @DIP32                   HN27C101P  @DIP32                   HN27C1024  @DIP40                   HN27C256AG @DIP28                   
       HN27C256AFP @SOP28                  HN27C256AP @DIP28                   HN27C256G  @DIP28                   HN27C256HG @DIP28                   
       HN27C256HP @DIP28                   HN27C256HFP @SOP28                  HN27C4001G   @DIP32                 HN27C4001TT  @TSOP32                
@@ -3059,7 +3061,15 @@
       PIC18F24K20 @DIP28                  PIC18F24K20 @SOIC28                 PIC18F24K20 @SSOP28                 PIC18F25K20 @DIP28                  
       PIC18F25K20 @SOIC28                 PIC18F25K20 @SSOP28                 PIC18F26K20 @DIP28                  PIC18F26K20 @SOIC28                 
       PIC18F26K20 @SSOP28                 PIC18F43K20 @DIP40                  PIC18F44K20 @DIP40                  PIC18F45K20 @DIP40                  
-      PIC18F46K20 @DIP40                  PIC18F24K50 @DIP28                  PIC18F24K50 @SOIC28                 PIC18F24K50 @SSOP28                 
+      PIC18F46K20 @DIP40                  PIC18F23K22 @DIP28                  PIC18F23K22 @SOIC28                 PIC18F23K22 @SSOP28                 
+      PIC18F24K22 @DIP28                  PIC18F24K22 @SOIC28                 PIC18F24K22 @SSOP28                 PIC18F25K22 @DIP28                  
+      PIC18F25K22 @SOIC28                 PIC18F25K22 @SSOP28                 PIC18F26K22 @DIP28                  PIC18F26K22 @SOIC28                 
+      PIC18F26K22 @SSOP28                 PIC18F43K22 @DIP40                  PIC18F44K22 @DIP40                  PIC18F45K22 @DIP40                  
+      PIC18F46K22 @DIP40                  PIC18LF23K22 @DIP28                 PIC18LF23K22 @SOIC28                PIC18LF23K22 @SSOP28                
+      PIC18LF24K22 @DIP28                 PIC18LF24K22 @SOIC28                PIC18LF24K22 @SSOP28                PIC18LF25K22 @DIP28                 
+      PIC18LF25K22 @SOIC28                PIC18LF25K22 @SSOP28                PIC18LF26K22 @DIP28                 PIC18LF26K22 @SOIC28                
+      PIC18LF26K22 @SSOP28                PIC18LF43K22 @DIP40                 PIC18LF44K22 @DIP40                 PIC18LF45K22 @DIP40                 
+      PIC18LF46K22 @DIP40                 PIC18F24K50 @DIP28                  PIC18F24K50 @SOIC28                 PIC18F24K50 @SSOP28                 
       PIC18F25K50 @DIP28                  PIC18F25K50 @SOIC28                 PIC18F25K50 @SSOP28                 PIC18F26K50 @DIP28                  
       PIC18F26K50 @SOIC28                 PIC18F26K50 @SSOP28                 PIC18F45K50 @DIP40                  PIC18F46K50 @DIP40                  
       PIC18LF24K50 @DIP28                 PIC18LF24K50 @SOIC28                PIC18LF24K50 @SSOP28                PIC18LF25K50 @DIP28                 
@@ -3122,7 +3132,7 @@
       PIC18LF83J11(ISP)                   PIC18LF83J90(ISP)                   PIC18LF84J11(ISP)                   PIC18LF84J90(ISP)                   
       PIC18LF85J11(ISP)                   PIC18LF85J90(ISP)                   rfPIC12C509AG @SOIC18               rfPIC12C509AF @SSOP20               
 
-         IC Support: 1032 PCS
+         IC Support: 1064 PCS
 
  [ MICRON ]     
 
@@ -5183,5 +5193,4 @@
          IC Support: 316 PCS
 
 
-   Total: 17276 PCS
-
+   Total: 17320 PCS
