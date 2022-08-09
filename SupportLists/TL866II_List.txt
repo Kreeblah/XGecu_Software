@@ -1,18 +1,19 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.05  Date : 7.6th.2022
-           Supported Devices:   17466
+            Software Version:   V12.11  Date : 8.4th.2022
+           Supported Devices:   17470
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
- [ MY FAVORITES-User ]     
+  [ MY FAVORITES-User ]     
 
       Very useful favorites               
 
          IC Support: 1 PCS
 
+ 
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -3542,8 +3543,9 @@
       P24C256D @SOIC8                     P24C256D @TSSOP8                    P24C512B @SOIC8                     P24C512B @TSSOP8                    
       P24C512D @SOIC8                     P24C512D @TSSOP8                    P24CM01B @SOIC8                     P24CM01B @TSSOP8                    
       P25D20H      @SOP8                  P25D40H      @SOP8                  P25D40H(OTP) @SOP8                  P25D80H      @SOP8                  
-      P25D80H      @USON8                 P25D80H(OTP) @SOP8                  P25D80H(OTP) @USON8                 P25D16H      @SOP8                  
-      P25D16H      @USON8                 P25D16H(OTP) @SOP8                  P25D16H(OTP) @USON8                 P25D32H      @SOP8                  
+      P25D80H      @USON8                 P25D80H(OTP) @SOP8                  P25D80H(OTP) @USON8                 P25D80SH     @SOP8                  
+      P25D80SH     @USON8                 P25D16H      @SOP8                  P25D16H      @USON8                 P25D16H(OTP) @SOP8                  
+      P25D16H(OTP) @USON8                 P25D16SH     @SOP8                  P25D16SH     @USON8                 P25D32H      @SOP8                  
       P25D32H      @USON8                 P25D32H(OTP) @SOP8                  P25D32H(OTP) @USON8                 P25D32SH     @SOP8                  
       P25D32SH     @USON8                 P25D64H      @SOP8                  P25D64H      @USON8                 P25D64H(OTP) @SOP8                  
       P25D64H(OTP) @USON8                 P25F20H      @SOP8                  P25F40H      @SOP8                  P25F40H(OTP) @SOP8                  
@@ -3570,7 +3572,7 @@
       PY25Q16Hx @WSON8                    PY25Q32Hx @SOP8                     PY25Q32Hx @WSON8                    PY25Q64Hx @SOP8                     
       PY25Q64Hx @WSON8                    PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   
 
-         IC Support: 151 PCS
+         IC Support: 155 PCS
 
  [ PTC ]     
 
@@ -5173,7 +5175,7 @@
       4518            4519            4520            4529            
       4531            4532            4539            4543            
       4555            4556            4572            4584            
-      6821            7400            7401            7402            
+      MC6821P(onlyT56)7400            7401            7402            
       7403            7404            7405(NonStandard)7405(OC/OD)     
       7406(NonStandard)7406(OC/OD)     7407(NonStandard)7407(OC/OD)     
       7408            7409            7410            741035          
@@ -5231,4 +5233,5 @@
          IC Support: 316 PCS
 
 
-   Total: 17466 PCS
+   Total: 17470 PCS
+
