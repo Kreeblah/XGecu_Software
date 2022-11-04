@@ -90,3 +90,4 @@ ae4c9232724a4f9215bfadb81d835ec76612f53a59438fe376738c1505cfcc6e  ./Xgpro/12/xgp
 da7b8185da103fe5a945ab791a3333664f1ba02d6d2e8c19dfa0df05b495afa9  ./Xgpro/12/xgproV1225_setup.rar
 f6516ea847fbef230bee61b112cc3c8e843e3330195b3cef7cc6b36a7c2ac3c5  ./Xgpro/12/xgproV1230_setup.rar
 f340dd096dd5beaaedcd2b947b3e55a8aaad35df03a6b55f9ae4de8420b8b49b  ./Xgpro/12/xgproV1232_setup.rar
+414aad6c7b6f67ff5d2953268875ab71dfa27661c0ca6921860dba80f7cff8e5  ./Xgpro/12/xgproV1235_setup.rar
