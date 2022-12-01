@@ -1,7 +1,7 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.35  Date : 10.31th.2022
-           Supported Devices:   18253
+            Software Version:   V12.38  Date : 12.1th.2022
+           Supported Devices:   18271 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
@@ -12,7 +12,8 @@
 
       Very useful favorites               
 
-    
+         IC Support: 1 PCS
+
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -286,10 +287,11 @@
       A290021U @TSOP32                    A290021U @TSOP32(ADP:Pin9 to 1)     A29512                              A29512   @PLCC32                    
       A29512   @TSOP32                    A29512   @TSOP32(ADP:Pin9 to 1)     A29512A                             A29512A  @PLCC32                    
       A29512A  @TSOP32                    A29512A  @TSOP32(ADP:Pin9 to 1)     A29010                              A29010   @PLCC32                    
-      A29010   @TSOP32                    A29010   @TSOP32(ADP:Pin9 to 1)     A29040                              A29040   @PLCC32                    
-      A29040   @TSOP32                    A29040   @TSOP32(ADP:Pin9 to 1)     A29040A                             A29040A  @PLCC32                    
-      A29040A  @TSOP32                    A29040A  @TSOP32(ADP:Pin9 to 1)     A29040B                             A29040B  @PLCC32                    
-      A29040B  @TSOP32                    A29040B  @TSOP32(ADP:Pin9 to 1)     A29016W @TSOP40                     A29400V  @TSOP48                    
+      A29010   @TSOP32                    A29010   @TSOP32(ADP:Pin9 to 1)     A29040                              A29040L   @PLCC32                   
+      A29040V   @TSOP32                   A29040V   @TSOP32(ADP:Pin9 to 1)    A29040A                             A29040AL  @PLCC32                   
+      A29040AV  @TSOP32                   A29040AV  @TSOP32(ADP:Pin9 to 1)    A29040B                             A29040BL  @PLCC32                   
+      A29040BV  @TSOP32                   A29040BV  @TSOP32(ADP:Pin9 to 1)    A29040C  @DIP32                     A29040CL @PLCC32                    
+      A29040CV @TSOP32                    A29040CV @TSOP32(ADP:Pin9 to 1)     A29016W @TSOP40                     A29400V  @TSOP48                    
       A29400M  @SOP44                     A29400TV  @TSOP48                   A29400TM  @SOP44                    A29400UV  @TSOP48                   
       A29400UM  @SOP44                    A29800TV  @TSOP48                   A29800TM  @SOP44                    A29800UV  @TSOP48                   
       A29800UM  @SOP44                    A29801ATV @TSOP48                   A29801ATM @SOP44                    A29801TV  @TSOP48                   
@@ -319,7 +321,7 @@
       A49LF040TX  @TSOP32(ADP:Pin9 to 1)  A49LF040ATL @PLCC32                 A49LF040ATX @TSOP32                 A49LF040ATX @TSOP32(ADP:Pin9 to 1)  
       A49FL004TL  @PLCC32                 A49FL004TX  @TSOP32                 A49FL004TX  @TSOP32(ADP:Pin9 to 1)  
 
-         IC Support: 255 PCS
+         IC Support: 259 PCS
 
  [ ANACHIP ]     
 
@@ -3174,57 +3176,60 @@
       PIC16LF914 @DIP40                   PIC16LF916 @DIP28                   PIC16LF916 @SOIC28                  PIC16LF916 @SSOP28                  
       PIC16LF917 @DIP40                   PIC16LF946 (ISCP)                   PIC18F1220 @DIP18                   PIC18F1220 @SOIC18                  
       PIC18F1220 @SSOP20                  PIC18F1320 @DIP18                   PIC18F1320 @SOIC18                  PIC18F1320 @SSOP20                  
-      PIC18F2221 @DIP28                   PIC18F2221 @SOIC28                  PIC18F2221 @SSOP28                  PIC18F2321 @DIP28                   
-      PIC18F2321 @SOIC28                  PIC18F2321 @SSOP28                  PIC18F2410 @DIP28                   PIC18F2410 @SOIC28                  
-      PIC18F2410 @SSOP28                  PIC18F242 @DIP28                    PIC18F242 @SOIC28                   PIC18F2420 @DIP28                   
-      PIC18F2420 @SOIC28                  PIC18F2420 @SSOP28                  PIC18F2423 @DIP28                   PIC18F2423 @SOIC28                  
-      PIC18F2423 @SSOP28                  PIC18F2450 @DIP28                   PIC18F2450 @SOIC28                  PIC18F2450 @SSOP28                  
-      PIC18F2455 @DIP28                   PIC18F2455 @SOIC28                  PIC18F2455 @SSOP28                  PIC18F2458 @DIP28                   
-      PIC18F2458 @SOIC28                  PIC18F2458 @SSOP28                  PIC18F248 @DIP28                    PIC18F248 @SOIC28                   
-      PIC18F2480 @DIP28                   PIC18F2480 @SOIC28                  PIC18F2480 @SSOP28                  PIC18F2510 @DIP28                   
-      PIC18F2510 @SOIC28                  PIC18F2510 @SSOP28                  PIC18F2515 @DIP28                   PIC18F2515 @SOIC28                  
-      PIC18F2515 @SSOP28                  PIC18F252 @DIP28                    PIC18F252 @SOIC28                   PIC18F2520 @DIP28                   
-      PIC18F2520 @SOIC28                  PIC18F2520 @SSOP28                  PIC18F2523 @DIP28                   PIC18F2523 @SOIC28                  
-      PIC18F2523 @SSOP28                  PIC18F2525 @DIP28                   PIC18F2525 @SOIC28                  PIC18F2525 @SSOP28                  
-      PIC18F2550 @DIP28                   PIC18F2550 @SOIC28                  PIC18F2550 @SSOP28                  PIC18F2553 @DIP28                   
-      PIC18F2553 @SOIC28                  PIC18F2553 @SSOP28                  PIC18F258 @DIP28                    PIC18F258 @SOIC28                   
-      PIC18F2580 @DIP28                   PIC18F2580 @SOIC28                  PIC18F2580 @SSOP28                  PIC18F2585 @DIP28                   
-      PIC18F2585 @SOIC28                  PIC18F2585 @SSOP28                  PIC18F2610 @DIP28                   PIC18F2610 @SOIC28                  
-      PIC18F2610 @SSOP28                  PIC18F2620 @DIP28                   PIC18F2620 @SOIC28                  PIC18F2620 @SSOP28                  
-      PIC18F2680 @DIP28                   PIC18F2680 @SOIC28                  PIC18F2680 @SSOP28                  PIC18F2682 @DIP28                   
-      PIC18F2682 @SOIC28                  PIC18F2682 @SSOP28                  PIC18F2685 @DIP28                   PIC18F2685 @SOIC28                  
-      PIC18F2685 @SSOP28                  PIC18F4221 @DIP40                   PIC18F4321 @DIP40                   PIC18F4410 @DIP40                   
-      PIC18F442  @DIP40                   PIC18F4420 @DIP40                   PIC18F4423 @DIP40                   PIC18F4450 @DIP40                   
-      PIC18F4455 @DIP40                   PIC18F4458 @DIP40                   PIC18F448  @DIP40                   PIC18F4480 @DIP40                   
-      PIC18F4510 @DIP40                   PIC18F4515 @DIP40                   PIC18F452  @DIP40                   PIC18F4520 @DIP40                   
-      PIC18F4523 @DIP40                   PIC18F4525 @DIP40                   PIC18F4550 @DIP40                   PIC18F4553 @DIP40                   
-      PIC18F458  @DIP40                   PIC18F4580 @DIP40                   PIC18F4585 @DIP40                   PIC18F4610 @DIP40                   
-      PIC18F4620 @DIP40                   PIC18F4680 @DIP40                   PIC18F4682 @DIP40                   PIC18F4685 @DIP40                   
-      PIC18F23K20 @DIP28                  PIC18F23K20 @SOIC28                 PIC18F23K20 @SSOP28                 PIC18F24K20 @DIP28                  
-      PIC18F24K20 @SOIC28                 PIC18F24K20 @SSOP28                 PIC18F25K20 @DIP28                  PIC18F25K20 @SOIC28                 
-      PIC18F25K20 @SSOP28                 PIC18F26K20 @DIP28                  PIC18F26K20 @SOIC28                 PIC18F26K20 @SSOP28                 
-      PIC18F43K20 @DIP40                  PIC18F44K20 @DIP40                  PIC18F45K20 @DIP40                  PIC18F46K20 @DIP40                  
-      PIC18F23K22 @DIP28                  PIC18F23K22 @SOIC28                 PIC18F23K22 @SSOP28                 PIC18F24K22 @DIP28                  
-      PIC18F24K22 @SOIC28                 PIC18F24K22 @SSOP28                 PIC18F25K22 @DIP28                  PIC18F25K22 @SOIC28                 
-      PIC18F25K22 @SSOP28                 PIC18F26K22 @DIP28                  PIC18F26K22 @SOIC28                 PIC18F26K22 @SSOP28                 
-      PIC18F43K22 @DIP40                  PIC18F44K22 @DIP40                  PIC18F45K22 @DIP40                  PIC18F46K22 @DIP40                  
-      PIC18LF23K22 @DIP28                 PIC18LF23K22 @SOIC28                PIC18LF23K22 @SSOP28                PIC18LF24K22 @DIP28                 
-      PIC18LF24K22 @SOIC28                PIC18LF24K22 @SSOP28                PIC18LF25K22 @DIP28                 PIC18LF25K22 @SOIC28                
-      PIC18LF25K22 @SSOP28                PIC18LF26K22 @DIP28                 PIC18LF26K22 @SOIC28                PIC18LF26K22 @SSOP28                
-      PIC18LF43K22 @DIP40                 PIC18LF44K22 @DIP40                 PIC18LF45K22 @DIP40                 PIC18LF46K22 @DIP40                 
-      PIC18F24K50 @DIP28                  PIC18F24K50 @SOIC28                 PIC18F24K50 @SSOP28                 PIC18F25K50 @DIP28                  
-      PIC18F25K50 @SOIC28                 PIC18F25K50 @SSOP28                 PIC18F26K50 @DIP28                  PIC18F26K50 @SOIC28                 
-      PIC18F26K50 @SSOP28                 PIC18F45K50 @DIP40                  PIC18F46K50 @DIP40                  PIC18LF24K50 @DIP28                 
-      PIC18LF24K50 @SOIC28                PIC18LF24K50 @SSOP28                PIC18LF25K50 @DIP28                 PIC18LF25K50 @SOIC28                
-      PIC18LF25K50 @SSOP28                PIC18LF26K50 @DIP28                 PIC18LF26K50 @SOIC28                PIC18LF26K50 @SSOP28                
-      PIC18LF45K50 @DIP40                 PIC18LF46K50 @DIP40                 PIC18F25K80 @DIP28                  PIC18F25K80 @SOIC28                 
-      PIC18F25K80 @SSOP28                 PIC18F26K80 @DIP28                  PIC18F26K80 @SOIC28                 PIC18F26K80 @SSOP28                 
-      PIC18F45K80 @DIP40                  PIC18F46K80 @DIP40                  PIC18F65K80 @QFN64_ISP              PIC18F65K80 @TQFP64_ISP             
-      PIC18F66K80 @QFN64_ISP              PIC18F66K80 @TQFP64_ISP             PIC18LF25K80 @DIP28                 PIC18LF25K80 @SOIC28                
-      PIC18LF25K80 @SSOP28                PIC18LF26K80 @DIP28                 PIC18LF26K80 @SOIC28                PIC18LF26K80 @SSOP28                
-      PIC18LF45K80 @DIP40                 PIC18LF46K80 @DIP40                 PIC18LF65K80 @QFN64_ISP             PIC18LF65K80 @TQFP64_ISP            
-      PIC18LF66K80 @QFN64_ISP             PIC18LF66K80 @TQFP64_ISP            PIC18LF1220 @DIP18                  PIC18LF1220 @SOIC18                 
-      PIC18LF1220 @SSOP20                 PIC18LF1320 @DIP18                  PIC18LF1320 @SOIC18                 PIC18LF1320 @SSOP20                 
+      PIC18F2220 @DIP28                   PIC18F2220 @SOP28                   PIC18F2320 @DIP28                   PIC18F2320 @SOP28                   
+      PIC18F4220 @DIP40                   PIC18F4320 @DIP40                   PIC18F2221 @DIP28                   PIC18F2221 @SOIC28                  
+      PIC18F2221 @SSOP28                  PIC18F2321 @DIP28                   PIC18F2321 @SOIC28                  PIC18F2321 @SSOP28                  
+      PIC18F2410 @DIP28                   PIC18F2410 @SOIC28                  PIC18F2410 @SSOP28                  PIC18F242 @DIP28                    
+      PIC18F242 @SOIC28                   PIC18F2420 @DIP28                   PIC18F2420 @SOIC28                  PIC18F2420 @SSOP28                  
+      PIC18F2423 @DIP28                   PIC18F2423 @SOIC28                  PIC18F2423 @SSOP28                  PIC18F2450 @DIP28                   
+      PIC18F2450 @SOIC28                  PIC18F2450 @SSOP28                  PIC18F2455 @DIP28                   PIC18F2455 @SOIC28                  
+      PIC18F2455 @SSOP28                  PIC18F2458 @DIP28                   PIC18F2458 @SOIC28                  PIC18F2458 @SSOP28                  
+      PIC18F248 @DIP28                    PIC18F248 @SOIC28                   PIC18F2480 @DIP28                   PIC18F2480 @SOIC28                  
+      PIC18F2480 @SSOP28                  PIC18F2510 @DIP28                   PIC18F2510 @SOIC28                  PIC18F2510 @SSOP28                  
+      PIC18F2515 @DIP28                   PIC18F2515 @SOIC28                  PIC18F2515 @SSOP28                  PIC18F252 @DIP28                    
+      PIC18F252 @SOIC28                   PIC18F2520 @DIP28                   PIC18F2520 @SOIC28                  PIC18F2520 @SSOP28                  
+      PIC18F2523 @DIP28                   PIC18F2523 @SOIC28                  PIC18F2523 @SSOP28                  PIC18F2525 @DIP28                   
+      PIC18F2525 @SOIC28                  PIC18F2525 @SSOP28                  PIC18F2550 @DIP28                   PIC18F2550 @SOIC28                  
+      PIC18F2550 @SSOP28                  PIC18F2553 @DIP28                   PIC18F2553 @SOIC28                  PIC18F2553 @SSOP28                  
+      PIC18F258 @DIP28                    PIC18F258 @SOIC28                   PIC18F2580 @DIP28                   PIC18F2580 @SOIC28                  
+      PIC18F2580 @SSOP28                  PIC18F2585 @DIP28                   PIC18F2585 @SOIC28                  PIC18F2585 @SSOP28                  
+      PIC18F2610 @DIP28                   PIC18F2610 @SOIC28                  PIC18F2610 @SSOP28                  PIC18F2620 @DIP28                   
+      PIC18F2620 @SOIC28                  PIC18F2620 @SSOP28                  PIC18F2680 @DIP28                   PIC18F2680 @SOIC28                  
+      PIC18F2680 @SSOP28                  PIC18F2682 @DIP28                   PIC18F2682 @SOIC28                  PIC18F2682 @SSOP28                  
+      PIC18F2685 @DIP28                   PIC18F2685 @SOIC28                  PIC18F2685 @SSOP28                  PIC18F4221 @DIP40                   
+      PIC18F4321 @DIP40                   PIC18F4410 @DIP40                   PIC18F442  @DIP40                   PIC18F4420 @DIP40                   
+      PIC18F4423 @DIP40                   PIC18F4450 @DIP40                   PIC18F4455 @DIP40                   PIC18F4458 @DIP40                   
+      PIC18F448  @DIP40                   PIC18F4480 @DIP40                   PIC18F4510 @DIP40                   PIC18F4515 @DIP40                   
+      PIC18F452  @DIP40                   PIC18F4520 @DIP40                   PIC18F4523 @DIP40                   PIC18F4525 @DIP40                   
+      PIC18F4550 @DIP40                   PIC18F4553 @DIP40                   PIC18F458  @DIP40                   PIC18F4580 @DIP40                   
+      PIC18F4585 @DIP40                   PIC18F4610 @DIP40                   PIC18F4620 @DIP40                   PIC18F4680 @DIP40                   
+      PIC18F4682 @DIP40                   PIC18F4685 @DIP40                   PIC18F23K20 @DIP28                  PIC18F23K20 @SOIC28                 
+      PIC18F23K20 @SSOP28                 PIC18F24K20 @DIP28                  PIC18F24K20 @SOIC28                 PIC18F24K20 @SSOP28                 
+      PIC18F25K20 @DIP28                  PIC18F25K20 @SOIC28                 PIC18F25K20 @SSOP28                 PIC18F26K20 @DIP28                  
+      PIC18F26K20 @SOIC28                 PIC18F26K20 @SSOP28                 PIC18F43K20 @DIP40                  PIC18F44K20 @DIP40                  
+      PIC18F45K20 @DIP40                  PIC18F46K20 @DIP40                  PIC18F23K22 @DIP28                  PIC18F23K22 @SOIC28                 
+      PIC18F23K22 @SSOP28                 PIC18F24K22 @DIP28                  PIC18F24K22 @SOIC28                 PIC18F24K22 @SSOP28                 
+      PIC18F25K22 @DIP28                  PIC18F25K22 @SOIC28                 PIC18F25K22 @SSOP28                 PIC18F26K22 @DIP28                  
+      PIC18F26K22 @SOIC28                 PIC18F26K22 @SSOP28                 PIC18F43K22 @DIP40                  PIC18F44K22 @DIP40                  
+      PIC18F45K22 @DIP40                  PIC18F46K22 @DIP40                  PIC18LF23K22 @DIP28                 PIC18LF23K22 @SOIC28                
+      PIC18LF23K22 @SSOP28                PIC18LF24K22 @DIP28                 PIC18LF24K22 @SOIC28                PIC18LF24K22 @SSOP28                
+      PIC18LF25K22 @DIP28                 PIC18LF25K22 @SOIC28                PIC18LF25K22 @SSOP28                PIC18LF26K22 @DIP28                 
+      PIC18LF26K22 @SOIC28                PIC18LF26K22 @SSOP28                PIC18LF43K22 @DIP40                 PIC18LF44K22 @DIP40                 
+      PIC18LF45K22 @DIP40                 PIC18LF46K22 @DIP40                 PIC18F24K50 @DIP28                  PIC18F24K50 @SOIC28                 
+      PIC18F24K50 @SSOP28                 PIC18F25K50 @DIP28                  PIC18F25K50 @SOIC28                 PIC18F25K50 @SSOP28                 
+      PIC18F26K50 @DIP28                  PIC18F26K50 @SOIC28                 PIC18F26K50 @SSOP28                 PIC18F45K50 @DIP40                  
+      PIC18F46K50 @DIP40                  PIC18LF24K50 @DIP28                 PIC18LF24K50 @SOIC28                PIC18LF24K50 @SSOP28                
+      PIC18LF25K50 @DIP28                 PIC18LF25K50 @SOIC28                PIC18LF25K50 @SSOP28                PIC18LF26K50 @DIP28                 
+      PIC18LF26K50 @SOIC28                PIC18LF26K50 @SSOP28                PIC18LF45K50 @DIP40                 PIC18LF46K50 @DIP40                 
+      PIC18F25K80 @DIP28                  PIC18F25K80 @SOIC28                 PIC18F25K80 @SSOP28                 PIC18F26K80 @DIP28                  
+      PIC18F26K80 @SOIC28                 PIC18F26K80 @SSOP28                 PIC18F45K80 @DIP40                  PIC18F46K80 @DIP40                  
+      PIC18F65K80 @QFN64_ISP              PIC18F65K80 @TQFP64_ISP             PIC18F66K80 @QFN64_ISP              PIC18F66K80 @TQFP64_ISP             
+      PIC18LF25K80 @DIP28                 PIC18LF25K80 @SOIC28                PIC18LF25K80 @SSOP28                PIC18LF26K80 @DIP28                 
+      PIC18LF26K80 @SOIC28                PIC18LF26K80 @SSOP28                PIC18LF45K80 @DIP40                 PIC18LF46K80 @DIP40                 
+      PIC18LF65K80 @QFN64_ISP             PIC18LF65K80 @TQFP64_ISP            PIC18LF66K80 @QFN64_ISP             PIC18LF66K80 @TQFP64_ISP            
+      PIC18LF1220 @DIP18                  PIC18LF1220 @SOIC18                 PIC18LF1220 @SSOP20                 PIC18LF1320 @DIP18                  
+      PIC18LF1320 @SOIC18                 PIC18LF1320 @SSOP20                 PIC18LF2220 @DIP28                  PIC18LF2220 @SOP28                  
+      PIC18LF2320 @DIP28                  PIC18LF2320 @SOP28                  PIC18LF4220 @DIP40                  PIC18LF4320 @DIP40                  
       PIC18LF2221 @DIP28                  PIC18LF2221 @SOIC28                 PIC18LF2221 @SSOP28                 PIC18LF2321 @DIP28                  
       PIC18LF2321 @SOIC28                 PIC18LF2321 @SSOP28                 PIC18LF2410 @DIP28                  PIC18LF2410 @SOIC28                 
       PIC18LF2410 @SSOP28                 PIC18LF242 @DIP28                   PIC18LF242 @SOIC28                  PIC18LF2420 @DIP28                  
@@ -3275,7 +3280,7 @@
       PIC18LF83J90(ISP)                   PIC18LF84J11(ISP)                   PIC18LF84J90(ISP)                   PIC18LF85J11(ISP)                   
       PIC18LF85J90(ISP)                   rfPIC12C509AG @SOIC18               rfPIC12C509AF @SSOP20               
 
-         IC Support: 1099 PCS
+         IC Support: 1111 PCS
 
  [ MICRON ]     
 
@@ -3690,18 +3695,19 @@
       P25Q80H      @SOP8                  P25Q80H      @USON8                 P25Q80H(OTP) @SOP8                  P25Q80H(OTP) @USON8                 
       P25Q80U      @SOP8                  P25Q80U      @USON8                 P25Q80SH     @SOP8                  P25Q80SH     @USON8                 
       P25Q16H      @SOP8                  P25Q16H      @USON8                 P25Q16H(OTP) @SOP8                  P25Q16H(OTP) @USON8                 
-      P25Q16SH     @SOP8                  P25Q16SH     @USON8                 P25Q32H      @SOP8                  P25Q32H      @USON8                 
-      P25Q32H(OTP) @SOP8                  P25Q32H(OTP) @USON8                 P25Q32SH     @SOP8                  P25Q32SH     @USON8                 
-      P25Q64H      @SOP8                  P25Q64H      @USON8                 P25Q64H(OTP) @SOP8                  P25Q64H(OTP) @USON8                 
-      P25Q64SH @SOP8                      P25Q64SH @USON8                     P25Q128H      @SOP8                 P25Q128H      @USON8                
-      P25Q128H(OTP) @SOP8                 P25Q128H(OTP) @USON8                P25Q128U      @SOP8                 P25Q128U      @USON8                
-      P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @USON8                PY25Q80HA @SOP8                     PY25Q80HA @WSON8                    
-      PY25Q16HA @SOP8                     PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     PY25Q32HA @WSON8                    
-      PY25Q64HA @SOP8                     PY25Q64HA @WSON8                    PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   
-      PY25Q80HB @SOP8                     PY25Q80HB @WSON8                    PY25Q16HB @SOP8                     PY25Q16HB @WSON8                    
-      PY25Q32HB @SOP8                     PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     PY25Q64HB @WSON8                    
+      P25Q16HB     @SOP8                  P25Q16HB     @USON8                 P25Q16SH     @SOP8                  P25Q16SH     @USON8                 
+      P25Q32H      @SOP8                  P25Q32H      @USON8                 P25Q32H(OTP) @SOP8                  P25Q32H(OTP) @USON8                 
+      P25Q32SH     @SOP8                  P25Q32SH     @USON8                 P25Q64H      @SOP8                  P25Q64H      @USON8                 
+      P25Q64H(OTP) @SOP8                  P25Q64H(OTP) @USON8                 P25Q64SH @SOP8                      P25Q64SH @USON8                     
+      P25Q128H      @SOP8                 P25Q128H      @USON8                P25Q128H(OTP) @SOP8                 P25Q128H(OTP) @USON8                
+      P25Q128U      @SOP8                 P25Q128U      @USON8                P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @USON8                
+      PY25Q80HA @SOP8                     PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     PY25Q16HA @WSON8                    
+      PY25Q32HA @SOP8                     PY25Q32HA @WSON8                    PY25Q64HA @SOP8                     PY25Q64HA @WSON8                    
+      PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   PY25Q80HB @SOP8                     PY25Q80HB @WSON8                    
+      PY25Q16HB @SOP8                     PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     PY25Q32HB @WSON8                    
+      PY25Q64HB @SOP8                     PY25Q64HB @WSON8                    
 
-         IC Support: 172 PCS
+         IC Support: 174 PCS
 
  [ PTC ]     
 
@@ -5429,4 +5435,4 @@
          IC Support: 316 PCS
 
 
-   Total: 18253 PCS
+   Total: 18271 PCS
