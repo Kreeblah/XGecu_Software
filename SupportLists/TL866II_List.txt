@@ -1,7 +1,7 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.38  Date : 12.1th.2022
-           Supported Devices:   18271 
+            Software Version:   V12.45  Date : 12.22.2022
+           Supported Devices:   18301 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
@@ -2528,7 +2528,9 @@
       KH25L4005A @SOP8                    KH25L512                            KH25L512 @SON8                      KH25L512 @SOP8                      
       KH25L512A                           KH25L512A @SON8                     KH25L512A @SOP8                     KH25L8005                           
       KH25L8005 @SON8                     KH25L8005 @SOP8                     KH25L8036D                          KH25L8036D @WSON8                   
-      KH25L8036D @SOP8                    KH25L8036D @SOP16                   KH29LV160CB @TSOP48                 KH29LV160CT @TSOP48                 
+      KH25L8036D @SOP8                    KH25L8036D @SOP16                   KH25L3236F @SOP8                    KH25L3236F @USON8                   
+      KH25L3236F @WSON8                   KH25L3236F @SOP16                   KH25L3236F(OTP) @SOP8               KH25L3236F(OTP) @USON8              
+      KH25L3236F(OTP) @WSON8              KH25L3236F(OTP) @SOP16              KH29LV160CB @TSOP48                 KH29LV160CT @TSOP48                 
       KH29LV320DB @TSOP48                 KH29LV320DT @TSOP48                 KH29LV400CB @TSOP48                 KH29LV400CB @SOP44                  
       KH29LV400CT @TSOP48                 KH29LV400CT @SOP44                  KH29LV800CB @TSOP48                 KH29LV800CB @SOP44                  
       KH29LV800CT @TSOP48                 KH29LV800CT @SOP44                  MX25L512                            MX25L512 @SOP8                      
@@ -2579,6 +2581,10 @@
       MX25L3235E @SOP8                    MX25L3235E @WSON8                   MX25L3235E @SOP16                   MX25L3235E(OTP) @SOP8               
       MX25L3235E(OTP) @WSON8              MX25L3235E(OTP) @SOP16              MX25L3236D @SOP8                    MX25L3236D @WSON8                   
       MX25L3236D @SOP16                   MX25L3236D(OTP) @SOP8               MX25L3236D(OTP) @WSON8              MX25L3236D(OTP) @SOP16              
+      MX25L3236E @SOP8                    MX25L3236E @USON8                   MX25L3236E @WSON8                   MX25L3236E @SOP16                   
+      MX25L3236E(OTP) @SOP8               MX25L3236E(OTP) @USON8              MX25L3236E(OTP) @WSON8              MX25L3236E(OTP) @SOP16              
+      MX25L3273F @SOP8                    MX25L3273F @USON8                   MX25L3273F @WSON8                   MX25L3273F @SOP16                   
+      MX25L3273F(OTP) @SOP8               MX25L3273F(OTP) @USON8              MX25L3273F(OTP) @WSON8              MX25L3273F(OTP) @SOP16              
       MX25L3237D @WSON8                   MX25L3237D @SOP16                   MX25L3237D(OTP) @WSON8              MX25L3237D(OTP) @SOP16              
       MX25L3239E @SOP                     MX25L3239E @VSOP                    MX25L3239E @WSON                    MX25L3239E(OTP) @SOP8               
       MX25L3239E(OTP) @WSON8              MX25L3239E(OTP) @SOP16              MX25L3273E @SOP8                    MX25L3273E @USON8                   
@@ -2774,7 +2780,7 @@
       MX30LF4GE8AB @TSOP48                MX60LF8G18AC @TSOP48                MX60LF8G28AB @TSOP48                MX60LF8G28AC @TSOP48                
       MX60LF8G28AD @TSOP48                
 
-         IC Support: 1005 PCS
+         IC Support: 1029 PCS
 
  [ MAXCOM ]     
 
@@ -4143,16 +4149,17 @@
       LH28F002SCHT @TSOP40                LH28F002SCT @TSOP40                 LH28F004SCHT @TSOP40                LH28F004SCT @TSOP40                 
       LH28F004SUT-L @TSOP40               LH28F004SUT-N @TSOP40               LH28F008BJT-BTLZ @TSOP40            LH28F008BJT-TTLZ @TSOP40            
       LH28F008SA @TSOP40                  LH28F008SC @TSOP40                  LH28F016SC @TSOP40                  LH28F160BJE-B @TSOP48               
-      LH28F160BJE-T @TSOP48               LH28F320BJE-PB @TSOP48              LH28F320BJE-PT @TSOP48              LH28F400SU @TSOP48                  
-      LH28F400SU @SOP44                   LH28F400BVE @TSOP48                 LH28F400BGE-B @TSOP48               LH28F400BGE-T @TSOP48               
-      LH28F400BGHE-B @TSOP48              LH28F400BGHE-T @TSOP48              LH28F400BVHE-B @TSOP48              LH28F400BVHE-T @TSOP48              
-      LH28F640BFE-PB @TSOP48              LH28F640BFE-PT @TSOP48              LH28F640BFHE-PBTL60 @TSOP48         LH28F640BFHE-PBTL65 @TSOP48         
-      LH28F640BFHE-PBTL70A @TSOP48        LH28F640BFHE-PBTL80 @TSOP48         LH28F640BFHE-PBTL90 @TSOP48         LH28F640BFHE-PTTL60 @TSOP48         
-      LH28F640BFHE-PTTL65 @TSOP48         LH28F640BFHE-PTTL70A @TSOP48        LH28F640BFHE-PTTL80 @TSOP48         LH28F640BFHE-PTTL90 @TSOP48         
-      LH28F800BGE-B @TSOP48               LH28F800BGE-T @TSOP48               LH28F800BGHE-B @TSOP48              LH28F800BGHE-T @TSOP48              
-      LH28F800BVHE-BTL @TSOP48            LH28F800BVHE-TTL @TSOP48            
+      LH28F160BJE-T @TSOP48               LH28F320BJE-PBTL90 @TSOP48          LH28F320BJE-PTTL90 @TSOP48          LH28F320BJHE-PBTL90 @TSOP48         
+      LH28F320BJHE-PBTLZU @TSOP48         LH28F320BJHE-PTTL90 @TSOP48         LH28F400SU @TSOP48                  LH28F400SU @SOP44                   
+      LH28F400BVE @TSOP48                 LH28F400BGE-B @TSOP48               LH28F400BGE-T @TSOP48               LH28F400BGHE-B @TSOP48              
+      LH28F400BGHE-T @TSOP48              LH28F400BVHE-B @TSOP48              LH28F400BVHE-T @TSOP48              LH28F640BFE-PB @TSOP48              
+      LH28F640BFE-PT @TSOP48              LH28F640BFHE-PBTL60 @TSOP48         LH28F640BFHE-PBTL65 @TSOP48         LH28F640BFHE-PBTL70A @TSOP48        
+      LH28F640BFHE-PBTL80 @TSOP48         LH28F640BFHE-PBTL90 @TSOP48         LH28F640BFHE-PTTL60 @TSOP48         LH28F640BFHE-PTTL65 @TSOP48         
+      LH28F640BFHE-PTTL70A @TSOP48        LH28F640BFHE-PTTL80 @TSOP48         LH28F640BFHE-PTTL90 @TSOP48         LH28F800BGE-B @TSOP48               
+      LH28F800BGE-T @TSOP48               LH28F800BGHE-B @TSOP48              LH28F800BGHE-T @TSOP48              LH28F800BVHE-BTL @TSOP48            
+      LH28F800BVHE-TTL @TSOP48            
 
-         IC Support: 42 PCS
+         IC Support: 45 PCS
 
  [ SIEMENS ]     
 
@@ -5357,82 +5364,83 @@
       4008            4009            4010            40106           
       40107           40108           40109           4011            
       4012            4013            4015            4016            
-      40161           40162           40163           4017            
-      40174           40175           4018            4019            
-      40192           40193           4020            40208           
-      4021            4022            4023            4024            
-      4025            4026            4027            4028            
-      4029            4030            4031            4034            
-      4040            4041            4042            4043            
-      4044            4048            4049            4050            
-      4051            4052            4053            4054            
-      4060            4063            4066            4067            
-      4068            4069            4070            4071            
-      4072            4073            4075            4076            
-      4077            4078            4081            4082            
-      4085            4093            4094            4099            
-      4104            4352            4353            4501            
-      4503            4506            4510            4511            
-      4512            4514            4515            4516            
-      4518            4519            4520            4529            
-      4531            4532            4539            4543            
-      4555            4556            4572            4584            
-      MC6821P(onlyT56)7400            7401            7402            
-      7403            7404            7405(NonStandard)7405(OC/OD)     
-      7406(NonStandard)7406(OC/OD)     7407(NonStandard)7407(OC/OD)     
-      7408            7409            7410            741035          
-      74107           74109           74100           7411            
-      74112           74113           74114           74116           
-      7412            74123           74125           74126           
-      74128           7413            74132           74133           
-      74136           74137           74138           74139           
-      7414            74140           74145           74147           
-      74148           74149           7415            74150           
-      74151           74153           74154           74155           
-      74156           74157           74158           7416            
-      74160           74161           74162           74163           
-      74164           74165           74166           74168           
-      7417            74173           74174           74175           
-      74177           7418            74181           74182           
-      74183           7419            74190           74191           
-      74192           74193           74194           74195           
-      7420            7421            7422            74237           
-      74238           7424            74240           74241           
-      74242           74243           74244           74245           
-      74247           74248           74249           7425            
-      74250           74251           74253           74256           
-      74257           74258           74259           7426            
-      74260           74261           74266           7427            
-      74273           74279           7428            74280           
-      74283           74290           74292           74293           
-      74294           74298           74299           7430            
-      7431            7432            74322           74323           
-      7433            74347           74348           7435            
-      74354           74356           7436            74365           
-      74366           74367           74368           7437            
-      74373           74374           74375           74377           
-      74378           74379           7438            74386           
-      74390           74393           74395           74399           
-      744053          7440            74S416          7442            
-      7443            7444            74445           7445            
-      74468           7447            74490           7450            
-      7451            74LS51          7452            74533           
-      74534           7454            74LS54          74540           
-      74541           7455            7456            74563           
-      74564           7457            74573           74574           
-      7458            74589           74595           74597           
-      7460            74604           7461            7462            
-      74620           74623           74640           74641           
-      74642           74643           7464            74644           
-      74645           74646           74648           7465            
-      74688           7472            747266          7473            
-      7474            7475            7476            7477            
-      7483            74832           7485            7486            
-      7487            7490            74906           7491            
-      7491_12pins     7492            7493            7495            
-      7496            7497            8155            8255            
-      8259            8279            PC827/LTV827    PC847/LTV847    
-         IC Support: 316 PCS
+      40161           40162           40163           MC14017B        
+      4017            40174           40175           4018            
+      4019            40192           40193           4020            
+      40208           4021            4022            4023            
+      4024            4025            4026            4027            
+      4028            4029            4030            4031            
+      4034            4040            4041            4042            
+      4043            4044            4048            4049            
+      4050            4051            4052            4053            
+      4054            4060            4063            4066            
+      4067            4068            4069            4070            
+      4071            4072            4073            4075            
+      4076            4077            4078            4081            
+      4082            4085            4093            4094            
+      4099            4104            4352            4353            
+      4501            4502            4503            4506            
+      4510            4511            4512            4514            
+      4515            4516            4518            4519            
+      4520            4529            4531            4532            
+      4539            4543            4555            4556            
+      4572            4584            MC6821P(onlyT56)7400            
+      7401            7402            7403            7404            
+      7405(NonStandard)7405(OC/OD)     7406(NonStandard)7406(OC/OD)     
+      7407(NonStandard)7407(OC/OD)     7408            7409            
+      7410            741035          74107           74109           
+      74100           7411            74112           74113           
+      74114           74116           7412            74123           
+      74125           74126           74128           7413            
+      74132           74133           74136           74137           
+      74138           74139           7414            74140           
+      74145           74147           74148           74149           
+      7415            74150           74151           74153           
+      74154           74155           74156           74157           
+      74158           7416            74160           74161           
+      74162           74163           74164           74165           
+      74166           74168           7417            74173           
+      74174           74175           74177           7418            
+      74181           74182           74183           7419            
+      74190           74191           74192           74193           
+      74194           74195           7420            7421            
+      7422            74237           74238           7424            
+      74240           74241           74242           74243           
+      74244           74245           74247           74248           
+      74249           7425            74250           74251           
+      74253           74256           74257           74258           
+      74259           7426            74260           74261           
+      74266           7427            74273           74279           
+      7428            74280           74283           74290           
+      74292           74293           74294           74298           
+      74299           7430            7431            7432            
+      74322           74323           7433            74347           
+      74348           7435            74354           74356           
+      7436            74365           74366           74367           
+      74368           7437            74373           74374           
+      74375           74377           74378           74379           
+      7438            74386           7439            74390           
+      74393           74395           74399           744053          
+      7440            74S416          7442            7443            
+      7444            74445           7445            74468           
+      7447            74490           7450            7451            
+      74LS51          7452            74533           74534           
+      7454            74LS54          74540           74541           
+      7455            7456            74563           74564           
+      7457            74573           74574           7458            
+      74589           74595           74597           7460            
+      74604           7461            7462            74620           
+      74623           74640           74641           74642           
+      74643           7464            74644           74645           
+      74646           74648           7465            74688           
+      7472            747266          7473            7474            
+      7475            7476            7477            7483            
+      74832           7485            7486            7487            
+      7490            74906           7491            7491_12pins     
+      7492            7493            7495            7496            
+      7497            8155            8255            8259            
+      8279            PC827/LTV827    PC847/LTV847    
+         IC Support: 319 PCS
 
 
-   Total: 18271 PCS
+   Total: 18301 PCS
