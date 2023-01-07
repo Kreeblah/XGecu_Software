@@ -1,3 +1,4 @@
+5545445ca6a9b242d5f72684970362ce9893eef20c8b5e2037d6335f99c1cead  ./minipro/4/MiniProV485_setup.rar
 baff29d4fab0e61960de9cdc8ac17f79642b7575bc825fbfd4f0392552c44089  ./minipro/4/MiniProV495_setup.rar
 772a4df69bfb104d6da22565b6d1e1973d80c7542d8f3f84ec3187c20b490d4b  ./minipro/5/minipro_setup571.rar
 aee27550a2f20959abcb20bcba93f91008d21711b1dab527fcd7ccc080755002  ./minipro/5/minipro_setup580.rar
