@@ -1,7 +1,7 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.45  Date : 12.22.2022
-           Supported Devices:   18301 
+            Software Version:   V12.50  Date : 2.16.2023
+           Supported Devices:   18370 
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
@@ -13,6 +13,7 @@
       Very useful favorites               
 
          IC Support: 1 PCS
+
 
  [ ACE ]     
 
@@ -1246,6 +1247,7 @@
 
  [ CYPRESS ]     
 
+      CY15B064J                           CY15B064J @SOIC8                    CY15B064Q                           CY15B064Q @SOIC8                    
       CY15B128J                           CY15B128J @SOIC8                    CY15B128Q                           CY15B128Q @SOIC8                    
       CY15B256Q                           CY15B256Q @SOIC8                    CY24C01                             CY24C01 @SOIC8                      
       CY24C01 @TSSOP8                     CY24C02                             CY24C02 @SOIC8                      CY24C02 @TSSOP8                     
@@ -1272,7 +1274,7 @@
       S29AL032DxxTxx04 @TSOP48            S34ML01G1 @TSOP48                   S34ML01G2 @TSOP48                   S34ML02G1 @TSOP48                   
       S34ML02G2 @TSOP48                   S34ML04G1 @TSOP48                   S34ML04G2 @TSOP48                   
 
-         IC Support: 99 PCS
+         IC Support: 103 PCS
 
  [ DALLAS ]     
 
@@ -1286,6 +1288,11 @@
       DS1265AB (RW)                       DS1265Y (RW)                        DS1270AB (RW)                       DS1270Y (RW)                        
 
          IC Support: 32 PCS
+
+ [ DAWEI ]     
+
+
+         IC Support: 0 PCS
 
  [ DENSE-PAC ]     
 
@@ -2431,6 +2438,11 @@
 
          IC Support: 387 PCS
 
+ [ ITE [Testing] ]     
+
+
+         IC Support: 0 PCS
+
  [ KHIC ]     
 
       KH25L1005                           KH25L1005 @SON8                     KH25L1005 @SOP8                     KH25L1005A                          
@@ -2701,7 +2713,9 @@
       MX25V8035 @WSON8                    MX25V8035(OTP)                      MX25V8035(OTP) @SOP8                MX25V8035(OTP) @WSON8               
       MX25V8035F                          MX25V8035F @SOP8                    MX25V8035F @WSON8                   MX25V8035F(OTP)                     
       MX25V8035F(OTP) @SOP8               MX25V8035F(OTP) @WSON8              MX25V1635F @SOP8                    MX25V1635F @WSON8                   
-      MX25V1635F(OTP) @SOP8               MX25V1635F(OTP) @WSON8              MX25V6433F @SOP8                    MX25V6433F @WSON8                   
+      MX25V1635F(OTP) @SOP8               MX25V1635F(OTP) @WSON8              MX25V3233F @SOP8                    MX25V3233F @WSON8                   
+      MX25V3233F(OTP) @SOP8               MX25V3233F(OTP) @WSON8              MX25V3235F @SOP8                    MX25V3235F @WSON8                   
+      MX25V3235F(OTP) @SOP8               MX25V3235F(OTP) @WSON8              MX25V6433F @SOP8                    MX25V6433F @WSON8                   
       MX25V6433F @SOIC16                  MX25V6433F(OTP) @SOP8               MX25V6433F(OTP) @SOIC16             MX26C1000                           
       MX26C1000 @PLCC32                   MX26C1000 @TSOP32                   MX26C1000 @TSOP32(ADP:Pin9 to 1)    MX26C2000                           
       MX26C2000 @PLCC32                   MX26C2000 @TSOP32                   MX26C2000 @TSOP32(ADP:Pin9 to 1)    MX26C4000                           
@@ -2780,7 +2794,7 @@
       MX30LF4GE8AB @TSOP48                MX60LF8G18AC @TSOP48                MX60LF8G28AB @TSOP48                MX60LF8G28AC @TSOP48                
       MX60LF8G28AD @TSOP48                
 
-         IC Support: 1029 PCS
+         IC Support: 1037 PCS
 
  [ MAXCOM ]     
 
@@ -3065,7 +3079,15 @@
       PIC16CR54A @SOIC18                  PIC16CR54B                          PIC16CR54B @SOIC18                  PIC16CR54C                          
       PIC16CR54C @SOIC18                  PIC16CR56A                          PIC16CR56A @SOIC18                  PIC16CR57B                          
       PIC16CR57B @SOIC28                  PIC16CR57C                          PIC16CR57C @SOIC28                  PIC16CR58A                          
-      PIC16CR58A @SOIC18                  PIC16CR58B                          PIC16CR58B @SOIC18                  PIC16F1823 @DIP14                   
+      PIC16CR58A @SOIC18                  PIC16CR58B                          PIC16CR58B @SOIC18                  PIC16F1512 @PDIP28                  
+      PIC16F1512 @SOIC28                  PIC16F1512 @SSOP28                  PIC16F1513 @PDIP28                  PIC16F1513 @SOIC28                  
+      PIC16F1513 @SSOP28                  PIC16F1516 @PDIP28                  PIC16F1516 @SOIC28                  PIC16F1516 @SSOP28                  
+      PIC16F1517 @DIP40                   PIC16F1518 @PDIP28                  PIC16F1518 @SOIC28                  PIC16F1518 @SSOP28                  
+      PIC16F1519 @DIP40                   PIC16F1526 @ISP                     PIC16F1527 @ISP                     PIC16LF1512 @PDIP28                 
+      PIC16LF1512 @SOIC28                 PIC16LF1512 @SSOP28                 PIC16LF1513 @PDIP28                 PIC16LF1513 @SOIC28                 
+      PIC16LF1513 @SSOP28                 PIC16LF1516 @PDIP28                 PIC16LF1516 @SOIC28                 PIC16LF1516 @SSOP28                 
+      PIC16LF1517 @DIP40                  PIC16LF1518 @PDIP28                 PIC16LF1518 @SOIC28                 PIC16LF1518 @SSOP28                 
+      PIC16LF1519 @DIP40                  PIC16LF1526 @ISP                    PIC16LF1527 @ISP                    PIC16F1823 @DIP14                   
       PIC16F1823 @SOIC14                  PIC16F1823 @TSSOP14                 PIC16F1824 @DIP14                   PIC16F1824 @SOIC14                  
       PIC16F1824 @TSSOP14                 PIC16F1825 @DIP14                   PIC16F1825 @SOIC14                  PIC16F1825 @TSSOP14                 
       PIC16F1826 @DIP18                   PIC16F1826 @SOIC18                  PIC16F1826 @SSOP20                  PIC16F1827 @DIP18                   
@@ -3286,7 +3308,7 @@
       PIC18LF83J90(ISP)                   PIC18LF84J11(ISP)                   PIC18LF84J90(ISP)                   PIC18LF85J11(ISP)                   
       PIC18LF85J90(ISP)                   rfPIC12C509AG @SOIC18               rfPIC12C509AF @SSOP20               
 
-         IC Support: 1111 PCS
+         IC Support: 1143 PCS
 
  [ MICRON ]     
 
@@ -3440,6 +3462,15 @@
       UPD28C64                            UPD28C64 @SOIC28                    
 
          IC Support: 34 PCS
+
+ [ NEUMEM ]     
+
+      NM25Q32A @DIP8                      NM25Q32A @WSON8                     NM25Q32A @USON8                     NM25Q32A @SOIC8                     
+      NM25Q32A @SOIC16                    NM25Q64A @DIP8                      NM25Q64A @WSON8                     NM25Q64A @USON8                     
+      NM25Q64A @SOIC8                     NM25Q64A @SOIC16                    NM25Q128A @DIP8                     NM25Q128A @WSON8                    
+      NM25Q128A @USON8                    NM25Q128A @SOIC8                    NM25Q128A @SOIC16                   
+
+         IC Support: 15 PCS
 
  [ NEXFLASH ]     
 
@@ -3709,11 +3740,13 @@
       P25Q128U      @SOP8                 P25Q128U      @USON8                P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @USON8                
       PY25Q80HA @SOP8                     PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     PY25Q16HA @WSON8                    
       PY25Q32HA @SOP8                     PY25Q32HA @WSON8                    PY25Q64HA @SOP8                     PY25Q64HA @WSON8                    
-      PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   PY25Q80HB @SOP8                     PY25Q80HB @WSON8                    
-      PY25Q16HB @SOP8                     PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     PY25Q32HB @WSON8                    
-      PY25Q64HB @SOP8                     PY25Q64HB @WSON8                    
+      PY25Q64HA @SOP16                    PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   PY25Q128HA @SOP16                   
+      PY25Q80HB @SOP8                     PY25Q80HB @WSON8                    PY25Q16HB @SOP8                     PY25Q16HB @WSON8                    
+      PY25Q32HB @SOP8                     PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     PY25Q64HB @WSON8                    
+      PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    PY25Q128HB @WSON8                   PY25Q128HB @SOP16                   
+      PY25Q256HB @SOP8                    PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   
 
-         IC Support: 174 PCS
+         IC Support: 183 PCS
 
  [ PTC ]     
 
@@ -5423,24 +5456,24 @@
       74393           74395           74399           744053          
       7440            74S416          7442            7443            
       7444            74445           7445            74468           
-      7447            74490           7450            7451            
-      74LS51          7452            74533           74534           
-      7454            74LS54          74540           74541           
-      7455            7456            74563           74564           
-      7457            74573           74574           7458            
-      74589           74595           74597           7460            
-      74604           7461            7462            74620           
-      74623           74640           74641           74642           
-      74643           7464            74644           74645           
-      74646           74648           7465            74688           
-      7472            747266          7473            7474            
-      7475            7476            7477            7483            
-      74832           7485            7486            7487            
-      7490            74906           7491            7491_12pins     
-      7492            7493            7495            7496            
-      7497            8155            8255            8259            
-      8279            PC827/LTV827    PC847/LTV847    
-         IC Support: 319 PCS
+      7447            7448            74490           7450            
+      7451            74LS51          7452            74533           
+      74534           7454            74LS54          74540           
+      74541           7455            7456            74563           
+      74564           7457            74573           74574           
+      7458            74589           74595           74597           
+      7460            74604           7461            7462            
+      74620           74623           74640           74641           
+      74642           74643           7464            74644           
+      74645           74646           74648           7465            
+      74688           7472            747266          7473            
+      7474            7475            7476            7477            
+      7483            74832           7485            7486            
+      7487            7490            74906           7491            
+      7491_12pins     7492            7493            7495            
+      7496            7497            8155            8255            
+      8259            8279            PC827/LTV827    PC847/LTV847    
+         IC Support: 320 PCS
 
 
-   Total: 18301 PCS
+   Total: 18370 PCS
