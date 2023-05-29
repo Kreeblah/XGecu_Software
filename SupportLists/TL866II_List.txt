@@ -1,13 +1,12 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.55  Date : 4.14.2023
-           Supported Devices:   18743
+            Software Version:   V12.57  Date : 5.23.2023
+           Supported Devices:   18766
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
- 
  
  [ ACE ]     
 
@@ -2011,43 +2010,46 @@
       GD25LQ80B(1.8v) @WSON8              GD25LQ16(1.8v)                      GD25LQ16(1.8v) @SOP8                GD25LQ16(1.8v) @VSOP8               
       GD25LQ16(1.8v) @WSON8               GD25LQ32C(1.8v)                     GD25LQ32C(1.8v) @SOP8               GD25LQ32C(1.8v) @TSSOP8             
       GD25LQ32C(1.8v) @USON8              GD25LQ32D(1.8v)                     GD25LQ32D(1.8v) @SOP8               GD25LQ32D(1.8v) @TSSOP8             
-      GD25LQ32D(1.8v) @USON8              GD25Q512                            GD25Q512 @SOP8                      GD25Q512 @TSSOP8                    
-      GD25Q512 @USON8                     GD25Q10                             GD25Q10 @SOP8                       GD25Q10 @TSSOP8                     
-      GD25Q10 @USON8                      GD25Q20                             GD25Q20 @SOP8                       GD25Q20 @TSSOP8                     
-      GD25Q20 @USON8                      GD25Q20B                            GD25Q20B @SOP8                      GD25Q20B @TSSOP8                    
-      GD25Q20B @USON8                     GD25Q20C                            GD25Q20C @SOP8                      GD25Q20C @TSSOP8                    
-      GD25Q20C @USON8                     GD25Q21B @SOP8                      GD25Q21B @TSSOP8                    GD25Q21B @USON8                     
-      GD25Q40                             GD25Q40 @SOP8                       GD25Q40 @TSSOP8                     GD25Q40 @USON8                      
-      GD25Q40C                            GD25Q40C @SOP8                      GD25Q40C @TSSOP8                    GD25Q40C @USON8                     
-      GD25Q80                             GD25Q80 @SOP8                       GD25Q80B                            GD25Q80B @SOP8                      
-      GD25Q80C                            GD25Q80C @SOP8                      GD25Q80C @VSOP8                     GD25Q80C @WSON8                     
-      GD25Q16                             GD25Q16 @SOP8                       GD25Q16B                            GD25Q16B @SOP8                      
-      GD25Q16B @TSSOP8                    GD25Q16B @USON8                     GD25Q16C                            GD25Q16C @SOP8                      
-      GD25Q16C @VSOP8                     GD25Q16C @WSON8                     GD25Q32                             GD25Q32 @SOP8                       
-      GD25Q32B                            GD25Q32B @SOP8                      GD25Q32B @TSSOP8                    GD25Q32B @USON8                     
-      GD25Q32C                            GD25Q32C @SOP8                      GD25Q32C @TSSOP8                    GD25Q32C @USON8                     
-      GD25Q32C(OTP)                       GD25Q32C(OTP) @SOP8                 GD25Q32C(OTP) @TSSOP8               GD25Q32C(OTP) @USON8                
-      GD25Q64                             GD25Q64 @SOP8                       GD25Q64 @USON8                      GD25Q64 @SOP16                      
-      GD25Q64B                            GD25Q64B @SOP8                      GD25Q64B @USON8                     GD25Q64B @SOP16                     
-      GD25Q64C                            GD25Q64C @SOP8                      GD25Q64C @USON8                     GD25Q64C @SOP16                     
-      GD25Q64C(OTP) @SOIC8                GD25Q64C(OTP) @SOIC16               GD25Q127C @SOIC8                    GD25Q127C @SOIC16                   
-      GD25Q127C(OTP) @SOIC8               GD25Q127C(OTP) @SOIC16              GD25Q128B @SOIC8                    GD25Q128B @SOIC16                   
-      GD25Q128C @SOIC8                    GD25Q128C @SOIC16                   GD25Q128C(OTP) @SOIC8               GD25Q128C(OTP) @SOIC16              
-      GD25Q256C @SOIC8                    GD25Q256C @SOIC16                   GD25Q256D @SOIC8                    GD25Q256D @SOIC16                   
-      GD25Q512MC @SOIC8                   GD25Q512MC @SOIC16                  GD25Q512MD @SOIC8                   GD25Q512MD @SOIC16                  
-      GD25Q20E @SOP8                      GD25Q20E @WSON8                     GD25Q20E @USON8                     GD25Q40E @SOP8                      
-      GD25Q40E @WSON8                     GD25Q40E @USON8                     GD25Q41B @SOP8                      GD25Q41B @TSSOP8                    
-      GD25Q41B @WSON8                     GD25Q41B @USON8                     GD25Q80E @SOP8                      GD25Q80E @WSON8                     
-      GD25Q80E @USON8                     GD25Q16E @SOP8                      GD25Q16E @WSON8                     GD25Q16E @USON8                     
-      GD25Q32E @SOP8                      GD25Q32E @WSON8                     GD25Q32E @USON8                     GD25Q64E @SOP8                      
-      GD25Q64E @WSON8                     GD25Q64E @USON8                     GD25Q64E @SOP16                     GD25Q128E @SOP8                     
-      GD25Q128E @WSON8                    GD25Q128E @USON8                    GD25Q128E @SOP16                    GD25Q256E @SOIC8                    
-      GD25Q256E @SOIC16                   GD25Q257D @SOIC8                    GD25Q257D @SOIC16                   GD25R32C @SOP8                      
-      GD25R32C @WSON8                     GD25R32C @USON8                     GD25R32E @SOP8                      GD25R32E @WSON8                     
-      GD25R32E @USON8                     GD25R64E @SOP8                      GD25R64E @WSON8                     GD25R64E @USON8                     
-      GD25R64E @SOP16                     GD25R127D @SOP8                     GD25R127D @WSON8                    GD25R127D @USON8                    
-      GD25R127D @SOP16                    GD25R128E @SOP8                     GD25R128E @WSON8                    GD25R128E @USON8                    
-      GD25R128E @SOP16                    GD25R256E @SOIC8                    GD25R256E @SOIC16                   GD25R512ME @SOIC8                   
+      GD25LQ32D(1.8v) @USON8              GD25LQ64C(1.8v)                     GD25LQ64C(1.8v) @SOP8               GD25LQ64C(1.8v) @USON8              
+      GD25LQ64C(1.8v) @SOP16              GD25LQ128C(1.8v) @SOIC8             GD25LQ128C(1.8v) @SOIC16            GD25LQ128D(1.8v) @SOIC8             
+      GD25LQ128D(1.8v) @SOIC16            GD25LQ128E(1.8v) @SOIC8             GD25LQ128E(1.8v) @SOIC16            GD25Q512                            
+      GD25Q512 @SOP8                      GD25Q512 @TSSOP8                    GD25Q512 @USON8                     GD25Q10                             
+      GD25Q10 @SOP8                       GD25Q10 @TSSOP8                     GD25Q10 @USON8                      GD25Q20                             
+      GD25Q20 @SOP8                       GD25Q20 @TSSOP8                     GD25Q20 @USON8                      GD25Q20B                            
+      GD25Q20B @SOP8                      GD25Q20B @TSSOP8                    GD25Q20B @USON8                     GD25Q20C                            
+      GD25Q20C @SOP8                      GD25Q20C @TSSOP8                    GD25Q20C @USON8                     GD25Q21B @SOP8                      
+      GD25Q21B @TSSOP8                    GD25Q21B @USON8                     GD25Q40                             GD25Q40 @SOP8                       
+      GD25Q40 @TSSOP8                     GD25Q40 @USON8                      GD25Q40C                            GD25Q40C @SOP8                      
+      GD25Q40C @TSSOP8                    GD25Q40C @USON8                     GD25Q80                             GD25Q80 @SOP8                       
+      GD25Q80B                            GD25Q80B @SOP8                      GD25Q80C                            GD25Q80C @SOP8                      
+      GD25Q80C @VSOP8                     GD25Q80C @WSON8                     GD25Q16                             GD25Q16 @SOP8                       
+      GD25Q16B                            GD25Q16B @SOP8                      GD25Q16B @TSSOP8                    GD25Q16B @USON8                     
+      GD25Q16C                            GD25Q16C @SOP8                      GD25Q16C @VSOP8                     GD25Q16C @WSON8                     
+      GD25Q32                             GD25Q32 @SOP8                       GD25Q32B                            GD25Q32B @SOP8                      
+      GD25Q32B @TSSOP8                    GD25Q32B @USON8                     GD25Q32C                            GD25Q32C @SOP8                      
+      GD25Q32C @TSSOP8                    GD25Q32C @USON8                     GD25Q32C(OTP)                       GD25Q32C(OTP) @SOP8                 
+      GD25Q32C(OTP) @TSSOP8               GD25Q32C(OTP) @USON8                GD25Q64                             GD25Q64 @SOP8                       
+      GD25Q64 @USON8                      GD25Q64 @SOP16                      GD25Q64B                            GD25Q64B @SOP8                      
+      GD25Q64B @USON8                     GD25Q64B @SOP16                     GD25Q64C                            GD25Q64C @SOP8                      
+      GD25Q64C @USON8                     GD25Q64C @SOP16                     GD25Q64C(OTP) @SOIC8                GD25Q64C(OTP) @SOIC16               
+      GD25Q127C @SOIC8                    GD25Q127C @SOIC16                   GD25Q127C(OTP) @SOIC8               GD25Q127C(OTP) @SOIC16              
+      GD25Q128B @SOIC8                    GD25Q128B @SOIC16                   GD25Q128C @SOIC8                    GD25Q128C @SOIC16                   
+      GD25Q128C(OTP) @SOIC8               GD25Q128C(OTP) @SOIC16              GD25Q256C @SOIC8                    GD25Q256C @SOIC16                   
+      GD25Q256D @SOIC8                    GD25Q256D @SOIC16                   GD25Q512MC @SOIC8                   GD25Q512MC @SOIC16                  
+      GD25Q512MD @SOIC8                   GD25Q512MD @SOIC16                  GD25Q20E @SOP8                      GD25Q20E @WSON8                     
+      GD25Q20E @USON8                     GD25Q40E @SOP8                      GD25Q40E @WSON8                     GD25Q40E @USON8                     
+      GD25Q41B @SOP8                      GD25Q41B @TSSOP8                    GD25Q41B @WSON8                     GD25Q41B @USON8                     
+      GD25Q80E @SOP8                      GD25Q80E @WSON8                     GD25Q80E @USON8                     GD25Q16E @SOP8                      
+      GD25Q16E @WSON8                     GD25Q16E @USON8                     GD25Q32E @SOP8                      GD25Q32E @WSON8                     
+      GD25Q32E @USON8                     GD25Q64E @SOP8                      GD25Q64E @WSON8                     GD25Q64E @USON8                     
+      GD25Q64E @SOP16                     GD25Q128E @SOP8                     GD25Q128E @WSON8                    GD25Q128E @USON8                    
+      GD25Q128E @SOP16                    GD25Q256E @SOIC8                    GD25Q256E @SOIC16                   GD25Q257D @SOIC8                    
+      GD25Q257D @SOIC16                   GD25R32C @SOP8                      GD25R32C @WSON8                     GD25R32C @USON8                     
+      GD25R32E @SOP8                      GD25R32E @WSON8                     GD25R32E @USON8                     GD25R64E @SOP8                      
+      GD25R64E @WSON8                     GD25R64E @USON8                     GD25R64E @SOP16                     GD25R127D @SOP8                     
+      GD25R127D @WSON8                    GD25R127D @USON8                    GD25R127D @SOP16                    GD25R128E @SOP8                     
+      GD25R128E @WSON8                    GD25R128E @USON8                    GD25R128E @SOP16                    GD25R256E @SOIC8                    
+      GD25R256E @SOIC16                   GD25LR256E @SOIC8                   GD25LR256E @SOIC16                  GD25R512ME @SOIC8                   
       GD25R512ME @SOIC16                  GD25S512MD @SOIC8                   GD25S512MD @SOIC16                  GD25S513MD @SOIC8                   
       GD25S513MD @SOIC16                  GD25T512ME @SOIC8                   GD25T512ME @SOIC16                  GD25VE20C                           
       GD25VE20C @SOP8                     GD25VE20C @VSOP8                    GD25VE20C @WSON8                    GD25VE21B                           
@@ -2077,7 +2079,7 @@
       MD25D20                             MD25D20 @SOP8                       MD25D40                             MD25D40 @SOP8                       
       MD25D80                             MD25D80 @SOP8                       MD25D16                             MD25D16 @SOP8                       
 
-         IC Support: 356 PCS
+         IC Support: 368 PCS
 
  [ GREEN-ENGINE ]     
 
@@ -2113,6 +2115,11 @@
       GSC93BC66A(x16) @TSOP8              
 
          IC Support: 57 PCS
+
+ [ HEYANGTEK ]     
+
+
+         IC Support: 0 PCS
 
  [ HITACHI ]     
 
@@ -3828,16 +3835,18 @@
       P25Q32SH     @USON8                 P25Q64H      @SOP8                  P25Q64H      @USON8                 P25Q64H(OTP) @SOP8                  
       P25Q64H(OTP) @USON8                 P25Q64SH @SOP8                      P25Q64SH @USON8                     P25Q128H      @SOP8                 
       P25Q128H      @USON8                P25Q128H(OTP) @SOP8                 P25Q128H(OTP) @USON8                P25Q128U      @SOP8                 
-      P25Q128U      @USON8                P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @USON8                PY25Q80HA @SOP8                     
-      PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     
-      PY25Q32HA @WSON8                    PY25Q64HA @SOP8                     PY25Q64HA @WSON8                    PY25Q64HA @SOP16                    
-      PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   PY25Q128HA @SOP16                   PY25Q80HB @SOP8                     
-      PY25Q80HB @WSON8                    PY25Q16HB @SOP8                     PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     
-      PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    
-      PY25Q128HB @SOP8                    PY25Q128HB @WSON8                   PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    
-      PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   
+      P25Q128U      @USON8                P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @USON8                PY25F128HA @SOP8                    
+      PY25F128HA @USON8                   PY25F128HA @SOP16                   PY25F256HB @SOP8                    PY25F256HB @USON8                   
+      PY25F256HB @SOP16                   PY25Q80HA @SOP8                     PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     
+      PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     PY25Q32HA @WSON8                    PY25Q64HA @SOP8                     
+      PY25Q64HA @WSON8                    PY25Q64HA @SOP16                    PY25Q128HA @SOP8                    PY25Q128HA @WSON8                   
+      PY25Q128HA @SOP16                   PY25Q80HB @SOP8                     PY25Q80HB @WSON8                    PY25Q16HB @SOP8                     
+      PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     
+      PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    PY25Q128HB @WSON8                   
+      PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   
+      PY25Q512HB @SOP8                    PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   
 
-         IC Support: 186 PCS
+         IC Support: 195 PCS
 
  [ PTC ]     
 
@@ -5568,4 +5577,4 @@
          IC Support: 320 PCS
 
 
-   Total: 18743 PCS
+   Total: 18766 PCS
