@@ -1,13 +1,13 @@
   XGecu TL866II Plus Universal Programmer Device Support List:
 
-            Software Version:   V12.57  Date : 5.23.2023
-           Supported Devices:   18766
+            Software Version:   V12.59  Date : 7.31.2023
+           Supported Devices:   18781
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 ===================================================================
- 
+  
  [ ACE ]     
 
       ACE24AC02                           ACE24AC02 @SOIC8                    ACE24AC02 @TSSOP8                   ACE24AC04                           
@@ -3844,9 +3844,10 @@
       PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     
       PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    PY25Q128HB @WSON8                   
       PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   
-      PY25Q512HB @SOP8                    PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   
+      PY25Q512HB @SOP8                    PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   PY25Q01GHB @WSON8                   
+      PY25Q01GHB @SOP16                   
 
-         IC Support: 195 PCS
+         IC Support: 197 PCS
 
  [ PTC ]     
 
@@ -4311,6 +4312,11 @@
       SLE25160                            SLE25160  @SOIC8                    SLE25320                            SLE25320  @SOIC8                    
 
          IC Support: 52 PCS
+
+ [ SKYHIGH ]     
+
+
+         IC Support: 0 PCS
 
  [ SMART ]     
 
@@ -5219,14 +5225,17 @@
       W25Q128FW 1.8V @SOIC8               W25Q128FW 1.8V @WSON8               W25Q128FW 1.8V @SOIC16              W25Q128FW 1.8V(OTP)@SOIC8           
       W25Q128FW 1.8V(OTP)@WSON8           W25Q128FW 1.8V(OTP)@SOIC16          W25Q128JV @SOIC8                    W25Q128JV @WSON8                    
       W25Q128JV @SOIC16                   W25Q128JV(OTP) @SOIC8               W25Q128JV(OTP) @WSON8               W25Q128JV(OTP) @SOIC16              
+      W25Q128JVSxM-DTR @SOIC8             W25Q128JVPxM-DTR @WSON8(6x5 mm)     W25Q128JVExM-DTR @WSON8(8x6 mm)     W25Q128JVFxM-DTR @SOIC16            
       W25Q128JW 1.8V @SOIC8               W25Q128JW 1.8V @WSON8               W25Q128JW 1.8V @SOIC16              W25Q128JW 1.8V(OTP)@SOIC8           
       W25Q128JW 1.8V(OTP)@WSON8           W25Q128JW 1.8V(OTP)@SOIC16          W25Q256FV @SOIC8                    W25Q256FV @WSON8                    
       W25Q256FV @SOIC16                   W25Q256FV(OTP) @SOIC8               W25Q256FV(OTP) @WSON8               W25Q256FV(OTP) @SOIC16              
       W25Q256FW @SOIC8                    W25Q256FW @WSON8                    W25Q256FW @SOIC16                   W25Q256FW(OTP) @SOIC8               
       W25Q256FW(OTP) @WSON8               W25Q256FW(OTP) @SOIC16              W25Q256JV @SOIC8                    W25Q256JV @WSON8                    
       W25Q256JV @SOIC16                   W25Q256JV(OTP) @SOIC8               W25Q256JV(OTP) @WSON8               W25Q256JV(OTP) @SOIC16              
+      W25Q256JVSxM-DTR @SOIC8             W25Q256JVPxM-DTR @WSON8(6x5 mm)     W25Q256JVExM-DTR @WSON8(8x6 mm)     W25Q256JVFxM-DTR @SOIC16            
       W25Q256JW @SOIC8                    W25Q256JW @WSON8                    W25Q256JW @SOIC16                   W25Q256JW(OTP) @SOIC8               
-      W25Q256JW(OTP) @WSON8               W25Q256JW(OTP) @SOIC16              W25X05                              W25X05 @WSON8                       
+      W25Q256JW(OTP) @WSON8               W25Q256JW(OTP) @SOIC16              W25Q512JVSxM-DTR @SOIC8             W25Q512JVPxM-DTR @WSON8(6x5 mm)     
+      W25Q512JVExM-DTR @WSON8(8x6 mm)     W25Q512JVFxM-DTR @SOIC16            W25X05                              W25X05 @WSON8                       
       W25X05 @SOIC8                       W25X05CL                            W25X05CL @WSON8                     W25X05CL @SOIC8                     
       W25X10AV                            W25X10AV @WSON8                     W25X10AV @SOIC8                     W25X10BL                            
       W25X10BL @WSON8                     W25X10BL @SOIC8                     W25X10BV                            W25X10BV @WSON8                     
@@ -5313,7 +5322,7 @@
       W78E54 @PLCC44                      W78E54B @DIP40                      W78E54BP @PLCC44                    W78E54C @DIP40                      
       W78E54CP @PLCC44                    W78E58 @DIP40                       W78E58P @PLCC44                     
 
-         IC Support: 707 PCS
+         IC Support: 719 PCS
 
  [ WINGSHING ]     
 
@@ -5558,23 +5567,24 @@
       7440            74S416          7442            7443            
       7444            74445           7445            74468           
       7447            7448            74490           7450            
-      7451            74LS51          7452            74533           
-      74534           7454            74LS54          74540           
-      74541           7455            7456            74563           
-      74564           7457            74573           74574           
-      7458            74589           74595           74597           
-      7460            74604           7461            7462            
-      74620           74623           74640           74641           
-      74642           74643           7464            74644           
-      74645           74646           74648           7465            
-      74688           7472            747266          7473            
-      7474            7475            7476            7477            
-      7483            74832           7485            7486            
-      7487            7490            74906           7491            
-      7491_12pins     7492            7493            7495            
-      7496            7497            8155            8255            
-      8259            8279            PC827/LTV827    PC847/LTV847    
-         IC Support: 320 PCS
+      7451            74LS51          7452            7453            
+      74533           74534           7454            74LS54          
+      74540           74541           7455            7456            
+      74563           74564           7457            74573           
+      74574           7458            74589           74595           
+      74597           7460            74604           7461            
+      7462            74620           74623           74640           
+      74641           74642           74643           7464            
+      74644           74645           74646           74648           
+      7465            74688           7472            747266          
+      7473            7474            7475            7476            
+      7477            7483            74832           7485            
+      7486            7487            7490            74906           
+      7491            7491_12pins     7492            7493            
+      7495            7496            7497            75452           
+      8155            8255            8259            8279            
+      PC827/LTV827    PC847/LTV847    TIL118          
+         IC Support: 323 PCS
 
 
-   Total: 18766 PCS
+   Total: 18781 PCS
