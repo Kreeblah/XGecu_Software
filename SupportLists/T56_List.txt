@@ -1,14 +1,15 @@
  
 XGecu T56 Universal Programmer Device Support List:
 
-            Software Version:   V12.63  Date : 9.7.2023
-           Supported Devices:   37493
+            Software Version:   V12.66  Date : 2.5.2024
+           Supported Devices:   37651
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 =================================================================== 
-  [ MY FAVORITES-User ]     
+ 
+ [ MY FAVORITES-User ]     
 
       Very useful favorites               
 
@@ -2939,11 +2940,11 @@ XGecu T56 Universal Programmer Device Support List:
       FSEIASLD-128G(ISP)_4Bit             FSEIASLD-128G(ISP)_1Bit             FS33ND01GS108 @FBGA63               FS33ND01GS108 @TSOP48               
       FS33ND02GS108 @FBGA63               FS33ND02GS108 @TSOP48               FS33ND04GS108 @FBGA63               FS33ND04GS108 @TSOP48               
       FS33ND02GH208(2048+64) @FBGA63      FS33ND02GH208(2048+64) @TSOP48      FS33ND02GH208(2048+128) @FBGA63     FS33ND02GH208(2048+128) @TSOP48     
-      FS35ND01G(x4)  @WSON8               FS35ND01G @WSON8                    FS35ND01G @ISP                      FS35ND02G(x4)  @WSON8               
-      FS35ND02G @WSON8                    FS35ND02G @ISP                      FS35ND04G(x4)  @WSON8               FS35ND04G @WSON8                    
-      FS35ND04G @ISP                      
+      F35SQA512M(x4)  @WSON8              F35SQA512M @WSON8                   F35SQA512M @ISP                     FS35ND01G(x4)  @WSON8               
+      FS35ND01G @WSON8                    FS35ND01G @ISP                      FS35ND02G(x4)  @WSON8               FS35ND02G @WSON8                    
+      FS35ND02G @ISP                      FS35ND04G(x4)  @WSON8               FS35ND04G @WSON8                    FS35ND04G @ISP                      
 
-         IC Support: 89 PCS
+         IC Support: 92 PCS
 
  [ FORCE TECH. ]     
 
@@ -3044,26 +3045,30 @@ XGecu T56 Universal Programmer Device Support List:
       FM25Q02 @ISP                        FM25Q02 @SOP8                       FM25Q04                             FM25Q04 @ISP                        
       FM25Q04 @SOP8                       FM25Q08                             FM25Q08 @ISP                        FM25Q08 @SOP8                       
       FM25Q08 @WSON8                      FM25Q08 @SOP16                      FM25Q16                             FM25Q16 @ISP                        
-      FM25Q16 @SOP8                       FM25Q16 @WSON8                      FM25Q16 @SOP16                      FM25Q16                             
-      FM25Q16 @SOP8                       FM25Q16 @WSON8                      FM25Q16 @SOP16                      FM25Q32                             
-      FM25Q32 @ISP                        FM25Q32 @SOP8                       FM25Q32 @WSON8                      FM25Q32 @SOP16                      
-      FM25Q64                             FM25Q64 @ISP                        FM25Q64 @SOP8                       FM25Q64 @WSON8                      
-      FM25Q64 @SOP16                      FM25Q128 @SOP8                      FM25Q128 @ISP                       FM25Q128 @WSON8                     
-      FM25Q128 @SOP16                     FM25W02                             FM25W02 @ISP                        FM25W02 @SOP8                       
-      FM25W04                             FM25W04 @ISP                        FM25W04 @SOP8                       FM25W08                             
-      FM25W08 @ISP                        FM25W08 @SOP8                       FM25W08 @WSON8                      FM25W08 @SOP16                      
-      FM25W16                             FM25W16 @ISP                        FM25W16 @SOP8                       FM25W16 @WSON8                      
-      FM25W16 @SOP16                      FM25W16                             FM25W16 @SOP8                       FM25W16 @WSON8                      
-      FM25W16 @SOP16                      FM25W32                             FM25W32 @ISP                        FM25W32 @SOP8                       
-      FM25W32 @WSON8                      FM25W32 @SOP16                      FM93C46A(x8)                        FM93C46A(x8) @ISP                   
-      FM93C46A(x8) @SOIC8                 FM93C46A(x8) @TSOP8                 FM93C46A(x16)                       FM93C46A(x16) @ISP                  
-      FM93C46A(x16) @SOIC8                FM93C46A(x16) @TSOP8                FM93C56A(x8)                        FM93C56A(x8) @ISP                   
-      FM93C56A(x8) @SOIC8                 FM93C56A(x8) @TSOP8                 FM93C56A(x16)                       FM93C56A(x16) @ISP                  
-      FM93C56A(x16) @SOIC8                FM93C56A(x16) @TSOP8                FM93C66A(x8)                        FM93C66A(x8) @ISP                   
-      FM93C66A(x8) @SOIC8                 FM93C66A(x8) @TSOP8                 FM93C66A(x16)                       FM93C66A(x16) @ISP                  
-      FM93C66A(x16) @SOIC8                FM93C66A(x16) @TSOP8                
+      FM25Q16 @SOP8                       FM25Q16 @WSON8                      FM25Q16 @SOP16                      FM25Q16A                            
+      FM25Q16A @ISP                       FM25Q16A @SOP8                      FM25Q16A @WSON8                     FM25Q16A @SOP16                     
+      FM25Q32                             FM25Q32 @ISP                        FM25Q32 @SOP8                       FM25Q32 @WSON8                      
+      FM25Q32 @SOP16                      FM25Q32A                            FM25Q32A @ISP                       FM25Q32A @SOP8                      
+      FM25Q32A @WSON8                     FM25Q32A @SOP16                     FM25Q64                             FM25Q64 @ISP                        
+      FM25Q64 @SOP8                       FM25Q64 @WSON8                      FM25Q64 @SOP16                      FM25Q64A                            
+      FM25Q64A @ISP                       FM25Q64A @SOP8                      FM25Q64A @WSON8                     FM25Q64A @SOP16                     
+      FM25Q128 @SOP8                      FM25Q128 @ISP                       FM25Q128 @WSON8                     FM25Q128 @SOP16                     
+      FM25Q128A @SOP8                     FM25Q128A @ISP                      FM25Q128A @WSON8                    FM25Q128A @SOP16                    
+      FM25W02                             FM25W02 @ISP                        FM25W02 @SOP8                       FM25W04                             
+      FM25W04 @ISP                        FM25W04 @SOP8                       FM25W08                             FM25W08 @ISP                        
+      FM25W08 @SOP8                       FM25W08 @WSON8                      FM25W08 @SOP16                      FM25W16                             
+      FM25W16 @ISP                        FM25W16 @SOP8                       FM25W16 @WSON8                      FM25W16 @SOP16                      
+      FM25W16                             FM25W16 @SOP8                       FM25W16 @WSON8                      FM25W16 @SOP16                      
+      FM25W32                             FM25W32 @ISP                        FM25W32 @SOP8                       FM25W32 @WSON8                      
+      FM25W32 @SOP16                      FM93C46A(x8)                        FM93C46A(x8) @ISP                   FM93C46A(x8) @SOIC8                 
+      FM93C46A(x8) @TSOP8                 FM93C46A(x16)                       FM93C46A(x16) @ISP                  FM93C46A(x16) @SOIC8                
+      FM93C46A(x16) @TSOP8                FM93C56A(x8)                        FM93C56A(x8) @ISP                   FM93C56A(x8) @SOIC8                 
+      FM93C56A(x8) @TSOP8                 FM93C56A(x16)                       FM93C56A(x16) @ISP                  FM93C56A(x16) @SOIC8                
+      FM93C56A(x16) @TSOP8                FM93C66A(x8)                        FM93C66A(x8) @ISP                   FM93C66A(x8) @SOIC8                 
+      FM93C66A(x8) @TSOP8                 FM93C66A(x16)                       FM93C66A(x16) @ISP                  FM93C66A(x16) @SOIC8                
+      FM93C66A(x16) @TSOP8                
 
-         IC Support: 318 PCS
+         IC Support: 333 PCS
 
  [ FUJITSU ]     
 
@@ -3289,8 +3294,8 @@ XGecu T56 Universal Programmer Device Support List:
       GD25LQ64C(1.8v)                     GD25LQ64C(1.8v) @ISP                GD25LQ64C(1.8v) @SOP8               GD25LQ64C(1.8v) @USON8              
       GD25LQ64C(1.8v) @SOP16              GD25LQ128C(1.8v) @SOIC8             GD25LQ128C(1.8v) @ISP               GD25LQ128C(1.8v) @SOIC16            
       GD25LQ128D(1.8v) @SOIC8             GD25LQ128D(1.8v) @ISP               GD25LQ128D(1.8v) @SOIC16            GD25LQ128E(1.8v) @SOIC8             
-      GD25LQ128E(1.8v) @ISP               GD25LQ128E(1.8v) @SOIC16            GD25Q256C(1.8v) @SOIC8              GD25Q256C(1.8v) @ISP                
-      GD25Q256C(1.8v) @SOIC16             GD25Q256D(1.8v) @SOIC8              GD25Q256D(1.8v) @ISP                GD25Q256D(1.8v) @SOIC16             
+      GD25LQ128E(1.8v) @ISP               GD25LQ128E(1.8v) @SOIC16            GD25LQ256C @SOIC8                   GD25LQ256C @ISP                     
+      GD25LQ256C @SOIC16                  GD25LQ256D @SOIC8                   GD25LQ256D @ISP                     GD25LQ256D @SOIC16                  
       GD25Q512                            GD25Q512 @ISP                       GD25Q512 @SOP8                      GD25Q512 @TSSOP8                    
       GD25Q512 @USON8                     GD25Q10                             GD25Q10 @ISP                        GD25Q10 @SOP8                       
       GD25Q10 @TSSOP8                     GD25Q10 @USON8                      GD25Q20                             GD25Q20 @ISP                        
@@ -3344,7 +3349,9 @@ XGecu T56 Universal Programmer Device Support List:
       GD25R512ME @SOIC8                   GD25R512ME @ISP                     GD25R512ME @SOIC16                  GD25S512MD @SOIC8                   
       GD25S512MD @ISP                     GD25S512MD @SOIC16                  GD25S513MD @SOIC8                   GD25S513MD @ISP                     
       GD25S513MD @SOIC16                  GD25T512ME @SOIC8                   GD25T512ME @ISP                     GD25T512ME @BGA24                   
-      GD25T512ME @SOIC16                  GD25VE20C                           GD25VE20C @ISP                      GD25VE20C @SOP8                     
+      GD25T512ME @SOIC16                  GD25UF64E(VCC=1.2V) @SOP8           GD25UF64E(VCC=1.2V) @ISP            GD25UF64E(VCC=1.2V) @TSSOP8         
+      GD25UF64E(VCC=1.2V) @USON8          GD25UF128E(VCC=1.2V) @SOP8          GD25UF128E(VCC=1.2V) @ISP           GD25UF128E(VCC=1.2V) @TSSOP8        
+      GD25UF128E(VCC=1.2V) @USON8         GD25VE20C                           GD25VE20C @ISP                      GD25VE20C @SOP8                     
       GD25VE20C @VSOP8                    GD25VE20C @WSON8                    GD25VE21B                           GD25VE21B @ISP                      
       GD25VE21B @SOP8                     GD25VE21B @VSOP8                    GD25VE21B @WSON8                    GD25VE40C                           
       GD25VE40C @ISP                      GD25VE40C @SOP8                     GD25VE40C @TSSOP8                   GD25VE40C @WSON8                    
@@ -3547,7 +3554,7 @@ XGecu T56 Universal Programmer Device Support List:
       MD25D40 @SOP8                       MD25D80                             MD25D80 @ISP                        MD25D80 @SOP8                       
       MD25D16                             MD25D16 @ISP                        MD25D16 @SOP8                       
 
-         IC Support: 1307 PCS
+         IC Support: 1315 PCS
 
  [ GREEN-ENGINE ]     
 
@@ -3609,9 +3616,10 @@ XGecu T56 Universal Programmer Device Support List:
       HYF2GQ4UTDCAE @BGA24                HYF2GQ4UTDCAE @ISP                  HYF4GQ4UAACAE(x4)  @WSON8           HYF4GQ4UAACAE @WSON8                
       HYF4GQ4UAACAE @ISP                  HYF4GQ4UACCAE(x4)  @LGA8            HYF4GQ4UACCAE @LGA8                 HYF4GQ4UACCAE @ISP                  
       HYF4GQ4UTACAE(x4)  @WSON8           HYF4GQ4UTACAE @WSON8                HYF4GQ4UTACAE @ISP                  HYF4GQ4UTDCAE(x4)  @BGA24           
-      HYF4GQ4UTDCAE @BGA24                HYF4GQ4UTDCAE @ISP                  
+      HYF4GQ4UTDCAE @BGA24                HYF4GQ4UTDCAE @ISP                  HYF8GQ4UACCAE(x4)  @LGA8            HYF8GQ4UACCAE @LGA8                 
+      HYF8GQ4UACCAE @ISP                  
 
-         IC Support: 46 PCS
+         IC Support: 49 PCS
 
  [ HITACHI ]     
 
@@ -3814,62 +3822,64 @@ XGecu T56 Universal Programmer Device Support List:
       H9DF32A6AJACGR_1Bit @BGA153         H9DF32A6AJACGR(ISP)_4Bit            H9DF32A6AJACGR(ISP)_1Bit            H9TQ17ABJTMCUR_8Bit @BGA221         
       H9TQ17ABJTMCUR_4Bit @BGA221         H9TQ17ABJTMCUR_1Bit @BGA221         H9TQ17ABJTMCUR(ISP)_4Bit            H9TQ17ABJTMCUR(ISP)_1Bit            
       H9TQ27ADFTMCUR_8Bit @BGA221         H9TQ27ADFTMCUR_4Bit @BGA221         H9TQ27ADFTMCUR_1Bit @BGA221         H9TQ27ADFTMCUR(ISP)_4Bit            
-      H9TQ27ADFTMCUR(ISP)_1Bit            HY27C64 @DIP28                      HY27U1G8F2B @FBGA63                 HY27U1G8F2B @TSOP48                 
-      HY27U2G8F2C @FBGA63                 HY27U2G8F2C @TSOP48                 HY27U4G8F2D @TSOP48                 HY27S4G8F2D @TSOP48                 
-      H27U518S2CTR @TSOP48                H27UAG8T2ATR @TSOP48                H27UAG8T2BTR @TSOP48                H27UBG8T2ATR @TSOP48                
-      H27UBG8T2CTR @TSOP48                * H27UCG8T2BTR @TSOP48              H27UCG8T2ETR @TSOP48                H27UDG8U2ETR @TSOP48                
-      HY27US08281 @TSOP48                 HY27US08561 @TSOP48                 HY27US08121 @TSOP48                 HY27UF081G @TSOP48                  
-      HY27UF082G @TSOP48                  HY27UF084G @TSOP48                  HY27UT088G @TSOP48                  HY27SA161G1M @FBGA63                
-      HY27SA161G1M @TSOP48                HY27SF081G2A @FBGA63                HY27SF082G2B @TSOP48                HY27SF161G2A @TSOP48                
-      HY27SF162G2B @TSOP48                HY27SS08121A @FBGA63                HY27SS08121A @TSOP48                HY27SS08121A @USOP48                
-      HY27SS08121B @FBGA63                HY27SS08121B @TSOP48                HY27SS08121B @USOP48                HY27SS08122B @FBGA63                
-      HY27SS08122B @TSOP48                HY27SS08122B @USOP48                HY27SS08561M @FBGA63                HY27SS16121A @FBGA63                
-      HY27SS16121A @TSOP48                HY27SS16121A @USOP48                HY27SS16121B @TSOP48                HY27SS16122B @TSOP48                
-      HY27SS16561M @FBGA63                HY27UA081G1M @TSOP48                HY27UA082G2M @TSOP48                HY27UA161G1M @TSOP48                
-      HY27UF081G2A @FBGA63                HY27UF081G2A @TSOP48                HY27UF081G2A @WSOP48                HY27UF081G2B @FBGA63                
-      HY27UF081G2B @TSOP48                HY27UF081G2B @WSOP48                HY27UF081G2M @FBGA63                HY27UF081G2M @USOP48                
-      HY27UF082G2A @FBGA63                HY27UF082G2A @TSOP48                HY27UF082G2B @FBGA63                HY27UF082G2B @TSOP48                
-      HY27UF082G2M @FBGA63                HY27UF082G2M @TSOP48                HY27UF084G2B @TSOP48                HY27UF084G2M @TSOP48                
-      HY27UF161G2A @TSOP48                HY27UF161G2M @TSOP48                HY27UF162G2A @TSOP48                HY27UF162G2B @TSOP48                
-      HY27UF164G2B @TSOP48                HY27UG082G2M @TSOP48                HY27UG084G2M @TSOP48                HY27UG162G2M @TSOP48                
-      HY27UG164G2M @TSOP48                HY27UH084G2M @TSOP48                HY27UH088G2M @TSOP48                HY27UG088G5B @TSOP48                
-      HY27UG088G5M @TSOP48                HY27UH08AG5B @TSOP48                HY27UH08AG5M @TSOP48                HY27UH164G2M @TSOP48                
-      HY27UK08BGFB @TSOP48                HY27UK08BGFM @TSOP48                HY27US08121A @FBGA63                HY27US08121A @TSOP48                
-      HY27US08121A @USOP48                HY27US08121B @FBGA63                HY27US08121B @TSOP48                HY27US08121B @USOP48                
-      HY27US08121M @TSOP48                HY27US08121M @USOP48                HY27US08122B @FBGA63                HY27US08122B @TSOP48                
-      HY27US08122B @USOP48                HY27US081G1M @TSOP48                HY27US081G1M @USOP48                HY27US08281A @TSOP48                
-      HY27US08281A @USOP48                HY27US08281B @TSOP48                HY27US08281B @USOP48                HY27US08561A @FBGA63                
-      HY27US08561A @TSOP48                HY27US08561A @USOP48                HY27US08561M @FBGA63                HY27US08561M @TSOP48                
-      HY27US16121A @FBGA63                HY27US16121A @TSOP48                HY27US16121A @USOP48                HY27US16121B @TSOP48                
-      HY27US16121M @TSOP48                HY27US16122B @TSOP48                HY27US161G1M @TSOP48                HY27US16561A @FBGA63                
-      HY27US16561A @TSOP48                HY27US16561M @FBGA63                HY27US16561M @TSOP48                HY27UT084G2A @TSOP48                
-      HY27UT084G2M @TSOP48                HY27UT088G2A @TSOP48                HY27UT088G2M @TSOP48                HY27UU088G5M @TSOP48                
-      HY27UU08AG5A @TSOP48                HY27UU08AG5M @TSOP48                HY27UV08AG5M @TSOP48                HY27UV08BG5A @TSOP48                
-      HY27UV08BG5M @TSOP48                HY27UV08BGFA @TSOP48                HY27UV08BGFM @TSOP48                HY27UW08BGFM @TSOP48                
-      HY27UW08CGFA @TSOP48                HY27UW08CGFM @TSOP48                HY29DL162B @TSOP48                  HY29DL162T @TSOP48                  
-      HY29DL163B @TSOP48                  HY29DL163T @TSOP48                  HY29DL162BF @BGA48                  HY29DL162TF @BGA48                  
-      HY29DL163BF @BGA48                  HY29DL163TF @BGA48                  HY29F002T                           HY29F002T @PLCC32                   
-      HY29F002T @TSOP32                   HY29F002T @TSOP32(ADP:Pin9 to 1)    HY29F040                            HY29F040  @PLCC32                   
-      HY29F040  @TSOP32                   HY29F040  @TSOP32(ADP:Pin9 to 1)    HY29F040A                           HY29F040A @PLCC32                   
-      HY29F040A @TSOP32                   HY29F040A @TSOP32(ADP:Pin9 to 1)    HY29F040T                           HY29F040T @PLCC32                   
-      HY29F040T @TSOP32                   HY29F040T @TSOP32(ADP:Pin9 to 1)    HY29F080   @TSOP40                  HY29F200B  @TSOP48                  
-      HY29F200B  @SOP44                   HY29F200T  @TSOP48                  HY29F200T  @SOP44                   HY29F400AB @TSOP48                  
-      HY29F400AB @SOP44                   HY29F400AT @TSOP48                  HY29F400AT @SOP44                   HY29F400B  @TSOP48                  
-      HY29F400B  @SOP44                   HY29F400T  @TSOP48                  HY29F400T  @SOP44                   HY29F800AB @TSOP48                  
-      HY29F800AB @SOP44                   HY29F800AT @TSOP48                  HY29F800AT @SOP44                   HY29F800B  @TSOP48                  
-      HY29F800B  @SOP44                   HY29F800T  @TSOP48                  HY29F800T  @SOP44                   HY29LV400T @TSOP48                  
-      HY29LV400T @SOP44                   HY29LV400B @TSOP48                  HY29LV400B @SOP44                   HY29LV800T @TSOP48                  
-      HY29LV800T @SOP44                   HY29LV800B @TSOP48                  HY29LV800B @SOP44                   HY29LV160T @TSOP48                  
-      HY29LV160B @TSOP48                  HY29LV320T @TSOP48                  HY29LV320B @TSOP48                  HY29LV400TF @BGA48                  
-      HY29LV400BF @BGA48                  HY29LV800TF @BGA48                  HY29LV800BF @BGA48                  HY29LV160TF @BGA48                  
-      HY29LV160BF @BGA48                  HY29LV320TF @BGA48                  HY29LV320BF @BGA48                  HY93C46                             
-      HY93C46 @ISP                        HY93C46 @SOIC8                      HY93C46 @TSOP8                      HY93C56                             
-      HY93C56 @ISP                        HY93C56 @SOIC8                      HY93C56 @TSOP8                      HY93C66                             
-      HY93C66 @ISP                        HY93C66 @SOIC8                      HY93C66 @TSOP8                      HY93C76                             
-      HY93C76 @ISP                        HY93C76 @SOIC8                      HY93C76 @TSOP8                      HY93C86                             
-      HY93C86 @ISP                        HY93C86 @SOIC8                      HY93C86 @TSOP8                      
+      H9TQ27ADFTMCUR(ISP)_1Bit            HY27C64 @DIP28                      H27U1G8F2B @FBGA63                  H27U1G8F2B @TSOP48                  
+      H27U2G8F2C @FBGA63                  H27U2G8F2C @TSOP48                  H27U4G8F2D @TSOP48                  H27S4G8F2D @TSOP48                  
+      HY27U1G8F2B @FBGA63                 HY27U1G8F2B @TSOP48                 HY27U2G8F2C @FBGA63                 HY27U2G8F2C @TSOP48                 
+      HY27U4G8F2D @TSOP48                 HY27S4G8F2D @TSOP48                 H27U518S2CTR @TSOP48                H27UAG8T2ATR @TSOP48                
+      H27UAG8T2BTR @TSOP48                H27UBG8T2ATR @TSOP48                H27UBG8T2CTR @TSOP48                * H27UCG8T2BTR @TSOP48              
+      H27UCG8T2ETR @TSOP48                H27UDG8U2ETR @TSOP48                HY27US08281 @TSOP48                 HY27US08561 @TSOP48                 
+      HY27US08121 @TSOP48                 HY27UF081G @TSOP48                  HY27UF082G @TSOP48                  HY27UF084G @TSOP48                  
+      HY27UT088G @TSOP48                  HY27SA161G1M @FBGA63                HY27SA161G1M @TSOP48                HY27SF081G2A @FBGA63                
+      HY27SF082G2B @TSOP48                HY27SF161G2A @TSOP48                HY27SF162G2B @TSOP48                HY27SS08121A @FBGA63                
+      HY27SS08121A @TSOP48                HY27SS08121A @USOP48                HY27SS08121B @FBGA63                HY27SS08121B @TSOP48                
+      HY27SS08121B @USOP48                HY27SS08122B @FBGA63                HY27SS08122B @TSOP48                HY27SS08122B @USOP48                
+      HY27SS08561M @FBGA63                HY27SS16121A @FBGA63                HY27SS16121A @TSOP48                HY27SS16121A @USOP48                
+      HY27SS16121B @TSOP48                HY27SS16122B @TSOP48                HY27SS16561M @FBGA63                HY27UA081G1M @TSOP48                
+      HY27UA082G2M @TSOP48                HY27UA161G1M @TSOP48                HY27UF081G2A @FBGA63                HY27UF081G2A @TSOP48                
+      HY27UF081G2A @WSOP48                HY27UF081G2B @FBGA63                HY27UF081G2B @TSOP48                HY27UF081G2B @WSOP48                
+      HY27UF081G2M @FBGA63                HY27UF081G2M @USOP48                HY27UF082G2A @FBGA63                HY27UF082G2A @TSOP48                
+      HY27UF082G2B @FBGA63                HY27UF082G2B @TSOP48                HY27UF082G2M @FBGA63                HY27UF082G2M @TSOP48                
+      HY27UF084G2B @TSOP48                HY27UF084G2M @TSOP48                HY27UF161G2A @TSOP48                HY27UF161G2M @TSOP48                
+      HY27UF162G2A @TSOP48                HY27UF162G2B @TSOP48                HY27UF164G2B @TSOP48                HY27UG082G2M @TSOP48                
+      HY27UG084G2M @TSOP48                HY27UG162G2M @TSOP48                HY27UG164G2M @TSOP48                HY27UH084G2M @TSOP48                
+      HY27UH088G2M @TSOP48                HY27UG088G5B @TSOP48                HY27UG088G5M @TSOP48                HY27UH08AG5B @TSOP48                
+      HY27UH08AG5M @TSOP48                HY27UH164G2M @TSOP48                HY27UK08BGFB @TSOP48                HY27UK08BGFM @TSOP48                
+      HY27US08121A @FBGA63                HY27US08121A @TSOP48                HY27US08121A @USOP48                HY27US08121B @FBGA63                
+      HY27US08121B @TSOP48                HY27US08121B @USOP48                HY27US08121M @TSOP48                HY27US08121M @USOP48                
+      HY27US08122B @FBGA63                HY27US08122B @TSOP48                HY27US08122B @USOP48                HY27US081G1M @TSOP48                
+      HY27US081G1M @USOP48                HY27US08281A @TSOP48                HY27US08281A @USOP48                HY27US08281B @TSOP48                
+      HY27US08281B @USOP48                HY27US08561A @FBGA63                HY27US08561A @TSOP48                HY27US08561A @USOP48                
+      HY27US08561M @FBGA63                HY27US08561M @TSOP48                HY27US16121A @FBGA63                HY27US16121A @TSOP48                
+      HY27US16121A @USOP48                HY27US16121B @TSOP48                HY27US16121M @TSOP48                HY27US16122B @TSOP48                
+      HY27US161G1M @TSOP48                HY27US16561A @FBGA63                HY27US16561A @TSOP48                HY27US16561M @FBGA63                
+      HY27US16561M @TSOP48                HY27UT084G2A @TSOP48                HY27UT084G2M @TSOP48                HY27UT088G2A @TSOP48                
+      HY27UT088G2M @TSOP48                HY27UU088G5M @TSOP48                HY27UU08AG5A @TSOP48                HY27UU08AG5M @TSOP48                
+      HY27UV08AG5M @TSOP48                HY27UV08BG5A @TSOP48                HY27UV08BG5M @TSOP48                HY27UV08BGFA @TSOP48                
+      HY27UV08BGFM @TSOP48                HY27UW08BGFM @TSOP48                HY27UW08CGFA @TSOP48                HY27UW08CGFM @TSOP48                
+      HY29DL162B @TSOP48                  HY29DL162T @TSOP48                  HY29DL163B @TSOP48                  HY29DL163T @TSOP48                  
+      HY29DL162BF @BGA48                  HY29DL162TF @BGA48                  HY29DL163BF @BGA48                  HY29DL163TF @BGA48                  
+      HY29F002T                           HY29F002T @PLCC32                   HY29F002T @TSOP32                   HY29F002T @TSOP32(ADP:Pin9 to 1)    
+      HY29F040                            HY29F040  @PLCC32                   HY29F040  @TSOP32                   HY29F040  @TSOP32(ADP:Pin9 to 1)    
+      HY29F040A                           HY29F040A @PLCC32                   HY29F040A @TSOP32                   HY29F040A @TSOP32(ADP:Pin9 to 1)    
+      HY29F040T                           HY29F040T @PLCC32                   HY29F040T @TSOP32                   HY29F040T @TSOP32(ADP:Pin9 to 1)    
+      HY29F080   @TSOP40                  HY29F200B  @TSOP48                  HY29F200B  @SOP44                   HY29F200T  @TSOP48                  
+      HY29F200T  @SOP44                   HY29F400AB @TSOP48                  HY29F400AB @SOP44                   HY29F400AT @TSOP48                  
+      HY29F400AT @SOP44                   HY29F400B  @TSOP48                  HY29F400B  @SOP44                   HY29F400T  @TSOP48                  
+      HY29F400T  @SOP44                   HY29F800AB @TSOP48                  HY29F800AB @SOP44                   HY29F800AT @TSOP48                  
+      HY29F800AT @SOP44                   HY29F800B  @TSOP48                  HY29F800B  @SOP44                   HY29F800T  @TSOP48                  
+      HY29F800T  @SOP44                   HY29LV400T @TSOP48                  HY29LV400T @SOP44                   HY29LV400B @TSOP48                  
+      HY29LV400B @SOP44                   HY29LV800T @TSOP48                  HY29LV800T @SOP44                   HY29LV800B @TSOP48                  
+      HY29LV800B @SOP44                   HY29LV160T @TSOP48                  HY29LV160B @TSOP48                  HY29LV320T @TSOP48                  
+      HY29LV320B @TSOP48                  HY29LV400TF @BGA48                  HY29LV400BF @BGA48                  HY29LV800TF @BGA48                  
+      HY29LV800BF @BGA48                  HY29LV160TF @BGA48                  HY29LV160BF @BGA48                  HY29LV320TF @BGA48                  
+      HY29LV320BF @BGA48                  HY93C46                             HY93C46 @ISP                        HY93C46 @SOIC8                      
+      HY93C46 @TSOP8                      HY93C56                             HY93C56 @ISP                        HY93C56 @SOIC8                      
+      HY93C56 @TSOP8                      HY93C66                             HY93C66 @ISP                        HY93C66 @SOIC8                      
+      HY93C66 @TSOP8                      HY93C76                             HY93C76 @ISP                        HY93C76 @SOIC8                      
+      HY93C76 @TSOP8                      HY93C86                             HY93C86 @ISP                        HY93C86 @SOIC8                      
+      HY93C86 @TSOP8                      
 
-         IC Support: 459 PCS
+         IC Support: 465 PCS
 
  [ HYUNDAI ]     
 
@@ -4058,7 +4068,7 @@ XGecu T56 Universal Programmer Device Support List:
       JS28F128J3A @TSOP56                 JS28F128J3C @TSOP56                 JS28F128J3D @TSOP56                 JS28F128J3F @TSOP56                 
       JS28F640P30B85 @TSOP56              JS28F640P30BF @TSOP56               JS28F640P30T85 @TSOP56              JS28F640P30TF @TSOP56               
       JS28F128P30B85 @TSOP56              JS28F128P30BF @TSOP56               JS28F128P30T85 @TSOP56              JS28F128P30TF @TSOP56               
-      JS28F256P30B95 @TSOP56              JS28F256P30BF @TSOP56               JS28F256P30T95 @TSOP56              JS28F256P30TF @TSOP56               
+      JS28F256P30B95(BF) @TSOP56          JS28F256P30BF @TSOP56               JS28F256P30T95(TF) @TSOP56          JS28F256P30TF @TSOP56               
       JS28F512P30BF  @TSOP56              JS28F512P30BTF @TSOP56              JS28F512P30TF  @TSOP56              JS28F512P30EF  @TSOP56              
       JS28F00AP30BF  @TSOP56              JS28F00AP30BTF @TSOP56              JS28F00AP30TF  @TSOP56              JS28F00AP30EF  @TSOP56              
       JS28F640P33B85 @TSOP56              JS28F640P33BF  @TSOP56              JS28F640P33T85 @TSOP56              JS28F640P33TF  @TSOP56              
@@ -7059,66 +7069,78 @@ XGecu T56 Universal Programmer Device Support List:
       P24C256B @ISP                       P24C256B @TSSOP8                    P24C256D @SOIC8                     P24C256D @ISP                       
       P24C256D @TSSOP8                    P24C512B @SOIC8                     P24C512B @ISP                       P24C512B @TSSOP8                    
       P24C512D @SOIC8                     P24C512D @ISP                       P24C512D @TSSOP8                    P24CM01B @SOIC8                     
-      P24CM01B @ISP                       P24CM01B @TSSOP8                    P25C64F  @SOIC8                     P25C64F @ISP                        
-      P25C64F  @TSSOP8                    P25C64F  @UDFN8                     P25C64H  @SOIC8                     P25C64H @ISP                        
-      P25C64H  @TSSOP8                    P25C64H  @UDFN8                     P25C128F @SOIC8                     P25C128F @ISP                       
-      P25C128F @TSSOP8                    P25C128F @UDFN8                     P25C256F @SOIC8                     P25C256F @ISP                       
-      P25C256F @TSSOP8                    P25C256F @UDFN8                     P25C256H @SOIC8                     P25C256H @ISP                       
-      P25C256H @TSSOP8                    P25C256H @UDFN8                     P25D20H      @SOP8                  P25D20H @ISP                        
-      P25D20L      @SOP8                  P25D20L @ISP                        P25D20L      @USON8                 P25D24L      @SOP8                  
-      P25D24L @ISP                        P25D24L      @USON8                 P25D40H      @SOP8                  P25D40H @ISP                        
-      P25D40H(OTP) @SOP8                  P25D40H(OTP) @ISP                   P25D40L      @SOP8                  P25D40L @ISP                        
-      P25D40L      @USON8                 P25D40L(OTP) @SOP8                  P25D40L(OTP) @ISP                   P25D40L(OTP) @USON8                 
-      P25D80H      @SOP8                  P25D80H @ISP                        P25D80H      @USON8                 P25D80H(OTP) @SOP8                  
-      P25D80H(OTP) @ISP                   P25D80H(OTP) @USON8                 P25D80L      @SOP8                  P25D80L @ISP                        
-      P25D80L      @USON8                 P25D80L(OTP) @SOP8                  P25D80L(OTP) @ISP                   P25D80L(OTP) @USON8                 
-      P25D80SH     @SOP8                  P25D80SH @ISP                       P25D80SH     @USON8                 P25D80SL     @SOP8                  
-      P25D80SL @ISP                       P25D80SL     @USON8                 P25D16H      @SOP8                  P25D16H @ISP                        
-      P25D16H      @USON8                 P25D16H(OTP) @SOP8                  P25D16H(OTP) @ISP                   P25D16H(OTP) @USON8                 
-      P25D16L      @SOP8                  P25D16L @ISP                        P25D16L      @USON8                 P25D16L(OTP) @SOP8                  
-      P25D16L(OTP) @ISP                   P25D16L(OTP) @USON8                 P25D16SH     @SOP8                  P25D16SH @ISP                       
-      P25D16SH     @USON8                 P25D16SL     @SOP8                  P25D16SL @ISP                       P25D16SL     @USON8                 
-      P25D32H      @SOP8                  P25D32H @ISP                        P25D32H      @USON8                 P25D32H(OTP) @SOP8                  
-      P25D32H(OTP) @ISP                   P25D32H(OTP) @USON8                 P25D32L      @SOP8                  P25D32L @ISP                        
-      P25D32L      @USON8                 P25D32L(OTP) @SOP8                  P25D32L(OTP) @ISP                   P25D32L(OTP) @USON8                 
-      P25D32SH     @SOP8                  P25D32SH @ISP                       P25D32SH     @USON8                 P25D32SL     @SOP8                  
-      P25D32SL @ISP                       P25D32SL     @USON8                 P25D64H      @SOP8                  P25D64H @ISP                        
-      P25D64H      @USON8                 P25D64H(OTP) @SOP8                  P25D64H(OTP) @ISP                   P25D64H(OTP) @USON8                 
-      P25D64L      @SOP8                  P25D64L @ISP                        P25D64L      @USON8                 P25D64L(OTP) @SOP8                  
-      P25D64L(OTP) @ISP                   P25D64L(OTP) @USON8                 P25F20H      @SOP8                  P25F20H @ISP                        
-      P25F20L      @SOP8                  P25F20L @ISP                        P25F20L      @USON8                 P25F40H      @SOP8                  
-      P25F40H @ISP                        P25F40H(OTP) @SOP8                  P25F40H(OTP) @ISP                   P25F40L      @SOP8                  
-      P25F40L @ISP                        P25F40L      @USON8                 P25F40L(OTP) @SOP8                  P25F40L(OTP) @ISP                   
-      P25F40L(OTP) @USON8                 P25F80H      @SOP8                  P25F80H @ISP                        P25F80H      @USON8                 
-      P25F80H(OTP) @SOP8                  P25F80H(OTP) @ISP                   P25F80H(OTP) @USON8                 P25F80L      @SOP8                  
-      P25F80L @ISP                        P25F80L      @USON8                 P25F80L(OTP) @SOP8                  P25F80L(OTP) @ISP                   
-      P25F80L(OTP) @USON8                 P25F16H      @SOP8                  P25F16H @ISP                        P25F16H      @USON8                 
-      P25F16H(OTP) @SOP8                  P25F16H(OTP) @ISP                   P25F16H(OTP) @USON8                 P25F16L      @SOP8                  
-      P25F16L @ISP                        P25F16L      @USON8                 P25F16L(OTP) @SOP8                  P25F16L(OTP) @ISP                   
-      P25F16L(OTP) @USON8                 P25F32H      @SOP8                  P25F32H @ISP                        P25F32H      @USON8                 
-      P25F32H(OTP) @SOP8                  P25F32H(OTP) @ISP                   P25F32H(OTP) @USON8                 P25F32L      @SOP8                  
-      P25F32L @ISP                        P25F32L      @USON8                 P25F32L(OTP) @SOP8                  P25F32L(OTP) @ISP                   
-      P25F32L(OTP) @USON8                 P25F64H      @SOP8                  P25F64H @ISP                        P25F64H      @USON8                 
-      P25F64H(OTP) @SOP8                  P25F64H(OTP) @ISP                   P25F64H(OTP) @USON8                 P25F64L      @SOP8                  
-      P25F64L @ISP                        P25F64L      @USON8                 P25F64L(OTP) @SOP8                  P25F64L(OTP) @ISP                   
-      P25F64L(OTP) @USON8                 P25Q05H      @SOP8                  P25Q05H @ISP                        P25Q05L      @SOP8                  
-      P25Q05L @ISP                        P25Q05L      @USON8                 P25Q05U      @SOP8                  P25Q05U @ISP                        
-      P25Q05U      @USON8                 P25Q06H      @SOP8                  P25Q06H @ISP                        P25Q06H      @USON8                 
-      P25Q06L      @SOP8                  P25Q06L @ISP                        P25Q06L      @@USON8                P25Q06U      @SOP8                  
-      P25Q06U @ISP                        P25Q06U      @USON8                 P25Q10H      @SOP8                  P25Q10H @ISP                        
-      P25Q10L      @SOP8                  P25Q10L @ISP                        P25Q10L      @USON8                 P25Q10U      @SOP8                  
-      P25Q10U @ISP                        P25Q10U      @USON8                 P25Q11H      @SOP8                  P25Q11H @ISP                        
-      P25Q11H      @USON8                 P25Q11L      @SOP8                  P25Q11L @ISP                        P25Q11L      @USON8                 
-      P25Q11U      @SOP8                  P25Q11U @ISP                        P25Q11U      @USON8                 P25Q20H      @SOP8                  
-      P25Q20H @ISP                        P25Q20L      @SOP8                  P25Q20L @ISP                        P25Q20L      @USON8                 
-      P25Q20U      @SOP8                  P25Q20U @ISP                        P25Q20U      @USON8                 P25Q21H      @SOP8                  
-      P25Q21H @ISP                        P25Q21H      @USON8                 P25Q21L      @SOP8                  P25Q21L @ISP                        
-      P25Q21L      @USON8                 P25Q21U      @SOP8                  P25Q21U @ISP                        P25Q21U      @USON8                 
-      P25Q40H      @SOP8                  P25Q40H @ISP                        P25Q40H (OTP)@SOP8                  P25Q40H(OTP) @ISP                   
-      P25Q40L      @SOP8                  P25Q40L @ISP                        P25Q40L      @USON8                 P25Q40L (OTP)@SOP8                  
-      P25Q40L(OTP) @ISP                   P25Q40L (OTP)@USON8                 P25Q40U      @SOP8                  P25Q40U @ISP                        
-      P25Q40U  OTP)@SOP8                  P25Q40UOTP) @ISP                    P25Q40SH     @SOP8                  P25Q40SH @ISP                       
-      P25Q40SH     @USON8                 P25Q40SL     @SOP8                  P25Q40SL @ISP                       P25Q40SL     @USON8                 
+      P24CM01B @ISP                       P24CM01B @TSSOP8                    P24CM02F @SOIC8                     P24CM02F @ISP                       
+      P24CM02F @TSSOP8                    PY25C08H                            PY25C08H @ISP                       PY25C08H  @SOIC8                    
+      PY25C08H  @TSSOP8                   PY25C16H                            PY25C16H @ISP                       PY25C16H  @SOIC8                    
+      PY25C16H  @TSSOP8                   PY25C32H                            PY25C32H @ISP                       PY25C32H  @SOIC8                    
+      PY25C32H  @TSSOP8                   P25C64F  @SOIC8                     P25C64F @ISP                        P25C64F  @TSSOP8                    
+      P25C64F  @UDFN8                     P25C64H  @SOIC8                     P25C64H @ISP                        P25C64H  @TSSOP8                    
+      P25C64H  @UDFN8                     P25C128H @SOIC8                     P25C128H @ISP                       P25C128H @TSSOP8                    
+      P25C128H @UDFN8                     P25C128F @SOIC8                     P25C128F @ISP                       P25C128F @TSSOP8                    
+      P25C128F @UDFN8                     P25C256F @SOIC8                     P25C256F @ISP                       P25C256F @TSSOP8                    
+      P25C256F @UDFN8                     P25C256H @SOIC8                     P25C256H @ISP                       P25C256H @TSSOP8                    
+      P25C256H @UDFN8                     P25C512H @SOIC8                     P25C512H @ISP                       P25C512H @TSSOP8                    
+      P25C512H @UDFN8                     P25D05H      @SOP8                  P25D05H @ISP                        P25D05L      @SOP8                  
+      P25D05L @ISP                        P25D05L      @USON8                 P25D09H      @SOP8                  P25D09H @ISP                        
+      P25D09H      @SSOP8                 P25D09U      @SOP8                  P25D09U @ISP                        P25D09U      @USON8                 
+      P25D10H      @SOP8                  P25D10H @ISP                        P25D10L      @SOP8                  P25D10L @ISP                        
+      P25D10L      @USON8                 P25D20H      @SOP8                  P25D20H @ISP                        P25D20L      @SOP8                  
+      P25D20L @ISP                        P25D20L      @USON8                 P25D24L      @SOP8                  P25D24L @ISP                        
+      P25D24L      @USON8                 P25D40H      @SOP8                  P25D40H @ISP                        P25D40H(OTP) @SOP8                  
+      P25D40H(OTP) @ISP                   P25D40L      @SOP8                  P25D40L @ISP                        P25D40L      @USON8                 
+      P25D40L(OTP) @SOP8                  P25D40L(OTP) @ISP                   P25D40L(OTP) @USON8                 P25D80H      @SOP8                  
+      P25D80H @ISP                        P25D80H      @USON8                 P25D80H(OTP) @SOP8                  P25D80H(OTP) @ISP                   
+      P25D80H(OTP) @USON8                 P25D80L      @SOP8                  P25D80L @ISP                        P25D80L      @USON8                 
+      P25D80L(OTP) @SOP8                  P25D80L(OTP) @ISP                   P25D80L(OTP) @USON8                 P25D80SH     @SOP8                  
+      P25D80SH @ISP                       P25D80SH     @USON8                 P25D80SL     @SOP8                  P25D80SL @ISP                       
+      P25D80SL     @USON8                 P25D16H      @SOP8                  P25D16H @ISP                        P25D16H      @USON8                 
+      P25D16H(OTP) @SOP8                  P25D16H(OTP) @ISP                   P25D16H(OTP) @USON8                 P25D16L      @SOP8                  
+      P25D16L @ISP                        P25D16L      @USON8                 P25D16L(OTP) @SOP8                  P25D16L(OTP) @ISP                   
+      P25D16L(OTP) @USON8                 P25D16SH     @SOP8                  P25D16SH @ISP                       P25D16SH     @USON8                 
+      P25D16SL     @SOP8                  P25D16SL @ISP                       P25D16SL     @USON8                 P25D32H      @SOP8                  
+      P25D32H @ISP                        P25D32H      @USON8                 P25D32H(OTP) @SOP8                  P25D32H(OTP) @ISP                   
+      P25D32H(OTP) @USON8                 P25D32L      @SOP8                  P25D32L @ISP                        P25D32L      @USON8                 
+      P25D32L(OTP) @SOP8                  P25D32L(OTP) @ISP                   P25D32L(OTP) @USON8                 P25D32SH     @SOP8                  
+      P25D32SH @ISP                       P25D32SH     @USON8                 P25D32SL     @SOP8                  P25D32SL @ISP                       
+      P25D32SL     @USON8                 P25D64H      @SOP8                  P25D64H @ISP                        P25D64H      @USON8                 
+      P25D64H(OTP) @SOP8                  P25D64H(OTP) @ISP                   P25D64H(OTP) @USON8                 P25D64L      @SOP8                  
+      P25D64L @ISP                        P25D64L      @USON8                 P25D64L(OTP) @SOP8                  P25D64L(OTP) @ISP                   
+      P25D64L(OTP) @USON8                 P25D128H      @SOP8                 P25D128H @ISP                       P25D128H      @USON8                
+      P25D128H(OTP) @SOP8                 P25D128H(OTP) @ISP                  P25D128H(OTP) @USON8                P25F20H      @SOP8                  
+      P25F20H @ISP                        P25F20L      @SOP8                  P25F20L @ISP                        P25F20L      @USON8                 
+      P25F40H      @SOP8                  P25F40H @ISP                        P25F40H(OTP) @SOP8                  P25F40H(OTP) @ISP                   
+      P25F40L      @SOP8                  P25F40L @ISP                        P25F40L      @USON8                 P25F40L(OTP) @SOP8                  
+      P25F40L(OTP) @ISP                   P25F40L(OTP) @USON8                 P25F80H      @SOP8                  P25F80H @ISP                        
+      P25F80H      @USON8                 P25F80H(OTP) @SOP8                  P25F80H(OTP) @ISP                   P25F80H(OTP) @USON8                 
+      P25F80L      @SOP8                  P25F80L @ISP                        P25F80L      @USON8                 P25F80L(OTP) @SOP8                  
+      P25F80L(OTP) @ISP                   P25F80L(OTP) @USON8                 P25F16H      @SOP8                  P25F16H @ISP                        
+      P25F16H      @USON8                 P25F16H(OTP) @SOP8                  P25F16H(OTP) @ISP                   P25F16H(OTP) @USON8                 
+      P25F16L      @SOP8                  P25F16L @ISP                        P25F16L      @USON8                 P25F16L(OTP) @SOP8                  
+      P25F16L(OTP) @ISP                   P25F16L(OTP) @USON8                 P25F32H      @SOP8                  P25F32H @ISP                        
+      P25F32H      @USON8                 P25F32H(OTP) @SOP8                  P25F32H(OTP) @ISP                   P25F32H(OTP) @USON8                 
+      P25F32L      @SOP8                  P25F32L @ISP                        P25F32L      @USON8                 P25F32L(OTP) @SOP8                  
+      P25F32L(OTP) @ISP                   P25F32L(OTP) @USON8                 P25F64H      @SOP8                  P25F64H @ISP                        
+      P25F64H      @USON8                 P25F64H(OTP) @SOP8                  P25F64H(OTP) @ISP                   P25F64H(OTP) @USON8                 
+      P25F64L      @SOP8                  P25F64L @ISP                        P25F64L      @USON8                 P25F64L(OTP) @SOP8                  
+      P25F64L(OTP) @ISP                   P25F64L(OTP) @USON8                 P25Q05H      @SOP8                  P25Q05H @ISP                        
+      P25Q05L      @SOP8                  P25Q05L @ISP                        P25Q05L      @USON8                 P25Q05U      @SOP8                  
+      P25Q05U @ISP                        P25Q05U      @USON8                 P25Q06H      @SOP8                  P25Q06H @ISP                        
+      P25Q06H      @USON8                 P25Q06L      @SOP8                  P25Q06L @ISP                        P25Q06L      @@USON8                
+      P25Q06U      @SOP8                  P25Q06U @ISP                        P25Q06U      @USON8                 P25Q10H      @SOP8                  
+      P25Q10H @ISP                        P25Q10L      @SOP8                  P25Q10L @ISP                        P25Q10L      @USON8                 
+      P25Q10U      @SOP8                  P25Q10U @ISP                        P25Q10U      @USON8                 P25Q11H      @SOP8                  
+      P25Q11H @ISP                        P25Q11H      @USON8                 P25Q11L      @SOP8                  P25Q11L @ISP                        
+      P25Q11L      @USON8                 P25Q11U      @SOP8                  P25Q11U @ISP                        P25Q11U      @USON8                 
+      P25Q20H      @SOP8                  P25Q20H @ISP                        P25Q20L      @SOP8                  P25Q20L @ISP                        
+      P25Q20L      @USON8                 P25Q20U      @SOP8                  P25Q20U @ISP                        P25Q20U      @USON8                 
+      P25Q21H      @SOP8                  P25Q21H @ISP                        P25Q21H      @USON8                 P25Q21L      @SOP8                  
+      P25Q21L @ISP                        P25Q21L      @USON8                 P25Q21U      @SOP8                  P25Q21U @ISP                        
+      P25Q21U      @USON8                 P25Q40H      @SOP8                  P25Q40H @ISP                        P25Q40H (OTP)@SOP8                  
+      P25Q40H(OTP) @ISP                   P25Q40L      @SOP8                  P25Q40L @ISP                        P25Q40L      @USON8                 
+      P25Q40L (OTP)@SOP8                  P25Q40L(OTP) @ISP                   P25Q40L (OTP)@USON8                 P25Q40U      @SOP8                  
+      P25Q40U @ISP                        P25Q40U  OTP)@SOP8                  P25Q40UOTP) @ISP                    P25Q40SH     @SOP8                  
+      P25Q40SH @ISP                       P25Q40SH     @USON8                 P25Q40SU     @SOP8                  P25Q40SU @ISP                       
+      P25Q40SU     @USON8                 P25Q40SL     @SOP8                  P25Q40SL @ISP                       P25Q40SL     @USON8                 
       P25Q80H      @SOP8                  P25Q80H @ISP                        P25Q80H      @USON8                 P25Q80H(OTP) @SOP8                  
       P25Q80H(OTP) @ISP                   P25Q80H(OTP) @USON8                 P25Q80L      @SOP8                  P25Q80L @ISP                        
       P25Q80L      @USON8                 P25Q80L(OTP) @SOP8                  P25Q80L(OTP) @ISP                   P25Q80L(OTP) @USON8                 
@@ -7130,41 +7152,49 @@ XGecu T56 Universal Programmer Device Support List:
       P25Q16L      @USON8                 P25Q16L(OTP) @SOP8                  P25Q16L(OTP) @ISP                   P25Q16L(OTP) @USON8                 
       P25Q16LB     @SOP8                  P25Q16LB @ISP                       P25Q16LB     @USON8                 P25Q16SH     @SOP8                  
       P25Q16SH @ISP                       P25Q16SH     @USON8                 P25Q16SL     @SOP8                  P25Q16SL @ISP                       
-      P25Q16SL     @USON8                 P25Q32H      @SOP8                  P25Q32H @ISP                        P25Q32H      @USON8                 
-      P25Q32H(OTP) @SOP8                  P25Q32H(OTP) @ISP                   P25Q32H(OTP) @USON8                 P25Q32L      @SOP8                  
-      P25Q32L @ISP                        P25Q32L      @USON8                 P25Q32L(OTP) @SOP8                  P25Q32L(OTP) @ISP                   
-      P25Q32L(OTP) @USON8                 P25Q32SH     @SOP8                  P25Q32SH @ISP                       P25Q32SH     @USON8                 
-      P25Q32SL     @SOP8                  P25Q32SL @ISP                       P25Q32SL     @USON8                 P25Q32SN(VCC=1.8V) @SOP8            
-      P25Q32SN(VCC=1.8V) @ISP             P25Q32SN(VCC=1.8V) @TSSOP8          P25Q32SN(VCC=1.8V) @USON8           P25Q32SN(VCC=1.2V) @SOP8            
-      P25Q32SN(VCC=1.2V) @ISP             P25Q32SN(VCC=1.2V) @TSSOP8          P25Q32SN(VCC=1.2V) @USON8           P25Q64H      @SOP8                  
-      P25Q64H @ISP                        P25Q64H      @USON8                 P25Q64H(OTP) @SOP8                  P25Q64H(OTP) @ISP                   
-      P25Q64H(OTP) @USON8                 P25Q64L      @SOP8                  P25Q64L @ISP                        P25Q64L      @USON8                 
-      P25Q64L(OTP) @SOP8                  P25Q64L(OTP) @ISP                   P25Q64L(OTP) @USON8                 P25Q64SH @SOP8                      
-      P25Q64SH @ISP                       P25Q64SH @USON8                     P25Q64SL @SOP8                      P25Q64SL @ISP                       
-      P25Q64SL @USON8                     P25Q128H      @SOP8                 P25Q128H @ISP                       P25Q128H      @USON8                
-      P25Q128H(OTP) @SOP8                 P25Q128H(OTP) @ISP                  P25Q128H(OTP) @USON8                P25Q128L      @SOP8                 
-      P25Q128L @ISP                       P25Q128L      @USON8                P25Q128L(OTP) @SOP8                 P25Q128L(OTP) @ISP                  
-      P25Q128L(OTP) @USON8                P25Q128U      @SOP8                 P25Q128U @ISP                       P25Q128U      @USON8                
-      P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @ISP                  P25Q128U(OTP) @USON8                PY25F128HA @SOP8                    
-      PY25F128HA @ISP                     PY25F128HA @USON8                   PY25F128HA @SOP16                   PY25F128LA @SOP8                    
-      PY25F128LA @ISP                     PY25F128LA @USON8                   PY25F128LA @SOP16                   PY25F256HB @SOP8                    
-      PY25F256HB @ISP                     PY25F256HB @USON8                   PY25F256HB @SOP16                   PY25F512HB @SOP8                    
-      PY25F512HB @ISP                     PY25F512HB @USON8                   PY25F512HB @SOP16                   PY25Q80HA @SOP8                     
-      PY25Q80HA @ISP                      PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     PY25Q16HA @ISP                      
-      PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     PY25Q32HA @ISP                      PY25Q32HA @WSON8                    
-      PY25Q64HA @SOP8                     PY25Q64HA @ISP                      PY25Q64HA @WSON8                    PY25Q64HA @SOP16                    
-      PY25Q128HA @SOP8                    PY25Q128HA @ISP                     PY25Q128HA @WSON8                   PY25Q128HA @SOP16                   
-      PY25Q128HA @BGA24                   PY25Q80HB @SOP8                     PY25Q80HB @ISP                      PY25Q80HB @WSON8                    
-      PY25Q16HB @SOP8                     PY25Q16HB @ISP                      PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     
-      PY25Q32HB @ISP                      PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     PY25Q64HB @ISP                      
-      PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    PY25Q128HB @ISP                     
-      PY25Q128HB @WSON8                   PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    PY25Q256HB @ISP                     
-      PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   PY25Q512HB @SOP8                    PY25Q512HB @ISP                     
-      PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   PY25Q01GHB @WSON8                   PY25Q01GHB @ISP                     
-      PY25Q01GHB @SOP16                   PY25R128HA @SOP8                    PY25R128HA @ISP                     PY25R128HA @WSON8                   
-      PY25R128LA @SOP8                    PY25R128LA @ISP                     PY25R128LA @WSON8                   
+      P25Q16SL     @USON8                 P25Q16SLE     @SOP8                 P25Q16SLE @ISP                      P25Q16SLE     @USON8                
+      P25Q32H      @SOP8                  P25Q32H @ISP                        P25Q32H      @USON8                 P25Q32H(OTP) @SOP8                  
+      P25Q32H(OTP) @ISP                   P25Q32H(OTP) @USON8                 P25Q32SU      @SOP8                 P25Q32SU @ISP                       
+      P25Q32SU      @USON8                P25Q32SU(OTP) @SOP8                 P25Q32SU(OTP) @ISP                  P25Q32SU(OTP) @USON8                
+      P25Q32L      @SOP8                  P25Q32L @ISP                        P25Q32L      @USON8                 P25Q32L(OTP) @SOP8                  
+      P25Q32L(OTP) @ISP                   P25Q32L(OTP) @USON8                 P25Q32SH     @SOP8                  P25Q32SH @ISP                       
+      P25Q32SH     @USON8                 P25Q32SL     @SOP8                  P25Q32SL @ISP                       P25Q32SL     @USON8                 
+      P25Q32SN(VCC=1.8V) @SOP8            P25Q32SN(VCC=1.8V) @ISP             P25Q32SN(VCC=1.8V) @TSSOP8          P25Q32SN(VCC=1.8V) @USON8           
+      P25Q32SN(VCC=1.2V) @SOP8            P25Q32SN(VCC=1.2V) @ISP             P25Q32SN(VCC=1.2V) @TSSOP8          P25Q32SN(VCC=1.2V) @USON8           
+      P25Q64SN(VCC=1.8V) @SOP8            P25Q64SN(VCC=1.8V) @ISP             P25Q64SN(VCC=1.8V) @TSSOP8          P25Q64SN(VCC=1.8V) @USON8           
+      P25Q64SN(VCC=1.2V) @SOP8            P25Q64SN(VCC=1.2V) @ISP             P25Q64SN(VCC=1.2V) @TSSOP8          P25Q64SN(VCC=1.2V) @USON8           
+      P25Q128SN(VCC=1.8V) @SOP8           P25Q128SN(VCC=1.8V) @ISP            P25Q128SN(VCC=1.8V) @TSSOP8         P25Q128SN(VCC=1.8V) @USON8          
+      P25Q128SN(VCC=1.2V) @SOP8           P25Q128SN(VCC=1.2V) @ISP            P25Q128SN(VCC=1.2V) @TSSOP8         P25Q128SN(VCC=1.2V) @USON8          
+      P25Q64H      @SOP8                  P25Q64H @ISP                        P25Q64H      @USON8                 P25Q64H(OTP) @SOP8                  
+      P25Q64H(OTP) @ISP                   P25Q64H(OTP) @USON8                 P25Q64L      @SOP8                  P25Q64L @ISP                        
+      P25Q64L      @USON8                 P25Q64L(OTP) @SOP8                  P25Q64L(OTP) @ISP                   P25Q64L(OTP) @USON8                 
+      P25Q64SH @SOP8                      P25Q64SH @ISP                       P25Q64SH @USON8                     P25Q64SL @SOP8                      
+      P25Q64SL @ISP                       P25Q64SL @USON8                     P25Q128H      @SOP8                 P25Q128H @ISP                       
+      P25Q128H      @USON8                P25Q128H(OTP) @SOP8                 P25Q128H(OTP) @ISP                  P25Q128H(OTP) @USON8                
+      P25Q128L      @SOP8                 P25Q128L @ISP                       P25Q128L      @USON8                P25Q128L(OTP) @SOP8                 
+      P25Q128L(OTP) @ISP                  P25Q128L(OTP) @USON8                P25Q128U      @SOP8                 P25Q128U @ISP                       
+      P25Q128U      @USON8                P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @ISP                  P25Q128U(OTP) @USON8                
+      PY25F128HA @SOP8                    PY25F128HA @ISP                     PY25F128HA @USON8                   PY25F128HA @SOP16                   
+      PY25F128LA @SOP8                    PY25F128LA @ISP                     PY25F128LA @USON8                   PY25F128LA @SOP16                   
+      PY25F256HB @SOP8                    PY25F256HB @ISP                     PY25F256HB @USON8                   PY25F256HB @SOP16                   
+      PY25F512HB @SOP8                    PY25F512HB @ISP                     PY25F512HB @USON8                   PY25F512HB @SOP16                   
+      PY25Q80HA @SOP8                     PY25Q80HA @ISP                      PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     
+      PY25Q16HA @ISP                      PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     PY25Q32HA @ISP                      
+      PY25Q32HA @WSON8                    PY25Q64HA @SOP8                     PY25Q64HA @ISP                      PY25Q64HA @WSON8                    
+      PY25Q64HA @SOP16                    PY25Q128HA @SOP8                    PY25Q128HA @ISP                     PY25Q128HA @WSON8                   
+      PY25Q128HA @SOP16                   PY25Q128HA @BGA24                   PY25Q80HB @SOP8                     PY25Q80HB @ISP                      
+      PY25Q80HB @WSON8                    PY25Q16HB @SOP8                     PY25Q16HB @ISP                      PY25Q16HB @WSON8                    
+      PY25Q32HB @SOP8                     PY25Q32HB @ISP                      PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     
+      PY25Q64HB @ISP                      PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    
+      PY25Q128HB @ISP                     PY25Q128HB @WSON8                   PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    
+      PY25Q256HB @ISP                     PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   PY25Q512HB @SOP8                    
+      PY25Q512HB @ISP                     PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   PY25Q01GHB @WSON8                   
+      PY25Q01GHB @ISP                     PY25Q01GHB @SOP16                   PY25R128HA @SOP8                    PY25R128HA @ISP                     
+      PY25R128HA @WSON8                   PY25R128LA @SOP8                    PY25R128LA @ISP                     PY25R128LA @WSON8                   
+      PY25R256HC @SOP8                    PY25R256HC @ISP                     PY25R256HC @WSON8                   PY25R256LC @SOP8                    
+      PY25R256LC @ISP                     PY25R256LC @WSON8                   
 
-         IC Support: 475 PCS
+         IC Support: 554 PCS
 
  [ PTC ]     
 
@@ -8008,13 +8038,16 @@ XGecu T56 Universal Programmer Device Support List:
       M29F080D @TSOP40                    M29F100B  @TSOP48                   M29F100B  @SOP44                    M29F100BB @TSOP48                   
       M29F100BB @SOP44                    M29F100BT @TSOP48                   M29F100BT @SOP44                    M29F100T  @TSOP48                   
       M29F100T  @SOP44                    M29F102BB(10x14mm) @VSOP40          M29F102BB @PLCC44                   M29F160BB @TSOP48                   
-      M29F160BT @TSOP48                   M29F200B  @TSOP48                   M29F200B  @SOP44                    M29F200T  @TSOP48                   
+      M29F160BT @TSOP48                   M29F200B  @TSOP48                   M29F200B  @SOP44                    M29F200BB @TSOP48                   
+      M29F200BB @SOP44                    M29F200BT @TSOP48                   M29F200BT @SOP44                    M29F200T  @TSOP48                   
       M29F200T  @SOP44                    M29F400B  @TSOP48                   M29F400B  @SOP44                    M29F400BB @TSOP48                   
       M29F400BB @SOP44                    M29F400BT @TSOP48                   M29F400BT @SOP44                    M29F400T  @TSOP48                   
       M29F400T  @SOP44                    M29F512B                            M29F512B @PLCC32                    M29F512B @TSOP32                    
       M29F512B @TSOP32(ADP:Pin9 to 1)     M29F800AB @TSOP48                   M29F800AB @SOP44                    M29F800AT @TSOP48                   
-      M29F800AT @SOP44                    M29F800DB @TSOP48                   M29F800DB @SOP44                    M29F800DT @TSOP48                   
-      M29F800DT @SOP44                    M29W002BB @TSOP40                   M29W002BT @TSOP40                   M29W004B  @TSOP40                   
+      M29F800AT @SOP44                    M29F800BB @TSOP48                   M29F800BB @SOP44                    M29F800BT @TSOP48                   
+      M29F800BT @SOP44                    M29F800DB @TSOP48                   M29F800DB @SOP44                    M29F800DT @TSOP48                   
+      M29F800DT @SOP44                    M29F800FB @TSOP48                   M29F800FB @SOP44                    M29F800FT @TSOP48                   
+      M29F800FT @SOP44                    M29W002BB @TSOP40                   M29W002BT @TSOP40                   M29W004B  @TSOP40                   
       M29W004T  @TSOP40                   M29W008AB @TSOP40                   M29W008AT @TSOP40                   M29W008B  @TSOP40                   
       M29W008T  @TSOP40                   M29W010B @PLCC32                    M29W010B @TSOP32                    M29W010B @TSOP32(ADP:Pin9 to 1)     
       M29W017D  @TSOP40                   M29W040B @PLCC32                    M29W040B @TSOP32                    M29W040B @TSOP32(ADP:Pin9 to 1)     
@@ -8069,7 +8102,7 @@ XGecu T56 Universal Programmer Device Support List:
       TS59C11(8b)  @DIP8                  TS59C11(8b) @ISP                    TS59C11(8b)  @SOIC8                 TS59C11(16b) @DIP8                  
       TS59C11(16b) @ISP                   TS59C11(16b) @SOIC8                 
 
-         IC Support: 478 PCS
+         IC Support: 490 PCS
 
  [ SHARP ]     
 
@@ -9065,7 +9098,9 @@ XGecu T56 Universal Programmer Device Support List:
       M29F400BT @TSOP48                   M29F400BT @SOP44                    M29F400T  @TSOP48                   M29F400T  @SOP44                    
       M29F512B                            M29F512B @PLCC32                    M29F512B @TSOP32                    M29F512B @TSOP32(ADP:Pin9 to 1)     
       M29F800AB @TSOP48                   M29F800AB @SOP44                    M29F800AT @TSOP48                   M29F800AT @SOP44                    
+      M29F800BB @TSOP48                   M29F800BB @SOP44                    M29F800BT @TSOP48                   M29F800BT @SOP44                    
       M29F800DB @TSOP48                   M29F800DB @SOP44                    M29F800DT @TSOP48                   M29F800DT @SOP44                    
+      M29F800FB @TSOP48                   M29F800FB @SOP44                    M29F800FT @TSOP48                   M29F800FT @SOP44                    
       M29W002BB @TSOP40                   M29W002BT @TSOP40                   M29W004B  @TSOP40                   M29W004T  @TSOP40                   
       M29W008AB @TSOP40                   M29W008AT @TSOP40                   M29W008B  @TSOP40                   M29W008T  @TSOP40                   
       M29W010B @PLCC32                    M29W010B @TSOP32                    M29W010B @TSOP32(ADP:Pin9 to 1)     M29W017D  @TSOP40                   
@@ -9297,7 +9332,7 @@ XGecu T56 Universal Programmer Device Support List:
       ST95P08 @ISP                        ST95P08 @SOIC8                      TS27C256 @DIP28                     TS27C64A @DIP28                     
       TS27C64A @PLCC32                    
 
-         IC Support: 1409 PCS
+         IC Support: 1417 PCS
 
  [ SUMMIT ]     
 
@@ -9657,251 +9692,255 @@ XGecu T56 Universal Programmer Device Support List:
       W25N01GV(x4)  @BGA24                W25N01GV @WSON8                     W25N01GV @ISP                       W25N01GV @SOP16                     
       W25N01GV @BGA24                     W25N01GW(x4)  @WSON8                W25N01GW(x4)  @SOP16                W25N01GW(x4)  @BGA24                
       W25N01GW @WSON8                     W25N01GW @ISP                       W25N01GW @SOP16                     W25N01GW @BGA24                     
-      W25N02KV(x4)  @WSON8                W25N02KV(x4)  @SOP16                W25N02KV(x4)  @BGA24                W25N02KV @WSON8                     
-      W25N02KV @ISP                       W25N02KV @SOP16                     W25N02KV @BGA24                     W25N02KW(x4)  @WSON8                
-      W25N02KW(x4)  @SOP16                W25N02KW(x4)  @BGA24                W25N02KW @WSON8                     W25N02KW @ISP                       
-      W25N02KW @SOP16                     W25N02KW @BGA24                     W25N512GV(x4)  @WSON8               W25N512GV(x4)  @SOP16               
-      W25N512GV(x4)  @BGA24               W25N512GV @WSON8                    W25N512GV @ISP                      W25N512GV @SOP16                    
-      W25N512GV @BGA24                    W25N512GW(x4)  @WSON8               W25N512GW(x4)  @SOP16               W25N512GW(x4)  @BGA24               
-      W25N512GW @WSON8                    W25N512GW @ISP                      W25N512GW @SOP16                    W25N512GW @BGA24                    
-      W25Q05CL                            W25Q05CL @ISP                       W25Q05CL @WSON8                     W25Q05CL @SOIC8                     
-      W25Q10CL                            W25Q10CL @ISP                       W25Q10CL @WSON8                     W25Q10CL @SOIC8                     
-      W25Q10EW 1.8V                       W25Q10EW1.8V @ISP                   W25Q10EW 1.8V @WSON8                W25Q10EW 1.8V @SOIC8                
-      W25Q10EW 1.8V(OTP)                  W25Q10EW1.8V(OTP) @ISP              W25Q10EW 1.8V(OTP) @WSON8           W25Q10EW 1.8V(OTP) @SOIC8           
-      W25Q20CL                            W25Q20CL @ISP                       W25Q20CL @WSON8                     W25Q20CL @SOIC8                     
-      W25Q20CL(OTP)                       W25Q20CL(OTP) @ISP                  W25Q20CL(OTP) @WSON8                W25Q20CL(OTP) @SOIC8                
-      W25Q20BW 1.8V @SOIC8                W25Q20BW1.8V @ISP                   W25Q20BW 1.8V @WSON8                W25Q20BW 1.8V(OTP) @SOIC8           
-      W25Q20BW1.8V(OTP) @ISP              W25Q20BW 1.8V(OTP) @WSON8           W25Q20EW 1.8V                       W25Q20EW1.8V @ISP                   
-      W25Q20EW 1.8V @SOIC8                W25Q20EW 1.8V @WSON8                W25Q20EW 1.8V(OTP)                  W25Q20EW1.8V(OTP) @ISP              
-      W25Q20EW 1.8V(OTP) @SOIC8           W25Q20EW 1.8V(OTP) @WSON8           W25Q40BL                            W25Q40BL @ISP                       
-      W25Q40BL @WSON8                     W25Q40BL @SOIC8                     W25Q40BL(OTP)                       W25Q40BL(OTP) @ISP                  
-      W25Q40BL(OTP) @WSON8                W25Q40BL(OTP) @SOIC8                W25Q40BV                            W25Q40BV @ISP                       
-      W25Q40BV @WSON8                     W25Q40BV @SOIC8                     W25Q40BV(OTP)                       W25Q40BV(OTP) @ISP                  
-      W25Q40BV(OTP) @WSON8                W25Q40BV(OTP) @SOIC8                W25Q40BW 1.8V @WSON8                W25Q40BW1.8V @ISP                   
-      W25Q40BW 1.8V @SOIC8                W25Q40BW 1.8V(OTP) @WSON8           W25Q40BW1.8V(OTP) @ISP              W25Q40BW 1.8V(OTP) @SOIC8           
-      W25Q40CL                            W25Q40CL @ISP                       W25Q40CL @SOIC8                     W25Q40CL(OTP)                       
-      W25Q40CL(OTP) @ISP                  W25Q40CL(OTP) @SOIC8                W25Q40EW 1.8V                       W25Q40EW1.8V @ISP                   
-      W25Q40EW 1.8V @WSON8                W25Q40EW 1.8V @SOIC8                W25Q40EW 1.8V(OTP)                  W25Q40EW1.8V(OTP) @ISP              
-      W25Q40EW 1.8V(OTP) @WSON8           W25Q40EW 1.8V(OTP) @SOIC8           W25Q80BL                            W25Q80BL @ISP                       
-      W25Q80BL @WSON8                     W25Q80BL @SOIC8                     W25Q80BL @SOIC16                    W25Q80BL(OTP)                       
-      W25Q80BL(OTP) @ISP                  W25Q80BL(OTP) @WSON8                W25Q80BL(OTP) @SOIC8                W25Q80BL(OTP) @SOIC16               
-      W25Q80BV                            W25Q80BV @ISP                       W25Q80BV @WSON8                     W25Q80BV @SOIC8                     
-      W25Q80BV @SOIC16                    W25Q80BV(OTP)                       W25Q80BV(OTP) @ISP                  W25Q80BV(OTP) @WSON8                
-      W25Q80BV(OTP) @SOIC8                W25Q80BV(OTP) @SOIC16               W25Q80BW 1.8V @WSON8                W25Q80BW1.8V @ISP                   
-      W25Q80BW 1.8V @SOIC8                W25Q80BW 1.8V @SOIC16               W25Q80BW 1.8V(OTP)@WSON8            W25Q80BW1.8V(OTP) @ISP              
-      W25Q80BW 1.8V(OTP)@SOIC8            W25Q80BW 1.8V(OTP)@SOIC16           W25Q80DL @WSON8                     W25Q80DL @ISP                       
-      W25Q80DL @SOIC8                     W25Q80DL @SOIC16                    W25Q80DL(OTP) @WSON8                W25Q80DL(OTP) @ISP                  
-      W25Q80DL(OTP) @SOIC8                W25Q80DL(OTP) @SOIC16               W25Q80DV @WSON8                     W25Q80DV @ISP                       
-      W25Q80DV @SOIC8                     W25Q80DV @SOIC16                    W25Q80DV(OTP) @WSON8                W25Q80DV(OTP) @ISP                  
-      W25Q80DV(OTP) @SOIC8                W25Q80DV(OTP) @SOIC16               W25Q80EW 1.8V @WSON8                W25Q80EW1.8V @ISP                   
-      W25Q80EW 1.8V @SOIC8                W25Q80EW 1.8V @SOIC16               W25Q80EW 1.8V(OTP)@WSON8            W25Q80EW1.8V(OTP) @ISP              
-      W25Q80EW 1.8V(OTP)@SOIC8            W25Q80EW 1.8V(OTP)@SOIC16           W25Q80JV @WSON8                     W25Q80JV @ISP                       
-      W25Q80JV @SOIC8                     W25Q80JV @SOIC16                    W25Q80JV(OTP) @WSON8                W25Q80JV(OTP) @ISP                  
-      W25Q80JV(OTP) @SOIC8                W25Q80JV(OTP) @SOIC16               W25Q80JW 1.8V @WSON8                W25Q80JW1.8V @ISP                   
-      W25Q80JW 1.8V @SOIC8                W25Q80JW 1.8V @SOIC16               W25Q80JW 1.8V(OTP)@WSON8            W25Q80JW1.8V(OTP) @ISP              
-      W25Q80JW 1.8V(OTP)@SOIC8            W25Q80JW 1.8V(OTP)@SOIC16           W25Q16 @MLP8                        W25Q16 @ISP                         
-      W25Q16 @SOIC8                       W25Q16 @SOIC16                      W25Q16(OTP) @MLP8                   W25Q16(OTP) @ISP                    
-      W25Q16(OTP) @SOIC8                  W25Q16(OTP) @SOIC16                 W25Q16BV                            W25Q16BV @ISP                       
-      W25Q16BV @WSON8                     W25Q16BV @SOIC8                     W25Q16BV @SOIC16                    W25Q16BV(OTP)                       
-      W25Q16BV(OTP) @ISP                  W25Q16BV(OTP) @WSON8                W25Q16BV(OTP) @SOIC8                W25Q16BV(OTP) @SOIC16               
-      W25Q16BW(OTP)                       W25Q16BW(OTP) @ISP                  W25Q16BW(OTP) @WSON8                W25Q16BW(OTP) @SOIC8                
-      W25Q16BW(OTP) @SOIC16               W25Q16CL                            W25Q16CL @ISP                       W25Q16CL @WSON8                     
-      W25Q16CL @SOIC8                     W25Q16CL @SOIC16                    W25Q16CL(OTP)                       W25Q16CL(OTP) @ISP                  
-      W25Q16CL(OTP) @WSON8                W25Q16CL(OTP) @SOIC8                W25Q16CL(OTP) @SOIC16               W25Q16CV                            
-      W25Q16CV @ISP                       W25Q16CV @WSON8                     W25Q16CV @SOIC8                     W25Q16CV @SOIC16                    
-      W25Q16CV(OTP)                       W25Q16CV(OTP) @ISP                  W25Q16CV(OTP) @WSON8                W25Q16CV(OTP) @SOIC8                
-      W25Q16CV(OTP) @SOIC16               W25Q16DV                            W25Q16DV @ISP                       W25Q16DV @WSON8                     
-      W25Q16DV @SOIC8                     W25Q16DV @SOIC16                    W25Q16DV(OTP)                       W25Q16DV(OTP) @ISP                  
-      W25Q16DV(OTP) @WSON8                W25Q16DV(OTP) @SOIC8                W25Q16DV(OTP) @SOIC16               W25Q16DW 1.8V @WSON8                
-      W25Q16DW1.8V @ISP                   W25Q16DW 1.8V @SOIC8                W25Q16DW 1.8V @SOIC16               W25Q16DW 1.8V(OTP)@WSON8            
-      W25Q16DW1.8V(OTP) @ISP              W25Q16DW 1.8V(OTP)@SOIC8            W25Q16DW 1.8V(OTP)@SOIC16           W25Q16FW 1.8V @WSON8                
-      W25Q16FW1.8V @ISP                   W25Q16FW 1.8V @SOIC8                W25Q16FW 1.8V @SOIC16               W25Q16FW 1.8V(OTP)@WSON8            
-      W25Q16FW1.8V(OTP) @ISP              W25Q16FW 1.8V(OTP)@SOIC8            W25Q16FW 1.8V(OTP)@SOIC16           W25Q16JV @WSON8                     
-      W25Q16JV @ISP                       W25Q16JV @SOIC8                     W25Q16JV @SOIC16                    W25Q16JV(OTP) @WSON8                
-      W25Q16JV(OTP) @ISP                  W25Q16JV(OTP) @SOIC8                W25Q16JV(OTP) @SOIC16               W25Q16V @WSON8                      
-      W25Q16V @ISP                        W25Q16V @SOIC8                      W25Q16V @SOIC16                     W25Q16V(OTP) @WSON8                 
-      W25Q16V(OTP) @ISP                   W25Q16V(OTP) @SOIC8                 W25Q16V(OTP) @SOIC16                W25Q32 @MLP8                        
-      W25Q32 @ISP                         W25Q32 @SOIC16                      W25Q32(OTP) @MLP8                   W25Q32(OTP) @ISP                    
-      W25Q32(OTP) @SOIC16                 W25Q32BV                            W25Q32BV @ISP                       W25Q32BV @WSON8                     
-      W25Q32BV @SOIC8                     W25Q32BV @SOIC16                    W25Q32BV(OTP)                       W25Q32BV(OTP) @ISP                  
-      W25Q32BV(OTP) @WSON8                W25Q32BV(OTP) @SOIC8                W25Q32BV(OTP) @SOIC16               W25Q32BW 1.8V                       
-      W25Q32BW1.8V @ISP                   W25Q32BW 1.8V @WSON8                W25Q32BW 1.8V @SOIC8                W25Q32BW 1.8V @SOIC16               
-      W25Q32BW 1.8V(OTP)                  W25Q32BW1.8V(OTP) @ISP              W25Q32BW 1.8V(OTP)@WSON8            W25Q32BW 1.8V(OTP)@SOIC8            
-      W25Q32BW 1.8V(OTP)@SOIC16           W25Q32DW 1.8V                       W25Q32DW1.8V @ISP                   W25Q32DW 1.8V @WSON8                
-      W25Q32DW 1.8V @SOIC8                W25Q32DW 1.8V @SOIC16               W25Q32DW 1.8V(OTP)                  W25Q32DW1.8V(OTP) @ISP              
-      W25Q32DW 1.8V(OTP)@WSON8            W25Q32DW 1.8V(OTP)@SOIC8            W25Q32DW 1.8V(OTP)@SOIC16           W25Q32FV                            
-      W25Q32FV @ISP                       W25Q32FV @WSON8                     W25Q32FV @SOIC8                     W25Q32FV @SOIC16                    
-      W25Q32FV(OTP)                       W25Q32FV(OTP) @ISP                  W25Q32FV(OTP) @WSON8                W25Q32FV(OTP) @SOIC8                
-      W25Q32FV(OTP) @SOIC16               W25Q32FW 1.8V                       W25Q32FW1.8V @ISP                   W25Q32FW 1.8V @WSON8                
-      W25Q32FW 1.8V @SOIC8                W25Q32FW 1.8V @SOIC16               W25Q32FW 1.8V(OTP)                  W25Q32FW1.8V(OTP) @ISP              
-      W25Q32FW 1.8V(OTP)@WSON8            W25Q32FW 1.8V(OTP)@SOIC8            W25Q32FW 1.8V(OTP)@SOIC16           W25Q32JV                            
-      W25Q32JV @ISP                       W25Q32JV @WSON8                     W25Q32JV @SOIC8                     W25Q32JV @SOIC16                    
-      W25Q32JV(OTP)                       W25Q32JV(OTP) @ISP                  W25Q32JV(OTP) @WSON8                W25Q32JV(OTP) @SOIC8                
-      W25Q32JV(OTP) @SOIC16               W25Q32V @MLP8                       W25Q32V @ISP                        W25Q32V @SOIC16                     
-      W25Q32V(OTP) @MLP8                  W25Q32V(OTP) @ISP                   W25Q32V(OTP) @SOIC16                W25Q64BV                            
-      W25Q64BV @ISP                       W25Q64BV @WSON8                     W25Q64BV @SOIC8                     W25Q64BV @SOIC16                    
-      W25Q64BV(OTP)                       W25Q64BV(OTP) @ISP                  W25Q64BV(OTP) @WSON8                W25Q64BV(OTP) @SOIC8                
-      W25Q64BV(OTP) @SOIC16               W25Q64CV                            W25Q64CV @ISP                       W25Q64CV @WSON8                     
-      W25Q64CV @SOIC8                     W25Q64CV @SOIC16                    W25Q64CV(OTP)                       W25Q64CV(OTP) @ISP                  
-      W25Q64CV(OTP) @WSON8                W25Q64CV(OTP) @SOIC8                W25Q64CV(OTP) @SOIC16               W25Q64DW 1.8V                       
-      W25Q64DW1.8V @ISP                   W25Q64DW 1.8V @WSON8                W25Q64DW 1.8V @SOIC8                W25Q64DW 1.8V @SOIC16               
-      W25Q64DW 1.8V(OTP)                  W25Q64DW1.8V(OTP) @ISP              W25Q64DW 1.8V(OTP)@WSON8            W25Q64DW 1.8V(OTP)@SOIC8            
-      W25Q64DW 1.8V(OTP)@SOIC16           W25Q64FV                            W25Q64FV @ISP                       W25Q64FV @WSON8                     
-      W25Q64FV @SOIC8                     W25Q64FV @SOIC16                    W25Q64FV(OTP)                       W25Q64FV(OTP) @ISP                  
-      W25Q64FV(OTP) @WSON8                W25Q64FV(OTP) @SOIC8                W25Q64FV(OTP) @SOIC16               W25Q64FW 1.8V                       
-      W25Q64FW1.8V @ISP                   W25Q64FW 1.8V @WSON8                W25Q64FW 1.8V @SOIC8                W25Q64FW 1.8V @SOIC16               
-      W25Q64FW 1.8V(OTP)                  W25Q64FW1.8V(OTP) @ISP              W25Q64FW 1.8V(OTP)@WSON8            W25Q64FW 1.8V(OTP)@SOIC8            
-      W25Q64FW 1.8V(OTP)@SOIC16           W25Q64JV                            W25Q64JV @ISP                       W25Q64JV @WSON8                     
-      W25Q64JV @SOIC8                     W25Q64JV @SOIC16                    W25Q64JV(OTP)                       W25Q64JV(OTP) @ISP                  
-      W25Q64JV(OTP) @WSON8                W25Q64JV(OTP) @SOIC8                W25Q64JV(OTP) @SOIC16               W25Q64JV-DTR                        
-      W25Q64JV-DTR @ISP                   W25Q64JV-DTR @WSON8                 W25Q64JV-DTR @SOIC8                 W25Q64JV-DTR @SOIC16                
-      W25Q64JW-IQ                         W25Q64JW-IQ @ISP                    W25Q64JW-IQ @WSON8                  W25Q64JW-IQ @SOIC8                  
-      W25Q64JW-IQ @SOIC16                 W25Q64JW-IM                         W25Q64JW-IM @ISP                    W25Q64JW-IM @WSON8                  
-      W25Q64JW-IM @SOIC8                  W25Q64JW-IM @SOIC16                 W25Q128BV @SOIC8                    W25Q128BV @ISP                      
-      W25Q128BV @WSON8                    W25Q128BV @SOIC16                   W25Q128BV(OTP) @SOIC8               W25Q128BV(OTP) @ISP                 
-      W25Q128BV(OTP) @WSON8               W25Q128BV(OTP) @SOIC16              W25Q128FV @SOIC8                    W25Q128FV @ISP                      
-      W25Q128FV @WSON8                    W25Q128FV @SOIC16                   W25Q128FV(OTP) @SOIC8               W25Q128FV(OTP) @ISP                 
-      W25Q128FV(OTP) @WSON8               W25Q128FV(OTP) @SOIC16              W25Q128FW 1.8V @SOIC8               W25Q128FW1.8V @ISP                  
-      W25Q128FW 1.8V @WSON8               W25Q128FW 1.8V @SOIC16              W25Q128FW 1.8V(OTP)@SOIC8           W25Q128FW1.8V(OTP) @ISP             
-      W25Q128FW 1.8V(OTP)@WSON8           W25Q128FW 1.8V(OTP)@SOIC16          W25Q128JV @SOIC8                    W25Q128JV @ISP                      
-      W25Q128JV @WSON8                    W25Q128JV @SOIC16                   W25Q128JV(OTP) @SOIC8               W25Q128JV(OTP) @ISP                 
-      W25Q128JV(OTP) @WSON8               W25Q128JV(OTP) @SOIC16              W25Q128JVSxM-DTR @SOIC8             W25Q128JVSxM-DTR @ISP               
-      W25Q128JVPxM-DTR @WSON8(6x5 mm)     W25Q128JVPxM-DTR @ISP               W25Q128JVExM-DTR @WSON8(8x6 mm)     W25Q128JVExM-DTR @ISP               
-      W25Q128JVFxM-DTR @SOIC16            W25Q128JVFxM-DTR @ISP               W25Q128JVBxM-DTR @BGA24(5x5 Ball)   W25Q128JVBxM-DTR @ISP               
-      W25Q128JVCxM-DTR @BGA24(6x4 Ball)   W25Q128JVCxM-DTR @ISP               W25Q128JW 1.8V @SOIC8               W25Q128JW1.8V @ISP                  
-      W25Q128JW 1.8V @WSON8               W25Q128JW 1.8V @SOIC16              W25Q128JW 1.8V(OTP)@SOIC8           W25Q128JW1.8V(OTP) @ISP             
-      W25Q128JW 1.8V(OTP)@WSON8           W25Q128JW 1.8V(OTP)@SOIC16          W25Q256FV @SOIC8                    W25Q256FV @ISP                      
-      W25Q256FV @WSON8                    W25Q256FV @SOIC16                   W25Q256FV(OTP) @SOIC8               W25Q256FV(OTP) @ISP                 
-      W25Q256FV(OTP) @WSON8               W25Q256FV(OTP) @SOIC16              W25Q256FW @SOIC8                    W25Q256FW @ISP                      
-      W25Q256FW @WSON8                    W25Q256FW @SOIC16                   W25Q256FW(OTP) @SOIC8               W25Q256FW(OTP) @ISP                 
-      W25Q256FW(OTP) @WSON8               W25Q256FW(OTP) @SOIC16              W25Q256JV @SOIC8                    W25Q256JV @ISP                      
-      W25Q256JV @WSON8                    W25Q256JV @SOIC16                   W25Q256JV(OTP) @SOIC8               W25Q256JV(OTP) @ISP                 
-      W25Q256JV(OTP) @WSON8               W25Q256JV(OTP) @SOIC16              W25Q256JVSxM-DTR @SOIC8             W25Q256JVSxM-DTR @ISP               
-      W25Q256JVPxM-DTR @WSON8(6x5 mm)     W25Q256JVPxM-DTR @ISP               W25Q256JVExM-DTR @WSON8(8x6 mm)     W25Q256JVExM-DTR @ISP               
-      W25Q256JVFxM-DTR @SOIC16            W25Q256JVFxM-DTR @ISP               W25Q256JVBxM-DTR @BGA24(5x5 Ball)   W25Q256JVBxM-DTR @ISP               
-      W25Q256JVCxM-DTR @BGA24(6x4 Ball)   W25Q256JVCxM-DTR @ISP               W25Q256JW @SOIC8                    W25Q256JW @ISP                      
-      W25Q256JW @WSON8                    W25Q256JW @SOIC16                   W25Q256JW(OTP) @SOIC8               W25Q256JW(OTP) @ISP                 
-      W25Q256JW(OTP) @WSON8               W25Q256JW(OTP) @SOIC16              W25Q512JV @SOIC8                    W25Q512JV @ISP                      
-      W25Q512JV @WSON8                    W25Q512JV @SOIC16                   W25Q512JV @BGA24(8x6mm 5x5Ball)     W25Q512JV(OTP) @SOIC8               
-      W25Q512JV(OTP) @ISP                 W25Q512JV(OTP) @WSON8               W25Q512JV(OTP) @SOIC16              W25Q512JV(OTP) @BGA24(8x6mm 5x5Ball)
-      W25Q512JVSxM-DTR @SOIC8             W25Q512JVSxM-DTR @ISP               W25Q512JVPxM-DTR @WSON8(6x5 mm)     W25Q512JVPxM-DTR @ISP               
-      W25Q512JVExM-DTR @WSON8(8x6 mm)     W25Q512JVExM-DTR @ISP               W25Q512JVFxM-DTR @SOIC16            W25Q512JVFxM-DTR @ISP               
-      W25Q512JVBxM-DTR @BGA24(5x5 Ball)   W25Q512JVBxM-DTR @ISP               W25Q512JVCxM-DTR @BGA24(6x4 Ball)   W25Q512JVCxM-DTR @ISP               
-      W25X05                              W25X05 @ISP                         W25X05 @WSON8                       W25X05 @SOIC8                       
-      W25X05CL                            W25X05CL @ISP                       W25X05CL @WSON8                     W25X05CL @SOIC8                     
-      W25X10AV                            W25X10AV @ISP                       W25X10AV @WSON8                     W25X10AV @SOIC8                     
-      W25X10BL                            W25X10BL @ISP                       W25X10BL @WSON8                     W25X10BL @SOIC8                     
-      W25X10BV                            W25X10BV @ISP                       W25X10BV @WSON8                     W25X10BV @SOIC8                     
-      W25X10CL                            W25X10CL @ISP                       W25X10CL @WSON8                     W25X10CL @SOIC8                     
-      W25X10L                             W25X10L @ISP                        W25X10L @WSON8                      W25X10L @SOIC8                      
-      W25X10V                             W25X10V @ISP                        W25X10V @WSON8                      W25X10V @SOIC8                      
-      W25X20AL                            W25X20AL @ISP                       W25X20AL @WSON8                     W25X20AL @SOIC8                     
-      W25X20AV                            W25X20AV @ISP                       W25X20AV @WSON8                     W25X20AV @SOIC8                     
-      W25X20BL                            W25X20BL @ISP                       W25X20BL @WSON8                     W25X20BL @SOIC8                     
-      W25X20BV                            W25X20BV @ISP                       W25X20BV @WSON8                     W25X20BV @SOIC8                     
-      W25X20CL                            W25X20CL @ISP                       W25X20CL @WSON8                     W25X20CL @SOIC8                     
-      W25X20L                             W25X20L @ISP                        W25X20L @WSON8                      W25X20L @SOIC8                      
-      W25X20V                             W25X20V @ISP                        W25X20V @WSON8                      W25X20V @SOIC8                      
-      W25X40AL                            W25X40AL @ISP                       W25X40AL @WSON8                     W25X40AL @SOIC8                     
-      W25X40AV                            W25X40AV @ISP                       W25X40AV @WSON8                     W25X40AV @SOIC8                     
-      W25X40BL                            W25X40BL @ISP                       W25X40BL @WSON8                     W25X40BL @SOIC8                     
-      W25X40BV                            W25X40BV @ISP                       W25X40BV @WSON8                     W25X40BV @SOIC8                     
-      W25X40CL                            W25X40CL @ISP                       W25X40CL @WSON8                     W25X40CL @SOIC8                     
-      W25X40L                             W25X40L @ISP                        W25X40L @WSON8                      W25X40L @SOIC8                      
-      W25X40V                             W25X40V @ISP                        W25X40V @WSON8                      W25X40V @SOIC8                      
-      W25X80AL                            W25X80AL @ISP                       W25X80AL @WSON8                     W25X80AL @SOIC8                     
-      W25X80AV                            W25X80AV @ISP                       W25X80AV @WSON8                     W25X80AV @SOIC8                     
-      W25X80BV                            W25X80BV @ISP                       W25X80BV @WSON8                     W25X80BV @SOIC8                     
-      W25X80L                             W25X80L @ISP                        W25X80L @WSON8                      W25X80L @SOIC8                      
-      W25X80V                             W25X80V @ISP                        W25X80V @WSON8                      W25X80V @SOIC8                      
-      W25X16                              W25X16 @ISP                         W25X16 @SOIC8                       W25X16 @SOIC16                      
-      W25X16AL                            W25X16AL @ISP                       W25X16AL @SOIC8                     W25X16AL @SOIC16                    
-      W25X16AV                            W25X16AV @ISP                       W25X16AV @SOIC8                     W25X16AV @SOIC16                    
-      W25X16BV                            W25X16BV @ISP                       W25X16BV @SOIC8                     W25X16BV @SOIC16                    
-      W25X16V                             W25X16V @ISP                        W25X16V @SOIC8                      W25X16V @SOIC16                     
-      W25X32                              W25X32 @ISP                         W25X32 @SOIC8                       W25X32 @SOIC16                      
-      W25X32AV                            W25X32AV @ISP                       W25X32AV @SOIC8                     W25X32AV @SOIC16                    
-      W25X32BV                            W25X32BV @ISP                       W25X32BV @SOIC8                     W25X32BV @SOIC16                    
-      W25X32V                             W25X32V @ISP                        W25X32V @SOIC8                      W25X32V @SOIC16                     
-      W25X64 @SOIC8                       W25X64 @ISP                         W25X64 @SOIC16                      W25X64BV @SOIC8                     
-      W25X64BV @ISP                       W25X64BV @SOIC16                    W25X64V @SOIC8                      W25X64V @ISP                        
-      W25X64V @SOIC16                     W27C01                              W27C01 @PLCC32                      W27C01 @TSOP32                      
-      W27C01 @TSOP32(ADP:Pin9 to 1)       W27C010                             W27C010 @PLCC32                     W27C010 @TSOP32                     
-      W27C010 @TSOP32(ADP:Pin9 to 1)      W27C02                              W27C02 @PLCC32                      W27C02 @TSOP32                      
-      W27C02 @TSOP32(ADP:Pin9 to 1)       W27C020                             W27C020 @PLCC32                     W27C020 @TSOP32                     
-      W27C020 @TSOP32(ADP:Pin9 to 1)      W27C04                              W27C04 @PLCC32                      W27C04 @TSOP32                      
-      W27C04 @TSOP32(ADP:Pin9 to 1)       W27C040                             W27C040 @PLCC32                     W27C040 @TSOP32                     
-      W27C040 @TSOP32(ADP:Pin9 to 1)      W27C257 @DIP28                      W27C257 @PLCC32                     W27C512 @DIP28                      
-      W27C512 @PLCC32                     W27C4096  @DIP40                    W27C4096  @PLCC44                   W27C4096  @TSOP40                   
-      W27E01                              W27E01 @PLCC32                      W27E01 @TSOP32                      W27E01 @TSOP32(ADP:Pin9 to 1)       
-      W27E010                             W27E010 @PLCC32                     W27E010 @TSOP32                     W27E010 @TSOP32(ADP:Pin9 to 1)      
-      W27E02                              W27E02 @PLCC32                      W27E02 @TSOP32                      W27E02 @TSOP32(ADP:Pin9 to 1)       
-      W27E020                             W27E020 @PLCC32                     W27E020 @TSOP32                     W27E020 @TSOP32(ADP:Pin9 to 1)      
-      W27E040                             W27E040 @PLCC32                     W27E040 @TSOP32                     W27E040 @TSOP32(ADP:Pin9 to 1)      
-      W27E257 @DIP28                      W27E257 @PLCC32                     W27E512 @DIP28                      W27E512 @PLCC32                     
-      W27L01                              W27L01 @PLCC32                      W27L01 @TSOP32                      W27L01 @TSOP32(ADP:Pin9 to 1)       
-      W27L010                             W27L010 @PLCC32                     W27L010 @TSOP32                     W27L010 @TSOP32(ADP:Pin9 to 1)      
-      W27L02                              W27L02 @PLCC32                      W27L02 @TSOP32                      W27L02 @TSOP32(ADP:Pin9 to 1)       
-      W29C010                             W29C010 @PLCC32                     W29C010 @TSOP32                     W29C010 @TSOP32(ADP:Pin9 to 1)      
-      W29C011                             W29C011 @PLCC32                     W29C011 @TSOP32                     W29C011 @TSOP32(ADP:Pin9 to 1)      
-      W29C020                             W29C020 @PLCC32                     W29C020 @TSOP32                     W29C020 @TSOP32(ADP:Pin9 to 1)      
-      W29C020C                            W29C020C @PLCC32                    W29C020C @TSOP32                    W29C020C @TSOP32(ADP:Pin9 to 1)     
-      W29C022                             W29C022 @PLCC32                     W29C022 @TSOP32                     W29C022 @TSOP32(ADP:Pin9 to 1)      
-      W29C040                             W29C040 @PLCC32                     W29C040 @TSOP32                     W29C040 @TSOP32(ADP:Pin9 to 1)      
-      W29C042                             W29C042 @PLCC32                     W29C042 @TSOP32                     W29C042 @TSOP32(ADP:Pin9 to 1)      
-      W29C512                             W29C512 @PLCC32                     W29C512 @TSOP32                     W29C512 @TSOP32(ADP:Pin9 to 1)      
-      W29EE010                            W29EE010 @PLCC32                    W29EE010 @TSOP32                    W29EE010 @TSOP32(ADP:Pin9 to 1)     
-      W29EE011                            W29EE011 @PLCC32                    W29EE011 @TSOP32                    W29EE011 @TSOP32(ADP:Pin9 to 1)     
-      W29EE012                            W29EE012 @PLCC32                    W29EE012 @TSOP32                    W29EE012 @TSOP32(ADP:Pin9 to 1)     
-      W29EE512                            W29EE512 @PLCC32                    W29EE512 @TSOP32                    W29EE512 @TSOP32(ADP:Pin9 to 1)     
-      W29GL032CH @TSOP48                  W29GL032CH @BGA48                   W29GL032CL @TSOP48                  W29GL032CL @BGA48                   
-      W29GL064CH @TSOP48                  W29GL064CH @BGA48                   W29GL064CL @TSOP48                  W29GL064CL @BGA48                   
-      W29GL032CH @TSOP56                  W29GL032CL @TSOP56                  W29GL064CH @TSOP56                  W29GL064CL @TSOP56                  
-      W29GL128CH   @TSOP56                W29GL128CL   @TSOP56                W29GL128DH   @TSOP56                W29GL128DL   @TSOP56                
-      W29GL128SHxT @TSOP56                W29GL128SLxT @TSOP56                W29GL256PHxT @TSOP56                W29GL256PLxT @TSOP56                
-      W29GL256SHxT @TSOP56                W29GL256SLxT @TSOP56                W29GL512PHxT @TSOP56                W29GL512PLxT @TSOP56                
-      W29GL512SHxT @TSOP56                W29GL512SLxT @TSOP56                W29N01HVSI  @TSOP48                 W29N01HVBI  @VFBGA63                
-      W29N01GVBCAA @FBGA63                W29N01GVBIAA @FBGA63                W29N01GVSCAA @TSOP48                W29N01GVSIAA @TSOP48                
-      W29N02GVSIAA @TSOP48                W29N02GVBIAA @VFBGA63               W29N02GVSIAF @TSOP48                W29N02GVBIAF @VFBGA63               
-      W29N02GWBIBA @VFBGA63               W29N02GWBJBA @VFBGA63               W29N02GWSIBA @TSOP48                W29N02GWSJBA @TSOP48                
-      W29N02GZBIBA @VFBGA63               W29N02GZBJBA @VFBGA63               W29N02GZSIBA @TSOP48                W29N02GZSJBA @TSOP48                
-      W29N02KVBIAF @VFBGA63               W29N02KVSIAF @TSOP48                W29N04GVBIAA @VFBGA63               W29N04GVSIAA @TSOP48                
-      W29N04GWBIBA @VFBGA63               W29N04GWBJBA @VFBGA63               W29N04GZBIBA @VFBGA63               W29N04GZBJBA @VFBGA63               
-      W29N04GZSIBA @TSOP48                W29N04GZSJBA @TSOP48                W29N08GVBIAA @VFBGA63               W29N08GVBIAF @VFBGA63               
-      W29N08GVSIAA @TSOP48                W29N08GVSIAD @TSOP48                W29N08GVSIAF @TSOP48                W29N08GWBIBF @VFBGA63               
-      W29N08GWBJBF @VFBGA63               W29N08GWSIBF @TSOP48                W29N08GWSJBF @TSOP48                W29N08GZBIBF @VFBGA63               
-      W29N08GZBJBF @VFBGA63               W29N08GZSIBF @TSOP48                W29N08GZSJBF @TSOP48                W39F010                             
-      W39F010 @PLCC32                     W39F010 @TSOP32                     W39F010 @TSOP32(ADP:Pin9 to 1)      W39L010 @PLCC32                     
-      W39L010 @TSOP32                     W39L010 @TSOP32(ADP:Pin9 to 1)      W39L020 @PLCC32                     W39L020 @TSOP32                     
-      W39L020 @TSOP32(ADP:Pin9 to 1)      W39L040 @PLCC32                     W39L040 @TSOP32                     W39L040 @TSOP32(ADP:Pin9 to 1)      
-      W39L040A                            W39L040AP @PLCC32                   W39L040AT @TSOP32                   W39L040AT @TSOP32(ADP:Pin9 to 1)    
-      W39L040AQ @VSOP32                   W39L040AQ @VSOP32(ADP:Pin9 to 1)    W39L512 @PLCC32                     W39L512 @TSOP32                     
-      W39L512 @TSOP32(ADP:Pin9 to 1)      W39V040A  @PLCC32                   W39V040A  @TSOP32                   W39V040A  @TSOP32(ADP:Pin9 to 1)    
-      W39V040B  @PLCC32                   W39V040B  @TSOP32                   W39V040B  @TSOP32(ADP:Pin9 to 1)    W39V040C  @PLCC32                   
-      W39V040C  @TSOP32                   W39V040C  @TSOP32(ADP:Pin9 to 1)    W39V040FA @PLCC32                   W39V040FA @TSOP32                   
-      W39V040FA @TSOP32(ADP:Pin9 to 1)    W39V040FB @PLCC32                   W39V040FB @TSOP32                   W39V040FB @TSOP32(ADP:Pin9 to 1)    
-      W39V040FC @PLCC32                   W39V040FC @TSOP32                   W39V040FC @TSOP32(ADP:Pin9 to 1)    W39V080A  @PLCC32                   
-      W39V080A  @TSOP32                   W39V080A  @TSOP32(ADP:Pin9 to 1)    W39V080A  @TSOP40                   W39V080FA @PLCC32                   
-      W39V080FA @TSOP32                   W39V080FA @TSOP32(ADP:Pin9 to 1)    W39V080FA @TSOP40                   W49F002                             
-      W49F002 @PLCC32                     W49F002 @TSOP32                     W49F002 @TSOP32(ADP:Pin9 to 1)      W49F002A                            
-      W49F002A @PLCC32                    W49F002A @TSOP32                    W49F002A @TSOP32(ADP:Pin9 to 1)     W49F002B                            
-      W49F002B @PLCC32                    W49F002B @TSOP32                    W49F002B @TSOP32(ADP:Pin9 to 1)     W49F002U                            
-      W49F002U @PLCC32                    W49F002U @TSOP32                    W49F002U @TSOP32(ADP:Pin9 to 1)     W49F020                             
-      W49F020 @PLCC32                     W49F020 @TSOP32                     W49F020 @TSOP32(ADP:Pin9 to 1)      W49F102Q(10x14mm) @VSOP40           
-      W49F102P @PLCC44                    W49F201T @TSOP48                    W49F201S @SOP44                     W49L102Q(10x14mm) @VSOP40           
-      W49L102P @PLCC44                    W49L201T @TSOP48                    W49L201S @SOP44                     W49V002 @PLCC32                     
-      W49V002 @TSOP32                     W49V002 @TSOP32(ADP:Pin9 to 1)      W49V002A @PLCC32                    W49V002A @TSOP32                    
-      W49V002A @TSOP32(ADP:Pin9 to 1)     W49V002F @PLCC32                    W49V002F @TSOP32                    W49V002F @TSOP32(ADP:Pin9 to 1)     
-      W49V002FA @PLCC32                   W49V002FA @TSOP32                   W49V002FA @TSOP32(ADP:Pin9 to 1)    W78E51 @DIP40                       
-      W78E51 @PLCC44                      W78E51B @DIP40                      W78E51BP @PLCC44                    W78E51BF @QFP44                     
-      W78E51C @DIP40                      W78E51CP @PLCC44                    W78E51CF @QFP44                     W78E52 @DIP40                       
-      W78E52 @PLCC44                      W78E52B @DIP40                      W78E52BP @PLCC44                    W78E52BF @QFP44                     
-      W78E52C @DIP40                      W78E52CP @PLCC44                    W78E52CF @QFP44                     W78E54 @DIP40                       
-      W78E54 @PLCC44                      W78E54B @DIP40                      W78E54BP @PLCC44                    W78E54BF @QFP44                     
-      W78E54C @DIP40                      W78E54CP @PLCC44                    W78E54CF @QFP44                     W78E58 @DIP40                       
-      W78E58P @PLCC44                     W78E58F @QFP44                      W78E58M @TQFP44                     
+      W25N01JW(x4)  @WSON8                W25N01JW(x4)  @SOP16                W25N01JW(x4)  @BGA24                W25N01JW @WSON8                     
+      W25N01JW @ISP                       W25N01JW @SOP16                     W25N01JW @BGA24                     W25N01KV(x4)  @WSON8                
+      W25N01KV(x4)  @SOP16                W25N01KV(x4)  @BGA24                W25N01KV @WSON8                     W25N01KV @ISP                       
+      W25N01KV @SOP16                     W25N01KV @BGA24                     W25N02KV(x4)  @WSON8                W25N02KV(x4)  @SOP16                
+      W25N02KV(x4)  @BGA24                W25N02KV @WSON8                     W25N02KV @ISP                       W25N02KV @SOP16                     
+      W25N02KV @BGA24                     W25N02KW(x4)  @WSON8                W25N02KW(x4)  @SOP16                W25N02KW(x4)  @BGA24                
+      W25N02KW @WSON8                     W25N02KW @ISP                       W25N02KW @SOP16                     W25N02KW @BGA24                     
+      W25N512GV(x4)  @WSON8               W25N512GV(x4)  @SOP16               W25N512GV(x4)  @BGA24               W25N512GV @WSON8                    
+      W25N512GV @ISP                      W25N512GV @SOP16                    W25N512GV @BGA24                    W25N512GW(x4)  @WSON8               
+      W25N512GW(x4)  @SOP16               W25N512GW(x4)  @BGA24               W25N512GW @WSON8                    W25N512GW @ISP                      
+      W25N512GW @SOP16                    W25N512GW @BGA24                    W25Q05CL                            W25Q05CL @ISP                       
+      W25Q05CL @WSON8                     W25Q05CL @SOIC8                     W25Q10CL                            W25Q10CL @ISP                       
+      W25Q10CL @WSON8                     W25Q10CL @SOIC8                     W25Q10EW 1.8V                       W25Q10EW1.8V @ISP                   
+      W25Q10EW 1.8V @WSON8                W25Q10EW 1.8V @SOIC8                W25Q10EW 1.8V(OTP)                  W25Q10EW1.8V(OTP) @ISP              
+      W25Q10EW 1.8V(OTP) @WSON8           W25Q10EW 1.8V(OTP) @SOIC8           W25Q20CL                            W25Q20CL @ISP                       
+      W25Q20CL @WSON8                     W25Q20CL @SOIC8                     W25Q20CL(OTP)                       W25Q20CL(OTP) @ISP                  
+      W25Q20CL(OTP) @WSON8                W25Q20CL(OTP) @SOIC8                W25Q20BW 1.8V @SOIC8                W25Q20BW1.8V @ISP                   
+      W25Q20BW 1.8V @WSON8                W25Q20BW 1.8V(OTP) @SOIC8           W25Q20BW1.8V(OTP) @ISP              W25Q20BW 1.8V(OTP) @WSON8           
+      W25Q20EW 1.8V                       W25Q20EW1.8V @ISP                   W25Q20EW 1.8V @SOIC8                W25Q20EW 1.8V @WSON8                
+      W25Q20EW 1.8V(OTP)                  W25Q20EW1.8V(OTP) @ISP              W25Q20EW 1.8V(OTP) @SOIC8           W25Q20EW 1.8V(OTP) @WSON8           
+      W25Q40BL                            W25Q40BL @ISP                       W25Q40BL @WSON8                     W25Q40BL @SOIC8                     
+      W25Q40BL(OTP)                       W25Q40BL(OTP) @ISP                  W25Q40BL(OTP) @WSON8                W25Q40BL(OTP) @SOIC8                
+      W25Q40BV                            W25Q40BV @ISP                       W25Q40BV @WSON8                     W25Q40BV @SOIC8                     
+      W25Q40BV(OTP)                       W25Q40BV(OTP) @ISP                  W25Q40BV(OTP) @WSON8                W25Q40BV(OTP) @SOIC8                
+      W25Q40BW 1.8V @WSON8                W25Q40BW1.8V @ISP                   W25Q40BW 1.8V @SOIC8                W25Q40BW 1.8V(OTP) @WSON8           
+      W25Q40BW1.8V(OTP) @ISP              W25Q40BW 1.8V(OTP) @SOIC8           W25Q40CL                            W25Q40CL @ISP                       
+      W25Q40CL @SOIC8                     W25Q40CL(OTP)                       W25Q40CL(OTP) @ISP                  W25Q40CL(OTP) @SOIC8                
+      W25Q40EW 1.8V                       W25Q40EW1.8V @ISP                   W25Q40EW 1.8V @WSON8                W25Q40EW 1.8V @SOIC8                
+      W25Q40EW 1.8V(OTP)                  W25Q40EW1.8V(OTP) @ISP              W25Q40EW 1.8V(OTP) @WSON8           W25Q40EW 1.8V(OTP) @SOIC8           
+      W25Q80BL                            W25Q80BL @ISP                       W25Q80BL @WSON8                     W25Q80BL @SOIC8                     
+      W25Q80BL @SOIC16                    W25Q80BL(OTP)                       W25Q80BL(OTP) @ISP                  W25Q80BL(OTP) @WSON8                
+      W25Q80BL(OTP) @SOIC8                W25Q80BL(OTP) @SOIC16               W25Q80BV                            W25Q80BV @ISP                       
+      W25Q80BV @WSON8                     W25Q80BV @SOIC8                     W25Q80BV @SOIC16                    W25Q80BV(OTP)                       
+      W25Q80BV(OTP) @ISP                  W25Q80BV(OTP) @WSON8                W25Q80BV(OTP) @SOIC8                W25Q80BV(OTP) @SOIC16               
+      W25Q80BW 1.8V @WSON8                W25Q80BW1.8V @ISP                   W25Q80BW 1.8V @SOIC8                W25Q80BW 1.8V @SOIC16               
+      W25Q80BW 1.8V(OTP)@WSON8            W25Q80BW1.8V(OTP) @ISP              W25Q80BW 1.8V(OTP)@SOIC8            W25Q80BW 1.8V(OTP)@SOIC16           
+      W25Q80DL @WSON8                     W25Q80DL @ISP                       W25Q80DL @SOIC8                     W25Q80DL @SOIC16                    
+      W25Q80DL(OTP) @WSON8                W25Q80DL(OTP) @ISP                  W25Q80DL(OTP) @SOIC8                W25Q80DL(OTP) @SOIC16               
+      W25Q80DV @WSON8                     W25Q80DV @ISP                       W25Q80DV @SOIC8                     W25Q80DV @SOIC16                    
+      W25Q80DV(OTP) @WSON8                W25Q80DV(OTP) @ISP                  W25Q80DV(OTP) @SOIC8                W25Q80DV(OTP) @SOIC16               
+      W25Q80EW 1.8V @WSON8                W25Q80EW1.8V @ISP                   W25Q80EW 1.8V @SOIC8                W25Q80EW 1.8V @SOIC16               
+      W25Q80EW 1.8V(OTP)@WSON8            W25Q80EW1.8V(OTP) @ISP              W25Q80EW 1.8V(OTP)@SOIC8            W25Q80EW 1.8V(OTP)@SOIC16           
+      W25Q80JV @WSON8                     W25Q80JV @ISP                       W25Q80JV @SOIC8                     W25Q80JV @SOIC16                    
+      W25Q80JV(OTP) @WSON8                W25Q80JV(OTP) @ISP                  W25Q80JV(OTP) @SOIC8                W25Q80JV(OTP) @SOIC16               
+      W25Q80JW 1.8V @WSON8                W25Q80JW1.8V @ISP                   W25Q80JW 1.8V @SOIC8                W25Q80JW 1.8V @SOIC16               
+      W25Q80JW 1.8V(OTP)@WSON8            W25Q80JW1.8V(OTP) @ISP              W25Q80JW 1.8V(OTP)@SOIC8            W25Q80JW 1.8V(OTP)@SOIC16           
+      W25Q16 @MLP8                        W25Q16 @ISP                         W25Q16 @SOIC8                       W25Q16 @SOIC16                      
+      W25Q16(OTP) @MLP8                   W25Q16(OTP) @ISP                    W25Q16(OTP) @SOIC8                  W25Q16(OTP) @SOIC16                 
+      W25Q16BV                            W25Q16BV @ISP                       W25Q16BV @WSON8                     W25Q16BV @SOIC8                     
+      W25Q16BV @SOIC16                    W25Q16BV(OTP)                       W25Q16BV(OTP) @ISP                  W25Q16BV(OTP) @WSON8                
+      W25Q16BV(OTP) @SOIC8                W25Q16BV(OTP) @SOIC16               W25Q16BW(OTP)                       W25Q16BW(OTP) @ISP                  
+      W25Q16BW(OTP) @WSON8                W25Q16BW(OTP) @SOIC8                W25Q16BW(OTP) @SOIC16               W25Q16CL                            
+      W25Q16CL @ISP                       W25Q16CL @WSON8                     W25Q16CL @SOIC8                     W25Q16CL @SOIC16                    
+      W25Q16CL(OTP)                       W25Q16CL(OTP) @ISP                  W25Q16CL(OTP) @WSON8                W25Q16CL(OTP) @SOIC8                
+      W25Q16CL(OTP) @SOIC16               W25Q16CV                            W25Q16CV @ISP                       W25Q16CV @WSON8                     
+      W25Q16CV @SOIC8                     W25Q16CV @SOIC16                    W25Q16CV(OTP)                       W25Q16CV(OTP) @ISP                  
+      W25Q16CV(OTP) @WSON8                W25Q16CV(OTP) @SOIC8                W25Q16CV(OTP) @SOIC16               W25Q16DV                            
+      W25Q16DV @ISP                       W25Q16DV @WSON8                     W25Q16DV @SOIC8                     W25Q16DV @SOIC16                    
+      W25Q16DV(OTP)                       W25Q16DV(OTP) @ISP                  W25Q16DV(OTP) @WSON8                W25Q16DV(OTP) @SOIC8                
+      W25Q16DV(OTP) @SOIC16               W25Q16DW 1.8V @WSON8                W25Q16DW1.8V @ISP                   W25Q16DW 1.8V @SOIC8                
+      W25Q16DW 1.8V @SOIC16               W25Q16DW 1.8V(OTP)@WSON8            W25Q16DW1.8V(OTP) @ISP              W25Q16DW 1.8V(OTP)@SOIC8            
+      W25Q16DW 1.8V(OTP)@SOIC16           W25Q16FW 1.8V @WSON8                W25Q16FW1.8V @ISP                   W25Q16FW 1.8V @SOIC8                
+      W25Q16FW 1.8V @SOIC16               W25Q16FW 1.8V(OTP)@WSON8            W25Q16FW1.8V(OTP) @ISP              W25Q16FW 1.8V(OTP)@SOIC8            
+      W25Q16FW 1.8V(OTP)@SOIC16           W25Q16JV @WSON8                     W25Q16JV @ISP                       W25Q16JV @SOIC8                     
+      W25Q16JV @SOIC16                    W25Q16JV(OTP) @WSON8                W25Q16JV(OTP) @ISP                  W25Q16JV(OTP) @SOIC8                
+      W25Q16JV(OTP) @SOIC16               W25Q16V @WSON8                      W25Q16V @ISP                        W25Q16V @SOIC8                      
+      W25Q16V @SOIC16                     W25Q16V(OTP) @WSON8                 W25Q16V(OTP) @ISP                   W25Q16V(OTP) @SOIC8                 
+      W25Q16V(OTP) @SOIC16                W25Q32 @MLP8                        W25Q32 @ISP                         W25Q32 @SOIC16                      
+      W25Q32(OTP) @MLP8                   W25Q32(OTP) @ISP                    W25Q32(OTP) @SOIC16                 W25Q32BV                            
+      W25Q32BV @ISP                       W25Q32BV @WSON8                     W25Q32BV @SOIC8                     W25Q32BV @SOIC16                    
+      W25Q32BV(OTP)                       W25Q32BV(OTP) @ISP                  W25Q32BV(OTP) @WSON8                W25Q32BV(OTP) @SOIC8                
+      W25Q32BV(OTP) @SOIC16               W25Q32BW 1.8V                       W25Q32BW1.8V @ISP                   W25Q32BW 1.8V @WSON8                
+      W25Q32BW 1.8V @SOIC8                W25Q32BW 1.8V @SOIC16               W25Q32BW 1.8V(OTP)                  W25Q32BW1.8V(OTP) @ISP              
+      W25Q32BW 1.8V(OTP)@WSON8            W25Q32BW 1.8V(OTP)@SOIC8            W25Q32BW 1.8V(OTP)@SOIC16           W25Q32DW 1.8V                       
+      W25Q32DW1.8V @ISP                   W25Q32DW 1.8V @WSON8                W25Q32DW 1.8V @SOIC8                W25Q32DW 1.8V @SOIC16               
+      W25Q32DW 1.8V(OTP)                  W25Q32DW1.8V(OTP) @ISP              W25Q32DW 1.8V(OTP)@WSON8            W25Q32DW 1.8V(OTP)@SOIC8            
+      W25Q32DW 1.8V(OTP)@SOIC16           W25Q32FV                            W25Q32FV @ISP                       W25Q32FV @WSON8                     
+      W25Q32FV @SOIC8                     W25Q32FV @SOIC16                    W25Q32FV(OTP)                       W25Q32FV(OTP) @ISP                  
+      W25Q32FV(OTP) @WSON8                W25Q32FV(OTP) @SOIC8                W25Q32FV(OTP) @SOIC16               W25Q32FW 1.8V                       
+      W25Q32FW1.8V @ISP                   W25Q32FW 1.8V @WSON8                W25Q32FW 1.8V @SOIC8                W25Q32FW 1.8V @SOIC16               
+      W25Q32FW 1.8V(OTP)                  W25Q32FW1.8V(OTP) @ISP              W25Q32FW 1.8V(OTP)@WSON8            W25Q32FW 1.8V(OTP)@SOIC8            
+      W25Q32FW 1.8V(OTP)@SOIC16           W25Q32JV                            W25Q32JV @ISP                       W25Q32JV @WSON8                     
+      W25Q32JV @SOIC8                     W25Q32JV @SOIC16                    W25Q32JV(OTP)                       W25Q32JV(OTP) @ISP                  
+      W25Q32JV(OTP) @WSON8                W25Q32JV(OTP) @SOIC8                W25Q32JV(OTP) @SOIC16               W25Q32V @MLP8                       
+      W25Q32V @ISP                        W25Q32V @SOIC16                     W25Q32V(OTP) @MLP8                  W25Q32V(OTP) @ISP                   
+      W25Q32V(OTP) @SOIC16                W25Q64BV                            W25Q64BV @ISP                       W25Q64BV @WSON8                     
+      W25Q64BV @SOIC8                     W25Q64BV @SOIC16                    W25Q64BV(OTP)                       W25Q64BV(OTP) @ISP                  
+      W25Q64BV(OTP) @WSON8                W25Q64BV(OTP) @SOIC8                W25Q64BV(OTP) @SOIC16               W25Q64CV                            
+      W25Q64CV @ISP                       W25Q64CV @WSON8                     W25Q64CV @SOIC8                     W25Q64CV @SOIC16                    
+      W25Q64CV(OTP)                       W25Q64CV(OTP) @ISP                  W25Q64CV(OTP) @WSON8                W25Q64CV(OTP) @SOIC8                
+      W25Q64CV(OTP) @SOIC16               W25Q64DW 1.8V                       W25Q64DW1.8V @ISP                   W25Q64DW 1.8V @WSON8                
+      W25Q64DW 1.8V @SOIC8                W25Q64DW 1.8V @SOIC16               W25Q64DW 1.8V(OTP)                  W25Q64DW1.8V(OTP) @ISP              
+      W25Q64DW 1.8V(OTP)@WSON8            W25Q64DW 1.8V(OTP)@SOIC8            W25Q64DW 1.8V(OTP)@SOIC16           W25Q64FV                            
+      W25Q64FV @ISP                       W25Q64FV @WSON8                     W25Q64FV @SOIC8                     W25Q64FV @SOIC16                    
+      W25Q64FV(OTP)                       W25Q64FV(OTP) @ISP                  W25Q64FV(OTP) @WSON8                W25Q64FV(OTP) @SOIC8                
+      W25Q64FV(OTP) @SOIC16               W25Q64FW 1.8V                       W25Q64FW1.8V @ISP                   W25Q64FW 1.8V @WSON8                
+      W25Q64FW 1.8V @SOIC8                W25Q64FW 1.8V @SOIC16               W25Q64FW 1.8V(OTP)                  W25Q64FW1.8V(OTP) @ISP              
+      W25Q64FW 1.8V(OTP)@WSON8            W25Q64FW 1.8V(OTP)@SOIC8            W25Q64FW 1.8V(OTP)@SOIC16           W25Q64JV                            
+      W25Q64JV @ISP                       W25Q64JV @WSON8                     W25Q64JV @SOIC8                     W25Q64JV @SOIC16                    
+      W25Q64JV(OTP)                       W25Q64JV(OTP) @ISP                  W25Q64JV(OTP) @WSON8                W25Q64JV(OTP) @SOIC8                
+      W25Q64JV(OTP) @SOIC16               W25Q64JV-DTR                        W25Q64JV-DTR @ISP                   W25Q64JV-DTR @WSON8                 
+      W25Q64JV-DTR @SOIC8                 W25Q64JV-DTR @SOIC16                W25Q64JW-IQ                         W25Q64JW-IQ @ISP                    
+      W25Q64JW-IQ @WSON8                  W25Q64JW-IQ @SOIC8                  W25Q64JW-IQ @SOIC16                 W25Q64JW-IM                         
+      W25Q64JW-IM @ISP                    W25Q64JW-IM @WSON8                  W25Q64JW-IM @SOIC8                  W25Q64JW-IM @SOIC16                 
+      W25Q12NE 1.2V @SOIC8                W25Q12NE1.2V @ISP                   W25Q12NE 1.2V @WSON8                W25Q128BV @SOIC8                    
+      W25Q128BV @ISP                      W25Q128BV @WSON8                    W25Q128BV @SOIC16                   W25Q128BV(OTP) @SOIC8               
+      W25Q128BV(OTP) @ISP                 W25Q128BV(OTP) @WSON8               W25Q128BV(OTP) @SOIC16              W25Q128FV @SOIC8                    
+      W25Q128FV @ISP                      W25Q128FV @WSON8                    W25Q128FV @SOIC16                   W25Q128FV(OTP) @SOIC8               
+      W25Q128FV(OTP) @ISP                 W25Q128FV(OTP) @WSON8               W25Q128FV(OTP) @SOIC16              W25Q128FW 1.8V @SOIC8               
+      W25Q128FW1.8V @ISP                  W25Q128FW 1.8V @WSON8               W25Q128FW 1.8V @SOIC16              W25Q128FW 1.8V(OTP)@SOIC8           
+      W25Q128FW1.8V(OTP) @ISP             W25Q128FW 1.8V(OTP)@WSON8           W25Q128FW 1.8V(OTP)@SOIC16          W25Q128JV @SOIC8                    
+      W25Q128JV @ISP                      W25Q128JV @WSON8                    W25Q128JV @SOIC16                   W25Q128JV(OTP) @SOIC8               
+      W25Q128JV(OTP) @ISP                 W25Q128JV(OTP) @WSON8               W25Q128JV(OTP) @SOIC16              W25Q128JVSxM-DTR @SOIC8             
+      W25Q128JVSxM-DTR @ISP               W25Q128JVPxM-DTR @WSON8(6x5 mm)     W25Q128JVPxM-DTR @ISP               W25Q128JVExM-DTR @WSON8(8x6 mm)     
+      W25Q128JVExM-DTR @ISP               W25Q128JVFxM-DTR @SOIC16            W25Q128JVFxM-DTR @ISP               W25Q128JVBxM-DTR @BGA24(5x5 Ball)   
+      W25Q128JVBxM-DTR @ISP               W25Q128JVCxM-DTR @BGA24(6x4 Ball)   W25Q128JVCxM-DTR @ISP               W25Q128JW 1.8V @SOIC8               
+      W25Q128JW1.8V @ISP                  W25Q128JW 1.8V @WSON8               W25Q128JW 1.8V @SOIC16              W25Q128JW 1.8V(OTP)@SOIC8           
+      W25Q128JW1.8V(OTP) @ISP             W25Q128JW 1.8V(OTP)@WSON8           W25Q128JW 1.8V(OTP)@SOIC16          W25Q256FV @SOIC8                    
+      W25Q256FV @ISP                      W25Q256FV @WSON8                    W25Q256FV @SOIC16                   W25Q256FV(OTP) @SOIC8               
+      W25Q256FV(OTP) @ISP                 W25Q256FV(OTP) @WSON8               W25Q256FV(OTP) @SOIC16              W25Q256FW @SOIC8                    
+      W25Q256FW @ISP                      W25Q256FW @WSON8                    W25Q256FW @SOIC16                   W25Q256FW(OTP) @SOIC8               
+      W25Q256FW(OTP) @ISP                 W25Q256FW(OTP) @WSON8               W25Q256FW(OTP) @SOIC16              W25Q256JV @SOIC8                    
+      W25Q256JV @ISP                      W25Q256JV @WSON8                    W25Q256JV @SOIC16                   W25Q256JV(OTP) @SOIC8               
+      W25Q256JV(OTP) @ISP                 W25Q256JV(OTP) @WSON8               W25Q256JV(OTP) @SOIC16              W25Q256JVSxM-DTR @SOIC8             
+      W25Q256JVSxM-DTR @ISP               W25Q256JVPxM-DTR @WSON8(6x5 mm)     W25Q256JVPxM-DTR @ISP               W25Q256JVExM-DTR @WSON8(8x6 mm)     
+      W25Q256JVExM-DTR @ISP               W25Q256JVFxM-DTR @SOIC16            W25Q256JVFxM-DTR @ISP               W25Q256JVBxM-DTR @BGA24(5x5 Ball)   
+      W25Q256JVBxM-DTR @ISP               W25Q256JVCxM-DTR @BGA24(6x4 Ball)   W25Q256JVCxM-DTR @ISP               W25Q256JW @SOIC8                    
+      W25Q256JW @ISP                      W25Q256JW @WSON8                    W25Q256JW @SOIC16                   W25Q256JW(OTP) @SOIC8               
+      W25Q256JW(OTP) @ISP                 W25Q256JW(OTP) @WSON8               W25Q256JW(OTP) @SOIC16              W25Q512JV @SOIC8                    
+      W25Q512JV @ISP                      W25Q512JV @WSON8                    W25Q512JV @SOIC16                   W25Q512JV @BGA24(8x6mm 5x5Ball)     
+      W25Q512JV(OTP) @SOIC8               W25Q512JV(OTP) @ISP                 W25Q512JV(OTP) @WSON8               W25Q512JV(OTP) @SOIC16              
+      W25Q512JV(OTP) @BGA24(8x6mm 5x5Ball)W25Q512JVSxM-DTR @SOIC8             W25Q512JVSxM-DTR @ISP               W25Q512JVPxM-DTR @WSON8(6x5 mm)     
+      W25Q512JVPxM-DTR @ISP               W25Q512JVExM-DTR @WSON8(8x6 mm)     W25Q512JVExM-DTR @ISP               W25Q512JVFxM-DTR @SOIC16            
+      W25Q512JVFxM-DTR @ISP               W25Q512JVBxM-DTR @BGA24(5x5 Ball)   W25Q512JVBxM-DTR @ISP               W25Q512JVCxM-DTR @BGA24(6x4 Ball)   
+      W25Q512JVCxM-DTR @ISP               W25X05                              W25X05 @ISP                         W25X05 @WSON8                       
+      W25X05 @SOIC8                       W25X05CL                            W25X05CL @ISP                       W25X05CL @WSON8                     
+      W25X05CL @SOIC8                     W25X10AV                            W25X10AV @ISP                       W25X10AV @WSON8                     
+      W25X10AV @SOIC8                     W25X10BL                            W25X10BL @ISP                       W25X10BL @WSON8                     
+      W25X10BL @SOIC8                     W25X10BV                            W25X10BV @ISP                       W25X10BV @WSON8                     
+      W25X10BV @SOIC8                     W25X10CL                            W25X10CL @ISP                       W25X10CL @WSON8                     
+      W25X10CL @SOIC8                     W25X10L                             W25X10L @ISP                        W25X10L @WSON8                      
+      W25X10L @SOIC8                      W25X10V                             W25X10V @ISP                        W25X10V @WSON8                      
+      W25X10V @SOIC8                      W25X20AL                            W25X20AL @ISP                       W25X20AL @WSON8                     
+      W25X20AL @SOIC8                     W25X20AV                            W25X20AV @ISP                       W25X20AV @WSON8                     
+      W25X20AV @SOIC8                     W25X20BL                            W25X20BL @ISP                       W25X20BL @WSON8                     
+      W25X20BL @SOIC8                     W25X20BV                            W25X20BV @ISP                       W25X20BV @WSON8                     
+      W25X20BV @SOIC8                     W25X20CL                            W25X20CL @ISP                       W25X20CL @WSON8                     
+      W25X20CL @SOIC8                     W25X20L                             W25X20L @ISP                        W25X20L @WSON8                      
+      W25X20L @SOIC8                      W25X20V                             W25X20V @ISP                        W25X20V @WSON8                      
+      W25X20V @SOIC8                      W25X40AL                            W25X40AL @ISP                       W25X40AL @WSON8                     
+      W25X40AL @SOIC8                     W25X40AV                            W25X40AV @ISP                       W25X40AV @WSON8                     
+      W25X40AV @SOIC8                     W25X40BL                            W25X40BL @ISP                       W25X40BL @WSON8                     
+      W25X40BL @SOIC8                     W25X40BV                            W25X40BV @ISP                       W25X40BV @WSON8                     
+      W25X40BV @SOIC8                     W25X40CL                            W25X40CL @ISP                       W25X40CL @WSON8                     
+      W25X40CL @SOIC8                     W25X40L                             W25X40L @ISP                        W25X40L @WSON8                      
+      W25X40L @SOIC8                      W25X40V                             W25X40V @ISP                        W25X40V @WSON8                      
+      W25X40V @SOIC8                      W25X80AL                            W25X80AL @ISP                       W25X80AL @WSON8                     
+      W25X80AL @SOIC8                     W25X80AV                            W25X80AV @ISP                       W25X80AV @WSON8                     
+      W25X80AV @SOIC8                     W25X80BV                            W25X80BV @ISP                       W25X80BV @WSON8                     
+      W25X80BV @SOIC8                     W25X80L                             W25X80L @ISP                        W25X80L @WSON8                      
+      W25X80L @SOIC8                      W25X80V                             W25X80V @ISP                        W25X80V @WSON8                      
+      W25X80V @SOIC8                      W25X16                              W25X16 @ISP                         W25X16 @SOIC8                       
+      W25X16 @SOIC16                      W25X16AL                            W25X16AL @ISP                       W25X16AL @SOIC8                     
+      W25X16AL @SOIC16                    W25X16AV                            W25X16AV @ISP                       W25X16AV @SOIC8                     
+      W25X16AV @SOIC16                    W25X16BV                            W25X16BV @ISP                       W25X16BV @SOIC8                     
+      W25X16BV @SOIC16                    W25X16V                             W25X16V @ISP                        W25X16V @SOIC8                      
+      W25X16V @SOIC16                     W25X32                              W25X32 @ISP                         W25X32 @SOIC8                       
+      W25X32 @SOIC16                      W25X32AV                            W25X32AV @ISP                       W25X32AV @SOIC8                     
+      W25X32AV @SOIC16                    W25X32BV                            W25X32BV @ISP                       W25X32BV @SOIC8                     
+      W25X32BV @SOIC16                    W25X32V                             W25X32V @ISP                        W25X32V @SOIC8                      
+      W25X32V @SOIC16                     W25X64 @SOIC8                       W25X64 @ISP                         W25X64 @SOIC16                      
+      W25X64BV @SOIC8                     W25X64BV @ISP                       W25X64BV @SOIC16                    W25X64V @SOIC8                      
+      W25X64V @ISP                        W25X64V @SOIC16                     W27C01                              W27C01 @PLCC32                      
+      W27C01 @TSOP32                      W27C01 @TSOP32(ADP:Pin9 to 1)       W27C010                             W27C010 @PLCC32                     
+      W27C010 @TSOP32                     W27C010 @TSOP32(ADP:Pin9 to 1)      W27C02                              W27C02 @PLCC32                      
+      W27C02 @TSOP32                      W27C02 @TSOP32(ADP:Pin9 to 1)       W27C020                             W27C020 @PLCC32                     
+      W27C020 @TSOP32                     W27C020 @TSOP32(ADP:Pin9 to 1)      W27C04                              W27C04 @PLCC32                      
+      W27C04 @TSOP32                      W27C04 @TSOP32(ADP:Pin9 to 1)       W27C040                             W27C040 @PLCC32                     
+      W27C040 @TSOP32                     W27C040 @TSOP32(ADP:Pin9 to 1)      W27C257 @DIP28                      W27C257 @PLCC32                     
+      W27C512 @DIP28                      W27C512 @PLCC32                     W27C4096  @DIP40                    W27C4096  @PLCC44                   
+      W27C4096  @TSOP40                   W27E01                              W27E01 @PLCC32                      W27E01 @TSOP32                      
+      W27E01 @TSOP32(ADP:Pin9 to 1)       W27E010                             W27E010 @PLCC32                     W27E010 @TSOP32                     
+      W27E010 @TSOP32(ADP:Pin9 to 1)      W27E02                              W27E02 @PLCC32                      W27E02 @TSOP32                      
+      W27E02 @TSOP32(ADP:Pin9 to 1)       W27E020                             W27E020 @PLCC32                     W27E020 @TSOP32                     
+      W27E020 @TSOP32(ADP:Pin9 to 1)      W27E040                             W27E040 @PLCC32                     W27E040 @TSOP32                     
+      W27E040 @TSOP32(ADP:Pin9 to 1)      W27E257 @DIP28                      W27E257 @PLCC32                     W27E512 @DIP28                      
+      W27E512 @PLCC32                     W27L01                              W27L01 @PLCC32                      W27L01 @TSOP32                      
+      W27L01 @TSOP32(ADP:Pin9 to 1)       W27L010                             W27L010 @PLCC32                     W27L010 @TSOP32                     
+      W27L010 @TSOP32(ADP:Pin9 to 1)      W27L02                              W27L02 @PLCC32                      W27L02 @TSOP32                      
+      W27L02 @TSOP32(ADP:Pin9 to 1)       W29C010                             W29C010 @PLCC32                     W29C010 @TSOP32                     
+      W29C010 @TSOP32(ADP:Pin9 to 1)      W29C011                             W29C011 @PLCC32                     W29C011 @TSOP32                     
+      W29C011 @TSOP32(ADP:Pin9 to 1)      W29C020                             W29C020 @PLCC32                     W29C020 @TSOP32                     
+      W29C020 @TSOP32(ADP:Pin9 to 1)      W29C020C                            W29C020C @PLCC32                    W29C020C @TSOP32                    
+      W29C020C @TSOP32(ADP:Pin9 to 1)     W29C022                             W29C022 @PLCC32                     W29C022 @TSOP32                     
+      W29C022 @TSOP32(ADP:Pin9 to 1)      W29C040                             W29C040 @PLCC32                     W29C040 @TSOP32                     
+      W29C040 @TSOP32(ADP:Pin9 to 1)      W29C042                             W29C042 @PLCC32                     W29C042 @TSOP32                     
+      W29C042 @TSOP32(ADP:Pin9 to 1)      W29C512                             W29C512 @PLCC32                     W29C512 @TSOP32                     
+      W29C512 @TSOP32(ADP:Pin9 to 1)      W29EE010                            W29EE010 @PLCC32                    W29EE010 @TSOP32                    
+      W29EE010 @TSOP32(ADP:Pin9 to 1)     W29EE011                            W29EE011 @PLCC32                    W29EE011 @TSOP32                    
+      W29EE011 @TSOP32(ADP:Pin9 to 1)     W29EE012                            W29EE012 @PLCC32                    W29EE012 @TSOP32                    
+      W29EE012 @TSOP32(ADP:Pin9 to 1)     W29EE512                            W29EE512 @PLCC32                    W29EE512 @TSOP32                    
+      W29EE512 @TSOP32(ADP:Pin9 to 1)     W29GL032CH @TSOP48                  W29GL032CH @BGA48                   W29GL032CL @TSOP48                  
+      W29GL032CL @BGA48                   W29GL064CH @TSOP48                  W29GL064CH @BGA48                   W29GL064CL @TSOP48                  
+      W29GL064CL @BGA48                   W29GL032CH @TSOP56                  W29GL032CL @TSOP56                  W29GL064CH @TSOP56                  
+      W29GL064CL @TSOP56                  W29GL128CH   @TSOP56                W29GL128CL   @TSOP56                W29GL128DH   @TSOP56                
+      W29GL128DL   @TSOP56                W29GL128SHxT @TSOP56                W29GL128SLxT @TSOP56                W29GL256PHxT @TSOP56                
+      W29GL256PLxT @TSOP56                W29GL256SHxT @TSOP56                W29GL256SLxT @TSOP56                W29GL512PHxT @TSOP56                
+      W29GL512PLxT @TSOP56                W29GL512SHxT @TSOP56                W29GL512SLxT @TSOP56                W29N01HVSI  @TSOP48                 
+      W29N01HVBI  @VFBGA63                W29N01GVBCAA @FBGA63                W29N01GVBIAA @FBGA63                W29N01GVSCAA @TSOP48                
+      W29N01GVSIAA @TSOP48                W29N02GVSIAA @TSOP48                W29N02GVBIAA @VFBGA63               W29N02GVSIAF @TSOP48                
+      W29N02GVBIAF @VFBGA63               W29N02GWBIBA @VFBGA63               W29N02GWBJBA @VFBGA63               W29N02GWSIBA @TSOP48                
+      W29N02GWSJBA @TSOP48                W29N02GZBIBA @VFBGA63               W29N02GZBJBA @VFBGA63               W29N02GZSIBA @TSOP48                
+      W29N02GZSJBA @TSOP48                W29N02KVBIAF @VFBGA63               W29N02KVSIAF @TSOP48                W29N04GVBIAA @VFBGA63               
+      W29N04GVSIAA @TSOP48                W29N04GWBIBA @VFBGA63               W29N04GWBJBA @VFBGA63               W29N04GZBIBA @VFBGA63               
+      W29N04GZBJBA @VFBGA63               W29N04GZSIBA @TSOP48                W29N04GZSJBA @TSOP48                W29N08GVBIAA @VFBGA63               
+      W29N08GVBIAF @VFBGA63               W29N08GVSIAA @TSOP48                W29N08GVSIAD @TSOP48                W29N08GVSIAF @TSOP48                
+      W29N08GWBIBF @VFBGA63               W29N08GWBJBF @VFBGA63               W29N08GWSIBF @TSOP48                W29N08GWSJBF @TSOP48                
+      W29N08GZBIBF @VFBGA63               W29N08GZBJBF @VFBGA63               W29N08GZSIBF @TSOP48                W29N08GZSJBF @TSOP48                
+      W39F010                             W39F010 @PLCC32                     W39F010 @TSOP32                     W39F010 @TSOP32(ADP:Pin9 to 1)      
+      W39L010 @PLCC32                     W39L010 @TSOP32                     W39L010 @TSOP32(ADP:Pin9 to 1)      W39L020 @PLCC32                     
+      W39L020 @TSOP32                     W39L020 @TSOP32(ADP:Pin9 to 1)      W39L040 @PLCC32                     W39L040 @TSOP32                     
+      W39L040 @TSOP32(ADP:Pin9 to 1)      W39L040A                            W39L040AP @PLCC32                   W39L040AT @TSOP32                   
+      W39L040AT @TSOP32(ADP:Pin9 to 1)    W39L040AQ @VSOP32                   W39L040AQ @VSOP32(ADP:Pin9 to 1)    W39L512 @PLCC32                     
+      W39L512 @TSOP32                     W39L512 @TSOP32(ADP:Pin9 to 1)      W39V040A  @PLCC32                   W39V040A  @TSOP32                   
+      W39V040A  @TSOP32(ADP:Pin9 to 1)    W39V040B  @PLCC32                   W39V040B  @TSOP32                   W39V040B  @TSOP32(ADP:Pin9 to 1)    
+      W39V040C  @PLCC32                   W39V040C  @TSOP32                   W39V040C  @TSOP32(ADP:Pin9 to 1)    W39V040FA @PLCC32                   
+      W39V040FA @TSOP32                   W39V040FA @TSOP32(ADP:Pin9 to 1)    W39V040FB @PLCC32                   W39V040FB @TSOP32                   
+      W39V040FB @TSOP32(ADP:Pin9 to 1)    W39V040FC @PLCC32                   W39V040FC @TSOP32                   W39V040FC @TSOP32(ADP:Pin9 to 1)    
+      W39V080A  @PLCC32                   W39V080A  @TSOP32                   W39V080A  @TSOP32(ADP:Pin9 to 1)    W39V080A  @TSOP40                   
+      W39V080FA @PLCC32                   W39V080FA @TSOP32                   W39V080FA @TSOP32(ADP:Pin9 to 1)    W39V080FA @TSOP40                   
+      W49F002                             W49F002 @PLCC32                     W49F002 @TSOP32                     W49F002 @TSOP32(ADP:Pin9 to 1)      
+      W49F002A                            W49F002A @PLCC32                    W49F002A @TSOP32                    W49F002A @TSOP32(ADP:Pin9 to 1)     
+      W49F002B                            W49F002B @PLCC32                    W49F002B @TSOP32                    W49F002B @TSOP32(ADP:Pin9 to 1)     
+      W49F002U                            W49F002U @PLCC32                    W49F002U @TSOP32                    W49F002U @TSOP32(ADP:Pin9 to 1)     
+      W49F020                             W49F020 @PLCC32                     W49F020 @TSOP32                     W49F020 @TSOP32(ADP:Pin9 to 1)      
+      W49F102Q(10x14mm) @VSOP40           W49F102P @PLCC44                    W49F201T @TSOP48                    W49F201S @SOP44                     
+      W49L102Q(10x14mm) @VSOP40           W49L102P @PLCC44                    W49L201T @TSOP48                    W49L201S @SOP44                     
+      W49V002 @PLCC32                     W49V002 @TSOP32                     W49V002 @TSOP32(ADP:Pin9 to 1)      W49V002A @PLCC32                    
+      W49V002A @TSOP32                    W49V002A @TSOP32(ADP:Pin9 to 1)     W49V002F @PLCC32                    W49V002F @TSOP32                    
+      W49V002F @TSOP32(ADP:Pin9 to 1)     W49V002FA @PLCC32                   W49V002FA @TSOP32                   W49V002FA @TSOP32(ADP:Pin9 to 1)    
+      W78E51 @DIP40                       W78E51 @PLCC44                      W78E51B @DIP40                      W78E51BP @PLCC44                    
+      W78E51BF @QFP44                     W78E51C @DIP40                      W78E51CP @PLCC44                    W78E51CF @QFP44                     
+      W78E52 @DIP40                       W78E52 @PLCC44                      W78E52B @DIP40                      W78E52BP @PLCC44                    
+      W78E52BF @QFP44                     W78E52C @DIP40                      W78E52CP @PLCC44                    W78E52CF @QFP44                     
+      W78E54 @DIP40                       W78E54 @PLCC44                      W78E54B @DIP40                      W78E54BP @PLCC44                    
+      W78E54BF @QFP44                     W78E54C @DIP40                      W78E54CP @PLCC44                    W78E54CF @QFP44                     
+      W78E58 @DIP40                       W78E58P @PLCC44                     W78E58F @QFP44                      W78E58M @TQFP44                     
 
-         IC Support: 1063 PCS
+         IC Support: 1080 PCS
 
  [ WINGSHING ]     
 
@@ -10056,24 +10095,26 @@ XGecu T56 Universal Programmer Device Support List:
       PN26G02A @BGA24                     XT26G01A(x4)  @WSON8                XT26G01A(x4)  @SOP16                XT26G01A(x4)  @BGA24                
       XT26G01A @WSON8                     XT26G01A @ISP                       XT26G01A @SOP16                     XT26G01A @BGA24                     
       XT26G01B(x4)  @WSON8                XT26G01B(x4)  @SOP16                XT26G01B(x4)  @BGA24                XT26G01B @WSON8                     
-      XT26G01B @ISP                       XT26G01B @SOP16                     XT26G01B @BGA24                     XT26G02A(x4)  @WSON8                
-      XT26G02A(x4)  @SOP16                XT26G02A(x4)  @BGA24                XT26G02A @WSON8                     XT26G02A @ISP                       
-      XT26G02A @SOP16                     XT26G02A @BGA24                     XT26G02C(x4)  @WSON8                XT26G02C(x4)  @SOP16                
-      XT26G02C(x4)  @BGA24                XT26G02C @WSON8                     XT26G02C @ISP                       XT26G02C @SOP16                     
-      XT26G02C @BGA24                     XT26G02E(x4) (MICRON) @PDFN8        XT26G02E(x4) (MICRON) @SOP16        XT26G02E(x4) (MICRON)@BGA24         
-      XT26G02E(MICRON) @PDFN8             XT26G02E @ISP                       XT26G02E(x1+ISP (MICRON) @SOP16     XT26G02E(MICRON)@BGA24              
-      XT26G02E(x4)  @PDFN8                XT26G02E(x4)  @SOP16                XT26G02E(x4)  @BGA24                XT26G02E @PDFN8                     
-      XT26G02E @SOP16                     XT26G02E @BGA24                     XT26G04A(x4)  @WSON8                XT26G04A(x4)  @SOP16                
-      XT26G04A(x4)  @BGA24                XT26G04A @WSON8                     XT26G04A @ISP                       XT26G04A @SOP16                     
-      XT26G04A @BGA24                     XT26G04D(x4)  @WSON8(8x6mm)         XT26G04D(x4)  @LGA8(6x5mm)          XT26G04D(x4)  @BGA24                
-      XT26G04D @WSON8(8x6mm)              XT26G04D @ISP                       XT26G04D @LGA8(6x5mm)               XT26G04D @BGA24                     
-      XT26Q01D(x4)  @WSON8(8x6mm)         XT26Q01D(x4)  @LGA8(6x5mm)          XT26Q01D @WSON8(8x6mm)              XT26Q01D @ISP                       
-      XT26Q01D @LGA8(6x5mm)               XT26Q02D(x4)  @WSON8(8x6mm)         XT26Q02D(x4)  @LGA8(6x5mm)          XT26Q02D(x4)  @BGA24                
-      XT26Q02D @WSON8(8x6mm)              XT26Q02D @ISP                       XT26Q02D @LGA8(6x5mm)               XT26Q02D @BGA24                     
-      XT26Q04D(x4)  @WSON8(8x6mm)         XT26Q04D(x4)  @LGA8(6x5mm)          XT26Q04D(x4)  @BGA24                XT26Q04D @WSON8(8x6mm)              
-      XT26Q04D @ISP                       XT26Q04D @LGA8(6x5mm)               XT26Q04D @BGA24                     
+      XT26G01B @ISP                       XT26G01B @SOP16                     XT26G01B @BGA24                     XT26G01C(x4)  @WSON8                
+      XT26G01C(x4)  @SOP16                XT26G01C(x4)  @BGA24                XT26G01C @WSON8                     XT26G01C @ISP                       
+      XT26G01C @SOP16                     XT26G01C @BGA24                     XT26G02A(x4)  @WSON8                XT26G02A(x4)  @SOP16                
+      XT26G02A(x4)  @BGA24                XT26G02A @WSON8                     XT26G02A @ISP                       XT26G02A @SOP16                     
+      XT26G02A @BGA24                     XT26G02C(x4)  @WSON8                XT26G02C(x4)  @SOP16                XT26G02C(x4)  @BGA24                
+      XT26G02C @WSON8                     XT26G02C @ISP                       XT26G02C @SOP16                     XT26G02C @BGA24                     
+      XT26G02E(x4) (MICRON) @PDFN8        XT26G02E(x4) (MICRON) @SOP16        XT26G02E(x4) (MICRON)@BGA24         XT26G02E(MICRON) @PDFN8             
+      XT26G02E @ISP                       XT26G02E(x1+ISP (MICRON) @SOP16     XT26G02E(MICRON)@BGA24              XT26G02E(x4)  @PDFN8                
+      XT26G02E(x4)  @SOP16                XT26G02E(x4)  @BGA24                XT26G02E @PDFN8                     XT26G02E @SOP16                     
+      XT26G02E @BGA24                     XT26G04A(x4)  @WSON8                XT26G04A(x4)  @SOP16                XT26G04A(x4)  @BGA24                
+      XT26G04A @WSON8                     XT26G04A @ISP                       XT26G04A @SOP16                     XT26G04A @BGA24                     
+      XT26G04D(x4)  @WSON8(8x6mm)         XT26G04D(x4)  @LGA8(6x5mm)          XT26G04D(x4)  @BGA24                XT26G04D @WSON8(8x6mm)              
+      XT26G04D @ISP                       XT26G04D @LGA8(6x5mm)               XT26G04D @BGA24                     XT26Q01D(x4)  @WSON8(8x6mm)         
+      XT26Q01D(x4)  @LGA8(6x5mm)          XT26Q01D @WSON8(8x6mm)              XT26Q01D @ISP                       XT26Q01D @LGA8(6x5mm)               
+      XT26Q02D(x4)  @WSON8(8x6mm)         XT26Q02D(x4)  @LGA8(6x5mm)          XT26Q02D(x4)  @BGA24                XT26Q02D @WSON8(8x6mm)              
+      XT26Q02D @ISP                       XT26Q02D @LGA8(6x5mm)               XT26Q02D @BGA24                     XT26Q04D(x4)  @WSON8(8x6mm)         
+      XT26Q04D(x4)  @LGA8(6x5mm)          XT26Q04D(x4)  @BGA24                XT26Q04D @WSON8(8x6mm)              XT26Q04D @ISP                       
+      XT26Q04D @LGA8(6x5mm)               XT26Q04D @BGA24                     
 
-         IC Support: 231 PCS
+         IC Support: 238 PCS
 
  [ YMC ]     
 
@@ -10288,4 +10329,4 @@ XGecu T56 Universal Programmer Device Support List:
          IC Support: 323 PCS
 
 
-   Total: 37493 PCS
+   Total: 37651 PCS
