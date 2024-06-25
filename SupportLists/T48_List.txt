@@ -1,14 +1,14 @@
  
 XGecu T48 Universal Programmer Device Support List:
 
-            Software Version:   V12.66  Date : 2.5.2024
-           Supported Devices:   34910
+            Software Version:   V12.67  Date : 6.15.2024
+           Supported Devices:   34996
  Supported Operating Systems:   Windows XP,2003,2008,Vista  Win7 WIN8 WIN10 WIN11
 
 ===================================================================
  Press Ctrl+F to search support list
 =================================================================== 
-   [ MY FAVORITES-User ]     
+ [ MY FAVORITES-User ]     
 
       Very useful favorites               
 
@@ -916,12 +916,13 @@ XGecu T48 Universal Programmer Device Support List:
       AT49BV160    @TSOP48                AT49BV160T   @TSOP48                AT49BV161    @TSOP48                AT49BV161T   @TSOP48                
       AT49BV1604   @TSOP48                AT49BV1604T  @TSOP48                AT49BV1614   @TSOP48                AT49BV1614T  @TSOP48                
       AT49BV162A   @TSOP48                AT49BV162AT  @TSOP48                AT49BV163A   @TSOP48                AT49BV163AT  @TSOP48                
-      AT49BV2048A  @TSOP48                AT49BV320    @TSOP48                AT49BV320T   @TSOP48                AT49BV320D   @TSOP48                
-      AT49BV321    @TSOP48                AT49BV321T   @TSOP48                AT49BV322    @TSOP48                AT49BV322T   @TSOP48                
-      AT49BV3218   @TSOP48                AT49BV3218T  @TSOP48                AT49BV4096A  @TSOP48                AT49BV4096AT @TSOP48                
-      AT49BV160    @BGA48                 AT49BV160T   @BGA48                 AT49BV161    @BGA48                 AT49BV161T   @BGA48                 
-      AT49BV1604   @BGA48                 AT49BV1604T  @BGA48                 AT49BV1614   @BGA48                 AT49BV1614T  @BGA48                 
-      AT49BV162A   @BGA48                 AT49BV162AT  @BGA48                 AT49BV163A   @BGA48                 AT49BV163AT  @BGA48                 
+      AT49BV163D   @TSOP48                AT49BV163DT  @TSOP48                AT49BV2048A  @TSOP48                AT49BV320    @TSOP48                
+      AT49BV320T   @TSOP48                AT49BV320D   @TSOP48                AT49BV321    @TSOP48                AT49BV321T   @TSOP48                
+      AT49BV322    @TSOP48                AT49BV322T   @TSOP48                AT49BV3218   @TSOP48                AT49BV3218T  @TSOP48                
+      AT49BV4096A  @TSOP48                AT49BV4096AT @TSOP48                AT49BV160    @BGA48                 AT49BV160T   @BGA48                 
+      AT49BV161    @BGA48                 AT49BV161T   @BGA48                 AT49BV1604   @BGA48                 AT49BV1604T  @BGA48                 
+      AT49BV1614   @BGA48                 AT49BV1614T  @BGA48                 AT49BV162A   @BGA48                 AT49BV162AT  @BGA48                 
+      AT49BV163A   @BGA48                 AT49BV163AT  @BGA48                 AT49BV163D   @BGA48                 AT49BV163DT  @BGA48                 
       AT49BV2048A  @BGA48                 AT49BV321    @BGA48                 AT49BV321T   @BGA48                 AT49BV322    @BGA48                 
       AT49BV322T   @BGA48                 AT49BV3218   @BGA48                 AT49BV3218T  @BGA48                 AT49BV512                           
       AT49BV512    @PLCC32                AT49BV512    @TSOP32                AT49BV512    @TSOP32(ADP:Pin9 to 1) AT49BV512    @VSOP32                
@@ -1147,7 +1148,7 @@ XGecu T48 Universal Programmer Device Support List:
       ATTINY2313 @SOIC20                  ATTINY2313V @DIP20                  ATTINY2313V @SOIC20                 ATTINY2313A @DIP20                  
       ATTINY2313A @SOIC20                 ATTINY4313 @DIP20                   ATTINY4313 @SOIC20                  
 
-         IC Support: 1959 PCS
+         IC Support: 1963 PCS
 
  [ BELLING ]     
 
@@ -2897,6 +2898,8 @@ XGecu T48 Universal Programmer Device Support List:
 
  [ FUJITSU ]     
 
+      MB85RC16                            MB85RC16 @ISP                       MB85RC16V @SOIC8                    MB85RC16V @ISP                      
+      MB85RC64                            MB85RC64 @ISP                       MB85RC64V @SOIC8                    MB85RC64V @ISP                      
       MB85RC128AP @SOIC8                  MB85RC128AP @ISP                    MB85RC128P @SOIC8                   MB85RC128P @ISP                     
       MB85R256H @SO28                     MB85RC256V @SOIC8                   MB85RC256V @ISP                     MB85RS16 @SOIC8                     
       MB85RS16 @ISP                       MB85RS16 @SON8                      MB85RS64P @SOIC8                    MB85RS64P @ISP                      
@@ -2986,7 +2989,7 @@ XGecu T48 Universal Programmer Device Support List:
       MBM29LV800TA @BGA48                 MBM29LV800TD @BGA48                 MBM29LV800TE @BGA48                 MBM29SL800BD @TSOP48                
       MBM29SL800BD @BGA48                 MBM29SL800TD @TSOP48                MBM29SL800TD @BGA48                 
 
-         IC Support: 351 PCS
+         IC Support: 359 PCS
 
  [ GATELEVEL ]     
 
@@ -4692,9 +4695,10 @@ XGecu T48 Universal Programmer Device Support List:
       MX66U51235F @ISP                    MX66U51235F @BGA24                  MX66U51235F @SOIC16                 MX66U1G45G  @BGA24                  
       MX66U1G45G @ISP                     MX66U1G45G  @SOIC16                 MX68GL1G0FHXFI-11G @BGA64           MX68GL1G0FLXFI-11G @BGA64           
       MX68GL1G0FUXFI-12G @BGA64           MX68GL1G0FDXFI-12G @BGA64           MX68GL1G0FHT2I-11G @TSOP56          MX68GL1G0FLT2I-11G @TSOP56          
-      MX68GL1G0FUT2I-12G @TSOP56          MX68GL1G0FDT2I-12G @TSOP56          
+      MX68GL1G0FUT2I-12G @TSOP56          MX68GL1G0FDT2I-12G @TSOP56          MX77L6450F @SOP8                    MX77L6450F @ISP                     
+      MX77L6450F @WSON8                   MX77L12850F @SOP8                   MX77L12850F @ISP                    MX77L12850F @WSON8                  
 
-         IC Support: 1674 PCS
+         IC Support: 1680 PCS
 
  [ MAXCOM ]     
 
@@ -6562,10 +6566,10 @@ XGecu T48 Universal Programmer Device Support List:
       P24C256D @TSSOP8                    P24C512B @SOIC8                     P24C512B @ISP                       P24C512B @TSSOP8                    
       P24C512D @SOIC8                     P24C512D @ISP                       P24C512D @TSSOP8                    P24CM01B @SOIC8                     
       P24CM01B @ISP                       P24CM01B @TSSOP8                    P24CM02F @SOIC8                     P24CM02F @ISP                       
-      P24CM02F @TSSOP8                    PY25C08H                            PY25C08H @ISP                       PY25C08H  @SOIC8                    
-      PY25C08H  @TSSOP8                   PY25C16H                            PY25C16H @ISP                       PY25C16H  @SOIC8                    
-      PY25C16H  @TSSOP8                   PY25C32H                            PY25C32H @ISP                       PY25C32H  @SOIC8                    
-      PY25C32H  @TSSOP8                   P25C64F  @SOIC8                     P25C64F @ISP                        P25C64F  @TSSOP8                    
+      P24CM02F @TSSOP8                    P25C08H                             P25C08H @ISP                        P25C08H  @SOIC8                     
+      P25C08H  @TSSOP8                    P25C16H                             P25C16H @ISP                        P25C16H  @SOIC8                     
+      P25C16H  @TSSOP8                    P25C32H                             P25C32H @ISP                        P25C32H  @SOIC8                     
+      P25C32H  @TSSOP8                    P25C64F  @SOIC8                     P25C64F @ISP                        P25C64F  @TSSOP8                    
       P25C64F  @UDFN8                     P25C64H  @SOIC8                     P25C64H @ISP                        P25C64H  @TSSOP8                    
       P25C64H  @UDFN8                     P25C128H @SOIC8                     P25C128H @ISP                       P25C128H @TSSOP8                    
       P25C128H @UDFN8                     P25C128F @SOIC8                     P25C128F @ISP                       P25C128F @TSSOP8                    
@@ -6651,6 +6655,9 @@ XGecu T48 Universal Programmer Device Support List:
       P25Q32L      @SOP8                  P25Q32L @ISP                        P25Q32L      @USON8                 P25Q32L(OTP) @SOP8                  
       P25Q32L(OTP) @ISP                   P25Q32L(OTP) @USON8                 P25Q32SH     @SOP8                  P25Q32SH @ISP                       
       P25Q32SH     @USON8                 P25Q32SL     @SOP8                  P25Q32SL @ISP                       P25Q32SL     @USON8                 
+      P25Q40SN(VCC=1.8V) @SOP8            P25Q40SN(VCC=1.8V) @ISP             P25Q40SN(VCC=1.8V) @TSSOP8          P25Q40SN(VCC=1.8V) @USON8           
+      P25Q80SN(VCC=1.8V) @SOP8            P25Q80SN(VCC=1.8V) @ISP             P25Q80SN(VCC=1.8V) @TSSOP8          P25Q80SN(VCC=1.8V) @USON8           
+      P25Q16SN(VCC=1.8V) @SOP8            P25Q16SN(VCC=1.8V) @ISP             P25Q16SN(VCC=1.8V) @TSSOP8          P25Q16SN(VCC=1.8V) @USON8           
       P25Q32SN(VCC=1.8V) @SOP8            P25Q32SN(VCC=1.8V) @ISP             P25Q32SN(VCC=1.8V) @TSSOP8          P25Q32SN(VCC=1.8V) @USON8           
       P25Q64SN(VCC=1.8V) @SOP8            P25Q64SN(VCC=1.8V) @ISP             P25Q64SN(VCC=1.8V) @TSSOP8          P25Q64SN(VCC=1.8V) @USON8           
       P25Q128SN(VCC=1.8V) @SOP8           P25Q128SN(VCC=1.8V) @ISP            P25Q128SN(VCC=1.8V) @TSSOP8         P25Q128SN(VCC=1.8V) @USON8          
@@ -6663,27 +6670,32 @@ XGecu T48 Universal Programmer Device Support List:
       P25Q128L      @SOP8                 P25Q128L @ISP                       P25Q128L      @USON8                P25Q128L(OTP) @SOP8                 
       P25Q128L(OTP) @ISP                  P25Q128L(OTP) @USON8                P25Q128U      @SOP8                 P25Q128U @ISP                       
       P25Q128U      @USON8                P25Q128U(OTP) @SOP8                 P25Q128U(OTP) @ISP                  P25Q128U(OTP) @USON8                
-      PY25F128HA @SOP8                    PY25F128HA @ISP                     PY25F128HA @USON8                   PY25F128HA @SOP16                   
-      PY25F128LA @SOP8                    PY25F128LA @ISP                     PY25F128LA @USON8                   PY25F128LA @SOP16                   
-      PY25F256HB @SOP8                    PY25F256HB @ISP                     PY25F256HB @USON8                   PY25F256HB @SOP16                   
-      PY25F512HB @SOP8                    PY25F512HB @ISP                     PY25F512HB @USON8                   PY25F512HB @SOP16                   
-      PY25Q80HA @SOP8                     PY25Q80HA @ISP                      PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     
-      PY25Q16HA @ISP                      PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     PY25Q32HA @ISP                      
-      PY25Q32HA @WSON8                    PY25Q64HA @SOP8                     PY25Q64HA @ISP                      PY25Q64HA @WSON8                    
-      PY25Q64HA @SOP16                    PY25Q128HA @SOP8                    PY25Q128HA @ISP                     PY25Q128HA @WSON8                   
-      PY25Q128HA @SOP16                   PY25Q128HA @BGA24                   PY25Q80HB @SOP8                     PY25Q80HB @ISP                      
-      PY25Q80HB @WSON8                    PY25Q16HB @SOP8                     PY25Q16HB @ISP                      PY25Q16HB @WSON8                    
-      PY25Q32HB @SOP8                     PY25Q32HB @ISP                      PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     
-      PY25Q64HB @ISP                      PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    
-      PY25Q128HB @ISP                     PY25Q128HB @WSON8                   PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    
-      PY25Q256HB @ISP                     PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   PY25Q512HB @SOP8                    
-      PY25Q512HB @ISP                     PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   PY25Q01GHB @WSON8                   
-      PY25Q01GHB @ISP                     PY25Q01GHB @SOP16                   PY25R128HA @SOP8                    PY25R128HA @ISP                     
-      PY25R128HA @WSON8                   PY25R128LA @SOP8                    PY25R128LA @ISP                     PY25R128LA @WSON8                   
-      PY25R256HC @SOP8                    PY25R256HC @ISP                     PY25R256HC @WSON8                   PY25R256LC @SOP8                    
-      PY25R256LC @ISP                     PY25R256LC @WSON8                   
+      PY25D16HB @SOP8                     PY25D16HB @ISP                      PY25D16HB @TSSOP9                   PY25D16HB @WSON8 6x5mm              
+      PY25D16HB @USON8 3x2mm              PY25F128HA @SOP8                    PY25F128HA @ISP                     PY25F128HA @USON8                   
+      PY25F128HA @SOP16                   PY25F128LA @SOP8                    PY25F128LA @ISP                     PY25F128LA @USON8                   
+      PY25F128LA @SOP16                   PY25F256HB @SOP8                    PY25F256HB @ISP                     PY25F256HB @USON8                   
+      PY25F256HB @SOP16                   PY25F256LC @SOP8                    PY25F256LC @ISP                     PY25F256LC @USON8                   
+      PY25F256LC @SOP16                   PY25F512HB @SOP8                    PY25F512HB @ISP                     PY25F512HB @USON8                   
+      PY25F512HB @SOP16                   PY25F512HB @BGA24                   PY25F512LC @SOP8                    PY25F512LC @ISP                     
+      PY25F512LC @USON8                   PY25F512LC @SOP16                   PY25F512LC @BGA24                   PY25Q80HA @SOP8                     
+      PY25Q80HA @ISP                      PY25Q80HA @WSON8                    PY25Q16HA @SOP8                     PY25Q16HA @ISP                      
+      PY25Q16HA @WSON8                    PY25Q32HA @SOP8                     PY25Q32HA @ISP                      PY25Q32HA @WSON8                    
+      PY25Q64HA @SOP8                     PY25Q64HA @ISP                      PY25Q64HA @WSON8                    PY25Q64HA @SOP16                    
+      PY25Q128HA @SOP8                    PY25Q128HA @ISP                     PY25Q128HA @WSON8                   PY25Q128HA @SOP16                   
+      PY25Q128HA @BGA24                   PY25Q80HB @SOP8                     PY25Q80HB @ISP                      PY25Q80HB @WSON8                    
+      PY25Q16HB @SOP8                     PY25Q16HB @ISP                      PY25Q16HB @WSON8                    PY25Q32HB @SOP8                     
+      PY25Q32HB @ISP                      PY25Q32HB @WSON8                    PY25Q64HB @SOP8                     PY25Q64HB @ISP                      
+      PY25Q64HB @WSON8                    PY25Q64HB @SOP16                    PY25Q128HB @SOP8                    PY25Q128HB @ISP                     
+      PY25Q128HB @WSON8                   PY25Q128HB @SOP16                   PY25Q256HB @SOP8                    PY25Q256HB @ISP                     
+      PY25Q256HB @WSON8                   PY25Q256HB @SOP16                   PY25Q512HB @SOP8                    PY25Q512HB @ISP                     
+      PY25Q512HB @WSON8                   PY25Q512HB @SOP16                   PY25Q512LC @SOP8                    PY25Q512LC @ISP                     
+      PY25Q512LC @WSON8                   PY25Q512LC @SOP16                   PY25Q01GHB @WSON8                   PY25Q01GHB @ISP                     
+      PY25Q01GHB @SOP16                   PY25Q01GLC @WSON8                   PY25Q01GLC @ISP                     PY25Q01GLC @SOP16                   
+      PY25R128HA @SOP8                    PY25R128HA @ISP                     PY25R128HA @WSON8                   PY25R128LA @SOP8                    
+      PY25R128LA @ISP                     PY25R128LA @WSON8                   PY25R256HC @SOP8                    PY25R256HC @ISP                     
+      PY25R256HC @WSON8                   PY25R256LC @SOP8                    PY25R256LC @ISP                     PY25R256LC @WSON8                   
 
-         IC Support: 542 PCS
+         IC Support: 576 PCS
 
  [ PTC ]     
 
@@ -9025,7 +9037,8 @@ XGecu T48 Universal Programmer Device Support List:
       W25N01JW @ISP                       W25N01JW @SOP16                     W25N01JW @BGA24                     W25N01KV @WSON8                     
       W25N01KV @ISP                       W25N01KV @SOP16                     W25N01KV @BGA24                     W25N02KV @WSON8                     
       W25N02KV @ISP                       W25N02KV @SOP16                     W25N02KV @BGA24                     W25N02KW @WSON8                     
-      W25N02KW @ISP                       W25N02KW @SOP16                     W25N02KW @BGA24                     W25N512GV @WSON8                    
+      W25N02KW @ISP                       W25N02KW @SOP16                     W25N02KW @BGA24                     W25N04KV @WSON8                     
+      W25N04KV @ISP                       W25N04KV @SOP16                     W25N04KV @BGA24                     W25N512GV @WSON8                    
       W25N512GV @ISP                      W25N512GV @SOP16                    W25N512GV @BGA24                    W25N512GW @WSON8                    
       W25N512GW @ISP                      W25N512GW @SOP16                    W25N512GW @BGA24                    W25Q05CL                            
       W25Q05CL @ISP                       W25Q05CL @WSON8                     W25Q05CL @SOIC8                     W25Q10CL                            
@@ -9207,7 +9220,8 @@ XGecu T48 Universal Programmer Device Support List:
       W27L010 @TSOP32                     W27L010 @TSOP32(ADP:Pin9 to 1)      W27L02                              W27L02 @PLCC32                      
       W27L02 @TSOP32                      W27L02 @TSOP32(ADP:Pin9 to 1)       W29C010                             W29C010 @PLCC32                     
       W29C010 @TSOP32                     W29C010 @TSOP32(ADP:Pin9 to 1)      W29C011                             W29C011 @PLCC32                     
-      W29C011 @TSOP32                     W29C011 @TSOP32(ADP:Pin9 to 1)      W29C020                             W29C020 @PLCC32                     
+      W29C011 @TSOP32                     W29C011 @TSOP32(ADP:Pin9 to 1)      W29C011A                            W29C011A @PLCC32                    
+      W29C011A @TSOP32                    W29C011A @TSOP32(ADP:Pin9 to 1)     W29C020                             W29C020 @PLCC32                     
       W29C020 @TSOP32                     W29C020 @TSOP32(ADP:Pin9 to 1)      W29C020C                            W29C020C @PLCC32                    
       W29C020C @TSOP32                    W29C020C @TSOP32(ADP:Pin9 to 1)     W29C022                             W29C022 @PLCC32                     
       W29C022 @TSOP32                     W29C022 @TSOP32(ADP:Pin9 to 1)      W29C040                             W29C040 @PLCC32                     
@@ -9263,7 +9277,7 @@ XGecu T48 Universal Programmer Device Support List:
       W78E54BP @PLCC44                    W78E54C @DIP40                      W78E54CP @PLCC44                    W78E58 @DIP40                       
       W78E58P @PLCC44                     
 
-         IC Support: 1033 PCS
+         IC Support: 1041 PCS
 
  [ WINGSHING ]     
 
@@ -9364,14 +9378,15 @@ XGecu T48 Universal Programmer Device Support List:
       XM25QU128B @WSON8                   XM25QU128C @SOIC8                   XM25QU128C @ISP                     XM25QU128C @WSON8                   
       XM25QU128C @BGA24                   XM25QU256B @SOIC8                   XM25QU256B @ISP                     XM25QU256B @WSON8                   
       XM25QU256B @SOIC16                  XM25QU256C @SOIC8                   XM25QU256C @ISP                     XM25QU256C @WSON8                   
-      XM25QU256C @SOP16                   XM25QU256C @BGA24                   XM25RU256C* @SOIC8                  XM25RU256C* @ISP                    
+      XM25QU256C @SOP16                   XM25QU256C @BGA24                   XM25RU128C* @SOIC8                  XM25RU128C* @ISP                    
+      XM25RU128C* @WSON8                  XM25RU128C* @BGA24                  XM25RU256C* @SOIC8                  XM25RU256C* @ISP                    
       XM25RU256C* @WSON8                  XM25RU256C* @SOP16                  XM25RU256C* @BGA24                  XM25QW16C @SOIC8                    
       XM25QW16C @ISP                      XM25QW16C @WSON8                    XM25QW32C @SOIC8                    XM25QW32C @ISP                      
       XM25QW32C @WSON8                    XM25QW64C @SOIC8                    XM25QW64C @ISP                      XM25QW64C @WSON8                    
       XM25QW128C @SOIC8                   XM25QW128C @ISP                     XM25QW128C @WSON8                   XM25QW256C @SOP8                    
       XM25QW256C @ISP                     XM25QW256C @WSON8                   XM25QW256C @SOIC16                  
 
-         IC Support: 159 PCS
+         IC Support: 163 PCS
 
  [ XTXtect ]     
 
@@ -9465,6 +9480,9 @@ XGecu T48 Universal Programmer Device Support List:
       ZB25LQ32A @DIP8                     ZB25LQ32A @ISP                      ZB25LQ32A @WSON8                    ZB25LQ32A @SOIC8                    
       ZB25LQ64A @DIP8                     ZB25LQ64A @ISP                      ZB25LQ64A @WSON8                    ZB25LQ64A @SOIC8                    
       ZB25LQ128B @DIP8                    ZB25LQ128B @ISP                     ZB25LQ128B @WSON8                   ZB25LQ128B @SOIC8                   
+      ZB25LQ128C @DIP8                    ZB25LQ128C @ISP                     ZB25LQ128C @DFN8                    ZB25LQ128C @SOIC8                   
+      ZB25LQ128C @SOIC16                  ZB25LQ128C @BGA24(5x5 Ball)         ZB25LQ128C @BGA24(6x4 Ball)         ZB25Q256A @SOIC8                    
+      ZB25Q256A @ISP                      ZB25Q256A @WSON8                    ZB25Q256A @SOIC16                   ZB25Q256A @BGA24(8x6mm 5x5Ball)     
       ZB25VQ20 @DIP8                      ZB25VQ20 @ISP                       ZB25VQ20 @WSON8                     ZB25VQ20 @SOIC8                     
       ZB25VQ40 @DIP8                      ZB25VQ40 @ISP                       ZB25VQ40 @WSON8                     ZB25VQ40 @SOIC8                     
       ZB25VQ80 @DIP8                      ZB25VQ80 @ISP                       ZB25VQ80 @WSON8                     ZB25VQ80 @SOIC8                     
@@ -9480,18 +9498,20 @@ XGecu T48 Universal Programmer Device Support List:
       ZB25VQ32B @DIP8                     ZB25VQ32B @ISP                      ZB25VQ32B @WSON8                    ZB25VQ32B @SOIC8                    
       ZB25VQ64A @DIP8                     ZB25VQ64A @ISP                      ZB25VQ64A @WSON8                    ZB25VQ64A @SOIC8                    
       ZB25VQ128A @DIP8                    ZB25VQ128A @ISP                     ZB25VQ128A @WSON8                   ZB25VQ128A @SOIC8                   
-      ZB25WD10 @DIP8                      ZB25WD10 @ISP                       ZB25WD10 @WSON8                     ZB25WD10A @DIP8                     
-      ZB25WD10A @ISP                      ZB25WD10A @WSON8                    ZB25WD20 @DIP8                      ZB25WD20 @ISP                       
-      ZB25WD20 @WSON8                     ZB25WD20 @SOIC8                     ZB25WD20A @DIP8                     ZB25WD20A @ISP                      
-      ZB25WD20A @WSON8                    ZB25WD20A @SOIC8                    ZB25WD40 @DIP8                      ZB25WD40 @ISP                       
-      ZB25WD40 @WSON8                     ZB25WD40 @SOIC8                     ZB25WD40A @DIP8                     ZB25WD40A @ISP                      
-      ZB25WD40A @WSON8                    ZB25WD40A @SOIC8                    ZB25WD40B @DIP8                     ZB25WD40B @ISP                      
-      ZB25WD40B @WSON8                    ZB25WD40B @SOIC8                    ZB25WD80 @DIP8                      ZB25WD80 @ISP                       
-      ZB25WD80 @WSON8                     ZB25WD80 @SOIC8                     ZB25WD80A @DIP8                     ZB25WD80A @ISP                      
-      ZB25WD80A @WSON8                    ZB25WD80A @SOIC8                    ZB25WD80B @DIP8                     ZB25WD80B @ISP                      
-      ZB25WD80B @WSON8                    ZB25WD80B @SOIC8                    
+      ZB25VQ128D @DIP8                    ZB25VQ128D @ISP                     ZB25VQ128D @DFN8                    ZB25VQ128D @SOIC8                   
+      ZB25VQ128D @SOIC16                  ZB25VQ128D @BGA24(5x5 Ball)         ZB25VQ128D @BGA24(6x4 Ball)         ZB25WD10 @DIP8                      
+      ZB25WD10 @ISP                       ZB25WD10 @WSON8                     ZB25WD10A @DIP8                     ZB25WD10A @ISP                      
+      ZB25WD10A @WSON8                    ZB25WD20 @DIP8                      ZB25WD20 @ISP                       ZB25WD20 @WSON8                     
+      ZB25WD20 @SOIC8                     ZB25WD20A @DIP8                     ZB25WD20A @ISP                      ZB25WD20A @WSON8                    
+      ZB25WD20A @SOIC8                    ZB25WD40 @DIP8                      ZB25WD40 @ISP                       ZB25WD40 @WSON8                     
+      ZB25WD40 @SOIC8                     ZB25WD40A @DIP8                     ZB25WD40A @ISP                      ZB25WD40A @WSON8                    
+      ZB25WD40A @SOIC8                    ZB25WD40B @DIP8                     ZB25WD40B @ISP                      ZB25WD40B @WSON8                    
+      ZB25WD40B @SOIC8                    ZB25WD80 @DIP8                      ZB25WD80 @ISP                       ZB25WD80 @WSON8                     
+      ZB25WD80 @SOIC8                     ZB25WD80A @DIP8                     ZB25WD80A @ISP                      ZB25WD80A @WSON8                    
+      ZB25WD80A @SOIC8                    ZB25WD80B @DIP8                     ZB25WD80B @ISP                      ZB25WD80B @WSON8                    
+      ZB25WD80B @SOIC8                    
 
-         IC Support: 154 PCS
+         IC Support: 173 PCS
 
  [ ZEMPRO Elec ]     
 
@@ -9586,55 +9606,54 @@ XGecu T48 Universal Programmer Device Support List:
       74125           74126           74128           7413            
       74132           74133           74136           74137           
       74138           74139           7414            74140           
-      74145           74147           74148           74149           
-      7415            74150           74151           74153           
-      74154           74155           74156           74157           
-      74158           7416            74160           74161           
-      74162           74163           74164           74165           
-      74166           74168           7417            74173           
-      74174           74175           74177           7418            
-      74181           74182           74183           7419            
-      74190           74191           74192           74193           
-      74194           74195           7420            7421            
-      7422            74237           74238           7424            
-      74240           74241           74242           74243           
-      74244           74245           74247           74248           
-      74249           7425            74250           74251           
-      74253           74256           74257           74258           
-      74259           7426            74260           74261           
-      74266           7427            74273           74279           
-      7428            74280           74283           74290           
-      74292           74293           74294           74298           
-      74299           7430            7431            7432            
-      74322           74323           7433            74347           
-      74348           7435            74354           74356           
-      7436            74365           74366           74367           
-      74368           7437            74373           74374           
-      74375           74377           74378           74379           
-      7438            74386           7439            74390           
-      74393           74395           74399           744053          
-      7440            74S416          7442            7443            
-      7444            74445           7445            74468           
-      7447            7448            74490           7450            
-      7451            74LS51          7452            7453            
-      74533           74534           7454            74LS54          
-      74540           74541           7455            7456            
-      74563           74564           7457            74573           
-      74574           7458            74589           74595           
-      74597           7460            74604           7461            
-      7462            74620           74623           74640           
-      74641           74642           74643           7464            
-      74644           74645           74646           74648           
-      7465            74688           7472            747266          
-      7473            7474            7475            7476            
-      7477            7483            74832           7485            
-      7486            7487            7490            74906           
-      7491            7491_12pins     7492            7493            
-      7495            7496            7497            75452           
-      8155            8255            8259            8279            
-      PC827/LTV827    PC847/LTV847    TIL118          
-         IC Support: 323 PCS
+      74141           74145           74147           74148           
+      74149           7415            74150           74151           
+      74153           74154           74155           74156           
+      74157           74158           7416            74160           
+      74161           74162           74163           74164           
+      74165           74166           74168           7417            
+      74173           74174           74175           74177           
+      7418            74181           74182           74183           
+      7419            74190           74191           74192           
+      74193           74194           74195           7420            
+      7421            7422            74237           74238           
+      7424            74240           74241           74242           
+      74243           74244           74245           74247           
+      74248           74249           7425            74250           
+      74251           74253           74256           74257           
+      74258           74259           7426            74260           
+      74261           74266           7427            74273           
+      74279           7428            74280           74283           
+      74290           74292           74293           74294           
+      74298           74299           7430            7431            
+      7432            74322           74323           7433            
+      74347           74348           7435            74354           
+      74356           7436            74365           74366           
+      74367           74368           7437            74373           
+      74374           74375           74377           74378           
+      74379           7438            74386           7439            
+      74390           74393           74395           74399           
+      744053          7440            74S416          7442            
+      7443            7444            74445           7445            
+      74468           7447            7448            74490           
+      7450            7451            74LS51          7452            
+      7453            74533           74534           7454            
+      74LS54          74540           74541           7455            
+      7456            74563           74564           7457            
+      74573           74574           7458            74589           
+      74595           74597           7460            74604           
+      7461            7462            74620           74623           
+      74640           74641           74642           74643           
+      7464            74644           74645           74646           
+      74648           7465            74688           7472            
+      747266          7473            7474            7475            
+      7476            7477            7483            74832           
+      7485            7486            7487            7490            
+      74906           7491            7491_12pins     7492            
+      7493            7495            7496            7497            
+      75452           8155            8255            8259            
+      8279            PC827/LTV827    PC847/LTV847    TIL118          
+         IC Support: 324 PCS
 
 
-   Total: 34910 PCS
-
+   Total: 34996 PCS
