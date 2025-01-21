@@ -105,3 +105,5 @@ a6dbc2b5a62ddf87d3cf54a0a0345eabe65f7441474737108000a9451d396cd2  ./Xgpro/12/xgp
 3e1a0b5509ae66717ca21873bed1118e621ee3aa8aab04bab0e96e24246dca3b  ./Xgpro/12/xgproV1266A_setup.rar
 f8bf97405dfc33d1f2694ec690b95fa71e45e496c73da9ac98da1f7953becd2a  ./Xgpro/12/xgproV1267_setup.rar
 cead95df221065a7e81f69e053fa29d4cdfd13d71c2850f6a5b34d561397b3bb  ./Xgpro/12/xgpro_T76_V1275.rar
+cf5dd2771aa3b5af46e09c2eabc05bdb56362dd2719c348e287fa91d93b8eec9  ./Xgpro/12/xgproV1278_Setup.rar
+42a4e1d790a896d9ebe1abf8f5d39954c8cc2010b71d00bbca38cac72ada5bd1  ./Xgpro/12/xgpro_T76_V1279.rar
